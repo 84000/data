@@ -52,6 +52,9 @@
                     <author role="translatorTib">Ratnarakṣita</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:06:15 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <!-- COULD NOT FIND THESE TERMS IN THE TEXT: 
@@ -501,7 +504,7 @@
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-066-018-22"/>
                     <p tid="25">Thus did I hear at one time. The Bhagavān was dwelling on the Khalatika
-                        Mountain, in the abode of the Sage’s her‌mits, together with an incalculably
+                        Mountain, in the <term>abode of the Sage’s hermits</term>, together with an incalculably
                         large assembly of monks and of great śrāvakas. Great bodhisattva mahāsattvas
                         in numbers as limitless as the sands of the River Ganges, forming an
                         incalculably immense assembly of bodhisattvas, were also staying there. The
@@ -739,7 +742,7 @@
                         stood with palms joined and gazed at him. In that assembly were bodhisattva
                         mahāsattvas and śrāvakas, the lord of devas, the lord of nāgas, the lord of
                         yakṣas, the lord of gandharvas, the lord of asuras, the lord of garudas, the
-                        lord of kiṃnaras, the lord of mahoragas, and hermits in possession of the
+                        lord of kiṃnaras, the lord of mahoragas, and <term>hermits</term> in possession of the
                         five kinds of supernatural knowledge.</p>
                     <p tid="50">All of them were thinking the same
                         thought, “What kind of sublime display shall we prepare to honor him
@@ -752,7 +755,7 @@
                         thorns, unpleasant odors, and so on, and was smooth like the palm of a hand.
                         He manifested melodies sung by the glorious gandharvas; <ref cRef="F.267.b"/> and all the trees, made of seven precious materials, bore delicious
                         fragrances, leaves, flowers, and fruits. He also caused all of the trees,
-                        grass, dry wood, and leaves, everything on the ground‌, to appear as if made
+                        grass, dry wood, and leaves, everything on the <term type="ignore">ground</term>, to appear as if made
                         of the seven precious materials. </p>
                     <milestone unit="chunk" xml:id="UT22084-066-018-42"/>
                     <p tid="52">Moreover, he completely healed the diseases of the entire Sahā world. He pacified all the sufferings
@@ -793,7 +796,7 @@
                         it resembled the great Brahmā’s parasol of divine precious jewels. From
                         these ornaments the sound of melodious songs of the five qualities, even
                         more beautiful than divine music, also emerged. The grass, woods, leaves,
-                        flowers, fruit, and everything on the ground‌, too, emitted scintillating
+                        flowers, fruit, and everything on the <term type="ignore">ground</term>, too, emitted scintillating
                         music of five qualities, even more beautiful than divine music, from which
                         words of praise emerged. No one who heard these sounds would ever turn away
                         from attaining complete and perfect enlightenment. </p>
@@ -2260,7 +2263,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-066-018-189">
+                        <gloss type="term" priority="0" xml:id="UT22084-066-018-189" mode="marked">
                             <term>hermit</term>
                             <term xml:lang="Bo-Ltn">drang srong </term>
                             <term xml:lang="bo">དྲང་སྲོང</term>
@@ -3121,7 +3124,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-066-018-272">
+                        <gloss type="place" priority="0" xml:id="UT22084-066-018-272" mode="marked">
                             <term>abode of the Sage’s her‌mits</term>
                             <term xml:lang="Bo-Ltn">thub pa’i drang srong rnams kyi gnas </term>
                             <term xml:lang="bo">ཐུབ་པའི་དྲང་སྲོང་རྣམས་ཀྱི་གནས</term>

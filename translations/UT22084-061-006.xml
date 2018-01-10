@@ -52,6 +52,9 @@
                     <author role="translatorTib">Unknown</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:04:46 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -59,14 +62,14 @@
             <div type="summary">
                 <head type="summary">Summary</head>
                 <milestone unit="chunk" xml:id="UT22084-061-006-1"/>
-                <p tid="1">In this sūtra, the Buddha displays supernatural ‌powers three times. First, he
+                <p tid="1">In this sūtra, the Buddha displays supernatural powers three times. First, he
                     magically transports his entire audience and retinue to Vārāṇasī. Secondly,
                     having incited Avalokiteśvara and Vajrapāṇi to use their own miraculous powers
                     to gather there all the beings who must be led to awakening, he makes the whole
                     world appear as a pure realm like Sukhāvatī. He explains that a tathāgata’s
                     various powers are like a doctor’s skills, and teaches, with Mañjuśrī’s help in
                     a series of dialogues with other protagonists, on how the tathāgatas manifest to
-                    beings, displaying his supernatural ‌powers a third time by making many other
+                    beings, displaying his supernatural powers a third time by making many other
                     buddhas appear all around him. The meaning of the Tathāgata’s miracles are
                     gradually disclosed to the audience, as well as some other essential points
                     including the merit to be gained by honoring the teachings. </p>
@@ -91,8 +94,7 @@
                         Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, as well as great hearers
                         like Subhūti, Śāripūtra, and Maudgalyayāna. After Śakra and Brahmā pay their
                         respects, the Tathāgata magically transports himself together with his
-                        entire assembly to a grove in Vārāṇasī, where he manifests his supernatural
-                        ‌powers.</p>
+                        entire assembly to a grove in Vārāṇasī, where he manifests his supernatural powers.</p>
                 </div>
                 <div type="section">
                     <head type="section">The Story </head>
@@ -103,13 +105,13 @@
                         degenerate beings of the Sahā world system who must be led to awakening.
                         Entering into the same state of concentration, Avalokiteśvara and Vajrapāṇi
                         manifest light rays and inspirational verses to invite those beings to the mango 
-                        grove. Once they arrive, the Tathāgata displays his supernatural ‌powers 
-                        by exerting his sovereign ‌power over the whole world, turning it into
+                        grove. Once they arrive, the Tathāgata displays his supernatural powers 
+                        by exerting his sovereign power over the whole world, turning it into
                         a place similar to the pure realm of Sukhāvatī. With Mañjuśrī’s help, he
                         teaches on how the tathāgatas manifest to beings in a series of dialogues
                         with other protagonists. He explains that a tathāgata is like a doctor who
                         knows the various diseases of beings and the methods to cure them. The
-                        Buddha finally displays his supernatural ‌powers a third time by making many
+                        Buddha finally displays his supernatural powers a third time by making many
                         other buddhas appear all around him. The sūtra ends with a condensed summary
                         of Buddhadharma.</p>
                 </div>
@@ -118,7 +120,7 @@
                     <milestone unit="chunk" xml:id="UT22084-061-006-5"/>
                     <p tid="6">From a doctrinal perspective, the sūtra explores several important Mahāyāna topics in
                         relation with the notion of miracles (<foreign type="term" xml:lang="Sa-Ltn">prātihārya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">cho
-                            ’phrul</foreign>), supernatural ‌powers (<foreign type="term" xml:lang="Sa-Ltn">ṛddhi</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul</foreign>), and extraordinary
+                            ’phrul</foreign>), supernatural powers (<foreign type="term" xml:lang="Sa-Ltn">ṛddhi</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul</foreign>), and extraordinary
                         transformation (<foreign type="term" xml:lang="Sa-Ltn">vikurvaṇa</foreign>,
                             <foreign type="term" xml:lang="Bo-Ltn">rnam par ’phrul</foreign>):</p>
                     <lb/>
@@ -139,7 +141,7 @@
                         actions that transform the immediate physical surroundings. Then he explains
                         that beings should be helped according to their dispositions, inclinations,
                         and capacities. Since the Tathāgata is able to know beings’ minds through
-                        his supernatural ‌powers, he is able to assist them through various skillful
+                        his supernatural powers, he is able to assist them through various skillful
                         means (<foreign type="term" xml:lang="Sa-Ltn">upāya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">thabs</foreign>) corresponding to their
                         circumstances. Vasubandhu explains this sequence in great detail in the
                             <title xml:lang="Sa-Ltn">Abhidharmakośa</title>: the Buddha first
@@ -171,7 +173,7 @@
                         which it is stated that the Buddha can perform magic because he knows that
                         all phenomena are illusory. Action (<foreign type="term" xml:lang="Sa-Ltn">karma</foreign>) is explained as being the great conjurer that
                         magically creates beings and material objects. Thus, the basis of the
-                        Tathāgata’s supernatural ‌powers is considered to be his realization that all
+                        Tathāgata’s supernatural powers is considered to be his realization that all
                         phenomena are like magic and illusions. </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-061-006-9"/>
@@ -257,15 +259,15 @@
                         comparative edition, see bibliography) settles for <foreign xml:lang="Sa-Ltn" type="term">balavardhana</foreign>. In the present
                         case, we chose to follow Schopen, who opts for <foreign xml:lang="Sa-Ltn" type="term">balādhāna</foreign> (1978: 319). Edgerton, in his <title xml:lang="en">Buddhist Hybrid Sanskrit Grammar and Dictionary</title>,
                         offers a detailed explanation of this term, which he understands as “the
-                        attainment of (usually some particular) ‌power,” such as the ‌powers of a
+                        attainment of (usually some particular) <term type="ignore">power</term>,” such as the <term type="ignore">powers</term> of a
                         tathāgata (1953: 398a). As for the rest of the compound, we have translated
                             <foreign xml:lang="Sa-Ltn" type="term">prātihārya</foreign> as “miracle”
                         and <foreign type="term" xml:lang="Sa-Ltn">vikurvāṇa</foreign> as
                         “extraordinary transformation.” In the <title xml:lang="Sa-Ltn">Śūraṃgama­samādhi­sūtra</title> (Lamotte 2003: 233), <foreign xml:lang="Sa-Ltn">prātihāryabala</foreign> and <foreign xml:lang="Sa-Ltn" type="term">vikurvāṇabala</foreign> are often used as
                         synonyms. Lamotte reads them as <foreign xml:lang="Sa-Ltn" type="term">karmadhāraya</foreign> compounds (in the way of adjective+noun)
-                        respectively meaning “wondrous ‌powers” and “prodigious ‌powers.” Burnouf, on
+                        respectively meaning “wondrous <term type="ignore">powers</term>” and “prodigious <term type="ignore">powers</term>.” Burnouf, on
                         his part, understands <foreign xml:lang="Sa-Ltn" type="term">ṛddhi­prātihārya</foreign> as “supernatural transformation” (2010: 189).
-                        La Vallée Poussin translates <foreign xml:lang="Sa-Ltn" type="term">prātihārya</foreign> as “magical ‌powers” in v. VII.47–48 of the <title xml:lang="Sa-Ltn">Abhidharmakośa</title> (and <title xml:lang="Sa-Ltn" type="longTitle">bhāṣya</title>).<note place="end" index="1" xml:id="UT22084-061-006-213">The English
+                        La Vallée Poussin translates <foreign xml:lang="Sa-Ltn" type="term">prātihārya</foreign> as “magical <term type="ignore">powers</term>” in v. VII.47–48 of the <title xml:lang="Sa-Ltn">Abhidharmakośa</title> (and <title xml:lang="Sa-Ltn" type="longTitle">bhāṣya</title>).<note place="end" index="1" xml:id="UT22084-061-006-213">The English
                             translations of these terms are found in the English translations of
                             Lamotte’s, Burnouf’s, and La Vallée Poussin’s respective works. </note>
                         In this context, <foreign xml:lang="Sa-Ltn" type="term">prātihārya</foreign>
@@ -281,8 +283,8 @@
                             <foreign xml:lang="Sa-Ltn" type="term">karmadhāraya</foreign>. The
                         complete title of the sūtra can therefore be translated as “The Teaching on
                         the Extraordinary Transformation that is the Miracle of Attaining the
-                        Buddha’s ‌Powers,” and indeed the message of the sūtra is that the ultimate
-                        miracle is to attain the state of buddhahood. Supernatural ‌powers are only a
+                        Buddha’s <term type="ignore">Powers</term>,” and indeed the message of the sūtra is that the ultimate
+                        miracle is to attain the state of buddhahood. supernatural powers are only a
                         means to lead beings to awakening. </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-15"/>
                     <p tid="19">Another translation issue concerns the mention in the sūtra of a grove
@@ -346,7 +348,7 @@
                         well as all the kings, ministers, brahmins, and householders, and was <ref cRef="F.144.a"/> placed in front of the assembly. After being presented
                         with offerings of almsfood, he pleased his surrounding retinue with a
                         teaching on Dharma, and encouraged, uplifted, and complimented them. By
-                        means of his great supernatural ‌power, the Tathāgata and his surrounding
+                        means of his great supernatural power, the Tathāgata and his surrounding
                         retinue were then transported to the city of Vārāṇasī, where they stayed in
                         the grove of the caretaker of mango trees.<note place="end" index="2" xml:id="UT22084-061-006-214">The Tibetan
                             reads here <foreign xml:lang="Bo-Ltn" type="quote">shing a mra srung
@@ -371,7 +373,7 @@
                         addressed the bodhisattvas Noble Avalokiteśvara and Vajrapāṇi as follows. </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-20"/>
                     <p tid="24">“Avalokiteśvara, go forth. Together with Vajrapāṇi, use your great
-                            supernatural ‌powers and state of concentration to assemble around me the
+                            supernatural powers and state of concentration to assemble around me the
                             beings of this Sahā world system and of the other world systems of the
                             ten directions whom you should tame and who are degenerate, have no
                             faith, practice negative deeds, are obscured because of various types of
@@ -464,7 +466,7 @@
                     <lg tid="34">
                         <l>“Upon arriving, behold the supreme person.</l>
                         <l>Vast and pleasing is his array:</l>
-                        <l>The saṅgha of monks who always have supernatural ‌powers,</l>
+                        <l>The saṅgha of monks who always have supernatural powers,</l>
                         <l>And the bodhisattvas who possess even greater ones.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-061-006-31"/>
@@ -484,7 +486,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-061-006-33"/>
                     <lg tid="37">
-                        <l>“Their bodies are vast with great supernatural ‌powers.</l>
+                        <l>“Their bodies are vast with great supernatural powers.</l>
                         <l>Eons and eons would not suffice to describe them.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-061-006-34"/>
@@ -540,11 +542,11 @@
                         arose from their own merit. A rain of flowers, a great fragrant rain, fell. </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-39"/>
                     <p tid="43">Then, <ref cRef="F.146.a"/> at that moment, the Blessed One exerted his
-                        sovereign ‌power<note place="end" index="6" xml:id="UT22084-061-006-218">
+                        sovereign power<note place="end" index="6" xml:id="UT22084-061-006-218">
                             <foreign xml:lang="Bo-Ltn" type="term">byin gyi rlabs te</foreign>
                                 (<foreign xml:lang="Sa-Ltn" type="term">adhyatiṣṭha</foreign>, see
                             Schopen 1978: 322 fragment [1288]). We have translated <foreign xml:lang="Bo-Ltn" type="term">byin gyi rlabs</foreign> (<foreign xml:lang="Sa-Ltn" type="term">adhiṣṭhāna</foreign>) in this text as
-                            ‘sovereign ‌power.’ Conze used the expression ‘sustaining power.’ The
+                            ‘sovereign power.’ Conze used the expression ‘sustaining power.’ The
                             term is often translated as ‘blessings.’ However, as explained in Eckel
                             1994: 90–93, Gómez 2011: 539, 541, and Fiordalis 2012: 104, 118,
                                 <foreign xml:lang="Sa-Ltn" type="term">adhiṣṭhāna</foreign> conveys
@@ -552,10 +554,10 @@
                             absorption), authority, or protection (see <title xml:lang="Sa-Ltn">Abhi­dharma­kośa</title> VII.51, cf. Poussin 1925: 119ff). As can be
                             seen in the present text, <foreign xml:lang="Sa-Ltn" type="term">adhi­ṣṭhāna</foreign> is also used to convey the idea of
                             transformation through exerting one’s control over objects, people, and
-                            places. It seems to us that ‘sovereign ‌power’ covers all these shades of
+                            places. It seems to us that ‘sovereign power’ covers all these shades of
                             meaning as well as the various usages of the Sanskrit term. For example,
                                 <foreign xml:lang="Sa-Ltn" type="term">satyādhiṣṭhāna</foreign>, ‘the
-                            sovereign ‌power of truth,’ and <foreign xml:lang="Sa-Ltn" type="term">adhi­ṣṭhānādhisthita</foreign>, ‘empowered by the sovereign ‌power (of
+                            sovereign power of truth,’ and <foreign xml:lang="Sa-Ltn" type="term">adhi­ṣṭhānādhisthita</foreign>, ‘empowered by the sovereign power (of
                             the Tathāgata)’—which in tantric initiation may also refer to being
                             empowered as a sovereign.</note> on Jambudvīpa and the grove of the
                         caretaker of mango trees so that it extended over several trillions of
@@ -580,7 +582,7 @@
                         gandharvas, asuras, garuḍas, <ref cRef="F.146.b"/> kinnaras, mahoragas,
                         kings, ministers, brahmins, householders, monks, nuns, and male and female
                         lay vow holders have gathered here in great numbers through the strength of
-                        the Tathāgata’s majesty and supernatural ‌powers.” </p>
+                        the Tathāgata’s majesty and supernatural powers.” </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-41"/>
                     <p tid="45">The Blessed One replied, “Sons of a good family, this is excellent, most
                         excellent. Sons of the Victorious One, it is indeed so. Many are the
@@ -591,7 +593,7 @@
                         Some are to be converted by śrāvakas. Some are to be converted by
                         pratyekabuddhas. Some are to be converted by gods. Some are to be converted
                         by Śakra. Some are to be converted by Brahmā. Some are to be converted by
-                        nāgas. Some are to be converted by great supernatural ‌powers. Some are to be
+                        nāgas. Some are to be converted by great supernatural powers. Some are to be
                         converted by kings. Some are to be converted by states of concentration.
                         Some are to be converted by listening to the Dharma. Some are to be
                         converted by miracles. Some are to be converted by the Tathāgata’s complete
@@ -645,7 +647,7 @@
                     <milestone unit="chunk" xml:id="UT22084-061-006-44"/>
                     <p tid="48">“In the same way, noble sons of the Victorious One, the Tathāgata possesses
                         eight branches of Āyurveda with the various states of concentration, the bases
-                        of supernatural ‌powers, the powers, the assurances, and divine sight and
+                        of supernatural powers, the powers, the assurances, and divine sight and
                             hearing.<note place="end" index="10" xml:id="UT22084-061-006-222">See glossary for lists of these qualities.
                             Divine sight and hearing are qualities that are part of the <foreign type="term" xml:lang="Sa-Ltn">abhijñās</foreign> (“superior
                             knowledge”).</note>
@@ -657,7 +659,7 @@
                         defilements, as well as those obscured by pride, vanity, and arrogance or by
                         attachment, suffering, fear, and anger. To this end, by using various
                         skillful means, various practices, various states of concentration, and
-                        supernatural ‌powers, he brings beings to all stages of liberation up to and
+                        supernatural powers, he brings beings to all stages of liberation up to and
                         including their unsurpassable, perfect awakening, and thus leads them to the
                         extinction of their suffering in the sphere of remainderless <foreign xml:lang="Sa-Ltn" type="term">parinirvāṇa</foreign>.</p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-45"/>
@@ -704,7 +706,7 @@
                         their blessings, they liberated all beings from birth, old age, sickness,
                         death, sorrow, lamentation, suffering, unhappiness, and trouble. Likewise,
                         this tathāgata, although he has not yet accomplished all the deeds of a
-                        tathāgata, is also extolling and teaching nirvāṇa. And he is displaying <ref cRef="F.148.b"/> supernatural ‌powers and miracles of extraordinary
+                        tathāgata, is also extolling and teaching nirvāṇa. And he is displaying <ref cRef="F.148.b"/> supernatural powers and miracles of extraordinary
                         transformations after having assembled a great retinue. So does this
                         tathāgata also seek parinirvāṇa right away?” With this thought, they were
                         depressed and fell silent.</p>
@@ -713,9 +715,9 @@
                         thinking and said to them, “Gods, do not think like that, do not say such
                         things. Do not be depressed. Many are the skillful means of the tathāgatas.
                         They teach the Dharma to beings of diverse inclinations by means of their
-                        sovereign ‌power, and the power of their roots of virtue, which consists of
+                        sovereign power, and the power of their roots of virtue, which consists of
                         various methods, insights, and states of concentration. Gods, since I have
-                        seen the supernatural ‌powers and miracles of extraordinary transformations
+                        seen the supernatural powers and miracles of extraordinary transformations
                         that are the skillful means of the tathāgatas of the past, I know. So surely
                         the Tathāgata will indeed wish to expound and spread the king of sūtras of
                         the great vehicle called <title xml:lang="en">The Teaching on the
@@ -847,9 +849,9 @@
                     <p tid="56">The youthful Mañjuśrī, having clairvoyantly understood what those gods were
                         thinking, said, “Gods, excellent! Excellent! Just wait a moment. These
                         thoughts arising in your mind, as well as your earlier question, are also
-                        the sovereign ‌power of the Tathāgata.”</p>
+                        the sovereign power of the Tathāgata.”</p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-52"/>
-                    <p tid="57">At this, the Blessed One displayed his supernatural ‌powers and the tathāgatas
+                    <p tid="57">At this, the Blessed One displayed his supernatural powers and the tathāgatas
                         Śikhin, Viśvabhū, Krakucchanda, Kanakumūni, Vipāśyin,
                         Akṣobhya, and Amitābha appeared in his
                         surrounding retinue, sitting on lion thrones surrounded by the saṅgha of
@@ -924,7 +926,7 @@
                         <l>They will be free from all suffering.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-061-006-62"/>
-                    <p tid="67">As the Tathāgata imparted this instruction on the sovereign ‌power and the
+                    <p tid="67">As the Tathāgata imparted this instruction on the sovereign power and the
                         miracle of the extraordinary transformation of a tathāgata, sixty-four
                         thousand beings reached the stage where they accepted that phenomena are not
                         produced.<note place="end" index="15" xml:id="UT22084-061-006-227">See Sasaki 1986: “[<foreign xml:lang="Sa-Ltn" type="term">anutpattika­dharma­kṣānti</foreign>] represents the fact
@@ -952,7 +954,7 @@
                     <milestone unit="chunk" xml:id="UT22084-061-006-64"/>
                     <p tid="69">Mañjuśrī replied, “Great king, it is excellent that you have developed your
                         previous roots of merit and that your confidence has increased through the
-                        sovereign ‌power of the Tathāgata. Whatever you wish to know, ask and I shall
+                        sovereign power of the Tathāgata. Whatever you wish to know, ask and I shall
                         explain it to you.” </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-65"/>
                     <p tid="70">The king said, “Son of the Victorious One, just by hearing the names of the
@@ -973,7 +975,7 @@
                     <p tid="72">“In the world system called Vaiḍūrya Light abides the Tathāgata, the Arhat,
                         the truly perfect Buddha called Bhaiṣajyaguru Vaidūryaprabharāja,<note place="end" index="16" xml:id="UT22084-061-006-228">
                             In the Tibetan text, <foreign xml:lang="Bo-Ltn" type="term">rgyal po</foreign> (-rāja) is missing.</note> who watches over beings as well as
-                        teaches the Dharma. In the world system called ‌Śikhin abides the Tathāgata, the Arhat, the truly perfect Buddha called
+                        teaches the Dharma. In the world system called <term type="ignore">Śikhin</term> abides the Tathāgata, the Arhat, the truly perfect Buddha called
                         Śikhin. In the world system called Vimalā 
                         abides the Tathāgata, the Arhat, the truly perfect Buddha called
                         Stainless Arising. In the world system called Peace abides the Tathāgata,
@@ -1066,7 +1068,7 @@
                         gates to the pleasant forms of existence and the buddhas’ realms are opened. </p>
                     <milestone unit="chunk" xml:id="UT22084-061-006-74"/>
                     <p tid="81">“So, son of noble family, owing to the tathāgatas’ various skillful
-                        means, aspirations, extraordinary transformations, sovereign ‌power, and
+                        means, aspirations, extraordinary transformations, sovereign power, and
                         states of concentration, <ref cRef="F.153.b"/> one will pass to pleasant
                         forms of existence and be liberated from all negative ones by continuously
                         listening to and worshipping those who have remained in the various world
@@ -1302,10 +1304,10 @@
                         establish all beings, too, in great nirvāṇa.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-061-006-95"/>
-                    <p tid="103">At that point, the Tathāgata’s sovereign ‌power caused the whole earth to
+                    <p tid="103">At that point, the Tathāgata’s sovereign power caused the whole earth to
                         tremble. The assembled retinue said to the Tathāgata, “Excellent!” King
                         Prasenajit and the others, by means of many, great, more and more powerful
-                        supernatural ‌powers, made an offering to the Tathāgata of five hundred
+                        supernatural powers, made an offering to the Tathāgata of five hundred
                         divine garments. Trembling, they circumambulated the Tathāgata three times.
                         In the presence of all the tathāgatas, each of them confessed that the
                         faults consisting of all their negative actions had indeed been committed,
@@ -1674,11 +1676,11 @@
                     </item>
                     <item>
                         <gloss type="term" priority="4" xml:id="UT22084-061-006-147">
-                            <term>bases of supernatural ‌powers</term>
+                            <term>bases of supernatural powers</term>
                             <term xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa </term>
                             <term xml:lang="bo">རྫུ་འཕྲུལ་གྱི་རྐང་པ</term>
                             <term xml:lang="Sa-Ltn">ṛddhipādā</term>
-                            <term type="definition">The four bases of supernatural ‌powers (<foreign type="term" xml:lang="Sa-Ltn">ṛddhipāda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa
+                            <term type="definition">The four bases of supernatural powers (<foreign type="term" xml:lang="Sa-Ltn">ṛddhipāda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa
                                 bzhi</foreign>i) are: 1) concentration through will (<foreign type="term" xml:lang="Sa-Ltn">chanda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’dun pa</foreign>); 2) concentration through vigor (<foreign type="term" xml:lang="Sa-Ltn">vīrya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">brtson
                                     ’grus</foreign>); 3) concentration through the mind (<foreign type="term" xml:lang="Sa-Ltn">citta</foreign>, <foreign type="term" xml:lang="Bo-Ltn">bsam pa</foreign>); 4) concentration through investigation (<foreign type="term" xml:lang="Sa-Ltn">mīmāṃsā</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dpyod pa</foreign>). See Rahula 2001:
                                 163.</term>
@@ -1749,11 +1751,11 @@
                     </item>
                     <item>
                         <gloss type="term" priority="2" xml:id="UT22084-061-006-153">
-                            <term>supernatural ‌power</term>
+                            <term>supernatural power</term>
                             <term xml:lang="Bo-Ltn">rdzu ’phrul </term>
                             <term xml:lang="bo">རྫུ་འཕྲུལ</term>
                             <term xml:lang="Sa-Ltn">ṛddhi</term>
-                            <term type="definition">The supernatural ‌powers of a śrāvaka correspond
+                            <term type="definition">The supernatural powers of a śrāvaka correspond
                                 to the first <foreign type="term" xml:lang="Sa-Ltn">abhijnā</foreign>: “Being one he becomes many, being many he
                                 becomes one; he becomes visible, invisible; goes through walls,
                                 ramparts and mountains without being impeded, just as through air;
@@ -1804,7 +1806,7 @@
                     </item>
                     <item>
                         <gloss type="term" priority="2" xml:id="UT22084-061-006-157">
-                            <term>sovereign ‌power</term>
+                            <term>sovereign power</term>
                             <term xml:lang="Bo-Ltn">byin gyi rlabs </term>
                             <term xml:lang="bo">བྱིན་གྱི་རླབས</term>
                             <term xml:lang="Sa-Ltn">adhiṣṭhāna</term>

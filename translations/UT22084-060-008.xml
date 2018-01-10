@@ -51,6 +51,9 @@
                     <author role="translatorTib">Dharmatāśīla</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:04:34 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -571,7 +574,7 @@
                         Ultimately, without seeing, they see that all phenomena are unreal. However,
                         in order to eradicate the conceit and conceptual apprehension of everyone
                         who is conceited and engages in conceptual apprehension, they train, without
-                        training, in the power‌s. Ultimately, in order to make it understood that all
+                        training, in the <term>powers</term>. Ultimately, in order to make it understood that all
                         phenomena are unreal, they train, without training, in the branches of
                         awakening. Although ultimately utterly unreal, relatively they train in the
                         path by means of not training. Ultimately, they accomplish tranquillity
@@ -897,7 +900,7 @@
                         relinquishments are a gateway to genuine perseverance. On the relative
                         level, the bases of miraculous power are a gateway to pliancy of body and
                         mind. On the relative level, the faculties are a gateway to attaining faith.
-                        On the relative level, the power‌s are a gateway to conquering all disturbing
+                        On the relative level, the <term>powers</term> are a gateway to conquering all disturbing
                         emotions. On the relative level, the branches of awakening are a gateway to
                         realizing omniscience. On the relative level, the eightfold path of the
                         noble ones is a gateway to transcending all unwholesome paths. </p>
@@ -1513,7 +1516,7 @@
                         perfection of strength. This is the perfection of wisdom. These are the ten
                         levels, the ten powers, the ten strengths of the bodhisattvas, the ten
                         strengths of the thus-gone ones, the fourfold fearlessness, the four genuine
-                        discriminations, the five faculties, the five power‌s, the eighteen unique
+                        discriminations, the five faculties, the five <term>powers</term>, the eighteen unique
                         qualities of a buddha, the omniscient wisdom that is endowed with the
                         supreme of all aspects, the awakening of a buddha, suchness, the limit of
                         reality, emptiness, signlessness, wishlessness, the unconditioned, all
@@ -1939,8 +1942,8 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-060-008-209">
-                            <term>power‌s</term>
+                        <gloss type="term" priority="0" xml:id="UT22084-060-008-209" mode="marked">
+                            <term>powers</term>
                             <term xml:lang="Bo-Ltn">stobs lnga </term>
                             <term xml:lang="bo">སྟོབས་ལྔ་</term>
                             <term xml:lang="Sa-Ltn">pañcabalāni</term>
