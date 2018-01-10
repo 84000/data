@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/1.0/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,7 +16,7 @@
                Buddha </author>
          </titleStmt>
          <editionStmt>
-            <edition>v 1.0 2017</edition>
+            <edition>v 1.01, 2018</edition>
          </editionStmt>
          <publicationStmt>
             <publisher>
@@ -43,7 +43,7 @@
             </bibl>
          </sourceDesc>
          <notesStmt>
-            <note type="lastUpdated">Last updated at 19/12/2017 at 15:00:56 by mike</note>
+            <note type="lastUpdated">Last updated at 10/01/2018 at 16:07:16 by admin</note>
          </notesStmt>
       </fileDesc>
    </teiHeader>
@@ -55,18 +55,18 @@
             <p tid="1">
                <title xml:lang="en">The Sūtra of the Wheel of Dharma</title> contains the Buddha’s
                teaching to his five former spiritual companions on the four truths that he
-               discovered as part of his awakening: (1) suffering, (2) the origin of suffering, (3)
+               had discovered as part of his awakening: (1) suffering, (2) the origin of suffering, (3)
                the cessation of suffering, and (4) the path leading to the cessation of suffering.
-               According to the Buddhist traditions, this is the first teaching the Buddha gave to
+               According to all the Buddhist traditions, this is the first teaching the Buddha gave to
                explain his awakened insight to others.</p>
          </div>
          <div type="acknowledgment">
             <head type="acknowledgment">Acknowledgements</head>
             <milestone unit="chunk" xml:id="UT22084-072-037-2"/>
             <p tid="2">This sūtra was translated and introduced by the Dharmachakra Translation
-               Committee under the guidance of Chökyi Nyima Rinpoche. The translation was completed
-               under the patronage and supervision of <title xml:lang="en">84000: Translating the
-                  Words of the Buddha</title>.</p>
+               Committee under the guidance of Chökyi Nyima Rinpoche.</p>
+            <p tid="3">The translation was completed under the patronage and supervision 
+               of 84000: Translating the Words of the Buddha.</p>
          </div>
          <div type="introduction">
             <head type="introduction">Introduction</head>
@@ -75,68 +75,65 @@
                <p tid="3">
                   <title xml:lang="en">The Sūtra of the Wheel of Dharma</title> contains one of the
                   most well-known teachings of Buddhism: the four truths of the noble ones. These
-                  four truths are: (1) The truth of suffering, (2) the truth of the origin of
+                  four truths are: (1) the truth of suffering, (2) the truth of the origin of
                   suffering, (3) the truth of the cessation of suffering, and (4) the truth of the
                   path leading to the cessation of suffering. According to traditional accounts,
                   this is the first teaching taught by the Buddha following his attainment of
                   awakening. The Buddha is said to have journeyed from the seat of awakening in
-                  Bodhgaya to the Deer Park outside of Varanasi, where he delivered this teaching to
+                  Bodhgaya to the Deer Park outside Varanasi, where he delivered this teaching to
                   his five former spiritual companions. Since this was the first time the Buddha
                   turned the wheel of Dharma, this discourse also became known as <title xml:lang="en">The Sūtra of the Wheel of Dharma</title>, or, more commonly,
                      <title xml:lang="en">The Sūtra of the Turning of the Wheel of Dharma</title>. </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-4"/>
-               <p tid="4">Although a very brief teaching, this classical presentation of the four
+               <p tid="4">Although very brief, this classical presentation of the four
                   truths has remained central to the Buddhist tradition since its very early days.
-                  As such, this teaching is also included in all the major canons of Buddhism where
-                  versions in Pali, Sanskrit, Chinese and Tibetan are found.<note place="end" index="1" xml:id="UT22084-072-037-84"> For a summary of the Pali, Sanskrit and
+                  As such, this teaching is included in all the major canons of Buddhism, so that
+                  versions in Pali, Sanskrit, Chinese and Tibetan are found.<note place="end" index="1" xml:id="UT22084-072-037-84"> For a summary of the Pali, Sanskrit, and
                      Chinese sources of this teaching, see Anderson 1999, p. 15-16. See also
-                     Bronkhorst 1993, p. 80, no. 200.</note> As for translations into Tibetan, we
-                  find the classical presentation of the four truths included in no less than five
-                  individual works in the Kangyur. Of these, the following three are closely related
-                  and almost verbatim identical:<note place="end" index="2" xml:id="UT22084-072-037-85"> As for these three texts, it appears highly likely
-                     that Toh 1 is the source for Toh 301 and Toh 337, but the precise relationship
-                     between these three texts has not been established. </note>
+                     Bronkhorst 1993, p. 80, n. 200.</note> As far as translations into Tibetan are concerned, we
+                  find the classical presentation of the four truths embedded in no fewer than five
+                  individual works in the Kangyur. Of these, the following three contain accounts 
+                  of this first teaching in passages that are clearly closely related,
+                  being almost verbatim identical:<note place="end" index="2" xml:id="UT22084-072-037-85">Although the precise historical relationship
+                     between these three texts has not been fully confirmed, it is highly likely
+                     that Toh 1 is the source, from which Toh 301 is an extract relating the Buddha’s life as a whole (naturally including this episode), while Toh 337 is a very short extract of this episode alone. </note>
                </p>
                <list>
                   <item>
                      <p tid="39"> • <title xml:lang="en">The Chapter on Schism in the Sangha</title>
-                           (<title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title>, Toh 1). This text
-                        forms the 17th chapter of the Mūlasarvāstivādin vinaya scripture <title xml:lang="en">Chapters on Monastic Discipline</title> (<title xml:lang="Sa-Ltn">Vinayavastu</title>).<note place="end" index="3" xml:id="UT22084-072-037-86">The relevant section is found in <title xml:lang="Bo-Ltn">’dul ba</title>, <foreign xml:lang="Bo-Ltn">nga</foreign>, folios 42b.3-44a.5</note>
+                           (<title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title>, Toh 1). This very long text
+                        forms the 17th chapter of the Mūlasarvāstivādin vinaya scripture <title xml:lang="en">Chapters on Monastic Discipline</title> (<title xml:lang="Sa-Ltn">Vinayavastu</title>), and includes, interspersed with all sorts of other material, passages recounting the life and deeds of the Buddha.<note place="end" index="3" xml:id="UT22084-072-037-86">The section corresponding to the present sūtra is found in <title xml:lang="Bo-Ltn">’dul ba</title>, <foreign xml:lang="Bo-Ltn">nga</foreign>, folios 42b.3-44a.5</note>
                      </p>
                   </item>
                   <item>
-                     <p tid="40"> • <title xml:lang="en">The Sūtra on Going Forth</title> (<title xml:lang="Sa-Ltn">Abhi­niṣkramaṇa­sūtra</title>, Toh 301). In this text
-                        the teaching on the four truths is found within a larger narrative of the
-                        Buddha’s deeds, where it presents a verbatim copy of the teaching as found
-                        in Toh 1.<note place="end" index="4" xml:id="UT22084-072-037-87">The relevant
+                     <p tid="40"> • <title xml:lang="en">The Sūtra on Going Forth</title> (<title xml:lang="Sa-Ltn">Abhi­niṣkramaṇa­sūtra</title>, Toh 301). In this text all
+                        the passages in Toh 1 recounting the Buddha’s life have been extracted verbatim to form a continuous narrative, including the passage on this teaching.<note place="end" index="4" xml:id="UT22084-072-037-87">The corresponding
                            section is found in <title xml:lang="Bo-Ltn">mdo sde</title>, <foreign xml:lang="Bo-Ltn">sa</foreign>, 60a.1-61b.3</note>
                      </p>
                   </item>
                   <item>
                      <p tid="41"> • <title xml:lang="en">The Sūtra of the Wheel of Dharma</title>
-                           (<title xml:lang="Sa-Ltn">Dharma­cakra­sūtra</title>, Toh 337). As with
-                        Toh 301, this text is also a verbatim copy of the teaching as found in Toh
-                        1. However, this text also contains a brief introduction and conclusion so
-                        that the teaching appears as an independent sūtra.</p>
+                           (<title xml:lang="Sa-Ltn">Dharma­cakra­sūtra</title>, Toh 337). This text is also a verbatim extract from the account of the teaching as found in Toh
+                        1, but this time only of this particular episode. However, it does add a brief introduction and conclusion to give to the account the form of an independent sūtra.</p>
                   </item>
                </list>
                <milestone unit="chunk" xml:id="UT22084-072-037-5"/>
-               <p tid="8">In addition, the Kangyur also contains a translation of the <title xml:lang="pi">Dhammachakkappavattanasutta</title> from the Pali canon:</p>
+               <p tid="8">In addition, the Kangyur also contains a translation of the <title xml:lang="pi">Dhamma­chakkappavattana­sutta</title> from the Pali canon:</p>
 
                <list>
                   <item>
                      <p tid="9"> • <title xml:lang="en">The Sūtra of the Turning of the Wheel of
                            Dharma</title> (<title xml:lang="Sa-Ltn">Dharma­cakra­pravartana­sūtra</title>, Toh 31). This is one of only
-                        thirteen texts in the Kangyur that were translated from the Pali into
+                        fourteen texts in the Kangyur that were translated from the Pali into
                         Tibetan. As such it mirrors closely the <title xml:lang="Sa-Ltn">Dhamma­chakkappavattana­sutta</title> of the <title xml:lang="Sa-Ltn">Saṃyuttanikāya</title>, although some differences exist.<note place="end" index="5" xml:id="UT22084-072-037-88">This text is found in
                            the Degé Kangyur, vol. 34 (shes phyin, ka), folios 180b.1-183a.6, in the
                            section of “Thirteen Late Translated Texts.” This group of works is
-                           traditionally placed in the Perfection of Wisdom section but not in fact
-                           related to that genre. They were translated from Pali in the 14th century
+                           traditionally placed in the Perfection of Wisdom section but is not, in fact,
+                           related to that genre. The texts were translated from Pali in the fourteenth century
                            at the monastery of Tharpa Ling by a Sri Lankan monk, Ānandaśrī, and the
                            Tibetan translator Nyima Gyaltsen Pel Zangpo. According to Skilling
-                           (1993, p 97), this was during the first decade of the 14th century;
-                           Skilling has compared this particular text against the extant Pali <title xml:lang="pi">Dhammachakkappavattanasutta</title> (1993, pp 103-106),
+                           (1993, p. 97), this was during the first decade of the fourteenth century;
+                           Skilling has compared this particular text against the extant Pali <title xml:lang="pi">Dhamma­chakkappavattana­sutta</title> (1993, pp. 103-106),
                            and concludes that the Tibetan follows the Pali version but contains some
                            significant omissions that he attributes to an erroneous manuscript or
                            translation errors.</note>
@@ -153,16 +150,16 @@
                         with the other texts, yet clearly belongs to another manuscript tradition as
                         there are a number of significant differences as well. Here the teaching is
                         found in the penultimate chapter (ch. 26), entitled “Turning the Wheel of
-                           Dharma”.<note place="end" index="6" xml:id="UT22084-072-037-89">The
-                           relevant section is found in Degé Kangyur vol. 46 (mdo sde, kha), folios
-                           200b.1-201a.4.</note>
+                           Dharma.”<note place="end" index="6" xml:id="UT22084-072-037-89">The
+                           relevant section is found in Degé Kangyur, vol. 46 (mdo sde, kha), folios
+                           200b.1-201a.4. For the translation, see Dharmachakra Translation Committee (2013), <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-2121">26.60 - 26.78</ref>.</note>
                      </p>
                   </item>
                </list>
 
                <milestone unit="chunk" xml:id="UT22084-072-037-7"/>
                <p tid="12">In general, the plethora of versions that exist of this teaching in Pali,
-                  Sanskrit, Chinese and Tibetan tend to be very similar, yet all of them contain a
+                  Sanskrit, Chinese, and Tibetan tend to be very similar, yet all of them contain a
                   number of idiosyncrasies—some minor, others significant—that set them apart from
                   the rest. These differences have been studied in great detail over the last two
                   centuries and a rich body of scholarship on the philological and theoretical
@@ -176,23 +173,23 @@
                </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-8"/>
                <p tid="13">As these scriptures became the focus of scholarly attention, a number of
-                  translations both from the Pali<note place="end" index="9" xml:id="UT22084-072-037-92"> E.g. Anderson 1999: 64-67, and Bodhi 2000.</note>
+                  translations both from the Pali<note place="end" index="9" xml:id="UT22084-072-037-92"> E.g. Anderson 1999, pp. 64-67, and Bodhi 2000.</note>
                   and Sanskrit<note place="end" index="10" xml:id="UT22084-072-037-93"> E.g. Sastri
-                     1938: 479-480, and Kloppenborg 1973: 24-27.</note> have been produced. The
+                     1938, pp. 479-480, and Kloppenborg 1973, pp. 24-27.</note> have been produced. The
                   translation presented here has been made on the basis of the Tibetan translation
                   of <title xml:lang="en">The Sūtra of the Wheel of Dharma</title> (Toh 337). As
                   mentioned above, this text is with minor exceptions identical to the corresponding
-                  sections in Toh 1 and Toh 331. Toh 337 does not list a translator, but the
+                  sections in Toh 1 and Toh 331. Toh 337 contains no mention of the translators, but the
                   translator of Toh 1 is listed as the Tibetan Kawa Paltseg (<foreign xml:lang="Bo-Ltn">ka ba dpal brtsegs</foreign>), who was a prolific translator
                   during the early period of Tibetan translations, which took place at the beginning
-                  of the 9th century. Unfortunately, the Sanskrit version that formed the basis for
+                  of the ninth century. Unfortunately, the Sanskrit version that formed the basis for
                   Kawa Paltseg’s translation of Toh 1 is no longer extant. The Sanskrit manuscript
-                  of this text that is available to us today (Gnoli 1977) has enough differences
+                  of that text that is available to us today (Gnoli 1977) has enough differences
                   from the Tibetan translation for us to conclude that it was not the text that was
                   used to produce the Tibetan translation. Nevertheless, it does represent an
-                  important witness of the Sanskrit and our translation benefitted greatly from
+                  important witness of the Sanskrit, and our translation benefitted greatly from
                   comparing the Tibetan with Gnoli’s edition of the <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title>. Besides this Sanskrit edition, we based our
-                  translation on the Degé print of Toh 1, Toh 301, and Toh 337 and their comparative
+                  translation on the Degé print of Toh 1, Toh 301, and Toh 337, along with their comparative
                   Pedurma editions.</p>
             </div>
          </div>
@@ -201,7 +198,7 @@
          <div type="translation">
             <head type="translation">The Translation</head>
             <head type="titleHon"/>
-            <head type="titleMain"/>
+            <head type="titleMain">The Sūtra of the Wheel of Dharma</head>
             <div type="section">
                <milestone unit="chunk" xml:id="UT22084-072-037-9"/>
                <p tid="14">
@@ -213,38 +210,41 @@
                      point (p. 42b.3) and in Toh 301 (p. 60a.1).</note> that time the Blessed One
                   spoke to the group of five monks:<note place="end" index="12" xml:id="UT22084-072-037-95"> At this point, the corresponding passage in the
                         <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> begins (Lefmann, p.
-                     417).</note>
+                     417; Dharmachakra Translation Group, 26.65).</note>
                </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-10"/>
                <p tid="17">“Monks, as I<note place="end" index="13" xml:id="UT22084-072-037-96">The
-                        <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title> does not include the
+                     Sanskrit of the <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title> does not include the
                      first person personal pronoun in this first paragraph, although it does in the
                      subsequent paragraphs (Gnoli 1977, p. 135). However, the Tibetan does include
-                     the first person personal pronoun throughout, including this first paragraph.
-                     This is also the case with the Sanskrit of the <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> (Lefmann, p. 417) and the Pali <title xml:lang="pi">Dhammacakkappavattanasutta</title> (Saṃyutta Nikāya, 56.11,
+                     the first person personal pronoun throughout, including in this first paragraph.
+                     This is also the case with the Sanskrit of the <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> (Lefmann, p. 417) and the Pali <title xml:lang="pi">Dhamma­cakkappavattana­sutta</title> (Saṃyutta Nikāya, 56.11;
                      see also Anderson 1999, p. 18). </note> focused my mind correctly on the
                      things<note place="end" index="14" xml:id="UT22084-072-037-97">Here “things”
                      translates the Sanskrit <foreign type="term" xml:lang="Bo-Ltn">dharma</foreign>
                      (Pali: <foreign type="term" xml:lang="pi">dhamma</foreign>, Tibetan: <foreign type="term" xml:lang="Bo-Ltn">chos</foreign>). The commentaries suggest that
                         <foreign type="term" xml:lang="Sa-Ltn">dharma</foreign> is used here in the
-                     sense of “truth”. For example, the <title xml:lang="pi">Puggalapaññattipakaraṇa-mūlaṭīkā</title> says: (<foreign type="quote" xml:lang="pi">ananussutesu dhammesūti ca ananussutesu saccesūti
-                        attho</foreign>). http://www.tipitaka.org/romn/cscd/abh03t.tik1.xml).</note>
+                        sense of “truth.” For example, the <title xml:lang="pi">Puggala­paññattipa­karaṇa-mūlaṭīkā</title> says: <foreign type="quote" xml:lang="pi">ananussutesu dhammesūti ca ananussutesu saccesūti
+                        attho</foreign>. http://www.tipitaka.org/romn/cscd/abh03t.tik1.xml).</note>
                   that I had not hitherto heard, <ref cRef="F.275.b"/> thinking, ‘This is suffering, a truth of
                   noble beings,’ vision arose; knowledge, apprehension, understanding, and
                      realization<note place="end" index="15" xml:id="UT22084-072-037-98">The <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title> does not include “realization”
                      (Tibetan: <foreign type="term" xml:lang="Bo-Ltn">rtogs pa</foreign>) in this
-                     and the following several repetitions of this phrase. Instead the list only
+                     or the following several repetitions of this phrase. Instead the list only
                      includes “knowledge (<foreign type="term" xml:lang="Sa-Ltn">jñāna</foreign>),
                      apprehension (<foreign type="term" xml:lang="Sa-Ltn">vidyā</foreign>), and
                      understanding (<foreign type="term" xml:lang="Sa-Ltn">buddhi</foreign>)” (Gnoli
                      1977, p. 135). </note> arose.</p>
                <milestone unit="chunk" xml:id="UT22084-072-037-79"/>
                <p tid="18">“Monks, as I focused my mind correctly on the things that I had not
-                  hitherto heard, thinking, ‘<note place="end" index="16" xml:id="UT22084-072-037-99"> At this point Toh 337 includes the phrase “This is
-                     suffering”. However, we have omitted this, since the phrase is absent in Toh 1
-                     and Toh 301 (and in <foreign xml:lang="Bo-Ltn">g.yung</foreign>,
-                        <foreign>li</foreign>, <foreign>pe</foreign>, <foreign xml:lang="Bo-Ltn">snar</foreign>, and <foreign>co</foreign>), as well as the <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title>.</note>This is the origin of
-                  suffering, this is the cessation of suffering, and this is the path that leads to
+                  hitherto heard, thinking, ‘This is the origin of
+                  suffering,<note place="end" index="16" xml:id="UT22084-072-037-99">Before the phrase
+                     “This is the origin of suffering,” Toh 337 in the Degé Kangyur includes the phrase “This is
+                     suffering.” However, here we have omitted it, as it is absent in all other 
+                     versions of this passage, including the recensions of this sūtra in the Yonglé, Lithang, Coné, 
+                     Narthang, and Peking Kangyurs; the Sanskrit of the <title xml:lang="Sa-Ltn">Saṅgha­bheda­vastu</title>; 
+                     and the Tibetan of both Toh 1 and Toh 301 in D and other Kangyurs.</note> this is 
+                  the cessation of suffering, and this is the path leading to
                   the cessation of suffering,’ vision arose; knowledge, apprehension, understanding,
                   and realization arose.</p>
                <milestone unit="chunk" xml:id="UT22084-072-037-11"/>
@@ -266,8 +266,8 @@
                   realization arose. </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-81"/>
              <p tid="22">“Monks, as I focused my mind correctly on the things that I had not
-                  hitherto heard, thinking, ‘With higher knowledge I should cultivate the path that
-                  leads to the cessation of suffering, that truth of noble beings,’ vision arose;
+                  hitherto heard, thinking, ‘With higher knowledge I should cultivate the path
+                  leading to the cessation of suffering, that truth of noble beings,’ vision arose;
                   knowledge, apprehension, understanding, and realization arose. </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-13"/>
                <p tid="23">“Monks, as I focused my mind correctly on the things that I had not
@@ -288,8 +288,8 @@
                   realization arose. </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-83"/>
                <p tid="26">“Monks, as I focused my mind correctly on the things that I had not
-                  hitherto heard, thinking, ‘With higher knowledge I have cultivated the path that
-                  leads to the cessation of suffering, that truth of noble beings,’ vision arose;
+                  hitherto heard, thinking, ‘With higher knowledge I have cultivated the path
+                  leading to the cessation of suffering, that truth of noble beings,’ vision arose;
                   knowledge, apprehension, understanding, and realization arose.</p>
                <milestone unit="chunk" xml:id="UT22084-072-037-15"/>
                <p tid="27">“Monks, until I had achieved the vision, knowledge, apprehension,
@@ -299,48 +299,49 @@
                      four truths, and (3) knowing that the respective goals of the four truths have
                      been accomplished. When these three stages are applied to each of the four
                      truths, there are twelve aspects in all. For a classical explanation of this
-                     enumeration by Haribhadra (8th cent. CE), see Sparham 2008, p. 264. See also
+                     enumeration by Haribhadra (eighth cent.), see Sparham 2008, p. 264. See also
                      Anderson 1999, p. 70. Note that these twelve aspects are unrelated to the
                      alternative enumeration of sixteen aspects associated with the four truths
                      (four for each truth). The sixteen aspects counteract sixteen incorrect views
                      associated with the four truths. On the sixteen aspects, see Buswell 2013, p.
                      304-305. For a classical account by Candrakīrti (c. 570-650 CE), see May 1959,
                      p. 212-216. </note> I had not been freed from the world replete with gods,
-                  māras, Brahmā, mendicants, Brahmins, humans and gods. I had not escaped from it,
-                  severed ties with it, or been delivered from it. Nor did I dwell much with a mind
+                  māras, Brahmā, mendicants, brahmins, humans, and gods. I had not escaped from it,
+                  severed ties with it, or been delivered from it. Nor did I dwell extensively with a mind
                   free from error. Monks, I did not have the knowledge that I had fully awakened to
-                  unsurpassed and perfect buddhahood.’ </p>
+                  unsurpassed and perfect buddhahood.</p>
                <milestone unit="chunk" xml:id="UT22084-072-037-16"/>
                <p tid="28">“Monks, once I had achieved the vision, knowledge, apprehension,
                   understanding, and realization of turning these four truths of noble beings in
-                  three phases with twelve aspects, I had been freed from the world replete with
-                  gods, māras, Brahmā, mendicants, Brahmins, humans and gods. I had escaped from it,
-                  severed ties with it, and been delivered from it. I dwelled much with a mind free
+                  three phases with twelve aspects, I was freed from the world replete with
+                  gods, māras, Brahmā, mendicants, brahmins, humans, and gods. I had escaped from it,
+                  severed ties with it, and been delivered from it. I dwelled extensively with a mind free
                   from error. <ref cRef="F.276.b"/> Monks, I then had the knowledge that I had fully awakened to
-                  unsurpassed and perfect buddhahood.’”<note place="end" index="20" xml:id="UT22084-072-037-103"> At this point, the corresponding passage in the
+                  unsurpassed and perfect buddhahood.”<note place="end" index="20" xml:id="UT22084-072-037-103"> At this point, the corresponding passage in the
                         <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> ends (Lefmann, p.
                      418).</note>
                </p>
+                    <lb/>
                <milestone unit="chunk" xml:id="UT22084-072-037-17"/>
                <p tid="29">When the Blessed One had given this Dharma discourse, venerable
                   Kauṇḍinya, along with eighty thousand gods, achieved the Dharma vision that is
                   free from dust and stainless with regard to phenomena. </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-18"/>
-               <p tid="30">The Blessed One now spoke to venerable Kauṇḍinya, “Kauṇḍinya, did you
+               <p tid="30">The Blessed One now asked venerable Kauṇḍinya, “Kauṇḍinya, did you
                   understand the Dharma?”</p>
                <p tid="31">“Blessed One,” he replied, “I understood.” </p>
-               <p tid="32">“Kauṇḍinya, did you understand? Did you understand? </p>
+               <p tid="32">“Kauṇḍinya, did you understand? Did you understand?”</p>
                <p tid="33">“Blissful One,” he replied, “I understood. I understood.”</p>
                <p tid="34">“Because venerable Kauṇḍinya has understood the Dharma, venerable
                   Kauṇḍinya shall now be known as Ājñātakauṇḍinya.”<note place="end" index="21" xml:id="UT22084-072-037-104"> This name means “Kauṇḍinya who has
-                     understood”.</note>
+                     understood.”</note>
                </p>
                <milestone unit="chunk" xml:id="UT22084-072-037-19"/>
                <p tid="35">At that point the terrestrial yakṣas called out, “Venerable Kauṇḍinya has
                   understood the Dharma!” And they continued, “Friends, in the Deer Park at
                   Ṛṣivadana by Vārāṇasī, the Blessed One has turned the wheel of Dharma in three
                   phases with twelve aspects. He has turned the wheel of Dharma in a way that no
-                  mendicant or Brahmin, and no god, māra, or Brahmā in the world could ever do in
+                  mendicant or brahmin, and no god, māra, or Brahmā in the world could ever do in
                   accord with the Dharma. He has done so for the benefit of many beings, for the
                   happiness of many beings, out of love for the world, and for the welfare, benefit,
                   and happiness of gods and humans. Hence, the gods will flourish and the demigods
@@ -351,20 +352,22 @@
                   as well as to the gods in the Heaven of the Four Great Kings, the Heaven of the
                   Thirty-Three, the Heaven Free from Strife, the Heaven of Joy, the Heaven of
                   Delighting in Emanations, the Heaven of Making Use of Others’ Emanations, and all
-                  the way to the Brahmā realm. Thus, also the gods in the Brahmā Realm announced,
+                  the way to the Brahmā realm. Thus, also the gods in the Brahmā realm announced,
                   “Friends, in the Deer Park at Ṛṣivadana by Vārāṇasī, <ref cRef="F.277.a"/> the Blessed One has
                   turned the wheel of Dharma in three phases with twelve aspects. He has turned the
-                  wheel of Dharma in a way that no mendicant or Brahmin, and no god, māra, or Brahmā
+                  wheel of Dharma in a way that no mendicant or brahmin, and no god, māra, or Brahmā
                   in the world could ever do in accord with the Dharma. He has done so for the
                   benefit of many beings, for the happiness of many beings, out of love for the
                   world, and for the welfare, benefit, and happiness of gods and humans. Hence, the
                   gods will flourish and the demigods will be on the wane.”</p>
+               <lb/>
                <milestone unit="chunk" xml:id="UT22084-072-037-21"/>
                <p tid="37">In the Deer Park at Ṛṣivadana by Vārāṇasī, the Blessed One turned the
                   wheel of Dharma in three phases with twelve aspects. Therefore, this Dharma
                   teaching was named <title xml:lang="en">Turning the Wheel of Dharma</title>.<note place="end" index="22" xml:id="UT22084-072-037-105"> Toh 1 (p. 44a.5) and Toh
                      301 (p. 61b.3) end at this point.</note>
                </p>
+                    <lb/>
                <p tid="38">This completes <title xml:lang="en">The Sūtra of the Wheel of
                      Dharma</title>.</p>
             </div>
@@ -383,37 +386,39 @@
                   kyi bka’ bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China
                   Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe skrun
                   khang (China Tibetology Publishing House), 2006–9, vol. 72, p. 794–799.</bibl>
-               <bibl xml:id="UT22084-072-037-51">Anderson, Carol S. 1999. <title xml:lang="en">Pain
+               <bibl xml:id="UT22084-072-037-51">Anderson, Carol S. <title xml:lang="en">Pain
                      and its Ending: The Four Noble Truths in the Theravāda Buddhist Canon</title>.
-                  Richmond, Surrey: Curzon. </bibl>
-               <bibl xml:id="UT22084-072-037-52">Bodhi, Bhikkhu. 2000. <title xml:lang="en">The
-                     Connected Discourses of the Buddha</title>. Boston: Wisdom Publications.</bibl>
-               <bibl xml:id="UT22084-072-037-53">Bronkhorst, Johannes. 1993. <title xml:lang="en">The Two Traditions of Meditation in Ancient India</title>. Delhi: Motilal
-                  Banarsidass</bibl>
-               <bibl xml:id="UT22084-072-037-54">Buswell, Robert E. and Donald S. Lopez Jr. 2013.
+                  Richmond, Surrey: Curzon, 1999.</bibl>
+               <bibl xml:id="UT22084-072-037-52">Bodhi, Bhikkhu. <title xml:lang="en">The
+                  Connected Discourses of the Buddha</title>. Boston: Wisdom Publications, 2000.</bibl>
+               <bibl xml:id="UT22084-072-037-53">Bronkhorst, Johannes. <title xml:lang="en">The Two Traditions of Meditation in Ancient India</title>. Delhi: Motilal
+                  Banarsidass, 1993.</bibl>
+               <bibl xml:id="UT22084-072-037-54">Buswell, Robert E. and Donald S. Lopez Jr.
                      <title xml:lang="en">The Princeton Dictionary of Buddhism</title>. Princeton:
-                  Princeton University Press.</bibl>
-               <bibl xml:id="UT22084-072-037-55"> Kloppenborg, Ria. 1973. <title xml:lang="en">The
+                  Princeton University Press, 2013.</bibl>
+               <bibl xml:id="UT22084-072-037-62">Dharmachakra Translation Committee.
+                  <title xml:lang="en">The Play in Full</title>. (<title xml:lang="en">Lalitavistara</title>). 84000:Translating the Words of the Buddha, 2013. See <ref target="http://read.84000.co/translation/UT22084-046-001.html">The Play in Full</ref>.</bibl>
+               <bibl xml:id="UT22084-072-037-57">Gnoli, Raniero. <title xml:lang="en">The
+                  Gilgit manuscript of the Saṅghabhedavastu: Being the 17th and last section of
+                  the Vinaya of the Mūlasarvāstivādin</title>, Part I. Roma: Istituto Italiano
+                  per il Medio ed Estremo Oriente, 1977.</bibl>
+               <bibl xml:id="UT22084-072-037-55">Kloppenborg, Ria. <title xml:lang="en">The
                      Sūtra on the Foundation of the Buddhist Order (Catuṣpariṣatsūtra): Relating
                      the Events from the Bodhisattva's Enlightenment up to the Conversion of
                      Upatiṣya (Śāriputra) and Kolita (Maudgalyāyana)</title>. Leiden:
-                  Brill.</bibl>
-               <bibl xml:id="UT22084-072-037-56">May, Jacques. 1959. <title xml:lang="fr">Prasannapadā madhyamakavṛtti: douze chapitres traduits du sanscrit et du
-                     tibétain</title>. Paris: Adrien-Maisonneuve.</bibl>
-               <bibl xml:id="UT22084-072-037-57">Gnoli, Raniero. 1977. <title xml:lang="en">The
-                     Gilgit manuscript of the Saṅghabhedavastu: Being the 17th and last section of
-                     the Vinaya of the Mūlasarvāstivādin</title>, Part I. Roma: Istituto Italiano
-                  per il Medio ed Estremo Oriente.</bibl>
-               <bibl xml:id="UT22084-072-037-58">Lefmann, Salomon (1883). <title xml:lang="Sa-Ltn">Lalita Vistara</title>. Halle: Verlag der Buchhandlung des
-                  Waisenhauses.</bibl>
-               <bibl xml:id="UT22084-072-037-59">Sastri, N. Aiyaswami. 1938. “The First Sermon of
+                  Brill, 1973.</bibl>
+               <bibl xml:id="UT22084-072-037-58">Lefmann, Salomon. <title xml:lang="Sa-Ltn">Lalita Vistara</title>. Halle: Verlag der Buchhandlung des
+                  Waisenhauses, 1883.</bibl>
+               <bibl xml:id="UT22084-072-037-56">May, Jacques. <title xml:lang="fr">Prasannapadā madhyamakavṛtti: douze chapitres traduits du sanscrit et du
+                  tibétain</title>. Paris: Adrien-Maisonneuve, 1959.</bibl>
+               <bibl xml:id="UT22084-072-037-59">Sastri, N. Aiyaswami. “The First Sermon of
                   the Buddha” in <title xml:lang="en">New Indian Antiquary</title>, vol. 1. Bombay:
-                  Karnatak Publishing House.</bibl>
-               <bibl xml:id="UT22084-072-037-60">Skilling, Peter. 1993. “Theravadin Literature in
+                  Karnatak Publishing House, 1938.</bibl>
+               <bibl xml:id="UT22084-072-037-60">Skilling, Peter. “Theravadin Literature in
                   Tibetan Translation” in <title xml:lang="en">Journal of the Pali Text
-                     Society</title>, vol. 19: 69-20l.</bibl>
-               <bibl xml:id="UT22084-072-037-61">Sparham, Gareth. 2008. <title xml:lang="en">Abhisamayālaṃkāra with Vṛtti and Ālokā</title>, vol. 2. Fremont: Jain
-                  Publishing Company.</bibl>
+                     Society</title>, 1993, vol. 19: 69-201.</bibl>
+               <bibl xml:id="UT22084-072-037-61">Sparham, Gareth. <title xml:lang="en">Abhisamayālaṃkāra with Vṛtti and Ālokā</title>, vol. 2. Fremont: Jain
+                  Publishing Company, 2008.</bibl>
             </div>
          </div>
          <div type="glossary">
@@ -436,7 +441,7 @@
                      <term xml:lang="bo">ལྷ་མ་ཡིན་</term>
                      <term xml:lang="Sa-Ltn">asura</term>
                      <term type="definition">The traditional adversaries of the devas (gods) who are
-                        frequently portrayed in the Brahmanical mythology as having a disruptive
+                        frequently portrayed in Brahmanical mythology as having a disruptive
                         effect on cosmological and social harmony.</term>
                   </gloss>
                </item>
@@ -447,8 +452,19 @@
                      <term xml:lang="bo">འཕགས་པའི་བདེན་པ་</term>
                      <term xml:lang="Sa-Ltn">āryasatya</term>
                      <term type="definition">The four truths that the Buddha realized: suffering,
-                        origin, cessation, and path. They are named "truths of noble beings" since
-                        only "noble beings" with knowledge of reality can understand them.</term>
+                        origin, cessation, and path. They are named “truths of noble beings” since
+                        only “noble beings” with knowledge of reality can understand them.</term>
+                  </gloss>
+               </item>
+               <item>
+                  <gloss type="term" priority="0" xml:id="UT22084-072-037-106">
+                     <term>truths of the noble ones</term>
+                     <term xml:lang="Bo-Ltn">’phags pa’i bden pa </term>
+                     <term xml:lang="bo">འཕགས་པའི་བདེན་པ་</term>
+                     <term xml:lang="Sa-Ltn">āryasatya</term>
+                     <term type="definition">The four truths that the Buddha realized: suffering,
+                        origin, cessation, and path. They are named “truths of noble beings” since
+                        only “noble beings” with knowledge of reality can understand them.</term>
                   </gloss>
                </item>
                <item>
@@ -459,7 +475,7 @@
                      <term xml:lang="Sa-Ltn">Brahmā</term>
                      <term type="definition">A high ranking deity, presiding over a divine world
                         where other beings consider him the creator; he is also considered to be the
-                        'Lord of the Sahā-world' (our universe)</term>
+                        “Lord of the Sahā-world (our universe).”</term>
                   </gloss>
                </item>
                <item>
@@ -490,7 +506,7 @@
                      <term xml:lang="bo">རི་དགས་ཀྱི་ནགས་</term>
                      <term xml:lang="Sa-Ltn">mṛgadāva</term>
                      <term type="definition">The forest, located outside of Varanasi, where the
-                        Buddha first taught the Dharma</term>
+                        Buddha first taught the Dharma.</term>
                   </gloss>
                </item>
                <item>
@@ -579,7 +595,7 @@
                      <term xml:lang="Bo-Ltn">tshangs ris </term>
                      <term xml:lang="bo">ཚངས་རིས་</term>
                      <term xml:lang="Sa-Ltn">brahmakāyika</term>
-                     <term type="definition">The lowest heaven of the form realm</term>
+                     <term type="definition">The lowest heaven of the form realm.</term>
                   </gloss>
                </item>
             </list>

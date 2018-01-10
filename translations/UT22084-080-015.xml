@@ -53,6 +53,9 @@
                     <author role="translatorTib">Trakpa Gyaltsen</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:08:27 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -275,7 +278,7 @@ Appendix: Sanskrit text-->
                         maṇḍala of Caṇḍa­mahā­roṣaṇa. The initiation itself would not be effective
                         unless the pupil has realized the empty nature of mind, and the practices
                         must not be undertaken by someone who has not achieved sufficient control
-                        over his ‌prāṇa-mind (<foreign type="term" xml:lang="Sa-Ltn">vāyucitta</foreign>). However, as there are currently no lineage
+                        over his <term type="ignore">prāṇa</term>-mind (<foreign type="term" xml:lang="Sa-Ltn">vāyucitta</foreign>). However, as there are currently no lineage
                         masters who could give the Caṇḍa­mahā­roṣaṇa empowerment or even the reading
                         authorization (Tib. <foreign type="term" xml:lang="Bo-Ltn">lung</foreign>)
                         for the formal Caṇḍa­mahā­roṣaṇa sādhanas, or who could give instruction in
@@ -439,7 +442,7 @@ Appendix: Sanskrit text-->
                         things glow at night, or causing iron to appear as copper—might have been
                         included in the tantra because of their curiosity rather than their
                         practical value. Obtaining the necessary requisites for some of these
-                        practices might require ‌killing animals or performing other acts
+                        practices might require <term type="ignore">killing</term> animals or performing other acts
                         conventionally regarded as unwholesome. A few of these practices might
                         appear, by society’s norms, as frivolous, if not gratuitously harmful. These
                         “odd” elements are, however, neither unique to the CMT (many tantras include
@@ -469,14 +472,13 @@ Appendix: Sanskrit text-->
                     <p tid="32">Thus have I heard at one time. Lord Vajrasattva dwelt within the vulva of the
                         <term>goddess of the Vajra Realm</term>, which is the essence of body, speech, and mind
                         of all tathāgatas. He dwelt there together with many hosts of vajra yogins
-                        and yoginīs, namely: White ‌Acala vajra yogin, Yellow ‌Acala vajra yogin, Red
-                        Acala vajra yogin, Green ‌Acala vajra yogin, Delusion Vajrī vajra yoginī,
+                        and yoginīs, namely: <term>White Acala</term> vajra yogin, <term>Yellow Acala</term> vajra yogin, <term>Red Acala</term> vajra yogin, <term>Green Acala</term> vajra yogin, Delusion Vajrī vajra yoginī,
                         Calumny Vajrī vajra yoginī, Passion Vajrī vajra yoginī, and Envy Vajrī vajra
                         yoginī. He dwelt there with trillions of yogins and yoginīs, headed by those
                         just mentioned. <!--[I.1]-->
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-080-015-26"/>
-                    <p tid="33">Then Lord Vajrasattva, having entered the absorption of Black ‌Acala,
+                    <p tid="33">Then Lord Vajrasattva, having entered the absorption of <term>Black Acala</term>,
                         spoke:</p>
                     <lg tid="34">
                         <l>“Freed from existence and nonexistence,</l>
@@ -508,7 +510,7 @@ Appendix: Sanskrit text-->
                         <l>In the body of every woman.” <!--[I.5]--></l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-080-015-30"/>
-                    <p tid="39">The lord Black ‌Acala deeply kissed and firmly embraced Hatred Vajrī, <ref cRef="F.305.a"/> and said:</p>
+                    <p tid="39">The lord Black <term type="">Acala</term> deeply kissed and firmly embraced Hatred Vajrī, <ref cRef="F.305.a"/> and said:</p>
                     <lg tid="40">
                         <l>“Goddess, goddess! Very enjoyable,</l>
                         <l>Secret and extremely hard to come by,</l>
@@ -763,29 +765,29 @@ Appendix: Sanskrit text-->
                     <milestone unit="chunk" xml:id="UT22084-080-015-64"/>
                     <p tid="77">“Now comes the worship mantra:</p>
                         
-                        <ab type="mantra" tid="1885">“<foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Black ‌Acala,
+                        <ab type="mantra" tid="1885">“<foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Black Acala</term>,
                                 accept this flower! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ
                                     phaṭ</foreign>!<note place="end" index="14" xml:id="UT22084-080-015-2155">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">oṁ kṛṣṇācala puṣpaṃ pratīccha hūṁ
                                         phaṭ</foreign>, and so on.</note>
                             </ab>
                             
                         <ab type="mantra" tid="1886">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, White ‌Acala,
+                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>White Acala</term>,
                                 accept this flower! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ
                                     phaṭ</foreign>!</ab>
                             
                         <ab type="mantra" tid="1887">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Yellow ‌Acala,
+                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Yellow Acala</term>,
                                 accept this flower! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ
                                     phaṭ</foreign>!</ab>
                             
                                 <ab type="mantra" tid="1888">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Red ‌Acala,
+                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Red Acala</term>,
                                 accept this flower! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ
                                     phaṭ</foreign>!</ab>
                             
                                 <ab type="mantra" tid="1889">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Green ‌Acala,
+                        <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Green Acala</term>,
                                 accept this flower! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ
                                     phaṭ</foreign>! <!--[II.20]-->
                     </ab>
@@ -998,7 +1000,7 @@ Appendix: Sanskrit text-->
                     <p tid="109">“One should invite the disciple, crowned with the seal of Caṇḍa­mahā­roṣaṇa, to
                         sit down, visualizing him in Caṇḍa­mahā­roṣaṇa’s form. One should recite,
                             ‘<foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, blessed lord
-                        Black ‌Acala, you are an accomplished being! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ phaṭ</foreign>!’<note place="end" index="24" xml:id="UT22084-080-015-2165">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">oṁ he śrī­bhagavan kṛṣṇācala siddhas
+                        <term>Black Acala</term>, you are an accomplished being! <foreign type="mantra" xml:lang="Sa-Ltn">Hūṁ phaṭ</foreign>!’<note place="end" index="24" xml:id="UT22084-080-015-2165">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">oṁ he śrī­bhagavan kṛṣṇācala siddhas
                                 tvaṃ hūṁ phaṭ</foreign>.</note> Then one should anoint him as
                         before. In this way, the name empowerment of the five Acalas, according to
                         the color division of black and so forth, should be given to the sādhaka.
@@ -1629,26 +1631,26 @@ Appendix: Sanskrit text-->
                         mantras specific to each of them: </p>
                     
                         
-                    <ab type="mantra" tid="1899">“<foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Black ‌Acala,
+                    <ab type="mantra" tid="1899">“<foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Black Acala</term>,
                                     <foreign type="mantra">hūṁ, phaṭ</foreign>!<note place="end" index="41" xml:id="UT22084-080-015-2182">Skt. <foreign xml:lang="Sa-Ltn" type="mantra">oṁ kṛṣṇācala hūṁ
                                         phaṭ</foreign>. </note>40 </ab>
                     <ab type="mantra" tid="1900">
-                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, White ‌Acala,
+                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>White Acala</term>,
                                     <foreign type="mantra" xml:lang="Sa-Ltn">hūṁ,
                                     phaṭ</foreign>!<note place="end" index="42" xml:id="UT22084-080-015-2183">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">oṁ śvetācala hūṁ phaṭ</foreign>.</note>
                             </ab>
                     <ab type="mantra" tid="1901">
-                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Yellow ‌Acala,
+                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Yellow Acala</term>,
                                     <foreign type="mantra">hūṁ, phaṭ</foreign>!<note place="end" index="43" xml:id="UT22084-080-015-2184">Skt. <foreign xml:lang="Sa-Ltn" type="mantra">oṁ pītācala hūṁ
                                         phaṭ</foreign>.</note>
                             </ab>
                     <ab type="mantra" tid="1902">
-                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Red ‌Acala,
+                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Red Acala</term>,
                                     <foreign type="mantra">hūṁ, phaṭ</foreign>!<note place="end" index="44" xml:id="UT22084-080-015-2185">Skt. <foreign xml:lang="Sa-Ltn" type="mantra">oṁ raktācala hūṁ
                                         phaṭ</foreign>.</note>
                             </ab>
                     <ab type="mantra" tid="1903">
-                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, Green ‌Acala,
+                                <foreign type="mantra" xml:lang="Sa-Ltn">Oṁ</foreign>, <term>Green Acala</term>,
                                     <foreign type="mantra">hūṁ, phaṭ</foreign>!”<note place="end" index="45" xml:id="UT22084-080-015-2186">Skt. <foreign xml:lang="Sa-Ltn" type="mantra">oṁ śyāmācala hūṁ
                                         phaṭ</foreign>.</note> <!--[V.5]-->
                             </ab>
@@ -3580,7 +3582,7 @@ Appendix: Sanskrit text-->
                     <p tid="468">“Now comes the sādhana. One should recite the mantra 100,000 times,
                         completing in this way the preliminary practice. Then, starting on the first
                         day of the dark fortnight, one should recite every day at the three
-                        junctions of the day until the full-‌moon day. Then at the end, one should
+                        junctions of the day until the full-<term type="ignore">moon</term> day. Then at the end, one should
                         recite the whole night, offering a great pūjā from sunset until sunrise.
                         This mantra will then be mastered. From then on, one can accomplish all
                         actions. <!--[XII.9]-->
@@ -3611,7 +3613,7 @@ Appendix: Sanskrit text-->
                     <milestone unit="chunk" xml:id="UT22084-080-015-404"/>
                     <p tid="471">“Alternatively one should request, according to one’s wish, the magical power
                         of the sword, the ointment for invisibility, magical pills, shoes for
-                        sky-travel, foot ointment for ‌fast walking, a kingdom, superhuman potency
+                        sky-travel, foot ointment for <term type="ignore">fast</term> walking, a kingdom, superhuman potency
                         for sensual gratification, knowledge of spells, wealth, poetic skill,
                         learning, yakṣas, yakṣiṇīs, longevity elixir, philosopher’s stone, the
                         knowledge of alchemy, and so forth—the lord will give all of this. <!--[XII.12]-->
@@ -3619,9 +3621,9 @@ Appendix: Sanskrit text-->
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-080-015-405"/>
                     <p tid="472">“Or else one could commission someone to paint Sole Hero on a canvas and
-                        practice as before. Here in the painting of Sole Hero, Black ‌Acala is
-                        embraced by Hatred Vajrī; White ‌Acala by Delusion Vajrī; Yellow ‌Acala by
-                        Calumny Vajrī; Red ‌Acala by Passion Vajrī; and Green ‌Acala should be painted
+                        practice as before. Here in the painting of Sole Hero, <term>Black Acala</term> is
+                        embraced by Hatred Vajrī; <term>White Acala</term> by Delusion Vajrī; <term>Yellow Acala</term> by
+                        Calumny Vajrī; <term>Red Acala</term> by Passion Vajrī; and <term>Green Acala</term> should be painted
                         embraced by Envy Vajrī. Or else the lord should be painted alone, without a
                         consort. <!--[XII.13]-->
                     </p>
@@ -4451,9 +4453,9 @@ Appendix: Sanskrit text-->
                         cardinal directions is the great affection. The colors yellow, dark-green,
                         white, and black in the intermediary directions are the priestly, merchant,
                         warrior, and peasant castes. The moon and the sun are semen and menstrual
-                        blood. The sword in the center is the emblem of Black ‌Acala. The knives and
+                        blood. The sword in the center is the emblem of <term>Black Acala</term>. The knives and
                         double vajras in the cardinal directions represent their respective deities,
-                        starting with White ‌Acala in the east. <ref cRef="F.327.b"/> In the
+                        starting with <term>White Acala</term> in the east. <ref cRef="F.327.b"/> In the
                         intermediate directions, they represent their respective goddesses, starting
                         with Delusion Vajrī in the southeast. These are the purities of the maṇḍala.
                         <!--[XV.8]-->
@@ -4479,7 +4481,7 @@ Appendix: Sanskrit text-->
                         emerges from the womb as a newborn. One kills the father in order to take
                         his place, and seizes the mother because of motherly love received in one’s
                         former births, and also for the sake of exquisite pleasure. One, too, begets
-                        sons and daughters, who are, respectively, White ‌Acala, Delusion Vajrī, and
+                        sons and daughters, who are, respectively, <term>White Acala</term>, Delusion Vajrī, and
                         so forth. The sons, for their part, are patricides, wholly intent on
                         fornication, and nothing but enemies. One should therefore kill them. As for
                         the daughters, one should make love to them because of motherly love

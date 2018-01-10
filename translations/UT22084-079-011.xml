@@ -24,8 +24,7 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <name>84000: Translating the Words of the <term type="ignore">Buddha</term>
-                    </name> is a global non-profit
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit
                     initiative that aims to translate all of the Buddha’s words into modern
                     languages, and to make them available to everyone.
                 <lb/>
@@ -56,7 +55,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 18/12/2017 at 16:49:31 by andre</note>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:07:58 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

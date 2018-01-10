@@ -53,6 +53,9 @@
                     <author role="translatorTib">Śākyaprabha</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:10:46 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -198,7 +201,7 @@
                         yakṣa variety of graha. The great king Dhṛtarāṣṭra dwells in the east, where
                         he reigns over the gandharva grahas. The great king Virūḍhaka rules in the
                         south, where his entourage consists of kumbhāṇḍa grahas. And the great king
-                        Virūpākṣa reigns in the west, where his entourage is nāga ‌grahas. Each group
+                        Virūpākṣa reigns in the west, where his entourage is nāga <term type="ignore">grahas</term>. Each group
                         of grahas, moreover, is responsible for a particular category of illness,
                         with its own unique set of physical symptoms. </p>
                     <milestone unit="chunk" xml:id="UT22084-090-002-9"/>
@@ -381,7 +384,7 @@
                         and offered burning butter-lamps, the patient should then perform worship at
                         that shrine. </p>
                     <milestone unit="chunk" xml:id="UT22084-090-002-26"/>
-                    <p tid="27">“The symptoms of being afflicted by a yakṣa ‌graha belonging to my entourage,
+                    <p tid="27">“The symptoms of being afflicted by a yakṣa <term type="ignore">graha</term> belonging to my entourage,
                         Venerable Blessed One, are as follows: </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-090-002-27"/>
@@ -418,7 +421,7 @@
                     <milestone unit="chunk" xml:id="UT22084-090-002-31"/>
                     <p tid="33">Next, the great king Dhṛtarāṣṭra arose from his seat, draped his upper robe
                         on one shoulder, and knelt on his right knee. Bowing to the Blessed One with
-                        palms joined, he said to him, “The symptoms of being afflicted by a gandharva ‌graha from my entourage,
+                        palms joined, he said to him, “The symptoms of being afflicted by a gandharva <term type="ignore">graha</term> from my entourage,
                         Blessed One, are as follows: <ref cRef="F.66.a"/>
                     </p>
                     <lb/>
@@ -490,7 +493,8 @@
                     <milestone unit="chunk" xml:id="UT22084-090-002-41"/>
                     <p tid="45">The great king Virūpākṣa now arose from his seat, draped his upper robe on
                         one shoulder, and kneeled on his right knee <ref cRef="F.66.b"/>. Bowing to
-                        the Blessed One with palms joined, he said to him, “The symptoms of being afflicted by a fine-winged nāga ‌graha<note place="end" index="9" xml:id="UT22084-090-002-741">The
+                        the Blessed One with palms joined, he said to him, “The symptoms of being afflicted by a fine-winged nāga <term type="ignore">graha</term>
+                        <note place="end" index="9" xml:id="UT22084-090-002-741">The
                             Sanskrit term <foreign xml:lang="Bo-Ltn" type="term">suparṇī</foreign>, translated by the Tibetan term <foreign xml:lang="Bo-Ltn" type="term">’dab bzang</foreign>, literally means
                             “fine-winged” or “beautiful-leaved.” While this can be an epithet for
                             the mythical garuḍa bird, here it seems to simply describe a general
