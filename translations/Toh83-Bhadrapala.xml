@@ -55,7 +55,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/12/2017 at 18:18:15 by andre</note>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 15:49:24 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -152,7 +152,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-9"/>
                     <p tid="10"> In a statement that could be read as foreshadowing the Cittamātra conception
                         of an immaculate substratum consciousness, and the <foreign xml:lang="Sa-Ltn">tathāgatagarbha</foreign> or Buddha-essence doctrine,
-                        the Buddha says: “the <term>element of consciousness</term> is completely purified; it
+                        the Buddha says: “the element of consciousness is completely purified; it
                         encompasses all things, but it is not tainted by anything.” Consciousness
                         acquires merit and non-merit in a similar way to a jewel taking on the color
                         of whatever light to which it is exposed. </p>
@@ -367,17 +367,17 @@
                         ceases.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-31"/>
                     <p tid="40">“As an analogy, Bhadrapāla, even though the wind element is formless, it
-                        manifests in the ‌form of things that are both demonstrable and tangible. It
+                        manifests in the <term type="ignore">form</term> of things that are both demonstrable and tangible. It
                         is demonstrable in the shaking and waving of trees, in the howling sound
                         wind makes, in the sensations of warmth and cold that it creates, even though
                         it has no perceptible limbs, eyes, or face, nor is it seen to have any
                         color, such as blue or white. Bhadrapāla, it is in just the same way that
-                        the element of ‌consciousness is not observed as form, and does not manifest
-                        as form, and thus you have to understand the element of ‌consciousness
+                        the element of consciousness is not observed as form, and does not manifest
+                        as form, and thus you have to understand the element of consciousness
                         through the particularities of its causes.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-32"/>
                     <p tid="41">“So, what are those causes? They are volition, feeling, and the element of
-                        dharmas. So, how does the element of ‌consciousness, after abandoning a body,
+                        dharmas. So, how does the element of consciousness, after abandoning a body,
                         assume feeling and volition? To illustrate that, consider how the wind
                         element absorbs a flower’s scent and carries it along; from its movement we
                         know the smell of divine flowers wafting through the air. Yet the wind
@@ -416,13 +416,13 @@
                         considered to have no form. In the same way, too, the element of
                         consciousness should be regarded as formless.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-36"/>
-                    <p tid="45">“How does the element of ‌consciousness abandon the body and then go to the
+                    <p tid="45">“How does the element of consciousness abandon the body and then go to the
                         next world? Bhadrapāla, when life ceases in this world due to the exhaustion
-                        of karma at the time of death, the element of ‌consciousness undergoes
+                        of karma at the time of death, the element of consciousness undergoes
                         transfer under the direction of karmic obscurations. Just as, for example,
-                        the element of ‌consciousness of an arhat who has reached the attainment of
+                        the element of consciousness of an arhat who has reached the attainment of
                         cessation remains cognizant after it has ceased internally, so, too, a dying
-                        person’s element of ‌consciousness retains the capacity for recollection
+                        person’s element of consciousness retains the capacity for recollection
                         after it has abandoned the body and cast aside the elements. That is how it
                         knows, ‘I made these votive offerings,’ as a physical feeling, a mental
                         feeling, and both types of feeling conjoined. At the time of death, it has
@@ -440,29 +440,29 @@
                         sprout, that it is called consciousness.<!--</canonicalGlossPassage>-->
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-38"/>
-                    <p tid="47">“Bhadrapāla, you went on to ask how the element of ‌consciousness abandons the
+                    <p tid="47">“Bhadrapāla, you went on to ask how the element of consciousness abandons the
                         body and then undergoes transfer. It is comparable to a reflection in a
                         mirror, or the imprint of a seal in clay. Take, as another analogy, the sun.
                         When it rises, dimness and darkness vanish, and when the sun vanishes,
                         darkness sets in; yet the presence of that darkness is neither constant nor
                         not constant. In the darkness, neither form nor feeling is visible and, in
-                        just the same way, once the body is born the element of ‌consciousness is
+                        just the same way, once the body is born the element of consciousness is
                         present in the body as if in darkness. That is to say, although no one sees
-                        consciousness, the element of ‌consciousness maintains its hold on the
+                        consciousness, the element of consciousness maintains its hold on the
                         body.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-39"/>
                     <p tid="48">“As another analogy, when a woman is carrying a child in her womb, she does
                         not know whether the child in her belly is a boy or a girl; whether it is
-                        dark, fair, or sallow; whether its ‌faculties are impaired or not; or whether
+                        dark, fair, or sallow; whether its <term type="ignore">faculties</term> are impaired or not; or whether
                         its limbs are well-proportioned. But she feels the child in her womb stir at
                         the touch of very hot food and drink. In the same way, sentient beings do
-                        not understand this element of ‌consciousness, and wonder about the nature of
+                        not understand this element of consciousness, and wonder about the nature of
                         this consciousness present in their body such that it causes them to come
                         and go, to stretch and bend, to close and open their eyes, and to perform
                         all kinds of actions, such as laughing, speaking, and thinking. <ref cRef="F.76.a"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-40"/>
-                    <p tid="49">“Furthermore, Bhadrapāla, the element of ‌consciousness is completely
+                    <p tid="49">“Furthermore, Bhadrapāla, the element of consciousness is completely
                         purified; it encompasses everything,<note place="end" index="4" xml:id="UT22084-044-003-218"> Here the text uses
                             the two words that together make up the Tibetan term for
                             “enlightenment”—“purified” (<foreign xml:lang="Bo-Ltn">s/byang</foreign>) and “comprehensive” (<foreign xml:lang="Bo-Ltn">chub</foreign>)—to describe consciousness.</note> yet it is not
@@ -470,7 +470,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-41"/>
                     <p tid="50">“Bhadrapāla, consciousness commands the following constituents: the six sense
                         organs, the objects of the six sense organs, the four elements, and the five
-                        ‌aggregates of ‌appropriation. Bhadrapāla, consider all these things to be
+                        aggregates of appropriation. Bhadrapāla, consider all these things to be
                         consciousness’s to command. To illustrate this, consider how a wooden puppet
                         connected to a rod can be made to do anything. How, Bhadrapāla, do you think
                         it runs, jumps, dances, or does any other number of things? What animates
@@ -481,35 +481,35 @@
                     <p tid="52">The Blessed One said, “Bhadrapāla, the puppet is animated by action, and yet
                         while action is something without form, consciousness makes it manifest. In
                         the same way, this body puppet of ours arises through the influence of
-                        consciousness, and the element of ‌consciousness animates different bodies.
-                        The element of ‌consciousness, because it generates a body, is also its
-                        creator. The element of ‌consciousness, because it adheres to the bodily
-                        elements, is also inexhaustible. The element of ‌consciousness, because it
+                        consciousness, and the element of consciousness animates different bodies.
+                        The element of consciousness, because it generates a body, is also its
+                        creator. The element of consciousness, because it adheres to the bodily
+                        elements, is also inexhaustible. The element of consciousness, because it
                         recollects its previous bodily state, is also perfectly intelligent.
-                        Consider the element of ‌consciousness to be like the rays of the sun. The
+                        Consider the element of consciousness to be like the rays of the sun. The
                         sun’s rays fall on foul-smelling things, dirty things, and corpses; yet
                         they do not become tainted by the odor. Neither does the sun reject those
-                        foul smells and go away. In the same way, the element of ‌consciousness may
-                        take rebirth among dogs or pigs that eat dirt and refuse, <ref cRef="F.76.b"/> but the element of ‌consciousness is not tainted by the offensive way they
+                        foul smells and go away. In the same way, the element of consciousness may
+                        take rebirth among dogs or pigs that eat dirt and refuse, <ref cRef="F.76.b"/> but the element of consciousness is not tainted by the offensive way they
                         live.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-43"/>
-                    <p tid="53">“Furthermore, Bhadrapāla, once the element of ‌consciousness abandons the
+                    <p tid="53">“Furthermore, Bhadrapāla, once the element of consciousness abandons the
                         body, it follows after virtue and non-virtue. How so? Once the formless
-                        element of ‌consciousness has abandoned this body, it retains its merit and
+                        element of consciousness has abandoned this body, it retains its merit and
                         demerit. As an analogy, the element of wind, emerging from a rocky ravine,
                         encounters a campaka tree, and carries away its fragrant scent as it passes;
                         it also carries the odor of the foul-smelling filth and corpses it passes.
                         Bhadrapāla, it assumes whatever scent is predominant. Just as the wind
                         element carries both kinds of smell as it passes, even though that wind
                         element itself, as well as the two kinds of smell, are formless, so, too,
-                        the element of ‌consciousness undergoes transfer from the body, carrying
+                        the element of consciousness undergoes transfer from the body, carrying
                         virtue and non-virtue with it as it is transferred. This is how you should
                         conceive of the transfer it undergoes.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-44"/>
                     <p tid="54">“As an analogy, although a person in a dream may be aware of all sorts of
                         things, he is not aware that his body is lying in bed. Similarly, sentient
                         beings who have encountered merit undergo transfer and migration as if they
-                        were dreaming a dream, but the element of ‌consciousness does not emerge from
+                        were dreaming a dream, but the element of consciousness does not emerge from
                         their throat, or from any other opening, for it does not seek out holes or
                         egresses.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-45"/>
@@ -526,7 +526,7 @@
                         flower acts as a condition for the mingling of the scent and the sesame oil.
                         However, it is not the case that the flower’s scent enters into the body of
                         the sesame seed. It is rather that those conditions cause the scent to be
-                        transferred and migrate. In just the same way the element of ‌consciousness,
+                        transferred and migrate. In just the same way the element of consciousness,
                         like the flower’s scent, is transferred through an unruptured eggshell. That
                         is also how you should view the transfer it undergoes.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-46"/>
@@ -540,21 +540,21 @@
                         mottled, black, or naturally changeable, is reborn solely from the element
                         of dharmas.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-47"/>
-                    <p tid="58">“Furthermore, Bhadrapāla, when the element of ‌consciousness abandons the body
+                    <p tid="58">“Furthermore, Bhadrapāla, when the element of consciousness abandons the body
                         at the time of death, it becomes a seed that perceives that it possesses
                         arms and legs; yet it possesses no limbs or any other body parts. As it
                         leaves the element of earth behind, it takes up the element of dharmas, and
                         the element of dharmas is accompanied by attention. That attention has the
                         capacity for a range of activity. Consciousness is what causes the element
                         of dharmas to be accompanied by attention, for no element of dharmas is
-                        observed apart from consciousness, nor is there any element of ‌consciousness
+                        observed apart from consciousness, nor is there any element of consciousness
                         apart from the element of dharmas. The air element follows in the wake of
                         consciousness, and moreover the earth element, and likewise all other
                         elements of form, be they of attention, feeling, or dharmas, follow after
                             it.” <ref cRef="F.77.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-48"/>
-                    <p tid="59">Bhadrapāla asked, “Blessed One, how is it that the element of ‌consciousness
+                    <p tid="59">Bhadrapāla asked, “Blessed One, how is it that the element of consciousness
                         possesses form?”</p>
                     <p tid="60">The Blessed One replied, “Bhadrapāla, in that regard, there is an inner form
                         and an outer form. What is inner form? The eye that perceives is outer form,
@@ -602,7 +602,7 @@
                     <p tid="67">Then, again Bhadrapāla asked, “Blessed One, how should we understand the
                         presence of consciousness in the body?” </p>
                     <p tid="68">The Blessed One replied, “Bhadrapāla, do not imagine consciousness to have
-                        been accumulated or heaped up. Why? Because the element of ‌consciousness
+                        been accumulated or heaped up. Why? Because the element of consciousness
                         arises and ceases. As an analogy, Bhadrapāla, a sprout emerges from
                         a seed; but no sprout will emerge from a seed that is rotten, or from a seed
                         that is damaged. And when a sprout is produced, Bhadrapāla, what do you
@@ -615,7 +615,7 @@
                         volition. At conception in the womb there is an early stage of feeling. In
                         the analogy, a sprout arises and, when it is the right season, it produces
                         flowers, and when it has flowered, the fruit is formed. It is in the same
-                        way that the element of ‌consciousness produces the body.</p>
+                        way that the element of consciousness produces the body.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-55"/>
                     <p tid="70">“Once the body has been formed, consciousness is not located in the limbs or
                         any other body part, but without consciousness the body will not develop. In
@@ -660,13 +660,13 @@
                         leaving it behind. When the seed element is given off to develop into
                         another tree, as the seasons change the elemental sap of the first tree
                         vanishes. Because its elemental sap vanishes, the tree becomes old and
-                        withered. It is likewise that the element of ‌consciousness, subtle and
+                        withered. It is likewise that the element of consciousness, subtle and
                         invisible though it is, generates bodies and then abandons them again before
                         producing other bodies. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-61"/>
                     <p tid="76">“As an analogy, where there is a little grain of barley, sesame seed, wheat
                         grain, soya bean, or mung bean, what is present is very little, like that
-                        volition. Just so, the element of ‌consciousness carries that volition to one
+                        volition. Just so, the element of consciousness carries that volition to one
                         or another kind of sentient being to which it is undergoing transfer, and,
                         keeping with it a little feeling <ref cRef="F.79.b"/> along with merit and
                         non-merit, undergoes transfer from this world to the next.</p>
@@ -676,13 +676,13 @@
                         behind and moves on to another. Or a bee may also, after partaking of an
                         unpleasant-smelling flower, move on to one with a pleasant smell. Just as a
                         bee, whichever flower it settles on, gets attached to it and enjoys its
-                        taste, so, too, does the element of ‌consciousness appropriate a god’s body
+                        taste, so, too, does the element of consciousness appropriate a god’s body
                         in the heavens, where it fully partakes of its roots of virtue, before
                         appropriating a body among the hell-beings, or the animals, or the hungry
                         ghosts, where it fully experiences its roots of non-virtue, and then
                         appropriates yet another set of five aggregates.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-63"/>
-                    <p tid="78">“How, in this context, should one view the element of ‌consciousness? As an
+                    <p tid="78">“How, in this context, should one view the element of consciousness? As an
                         analogy, the seeds of saffron or poppy are naturally white, and neither
                         their sprouts nor their flowers are apparent within the body of the seed.
                         Although it evinces no color, sowing a seed in the earth element and then
@@ -690,7 +690,7 @@
                         Once the sprout has been produced, red, white, or blue flowers will arise.
                         That color, however, was not present within the body of the seed. Yet,
                         without the seed, neither color nor sprout could emerge. Similarly, the
-                        element of ‌consciousness, after leaving the body, although it is in human
+                        element of consciousness, after leaving the body, although it is in human
                         shape, does not possess the sense-fields that arise from flesh-and-blood
                         faculties. Instead, possessing a divine eye and ear, it becomes an entity
                         with perfect knowledge of the sense-fields of sound, scent, taste, and
@@ -714,11 +714,11 @@
                     <p tid="81">“It is like a precious wish-fulfilling jewel with which, wherever it goes,
                         all of its abundance is transferred and migrates there, too. Or like the sun
                         and its rays: wherever the sun may go, the rays of sunlight follow and go to
-                        that very same place. So also, wherever the element of ‌consciousness is
+                        that very same place. So also, wherever the element of consciousness is
                         transferred to, feeling, perception and the element of dharmas are all
                         transferred and migrate to that very same place, too.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-67"/>
-                    <p tid="82">“Furthermore, the element of ‌consciousness, after it has left the body
+                    <p tid="82">“Furthermore, the element of consciousness, after it has left the body
                         behind, retains contact with all its faculties, and creates a body without
                         flesh and blood. Form is what causes it to take hold of a body. Feeling
                         experiences the objects of the faculties. Attention sees with divine sight
@@ -728,13 +728,13 @@
                         astringent, and so on. Some become pungent in flavor, others sour, and
                         others again sweet. When the fruit is no more, wherever the seeds are
                         transferred to, the flavor is transferred there, too. Likewise, wherever the
-                        element of ‌consciousness <ref cRef="F.80.b"/> is transferred to, feeling is
+                        element of consciousness <ref cRef="F.80.b"/> is transferred to, feeling is
                         transferred there, too; merit, non-merit, and attention are transferred
                         there, too.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-68"/>
-                    <p tid="83">“Furthermore, the element of ‌consciousness, after it has left the body
+                    <p tid="83">“Furthermore, the element of consciousness, after it has left the body
                         behind, is conscious of that, thinking, ‘I have left this body of mine
-                        behind.’ That is why it is called <emph>the element of ‌consciousness</emph>.
+                        behind.’ That is why it is called <emph>the element of consciousness</emph>.
                         It is also conscious of both its virtuous and non-virtuous actions,
                         thinking, ‘These actions follow me just as I follow them.’ That is why it is
                         called <emph>consciousness</emph>. Moreover, it is conscious of all the
@@ -775,7 +775,7 @@
                         water element. Its warmth and digestive action constitute the fire element.
                         Its movement, contraction, and expansion constitute the air element. The
                         body’s awareness, and its elements of taste, smell, sound, and touch, as
-                        well as recollection, constitute what is called the element of ‌consciousness.”</p>
+                        well as recollection, constitute what is called the element of consciousness.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-72"/>
                     <p tid="87">Candrabhūti then asked the Blessed One, “Blessed One, how does consciousness
                         abandon the element of form at the time of death? How does consciousness
@@ -816,11 +816,11 @@
                     <p tid="91">“The person’s improved color, fine complexion, and return to well-being are
                         explained as resembling virtue. Should the great virtuous medicinal butter
                         make his or her complexion poor and pale, that is explained as resembling
-                        non-virtue. <ref cRef="F.82.a"/> The element of ‌consciousness should be
+                        non-virtue. <ref cRef="F.82.a"/> The element of consciousness should be
                         regarded as resembling the precious medicinal butter of great virtue. The
                         great virtuous medicinal butter, even though it possesses no limbs or eyes,
                         makes the color of the medicines, as well as their flavor and smell, enter
-                        it. In the same way, the element of ‌consciousness, once it has left the body
+                        it. In the same way, the element of consciousness, once it has left the body
                         behind and cast off the elements, assumes the element of dharmas, feeling,
                         and virtue and non-virtue.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-77"/>
@@ -838,7 +838,7 @@
                     <p tid="93">“One should view the deceased person’s consciousness as resembling a rider
                         mounted on a horse. Just as, when setting off to battle, a rider contacts no
                         one else in the army, but grabs his saddle and rides off very fast, in the
-                        same way, the element of ‌consciousness connects with the apprehending of
+                        same way, the element of consciousness connects with the apprehending of
                         virtue and, with an excited gasp, assumes the element of dharmas, at which
                         point the sensory fields cease to exist. After it casts aside its body,
                         consciousness takes up a place among the heavenly pure realms all the way up
@@ -861,8 +861,8 @@
                         generated the roots of virtue in the presence of the Blessed Vipaśyin.
                         Bhadrapāla, after Mahauṣadhi had belonged to heterodox sects for five
                         hundred lifetimes, he formulated the thought, ‘What is the element of
-                        consciousness? Whose is the element of ‌consciousness? What is the nature of
-                        the element of ‌consciousness?’ Even so, Bhadrapāla, he does not completely
+                        consciousness? Whose is the element of consciousness? What is the nature of
+                        the element of consciousness?’ Even so, Bhadrapāla, he does not completely
                         understand the comings and goings of consciousness. So I shall dispel his
                         doubts.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-81"/>
@@ -899,17 +899,17 @@
                     <p tid="104">The Blessed One replied, “The eye faculty, when it sees attractive people,
                         moves toward them. And just as a person sees his own face reflected in a
                         mirror, and does not see his face reflected when the mirror is drawn aside,
-                        in the same way, when the element of ‌consciousness has undergone transfer,
-                        that element of ‌consciousness sees its own merit and non-merit. Just as a
+                        in the same way, when the element of consciousness has undergone transfer,
+                        that element of consciousness sees its own merit and non-merit. Just as a
                         blind man cannot see whether the sun is rising or is at its noon position,
                         and at night cannot see whether the moon is rising or setting, it is
-                        likewise that the element of ‌consciousness is invisible for the body. <ref cRef="F.83.b"/> Even so, Mahauṣadhi, for the body, craving, feeling,
-                        perception, and awareness constitute the element of ‌consciousness.
+                        likewise that the element of consciousness is invisible for the body. <ref cRef="F.83.b"/> Even so, Mahauṣadhi, for the body, craving, feeling,
+                        perception, and awareness constitute the element of consciousness.
                         Consciousness is also what brings together the body’s elements, its sensory
                         fields, and aggregates. Its components that possess form include the eyes,
                         ears, and nose, as well as taste and sound, while the components that are
                         formless include feeling, pain, pleasure, and intellect, and these are the
-                        element of ‌consciousness.</p>
+                        element of consciousness.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-85"/>
                     <p tid="105">“Mahauṣadhi, the tip of a person’s tongue senses bitter, pungent, sour,
                         sweet, and salty tastes. It possesses form, and the substances that are
@@ -926,8 +926,8 @@
                         tathāgatas as numerous as the sands of the river Ganges, see the element of
                         consciousness as it truly is, and realize that it is without form.
                         Nonetheless, for the sake of foolish people who do not understand this, I
-                        have explained the element of ‌consciousness using analogies. Bhadrapāla,
-                        here is how the element of ‌consciousness knows both merit and <ref cRef="F.84.a"/> non-merit.</p>
+                        have explained the element of consciousness using analogies. Bhadrapāla,
+                        here is how the element of consciousness knows both merit and <ref cRef="F.84.a"/> non-merit.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-87"/>
                     <p tid="108">“As an analogy, suppose some people were to be seized by evil spirits that
                         cause emaciation or forgetfulness, or by gandharvas or gods. Do you think,
@@ -938,13 +938,13 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-88"/>
                     <p tid="110">“Bhadrapāla, it is like a great celestial spirit accepting offerings of
                         fragrant flowers, perfumes, incense, and flower garlands. It is in the same
-                        way that the element of ‌consciousness, through possessing merit, assumes a
+                        way that the element of consciousness, through possessing merit, assumes a
                         body that then gives it sovereign power, or the status of a head merchant
-                        or a god. That is how the element of ‌consciousness experiences merit. Just
+                        or a god. That is how the element of consciousness experiences merit. Just
                         as a celestial spirit delights in the offering of celestial flower garlands,
                         and is satisfied with the body of the person it possesses, so too the
-                        element of ‌consciousness is gladdened by the status of sovereignty, and is
-                        satisfied with its body as well. That is how the element of ‌consciousness
+                        element of consciousness is gladdened by the status of sovereignty, and is
+                        satisfied with its body as well. That is how the element of consciousness
                         experiences merit.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-89"/>
                     <p tid="111">“As an analogy, Bhadrapāla, suppose a repulsive, putrefying spirit of
@@ -952,22 +952,22 @@
                         defiled things; things thrown into gutters and strewn-offerings. It would
                         take delight in those offerings. That person, too, under the control of the
                         spirit, would desire feculent food from foul-smelling, dirty things, and
-                        take delight in it. In the same way, the element of ‌consciousness, through
+                        take delight in it. In the same way, the element of consciousness, through
                         actions that lean toward non-merit, produces bad rebirths. It is attached to
                         and delights in poverty, evil hungry ghosts, and spirits that eat filth.
-                        That is how the element of ‌consciousness experiences non-merit. </p>
+                        That is how the element of consciousness experiences non-merit. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-90"/>
                     <p tid="112">“Just like that formless great divine spirit partaking in divine enjoyments,
-                        in the same way <ref cRef="F.84.b"/> the formless element of ‌consciousness,
+                        in the same way <ref cRef="F.84.b"/> the formless element of consciousness,
                         carried by formless merit, is made to give rise to divine bodies.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-91"/>
                     <p tid="113">“And like putrefying spirits possessing human beings and making them eat
-                        excrement and filth, the element of ‌consciousness, through actions that lean
+                        excrement and filth, the element of consciousness, through actions that lean
                         toward demerit, is born into bad rebirths. That is how the element of
                         consciousness that leans toward non-merit should be considered. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-92"/>
                     <p tid="114">“So, Bhadrapāla, you should view those spirits, because they are formless, as
-                        resembling the element of ‌consciousness. You should view the good or bad
+                        resembling the element of consciousness. You should view the good or bad
                         things enjoyed by those spirits as corresponding to virtue and non-virtue,
                         and the people they possess as corresponding to the body.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-93"/>
@@ -987,7 +987,7 @@
                         destroyed.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-95"/>
                     <p tid="118">“Just as a seed establishes a flower’s color, scent, and taste, in the same
-                        way the element of ‌consciousness, after leaving the body behind, establishes
+                        way the element of consciousness, after leaving the body behind, establishes
                         virtue and non-virtue; <ref cRef="F.85.a"/> establishes feelings,
                         perceptions, and mental processes; and then passes on to the next life. As
                         an analogy, when a man’s and a woman’s sexual organs meet, they are
@@ -995,11 +995,11 @@
                         his passion. After<note place="end" index="7" xml:id="UT22084-044-003-221"> We follow the reading <foreign xml:lang="Sa-Ltn">nas</foreign> in Q, N and H rather than D <foreign xml:lang="Sa-Ltn">na</foreign>.</note> the pair’s passion has
                         passed, they uncouple. The bliss of desire arises in them both, but when
                         their passion is spent, desire vanishes and they no longer desire each
-                        other. In the same way, the element of ‌consciousness feels joy and its
+                        other. In the same way, the element of consciousness feels joy and its
                         desire is inflamed when it achieves contact with the body. Just as the
                         conditional cause of a body gives rise to the man’s desire when he sees the
                         woman’s form, then withdraws it when they part company, so, too, when the
-                        body is appropriated and then discarded by the element of ‌consciousness, it
+                        body is appropriated and then discarded by the element of consciousness, it
                         transforms into something else and is no more. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-96"/>
                     <p tid="119">“The consciousness produces a body from the contact of the parents, the
@@ -1027,7 +1027,7 @@
                         assume a body among the gods? How does it appropriate one among the
                         hell-dwellers?”</p>
                     <p tid="122">The Blessed One replied, “Mahauṣadhi, listen to what I have to say. Here,
-                        after the element of ‌consciousness has assumed the element of dharmas, it
+                        after the element of consciousness has assumed the element of dharmas, it
                         develops divine vision, but that vision is not based on the physical eyes.
                         Sight through this vision is called <emph>appropriation</emph>; it is
                         therefore called <emph>visual appropriation</emph>. That divine vision, accompanied by
@@ -1047,7 +1047,7 @@
                         fragrant and black, so I shall make them grow on my head again.’ <ref cRef="F.86.a"/> What do you think, Mahauṣadhi—would those hairs grow
                         again?”</p>
                     <p tid="125">“No, Blessed One.”</p>
-                    <p tid="126">The Blessed One said, “Similarly, Mahauṣadhi, the element of ‌consciousness,
+                    <p tid="126">The Blessed One said, “Similarly, Mahauṣadhi, the element of consciousness,
                         once it has cast off the corpse, has no opportunity to occupy that same
                         corpse again.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-100"/>
@@ -1069,7 +1069,7 @@
                         incorporeal, engenders bodies great and small. The consciousness of a fly is
                         just that. So is the consciousness of an elephant. As an analogy, just as
                         even a small lamp flame is able to dispel great darkness inside an enclosure
-                        or a house, in the same way the element of ‌consciousness, because it
+                        or a house, in the same way the element of consciousness, because it
                         appropriates actions,<note place="end" index="10" xml:id="UT22084-044-003-224"> D reads “action” (<foreign xml:lang="Bo-Ltn">las</foreign>) here, and although N, H, and S all
                             read “a body” (<foreign xml:lang="Bo-Ltn">lus</foreign>), which might
                             fit with the term <foreign xml:lang="Bo-Ltn">lus len pa’i rgyu</foreign>
@@ -1162,7 +1162,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-110"/>
                     <p tid="141">Mahauṣadhi replied, “The two are like Mount Meru and a mustard seed.”</p>
                     <p tid="142">The Blessed One said, “In the same way that the poison is transferred, so,
-                        too, the element of ‌consciousness gives up the body, leaves the sense
+                        too, the element of consciousness gives up the body, leaves the sense
                         faculties behind, and abandons the elements. Thus, consciousness leaves the
                         sense faculties.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-111"/>
@@ -1217,10 +1217,10 @@
                         precious wish-fulfilling jewel, his pleasant possessions would also vanish.
                         Just as the precious wish-fulfilling jewel cannot be split into pieces even
                         by a thousand diamonds, but its chattels are perishable by nature, so the
-                        nature of the element of ‌consciousness is diamond-like in essence, but
+                        nature of the element of consciousness is diamond-like in essence, but
                         whatever body it possesses is without essence.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-116"/>
-                    <p tid="151">Mahauṣadhi asked, “Blessed One, how does the feeble element of ‌consciousness
+                    <p tid="151">Mahauṣadhi asked, “Blessed One, how does the feeble element of consciousness
                         split hard and solid forms into pieces and then undergo transfer from them
                         to die?”</p>
                     <p tid="152">The Blessed One replied, “As an analogy, Mahauṣadhi, a gentle flow of water
@@ -1565,7 +1565,7 @@
                     <p tid="203">Ānanda asked, “Blessed One, what is the name of this Dharma discourse, should
                         we wish to bring it to mind? How should we remember it?”</p>
                     <p tid="204">The Blessed One replied, “Ānanda, you should remember this Dharma discourse
-                        as ‘The Transfer of ‌Consciousness.’ You should also remember it as ‘The
+                        as ‘The Transfer of consciousness.’ You should also remember it as ‘The
                         Questions of Bhadrapāla.’ You should apply it and circulate it. Enter into
                         the Buddha’s teachings. Like an elephant in a house of reeds, crush the
                         armies of Yama! Whoever applies themselves conscientiously to this Dharma
@@ -1849,8 +1849,8 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-044-003-184" mode="marked">
-                            <term>element of ‌consciousness</term>
+                        <gloss type="term" priority="3" xml:id="UT22084-044-003-184">
+                            <term>element of consciousness</term>
                             <term xml:lang="Bo-Ltn">rnam par shes pa’i khams </term>
                             <term xml:lang="bo">རྣམ་པར་ཤེས་པའི་ཁམས་</term>
                             <term xml:lang="Sa-Ltn">vijñānadhātu</term>
