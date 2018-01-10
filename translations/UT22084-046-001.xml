@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/1.0/tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/1.0/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -56,6 +56,9 @@
                     <author role="translatorTib">Yeshe De</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 12:52:54 by andre</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <!--    Contents
@@ -183,7 +186,7 @@
                         teaching to the gods (chap. 4) and, having installed the bodhisattva
                         Maitreya as his regent, he sets out for the human realm accompanied by great
                         displays of divine offerings and auspicious signs (chap. 5). He enters the
-                        human world via the womb‌ of Queen Māyā, where he resides for the duration
+                        human world via the <term type="ignore">womb</term> of Queen Māyā, where he resides for the duration
                         of the pregnancy within an exquisite temple, enjoying the happiness of
                         absorption (chap. 6).</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-6"/>
@@ -196,7 +199,7 @@
                         natural attainment of the highest levels of meditative concentration during
                         a visit to the countryside (chap. 11); and his incredible prowess in the
                         traditional worldly arts, which he uses to win the hand of Gopā, a Śākya
-                        girl whose father requires proof of the Bodhisattva’s qualities‌ as a proper
+                        girl whose father requires proof of the Bodhisattva’s <term type="ignore">qualities</term> as a proper
                         husband (chap. 12).</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-7"/>
                     <p tid="14">The Bodhisattva has now reached maturity and can enjoy life in the palace,
@@ -208,7 +211,7 @@
                         the great despair of everyone in the Śākya kingdom, he renounces his royal
                         pleasures. Inspired by the sight of a sick person, an old man, a corpse, and
                         a religious mendicant (chap. 14), he departs from the palace to begin the
-                        life of a religious seeker‌ on a spiritual journey, which eventually leads
+                        life of a religious seeker on a spiritual journey, which eventually leads
                         him to awakening (chap. 15).</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-8"/>
                     <p tid="15">Already at this early stage of his religious career, the Bodhisattva is no
@@ -218,7 +221,7 @@
                         Bodhisattva to take up residence in his kingdom, but without success (chap.
                         16). In a final test of the established contemplative systems of his day,
                         the Bodhisattva next follows Rudraka, a renowned spiritual teacher. But once
-                        again he is disappointed, although he quickly masters‌ the prescribed
+                        again he is disappointed, although he quickly masters the prescribed
                         trainings.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-9"/>
                     <p tid="16">These experiences lead the Bodhisattva to the conclusion that he must
@@ -244,8 +247,7 @@
                         eventually gives up his disgraceful attempt at creating obstacles (chap.
                         21). Now the stage is finally set for the Bodhisattva to attain awakening
                         under the Bodhi tree, a gradual process that unfolds throughout the night
-                        until he fully and perfectly awakens at dawn to become the Awakened One
-                            (<foreign type="term" xml:lang="Sa-Ltn">Buddha</foreign>), or Thus-gone
+                        until he fully and perfectly awakens at dawn to become the Awakened One (<foreign type="term" xml:lang="Sa-Ltn">Buddha</foreign>), or Thus-gone
                         One (<foreign type="term" xml:lang="Sa-Ltn">Tathāgata</foreign>), as he is
                         known subsequent to his awakening (chap. 22). As is only suitable for such
                         an epic achievement, the entire pantheon of divine beings now hurry to the
@@ -265,7 +267,7 @@
                         four times, in this case by all the gods, headed by Brahmā and Śakra. As he
                         says, “O Brahmā, the gates of nectar are opened” (chap. 25).</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-12"/>
-                    <p tid="19">At this point, the Buddha determines through his higher knowledge‌ that the
+                    <p tid="19">At this point, the Buddha determines through his higher knowledge that the
                         first people to hear his teaching should be his five former companions from
                         the days when he was practicing austerities. Although these ascetics
                         originally rejected the Bodhisattva when he decided to abandon their path,
@@ -283,11 +285,11 @@
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-13"/>
                     <p tid="20">This version of the story thus ends at the very moment when the Buddha has
-                        finally manifested all the qualities‌ of awakening and is fully equipped to
+                        finally manifested all the qualities of awakening and is fully equipped to
                         influence the world, as he did over the next forty-five years by
                         continuously teaching the Dharma and establishing his community of
                         followers. From our perspective, this may seem odd. Why do we not get to
-                        follow the Buddha as he builds his community of monks‌ and nuns and
+                        follow the Buddha as he builds his community of <term type="ignore">monks</term> and nuns and
                         interacts with the people of India, high and low, throughout his teaching
                         career? And why do we not get to hear the details of his old age and passing
                         into nirvāṇa? After all, this is the part of his life where his
@@ -331,7 +333,7 @@
                         play. As such the events in the Bodhisattva’s life are not ordinary karmic
                         activity that unfold based on the mechanisms of a conceptual mind, but
                         rather the playful manner in which the nonconceptual wisdom of a tenth-level
-                        bodhisattva unfolds as an expression of his awakened insight‌. In this
+                        bodhisattva unfolds as an expression of his awakened insight. In this
                         manner of storytelling, the reader is invited into the worldview of a
                         timeless and limitless universe as perceived by the adepts of the Mahāyāna.
                         The time span, numbers, and sizes within this Mahāyāna scripture are so
@@ -396,7 +398,7 @@
                     <p tid="27">
                         <title xml:lang="en">The Play in Full</title> makes no attempt to present
                         itself as a homogenous text composed by a single author. In fact it seems
-                        that the compilers of the text took pride‌ in presenting an account of the
+                        that the compilers of the text took <term type="ignore">pride</term> in presenting an account of the
                         Bodhisattva’s last existence that was as detailed and all-encompassing as
                         possible and thus, to this end, it was perfectly acceptable to draw openly
                         on a variety of sources. One obvious example of this is the fact that
@@ -456,7 +458,7 @@
                         was available in a Tibetan translation, it quickly became the primary source
                         for recounting the Buddha’s attainment of awakening and, unlike many other
                         sūtras, <title xml:lang="en">The Play in Full</title> appears to have been
-                        read and studied often in Tibet. While numerous scriptures‌ from the Kangyur
+                        read and studied often in Tibet. While numerous <term type="ignore">scriptures</term> from the Kangyur
                         have slipped into relative obscurity, <title xml:lang="en">The Play in
                             Full</title> has continued to have a lasting impact on Tibetan Buddhism,
                         all the way down to the present.</p>
@@ -491,7 +493,7 @@
                         in India, sometimes with significant differences in wording and content.
                         Moreover, as the Tibetan translation predates the existing Sanskrit
                         manuscripts by centuries, the Tibetan may indeed represent an earlier
-                        stratum that merits‌ attention apart from merely complementing the
+                        stratum that <term type="ignore">merits</term> attention apart from merely complementing the
                         Sanskrit.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-28"/>
                     <p tid="35">In producing this translation, we have sought to incorporate the best of both
@@ -605,7 +607,7 @@
                         </lg>
                         <milestone unit="chunk" xml:id="UT22084-046-001-36"/>
                         <lg tid="48">
-                            <l>“Take as your master‌ the one with natural mastery of the Dharma,</l>
+                            <l>“Take as your master the one with natural mastery of the Dharma,</l>
                             <l>An ocean of wisdom, with power both vast and pure,</l>
                             <l>The sovereign of the Dharma, the all-knowing lord‌ of sages‌,</l>
                             <l>A god of gods, revered by gods and humans alike.</l>
@@ -871,8 +873,8 @@
                         extremely sharp. He bared the fangs of the four communions with Brahmā and
                         gathered others through the four ways of attraction with his head. With a
                         well-proportioned body, due to having understood the twelve links of
-                        dependent origination, and a flowing mane of the complete ‌perfection of the
-                        thirty-seven‌ branches of awakening, along with awareness and wisdom, his
+                        dependent origination, and a flowing mane of the complete <term type="ignore">perfection</term> of the
+                        <term>thirty-seven branches of awakening</term>, along with awareness and wisdom, his
                         mouth opened with the three gateways to liberation, while his eyes indicated
                         the utter purity of tranquility and insight. He dwelt in the mountain caves
                         of mental stability, complete liberation, absorption, and deep meditation.
@@ -1177,10 +1179,10 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-96"/>
                     <p tid="116">“As he travels, the provincial kings of the eastern lands will come to greet
                         him, carrying silver vessels filled with gold dust, and gold vessels filled
-                        with fragments of silver. ‘Welcome, lord‌,’ they will say. ‘Please come.
+                        with fragments of silver. ‘Welcome, <term type="ignore">lord</term>,’ they will say. ‘Please come.
                         This kingdom is yours. It is extremely vast and prosperous. <ref cRef="F.10.b"/> With bountiful harvests, it is both delightful and
                         populous. Indeed it is filled with people. Now that you have arrived in this
-                        land, lord‌, it is yours. We beseech you to stay.’</p>
+                        land, <term type="ignore">lord</term>, it is yours. We beseech you to stay.’</p>
                     <p tid="117">“Replying to the provincial kings, the king appointed to the highest rank of
                         the ruling class will respond, ‘May you rule your respective kingdoms
                         according to the Dharma, and not by what is not Dharma. Do not take the
@@ -1305,7 +1307,7 @@
                         sage</distinct>.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-106"/>
                     <p tid="134">Monks, at this same time five hundred solitary buddhas were assembled in a
-                        deer park‌ outside Vārāṇasī. They too heard the exhortation of the gods,
+                        <term type="ignore">deer park</term> outside Vārāṇasī. They too heard the exhortation of the gods,
                         rose up into the sky to the height of seven tāla trees and, turning into
                         fire, passed into nirvāṇa like a torch. [19] Their bile and phlegm,
                         ligaments and bones, and flesh and blood were completely consumed by fire.
@@ -1528,7 +1530,7 @@
                         handsome, neither too old nor too young. He has a fine body and every
                         excellent quality. He is knowledgeable concerning crafts, astrology, the
                         self, the Dharma, the truth, the world, and signs. Indeed he is a Dharma
-                        king who guides‌ according to the Dharma. <ref cRef="F.17.a"/>
+                        king who <term type="ignore">guides</term> according to the Dharma. <ref cRef="F.17.a"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-126"/>
                     <p tid="168">“The city of Kapilavastu is the abode of sentient beings who have generated
@@ -2332,7 +2334,7 @@
                     <p tid="237">In that most excellent residence of King Śuddhodana, all the containers of
                         different types of precious substances, such as gold, silver, jewels,
                         pearls, beryl, shells, crystals, and corals, opened their lids and displayed
-                        their flawless perfection‌ and abundance. This was the seventh omen.</p>
+                        their flawless <term type="ignore">perfection</term> and abundance. This was the seventh omen.</p>
                     <p tid="238">A pure and immaculate light, much brighter than those of the sun and the
                         moon, appeared and produced mental and physical pleasure. This was the
                         eighth omen. <ref cRef="F.25.b"/> [B 3] </p>
@@ -2383,7 +2385,7 @@
                         <milestone unit="chunk" xml:id="UT22084-046-001-216"/>
                         <lg tid="244">
                             <l>“I am joyfully engaged in strict disciplined conduct;</l>
-                            <l>So, sovereign master‌ of men, do not act lustfully because of
+                            <l>So, sovereign master of men, do not act lustfully because of
                                 attraction to me.</l>
                             <l>Your Majesty, may nonvirtue not arise in you for a long time;</l>
                             <l>Please rejoice as I am nearby you in strict discipline.</l>
@@ -2536,9 +2538,9 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-235"/>
                     <lg tid="265">
-                        <l>“Whoever is a master‌ over demons, but whose mind has no hatred,</l>
+                        <l>“Whoever is a master over demons, but whose mind has no hatred,</l>
                         <l>Who has attained complete mastery of all types of power,</l>
-                        <l>Who is the master‌ of his senses and has surpassed others,</l>
+                        <l>Who is the master of his senses and has surpassed others,</l>
                         <l>Let him go with this benefactor.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-236"/>
@@ -2635,7 +2637,7 @@
                         <l>“Whoever desires many such qualities,</l>
                         <l>And the happiness of existence as well as nirvāṇa,</l>
                         <l>And wants to utterly perfect all qualities,</l>
-                        <l>Let him follow the learned one who masters‌ disciplined conduct.”</l>
+                        <l>Let him follow the learned one who masters disciplined conduct.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-249"/>
                     <p tid="279">When they heard these verses, the gods assembled. There were 84,000 gods from
@@ -2733,7 +2735,7 @@
                         </lg>
                     
                     <milestone unit="chunk" xml:id="UT22084-046-001-260"/>
-                    <p tid="291">Monks, the goddesses who sport in the desire realms saw the perfection‌ of
+                    <p tid="291">Monks, the goddesses who sport in the desire realms saw the <term type="ignore">perfection</term> of
                         the Bodhisattva’s bodily form and wondered, “What is she like, that maiden
                         who will conceive this sublime and supreme pure being?”</p>
                     <p tid="292">Filled with curiosity, they gathered the finest and best flowers, incense,
@@ -2920,7 +2922,7 @@
                         At that moment even the light of the sun and moon and the splendor of the
                         gods, such as Śakra, Brahmā, and the world protectors, was eclipsed. All
                         beings who were living in the hells, along with those born as animals and
-                        all those in the realm of the lord‌ of death, became instantaneously free
+                        all those in the realm of the lord of death, became instantaneously free
                         from suffering and filled with every happiness. No being had any painful
                         emotion, such as anger, delusion, envy, jealousy, pride, hypocrisy,
                         arrogance, wrath, malice, or burning anguish. At that moment all sentient
@@ -3431,7 +3433,7 @@
                         Heaven of the Thirty-Three, the Heaven Free from Strife, the Heaven of Joy,
                         the Heaven of Delighting in Emanations, and the Heaven of Making Use of
                         Others’ Emanations are inferior in comparison to them. So what need is there
-                        to speak of Śakra, master‌ of the gods?</p>
+                        to speak of Śakra, master of the gods?</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-339"/>
                     <p tid="396">At that moment the Blessed One quieted the divine music because the humans in
                         Jambudvīpa would all go insane merely from hearing such music. <ref cRef="F.35.b"/>
@@ -3492,7 +3494,7 @@
                     <p tid="407">On the evening in which the Bodhisattva entered the womb, a lotus appeared
                         from below the waters, piercing the earth and rising up six million eight
                         hundred thousand leagues, as far as the Brahma realm. <ref cRef="F.36.b"/>
-                        Only the best of charioteers and the great Brahmā, who is master‌ of a
+                        Only the best of charioteers and the great Brahmā, who is master of a
                         thousand powers, were able to see that flower. To everyone else, it was
                         invisible. In that great lotus appeared a drop of nectar, which embodied the
                         extracted essence and vitality of the entire great trichiliocosm. The great
@@ -3540,7 +3542,7 @@
                         saw the arrival of an elephant in her dream.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-347"/>
                     <p tid="412">Now Śakra, lord of the gods, as well as the four great kings, the
-                        twenty-eight great commanders of the yakṣas, and the master‌ of the
+                        twenty-eight great commanders of the yakṣas, and the master of the
                         guhyakas, who are the type of yakṣa from which Vajrapāṇicame, all knew that
                         the Bodhisattva had entered the womb of his mother, and they constantly
                         stayed close to him. The Bodhisattva also had four goddesses named Utkhalī,
@@ -4539,7 +4541,7 @@
                         <l>Twenty thousand kings from the borderlands</l>
                         <l>Came before the king, saying, “O king, may you be victorious!</l>
                         <l>We have come. Now tell us, king, what shall we do?</l>
-                        <l>Your Majesty, you are the master‌ and we are the subjects. King, may
+                        <l>Your Majesty, you are the master and we are the subjects. King, may
                             victory be yours!</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-445"/>
@@ -5696,7 +5698,7 @@
                         </lg>
                         <milestone unit="chunk" xml:id="UT22084-046-001-553"/>
                         <lg tid="677">
-                            <l>“There is no master‌ superior to him throughout the three worlds;</l>
+                            <l>“There is no master superior to him throughout the three worlds;</l>
                             <l>Among all gods and humans, he alone is foremost.</l>
                             <l>All of you do not know even the names of the scripts</l>
                             <l>That he has learned before, many tens of millions of eons ago.</l>
@@ -5716,11 +5718,11 @@
                         while the remaining Śākyas, headed by Śuddhodana, departed. The Bodhisattva
                         took up a writing board made of sandalwood. It was decorated with flecks of
                         divine gold of prime quality and studded with precious gems on all sides. He
-                        then addressed the master‌ Viśvāmitra:</p>
+                        then addressed the master Viśvāmitra:</p>
                     
                         
                         <milestone unit="chunk" xml:id="UT22084-046-001-556"/>
-                        <p tid="681">“Which script, O master‌, will you be teaching me? <ref cRef="F.66.b"/>
+                        <p tid="681">“Which script, O master, will you be teaching me? <ref cRef="F.66.b"/>
                             Will it be the Brāhmī script, the Kharoṣṭī script, or the Puṣkarasāri
                             script? Will it be the Aṅga script, the Vaṅga script, the Magadha
                             script, the Maṅgalya script, the Aṅgulīya script, the Śakāri script, the
@@ -5743,7 +5745,7 @@
                             Ṛṣi­tapastapta script, the Rocamāna script, the Dharaṇī­prekṣiṇī script,
                             <ref cRef="F.67.a"/> the Gagana­prekṣiṇī script, the
                             Sarvauṣadhi­niṣyanda script, the Sarva­sāra­saṃgrahaṇī script, or the
-                            Sarva­bhūta­ruta­grahaṇī script? Master‌, which of those sixty-four scripts
+                            Sarva­bhūta­ruta­grahaṇī script? master, which of those sixty-four scripts
                             will you teach me?”</p>
                     
                     <milestone unit="chunk" xml:id="UT22084-046-001-557"/>
@@ -6585,7 +6587,7 @@
                     <p tid="812">First those Śākya boys who were skilled in the rules of writing competed with
                         the Bodhisattva in the art of scripts. The teacher Viśmāmitra was appointed
                         judge by the Śākyas, and he announced: “You are to determine who among these
-                        [146] boys is superior, whether in penmanship or in the knowledge‌ of
+                        [146] boys is superior, whether in penmanship or in the knowledge of
                         scripts.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-636"/>
                     <p tid="813">Then, because the teacher Viśmāmitra had witnessed firsthand the
@@ -7180,11 +7182,11 @@
                         humans, and demigods, and satisfying them?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-689"/>
                     <p tid="898">Monks, for a long time—many uncountable eons—the Bodhisattva had always and
-                        continuously been without any need to rely on others. He was his own master‌
+                        continuously been without any need to rely on others. He was his own master
                         with regard to worldly concerns, as well as those that go beyond the world.
                         For a long time he had known the right time, the occasion, and the
                         opportunity for the practice of all aspects of the roots of virtue. His
-                        higher knowledge‌ was flawless, and his five types of superknowledge were
+                        higher knowledge was flawless, and his five types of superknowledge were
                         fully manifest. Since he had a masterly command of his sense faculties, he
                         could manifest miraculous powers. He knew indeed what was timely as well as
                         what was untimely. Seeking the right opportunity, he would never miss it,
@@ -8065,7 +8067,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-795"/>
                     <lg tid="1005">
-                        <l>“So too function the twelve links of interdependent origination.</l>
+                        <l>“So too function the twelve links of dependent origination.</l>
                         <l>Being all in mutual dependence, <ref cRef="F.89.b"/>
                         </l>
                         <l>One thing follows after another,</l>
@@ -8305,7 +8307,7 @@
                         Dharma. From the innermost core of his being, he strove toward the Dharma,
                         wished for the Dharma, and his only delight was in the Dharma. <ref cRef="F.91.a"/> As he searched for the Dharma, he was insatiable.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-828"/>
-                    <p tid="1038">He taught the Dharma just as he had heard it. He was a master‌ of generosity
+                    <p tid="1038">He taught the Dharma just as he had heard it. He was a master of generosity
                         in bestowing the gift of the unexcelled great Dharma. He taught the Dharma
                         without seeking rewards. He was without any stinginess when it came to
                         teaching the Dharma. Regarding the Dharma, he never held back anything as a
@@ -10026,7 +10028,7 @@
                             <l>Chanda, bring me Kaṇṭhaka, well adorned, the supreme king of all
                                 horses.</l>
                             <l>My auspicious aspirations from the past have been fulfilled;</l>
-                            <l>Overcoming everything, I will become a master‌ of all phenomena, a
+                            <l>Overcoming everything, I will become a master of all phenomena, a
                                 king of Dharma, a sage.” <ref cRef="F.107.a"/>
                             </l>
                         </lg>
@@ -10482,7 +10484,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1067"/>
                     <lg tid="1346">
-                        <l>“No longer will I behold the assembly of divine siddhas</l>
+                        <l>“No longer will I behold the assembly of <term>divine siddhas</term>
+                        </l>
                         <l>Who make offerings to you day and night,</l>
                         <l>Nor will I be able to smell any longer the divine scents,</l>
                         <l>If you, who conquers emotions, abandons this palace tonight.</l>
@@ -10688,7 +10691,7 @@
                         rooms and apartments. Unable to find him, they all began to wail like fish
                         hawks. The ladies were overcome by extreme grief, and some cried out, “My
                         son!” Others called out “My brother,” “My husband,” “My lord,” and “My
-                        master‌.” Some mumbled different tender words, while others contorted their
+                        master.” Some mumbled different tender words, while others contorted their
                         bodies in various ways and wept. Some of the ladies plucked their hair,
                         while others faced each other and sobbed.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1090"/>
@@ -11246,7 +11249,7 @@
                         hardship.” [239]</p>
                     <p tid="1462">Monks, I then thought to myself, “I have faith. I am also diligent. I am
                         mindful and I can practice absorption. I also have knowledge. So therefore,
-                        in order to master‌ and actualize that teaching, I will practice on my own
+                        in order to master and actualize that teaching, I will practice on my own
                         in a solitary place, without getting distracted.”</p>
                     <p tid="1463">Monks, I then practiced on my own in solitude with carefulness and diligence.
                         And indeed, with only little hardship, I was able to understand and
@@ -11576,7 +11579,7 @@
                         no sooner did the Bodhisattva sit down before he actualized hundreds of all
                         the main types of worldly and transcendent equilibriums in all their many
                         details. [245] The reason he could do this was because he had become a
-                        master‌ of his mind, possessing a superior accumulation of merit and wisdom,
+                        master of his mind, possessing a superior accumulation of merit and wisdom,
                         a special fruition of all his previous trainings, and a distinctive
                         familiarity with all absorptions.</p>
                     <p tid="1521">At that point the Bodhisattva arose from his seat, mindful and attentive, and
@@ -11768,7 +11771,7 @@
                         by repeating mantras or dhāraṇīs; or by practicing meditation. Considering
                         themselves pure, they take refuge in and pay homage to beings that they
                         believe to be essential, such as Brahmā, Indra, Rudra, <ref cRef="F.123.b"/>
-                        Viṣṇu, Devī, Kumāra, Mātṛ,Katyāyanī, Candra, Āditya, Vaiśravaṇa, Varuṇa, the
+                        Viṣṇu, Devī, Kumāra, Mātṛ, Katyāyanī, Candra, Āditya, Vaiśravaṇa, Varuṇa, the
                         Vāsus, the Aśvins, nāgas, yakṣas, gandharvas, demigods, garuḍas, kiṃnaras,
                         mahoragas, rākṣasas, bhūtas, kumbhāṇḍas, pretas, gaṇas, ancestors, piśācas,
                         devarṣis, rājarṣis, and brahmarṣis.</p>
@@ -12867,7 +12870,7 @@
                         Being, has donned the great armor. Without forsaking his great vow,
                         protected by his solid armor, he is undeterred and has perfected all the
                         conducts of a bodhisattva. He has reached the further shore of all the
-                        perfections and become a master‌ of all the grounds of a bodhisattva. He is
+                        perfections and become a master of all the grounds of a bodhisattva. He is
                         perfectly pure in his aspirations of a bodhisattva and joins in the five
                         spiritual faculties of all sentient beings. [275] He has entered the secret
                         locations of all the thus-gone ones and is beyond all paths of demonic
@@ -12884,7 +12887,7 @@
                         ocean, free from attachment and aversion. He is immovable and unshakable
                         like the great central mountain. He is utterly stainless, pure, and in
                         possession of a very wholesome mind, and thus he is like a great jewel. He
-                        has become a master‌ of all phenomena and is, in all his actions, beyond
+                        has become a master of all phenomena and is, in all his actions, beyond
                         intentions.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1332"/>
                     <p tid="1693">“The Bodhisattva, who is like the great Brahmā, proceeds to the seat of
@@ -12994,7 +12997,7 @@
                         seen permeated with the light streaming from the Bodhisattva.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1341"/>
                     <p tid="1704">At the seat of awakening, there were sixteen gods who guarded the place.
-                        Their names were Utkhalin, Sūtkhalin, Prajāpati, Śūrabhala,Keyūrabala,
+                        Their names were Utkhalin, Sūtkhalin, Prajāpati, Śūrabhala, Keyūrabala,
                         Supratiṣṭhita, Mahindhara, Avabhāsakara, Vimala, Dharmeśvara, Dharmaketu,
                         Siddhapātra, Apratihata­netra, Mahāvyūha, Śila­viśuddha­netra, and Padmaprabha.
                         It was these sixteen gods, all of whom had attained irreversible patience,
@@ -13697,7 +13700,7 @@
                                 kindness, in the state of passing beyond suffering,</l>
                             <l>Is the benefactor endowed with the best marks with strength like
                                 Nārāyaṇa.</l>
-                            <l>This offering is for him, the master‌ of good qualities, who has gone
+                            <l>This offering is for him, the master of good qualities, who has gone
                                 to the Bodhi tree!”</l>
                         </lg>
                     
@@ -15574,7 +15577,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-1593"/>
                     <p tid="2027">On this topic, it is said:</p>
                     <lg tid="2028">
-                        <l>The most seductive and sweet girls, Tṛṣṇā, Rati, and Arati,</l>
+                        <l>The most seductive and sweet girls, Tṛṣṇā, <term>Rati</term>, and Arati,</l>
                         <l>These three graceful ones hastily arrived, sent by Māra.</l>
                         <l>They danced like the shoots of young creepers on a tree blowing in the
                             breeze</l>
@@ -16116,7 +16119,7 @@
                     
                         
                         <lg tid="2102">
-                            <l>“I am lord of desires and master‌ of the universe.</l>
+                            <l>“I am lord of desires and master of the universe.</l>
                             <l>I rule over gods, demigods, humans, and animals;</l>
                             <l>All of them fall under my control.</l>
                             <l>So get up! Since you are in my realm, follow my orders!”</l>
@@ -16127,10 +16130,10 @@
                     
                         
                         <lg tid="2104">
-                            <l>“If you are master‌ of sense pleasures, you are clearly not a master
+                            <l>“If you are master of sense pleasures, you are clearly not a master
                                 at all;</l>
                             <l>Look who I am in reality—I am master of the Dharma.</l>
-                            <l>If you are the master‌ of sense pleasures, you should not go to the
+                            <l>If you are the master of sense pleasures, you should not go to the
                                 lower realms;</l>
                             <l>While you watch powerlessly, I shall attain awakening.”</l>
                         </lg>
@@ -19954,9 +19957,9 @@
                         the awakened one, the omniscient one, the all-seeing one. I have become
                         tranquil and have exhausted all faults.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2085"/>
-                    <p tid="2640">“Monks, being the master‌ of phenomena, I will teach you the Dharma. Come,
+                    <p tid="2640">“Monks, being the master of phenomena, I will teach you the Dharma. Come,
                         listen and understand. Listen intently with open ears, and I will give you
-                        instruction and guidance. When I teach and guide‌ you, you will also
+                        instruction and guidance. When I teach and guide you, you will also
                         relinquish all faults and be liberated within a stainless and insightful
                         state of mind. <ref cRef="F.196.b"/> When you attain realization, you will
                         proclaim: ‘Our births have been exhausted. The religious life has been led.
@@ -20515,7 +20518,7 @@
                     <lg tid="2716">
                         <l>The Buddha, the Dharma, and the Saṅgha:</l>
                         <l>These are the Three Jewels.</l>
-                        <l>Even up to the Palace of Brahmā,</l>
+                        <l>Even up to the <term>Palace of Brahmā</term>,</l>
                         <l>The news went out from person to person:</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2153"/>
@@ -21415,7 +21418,7 @@
                         </lg>
                         <milestone unit="chunk" xml:id="UT22084-046-001-2288"/>
                         <lg tid="2855">
-                            <l>“The one who masters‌ all Dharmas</l>
+                            <l>“The one who masters all Dharmas</l>
                             <l>Is called a <distinct>lord of Dharma</distinct>.</l>
                             <l>The one who knows the genuine Dharma from the incorrect,</l>
                             <l>That is what we call a <distinct>guide</distinct>.</l>
@@ -21444,8 +21447,8 @@
                         </lg>
                         <milestone unit="chunk" xml:id="UT22084-046-001-2292"/>
                         <lg tid="2859">
-                            <l>“I master‌ all phenomena,</l>
-                            <l>And so I am the Victorious One, the Master‌ of Dharma.</l>
+                            <l>“I master all phenomena,</l>
+                            <l>And so I am the Victorious One, the master of Dharma.</l>
                             <l>Since I turn the wheel of Dharma,</l>
                             <l>I am known as a king of Dharma.</l>
                         </lg>
@@ -21627,8 +21630,8 @@
                             in order to conquer all anger, compassion in order to abandon all ill
                             will, sympathetic joy in order to clear away all depression, equanimity
                             in order to abandon desire and anger, the four concentrations in order
-                            to master‌ the entire desire realm, the four equilibriums of the
-                            formless realm in order to master‌ the mind, the five types of higher
+                            to master the entire desire realm, the four equilibriums of the
+                            formless realm in order to master the mind, the five types of higher
                             knowledge in order to travel to other buddha realms, and the ability to
                             conquer all traces of habitual tendencies in order to attain the
                             meditative concentration of the heroic gait. <ref cRef="F.215.b"/> These
@@ -22344,19 +22347,19 @@
                     <item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2402">
                             <term>Kāśi</term>
-                            <term xml:lang="Bo-Ltn">gsal ldan </term>
-                            <term xml:lang="bo">གསལ་ལྡན</term>
+                            <term xml:lang="Bo-Ltn">gsal ldan/___ka shi </term>
+                            <term xml:lang="bo">གསལ་ལྡན།  ཀ་ཤི</term>
                             <term xml:lang="Sa-Ltn">Kāśi</term>
-                        </gloss>
+                        </gloss>        
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2403">
                             <term>Kāśi</term>
                             <term xml:lang="Bo-Ltn">ka shi </term>
                             <term xml:lang="bo">ཀ་ཤི</term>
                             <term xml:lang="Sa-Ltn">Kāśi </term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2404">
                             <term>Kṛttikā</term>
@@ -22417,14 +22420,14 @@
                                 time of the Buddha.</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2411">
                             <term>Maghā</term>
                             <term xml:lang="Bo-Ltn">mchu </term>
                             <term xml:lang="bo">མཆུ</term>
                             <term xml:lang="Sa-Ltn">Maghā</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="place" priority="3" xml:id="UT22084-046-001-2412">
                             <term>Mahā-Brahmā Heaven</term>
@@ -22546,8 +22549,8 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-046-001-2427">
-                            <term>Palace of Brahma</term>
+                        <gloss type="place" priority="0" xml:id="UT22084-046-001-2427" mode="marked">
+                            <term>Palace of Brahmā</term>
                             <term xml:lang="Bo-Ltn">tshangs pa’i grong khyer </term>
                             <term xml:lang="bo">ཚངས་པའི་གྲོང་ཁྱེར</term>
                             <term xml:lang="Sa-Ltn">Brahmapura, Brahma­purālaya</term>
@@ -22569,14 +22572,14 @@
                             <term xml:lang="Sa-Ltn">Pāṇḍu</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2430">
                             <term>Phālgunīs</term>
                             <term xml:lang="Bo-Ltn">gre </term>
                             <term xml:lang="bo">གྲེ</term>
                             <term xml:lang="Sa-Ltn">Phālgunīs</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2431">
                             <term>Pradānasūra</term>
@@ -22593,14 +22596,14 @@
                             <term xml:lang="Sa-Ltn">Punarvasu</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="place" priority="2" xml:id="UT22084-046-001-2433">
                             <term>pure realm</term>
                             <term xml:lang="Bo-Ltn">gnas gtsang ma’ ris </term>
                             <term xml:lang="bo">གནས་གཙང་མའ་རིས</term>
                             <term xml:lang="Sa-Ltn">śuddhāvāsa­kāyika</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2434">
                             <term>Pūrva Aparā</term>
@@ -22627,7 +22630,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="1" xml:id="UT22084-046-001-2437">
+                        <gloss type="place" priority="1" xml:id="UT22084-046-001-2437" mode="marked">
                             <term>Rati</term>
                             <term xml:lang="Bo-Ltn">gsha’ zhing ’os </term>
                             <term xml:lang="bo">གཤའ་ཞིང་འོས</term>
@@ -22710,9 +22713,13 @@
                     <item>
                         <gloss type="place" priority="0" xml:id="UT22084-046-001-2447">
                             <term>Seat of Awakening</term>
-                            <term xml:lang="Bo-Ltn">byang chub snying po </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་སྙིང་པོ</term>
+                            <term xml:lang="Bo-Ltn">byang chub snying po/___byang chub kyi snying po </term>
+                            <term xml:lang="bo">བྱང་ཆུབ་སྙིང་པོ།   བྱང་ཆུབ་ཀྱི་སྙིང་པོ</term>
                             <term xml:lang="Sa-Ltn">bodhimaṇḍa</term>
+                            <term type="definition">The place where Śakyamuni Buddha achieved
+                                awakening and where countless other Buddhas are said to have
+                                achieved awakening. This is understood to be located under the bodhi
+                                tree in present-day Bodhgaya, India.</term>
                         </gloss>
                     </item>
                     <item>
@@ -23072,14 +23079,14 @@
                             <term xml:lang="Sa-Ltn">Anupaśānta </term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2491">
                             <term>Aparājitā</term>
                             <term xml:lang="Bo-Ltn">mi pham </term>
                             <term xml:lang="bo">མི་ཕམ</term>
                             <term xml:lang="Sa-Ltn">Aparājitā</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2492">
                             <term>Apratihata­netra </term>
@@ -23208,14 +23215,14 @@
                             <term xml:lang="Sa-Ltn">Āyustejas</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2508">
                             <term>Balā</term>
                             <term xml:lang="Bo-Ltn">stobs ldan ma </term>
                             <term xml:lang="bo">སྟོབས་ལྡན་མ</term>
                             <term xml:lang="Sa-Ltn">Balā</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2509">
                             <term>Balaguptā</term>
@@ -23817,14 +23824,14 @@
                             <term xml:lang="Sa-Ltn">Jāṭilikā</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2584">
                             <term>Jayantī</term>
                             <term xml:lang="Bo-Ltn">rgyal </term>
                             <term xml:lang="bo">རྒྱལ</term>
                             <term xml:lang="Sa-Ltn">Jayantī</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2585">
                             <term>Jinamitra</term>
@@ -24422,14 +24429,14 @@
                             <term xml:lang="Sa-Ltn">Nanda</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!-- <item>
                         <gloss type="person" priority="1" xml:id="UT22084-046-001-2657">
                             <term>Nandavardhanī</term>
                             <term xml:lang="Bo-Ltn">dga’ ’phel ma </term>
                             <term xml:lang="bo">དགའ་འཕེལ་མ</term>
                             <term xml:lang="Sa-Ltn">Nandavardhanī</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2658">
                             <term>Nandika</term>
@@ -24438,7 +24445,7 @@
                             <term xml:lang="Sa-Ltn">Nandika</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!-- <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2659">
                             <term>Nandinī</term>
                             <term xml:lang="Bo-Ltn">dga’ can ma </term>
@@ -24461,7 +24468,7 @@
                             <term xml:lang="bo">དགའ་མཚོ་གམ</term>
                             <term xml:lang="Sa-Ltn">Nandottarā</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2662">
                             <term>Nārada </term>
@@ -24481,19 +24488,19 @@
                     <item>
                         <gloss type="person" priority="1" xml:id="UT22084-046-001-2664">
                             <term>Nārāyaṇa</term>
-                            <term xml:lang="Bo-Ltn">sred med kyi bu </term>
-                            <term xml:lang="bo">སྲེད་མེད་ཀྱི་བུ</term>
+                            <term xml:lang="Bo-Ltn">sred med kyi bu/___ sred med kyi bu phyed </term>
+                            <term xml:lang="bo">སྲེད་མེད་ཀྱི་བུ།    སྲེད་མེད་ཀྱི་བུ་ཕྱེད</term>
                             <term xml:lang="Sa-Ltn">Nārāyaṇa</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="person" priority="1" xml:id="UT22084-046-001-2665">
                             <term>Nārāyaṇa </term>
                             <term xml:lang="Bo-Ltn">sred med kyi bu phyed </term>
                             <term xml:lang="bo">སྲེད་མེད་ཀྱི་བུ་ཕྱེད</term>
                             <term xml:lang="Sa-Ltn">Nārāyaṇa </term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="person" priority="0" xml:id="UT22084-046-001-2666">
                             <term>Navanāmikā</term>
@@ -26433,10 +26440,11 @@
                     </item>
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-2907">
-                            <term>Blessed One, Lord</term>
+                            <term>Blessed One</term>
                             <term xml:lang="Bo-Ltn"> bcom ldan ’das </term>
                             <term xml:lang="bo">བཅོམ་ལྡན་འདས</term>
                             <term xml:lang="Sa-Ltn">bhagavān</term>
+                            <term type="definition">Sometimes also translated “Lord.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -26457,10 +26465,11 @@
                     </item>
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-2910">
-                            <term>Buddha, awakened one</term>
+                            <term>Buddha</term>
                             <term xml:lang="Bo-Ltn"> sangs rgyas </term>
                             <term xml:lang="bo">སངས་རྒྱས</term>
                             <term xml:lang="Sa-Ltn">buddha</term>
+                            <term type="definition">Sometimes also translated “awakened one.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -26604,7 +26613,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-046-001-2927">
+                        <gloss type="term" priority="0" xml:id="UT22084-046-001-2927" mode="marked">
                             <term>divine siddha</term>
                             <term xml:lang="Bo-Ltn"> lha dang grub </term>
                             <term xml:lang="bo">ལྷ་དང་གྲུབ</term>
@@ -27062,7 +27071,7 @@
                     </item>
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-2975">
-                            <term>joy </term>
+                            <term>joy</term>
                             <term xml:lang="Bo-Ltn"> dga’ ba </term>
                             <term xml:lang="bo">དགའ་བ</term>
                             <term xml:lang="Sa-Ltn">muditā, tuṣṭi, nandana, rati</term>
@@ -27418,10 +27427,11 @@
                     </item>
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-3012">
-                            <term>pheasant, partridge</term>
+                            <term>pheasant</term>
                             <term xml:lang="Bo-Ltn"> shang shang te’u </term>
                             <term xml:lang="bo">ཤང་ཤང་ཏེའུ</term>
                             <term xml:lang="Sa-Ltn">jīvaṃjīvaka, jīvaṃjīva</term>
+                            <term type="definition">Also translated "partridge."</term>
                         </gloss>
                     </item>
                     <item>
@@ -27458,14 +27468,14 @@
                                 adornments, and not to engage in or listen to song and dance.</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-3016">
                             <term>praiseworthy </term>
                             <term xml:lang="Bo-Ltn"> bsngags par ’os pa </term>
                             <term xml:lang="bo">བསྔགས་པར་འོས་པ</term>
                             <term xml:lang="Sa-Ltn">praśasya, ślāghya, stutya, etc.</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-3017">
                             <term>preta</term>
@@ -27479,7 +27489,7 @@
                     </item>
                     <item>
                         <gloss type="term" priority="0" xml:id="UT22084-046-001-3018">
-                            <term>pride </term>
+                            <term>pride</term>
                             <term xml:lang="Bo-Ltn"> nga rgyal </term>
                             <term xml:lang="bo">ང་རྒྱལ</term>
                             <term xml:lang="Sa-Ltn">māna</term>
@@ -27499,10 +27509,10 @@
                     </item>
                     <item>
                         <gloss type="term" priority="2" xml:id="UT22084-046-001-3020">
-                            <term>pure realm </term>
-                            <term xml:lang="Bo-Ltn"> gnas gtsang ma’i ris </term>
+                            <term>pure realm</term>
+                            <term xml:lang="Bo-Ltn"> gnas gtsang ma’i ris</term>
                             <term xml:lang="bo">གནས་གཙང་མའི་རིས</term>
-                            <term xml:lang="Sa-Ltn">śuddhāvāsa</term>
+                            <term xml:lang="Sa-Ltn">śuddhāvāsa/___śuddhāvāsa­kāyika</term>
                         </gloss>
                     </item>
                     <item>
@@ -27591,18 +27601,6 @@
                             <term xml:lang="Sa-Ltn">śāstra</term>
                             <term type="definition">Commentarial texts on the Buddha’s teachings
                                 composed by subsequent Buddhist masters.</term>
-                        </gloss>
-                    </item>
-                    <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-046-001-3031">
-                            <term>seat of awakening</term>
-                            <term xml:lang="Bo-Ltn"> byang chub kyi snying po </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སྙིང་པོ</term>
-                            <term xml:lang="Sa-Ltn">bodhimaṇda</term>
-                            <term type="definition">The place where Śakyamuni Buddha achieved
-                                awakening and where countless other Buddhas are said to have
-                                achieved awakening. This is understood to be located under the bodhi
-                                tree in present-day Bodhgaya, India.</term>
                         </gloss>
                     </item>
                     <!--<item>
@@ -27723,9 +27721,8 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-046-001-3043">
-                            <term>thirty-seven‌ branches of
-                                awakening</term>
+                        <gloss type="term" priority="0" xml:id="UT22084-046-001-3043" mode="marked">
+                            <term>thirty-seven branches of awakening</term>
                             <term xml:lang="Bo-Ltn"> byang chub kyi chos sum cu rtsa bdun </term>
                             <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་ཆོས་སུམ་ཅུ་རྩ་བདུན</term>
                             <term xml:lang="Sa-Ltn">sapta­triṃśadbodhyaṅga</term>
@@ -27974,6 +27971,24 @@
                             <term xml:lang="bo">ཀིམ་པ་ལ</term>
                             <term xml:lang="Sa-Ltn">kimpala</term>
                             <term type="definition">A musical instrument, of an unidentified kind though sometimes translated “cymbals.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" priority="0" xml:id="UT22084-046-001-4000">
+                            <term>awakened one</term>
+                            <term xml:lang="Bo-Ltn"> sangs rgyas </term>
+                            <term xml:lang="bo">སངས་རྒྱས</term>
+                            <term xml:lang="Sa-Ltn">buddha</term>
+                            <term type="definition">Also translated "buddha."</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" priority="0" xml:id="UT22084-046-001-4001">
+                            <term>partridge</term>
+                            <term xml:lang="Bo-Ltn"> shang shang te’u </term>
+                            <term xml:lang="bo">ཤང་ཤང་ཏེའུ</term>
+                            <term xml:lang="Sa-Ltn">jīvaṃjīvaka, jīvaṃjīva</term>
+                            <term type="definition">Also translated "pheasant."</term>
                         </gloss>
                     </item>
                     <!--    COULDNT FIND IN THE TEXT:
