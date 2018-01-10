@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/1.0/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- Reviewed and revised by John, placed in TEI folder 10 Jun 2016 -->
     <teiHeader>
@@ -49,6 +50,9 @@
                     <author role="translatorTib">Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:01:37 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -1185,7 +1189,7 @@
                     <p tid="96">Many hundreds of thousands of apsaras had gathered there. The apsara named
                         Tilottamā, the apsara named Suvyūhā, the apsara named Suvarṇamekhalā, the
                         apsara named Vibhūṣutā, the apsara named Karṇadhārā, the apsara named
-                        Amṛtabindu‌, the apsara named Pariśobhitakāyā, the apsara named
+                        <term type="ignore">Amṛtabindu</term>, the apsara named Pariśobhitakāyā, the apsara named
                         Maṇiprasthanā, the apsara named Cuḍakā, the apsara named Mṛdukā, the apsara
                         named Pañcabhūryābhimukhā, the apsara named Ratikarā, the apsara named
                         Kañcanamālā, the apsara named Nīlotpalā, the apsara named Dharmābhimukhā,

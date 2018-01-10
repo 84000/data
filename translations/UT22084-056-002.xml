@@ -51,6 +51,9 @@
                     <author role="translatorTib">Bandé Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated">Last updated at 10/01/2018 at 16:02:31 by admin</note>
+            </notesStmt>
         </fileDesc>
     </teiHeader>
     <text>
@@ -315,8 +318,7 @@ Notes -->
                     <milestone unit="chunk" xml:id="UT22084-056-002-20"/>
                     <!--/modularPassage-->
                     <p tid="22"><!--modularPassage type=thusSettingRetinue-->Thus have I heard at one time.
-                        The Blessed One was dwelling in Vaiśālī in the mansion in Āmra‌pālī’s great
-                        grove, together with a great assembly of ten thousand monks.
+                        The Blessed One was dwelling in Vaiśālī in the mansion in Āmrapālī’s great grove, together with a great assembly of ten thousand monks.
                         <!--/modularPassage--><!--modularPassage type=thusSettingRetinue--> All
                         these monks were foe-destroyers whose defilements were exhausted. They were
                         without afflictions and controlled. Their minds were perfectly free, their
@@ -456,7 +458,7 @@ Notes -->
                         this ‘Blessed One’ and myself, and resolve my doubts.” </p>
                     <milestone unit="chunk" xml:id="UT22084-056-002-30"/>
                     <p tid="36">So the mighty strongman Vimalatejā left the great city of Vaiśālī and went to
-                        the mansion in Āmra‌pālī’s great grove. There was the Thus-Gone One, the
+                        the mansion in Āmrapālī’s great grove. There was the Thus-Gone One, the
                         foe-destroyer, the completely perfect Buddha, surrounded and revered by his
                         hundred-thousandfold retinue. Vimalatejā saw the great power with which the
                         Buddha taught the Dharma. In his magnificent beauty the Buddha seemed like
@@ -2115,7 +2117,7 @@ Notes -->
                         thousand cycles of three incalculable eons, the mighty strongman Vimalatejā
                         will fully awaken to unsurpassed and completely perfect buddhahood. In the
                         eastern realm known as Utterly Purifying, in the eon known as Praised by
-                        Brahmā‌, he will appear in the world as a thus-gone one, a foe-destroyer, a
+                        <term type="ignore">Brahmā</term>, he will appear in the world as a thus-gone one, a foe-destroyer, a
                         completely perfect buddha. He will be someone who is knowledgeable and
                         virtuous, a blissful one, someone who knows the world, a charioteer to guide
                         beings, an unsurpassed being, a teacher of gods and men, a blessed buddha
@@ -3931,7 +3933,7 @@ Notes -->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-056-002-362">
+                        <gloss type="place" priority="1" xml:id="UT22084-056-002-362">
                             <term>Āmra‌pālī’s great grove</term>
                             <term xml:lang="Bo-Ltn">a mras bsrungs pa'i tshal chen po </term>
                             <term xml:lang="bo">ཨ་མྲས་བསྲུངས་པའི་ཚལ་ཆེན་པོ</term>
