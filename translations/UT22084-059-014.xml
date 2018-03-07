@@ -8,14 +8,11 @@
                 <title type="mainTitle" xml:lang="en">The Questions of an Old Lady</title>
                 <title type="mainTitle" xml:lang="Sa-Ltn">Mahallikā­paripṛcchā</title>
                 <title type="longTitle" xml:lang="bo">འཕགས་པ་བགྲེས་མོས་ཞུས་པ་ཞེས་བྱ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
-                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya ba
-                    theg pa chen po’i mdo</title>
-                <title type="longTitle" xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of an
-                    Old Lady”</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya ba theg pa chen po’i mdo</title>
+                <title type="longTitle" xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of an Old Lady”</title>
                 <title type="longTitle" xml:lang="Sa-Ltn">Ārya­mahallikā­paripṛcchā­nāma­mahā­yāna­sūtra</title>
-                <author role="translatorMain">Translated by the Sakya Pandita Translation Group
-                    (International Buddhist Academy Division)<lb/> under the patronage and
-                    supervision of 84000: Translating the Words of the Buddha</author>
+                <author role="translatorMain">Translated by the Sakya Pandita Translation Group (International Buddhist Academy
+                    Division)<lb/> under the patronage and supervision of 84000: Translating the Words of the Buddha</author>
                 <author role="translatorEng">Venerable Jampa Losal</author>
                 <author role="translatorEng">YangDol Tsatultsang</author>
             </titleStmt>
@@ -25,17 +22,15 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit
-                    initiative that aims to translate all of the Buddha’s words into modern
-                    languages, and to make them available to everyone.</publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative that aims to
+                    translate all of the Buddha’s words into modern languages, and to make them available to everyone.</publisher>
                 <availability>
                     <licence>
                         <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
-                        <p>This work is provided under the protection of a Creative Commons CC
-                            BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright.
-                            It may be copied or printed for fair use, but only with full
-                            attribution, and not for commercial advantage or personal compensation.
-                            For full details, see the Creative Commons license.</p>
+                        <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution -
+                            Non-commercial - No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but only
+                            with full attribution, and not for commercial advantage or personal compensation. For full details,
+                            see the Creative Commons license.</p>
                     </licence>
                 </availability>
                 <idno xml:id="UT22084-059-014"/>
@@ -49,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 02/03/2018 at 11:01:16 by andre</note>
+                <note type="lastUpdated">Last updated at 07/03/2018 at 11:13:07 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -58,71 +53,61 @@
             <div type="summary">
                 <head type="summary">Summary</head>
                 <milestone unit="chunk" xml:id="UT22084-059-014-1"/>
-                <p tid="1">This sūtra contains teachings given by the Buddha to a 120-year-old woman in the
-                    city of Vaiśalī. Upon meeting the Buddha, she asks him questions concerning the
-                    four stages of life, the aggregates, the elements and the faculties. In
-                    response, the Buddha gives her a profound teaching on emptiness, using
-                    beautifully crafted examples to illustrate his point. </p>
-                <p tid="2">After hearing these teachings her doubts are dispelled and she is freed from
-                    clinging to the perception of a self. Ānanda asks the Buddha why he has given
-                    such profound teachings to this woman. The Buddha reveals that the woman has
-                    been his mother five hundred times in previous lifetimes and that he had
-                    generated the root of virtue for her to become enlightened. Because of her own
-                    strong aspirations, after dying, she would be born in the buddha field of
-                    Sukhāvatī; and after sixty-eight thousand eons she would finally become the
-                    buddha Bodhyaṅga­puṣpa­kara.</p>
+                <p tid="1">This sūtra contains teachings given by the Buddha to a 120-year-old woman in the city of Vaiśalī. Upon
+                    meeting the Buddha, she asks him questions concerning the four stages of life, the aggregates, the elements
+                    and the faculties. In response, the Buddha gives her a profound teaching on emptiness, using beautifully
+                    crafted examples to illustrate his point. </p>
+                <p tid="2">After hearing these teachings her doubts are dispelled and she is freed from clinging to the perception
+                    of a self. Ānanda asks the Buddha why he has given such profound teachings to this woman. The Buddha reveals
+                    that the woman has been his mother five hundred times in previous lifetimes and that he had generated the root
+                    of virtue for her to become enlightened. Because of her own strong aspirations, after dying, she would be born
+                    in the buddha field of Sukhāvatī; and after sixty-eight thousand eons she would finally become the buddha
+                    Bodhyaṅga­puṣpa­kara.</p>
             </div>
             <div type="acknowledgment">
                 <head type="acknowledgment">Acknowledgments</head>
                 <milestone unit="chunk" xml:id="UT22084-059-014-2"/>
-                <p tid="3">This sūtra was translated from Tibetan into English under the supervision of
-                    Khenpo Ngawang Jorden by the Venerable Jampa Losal and the laywoman YangDol
-                    Tsatultsang, members of the Sakya Pandita Translation Group (International
-                    Buddhist Academy Division), Kathmandu.</p>
-                <p tid="4">This translation has been completed under the patronage and supervision of 84000:
-                    Translating the Words of the Buddha.</p>
+                <p tid="3">This sūtra was translated from Tibetan into English under the supervision of Khenpo Ngawang Jorden by
+                    the Venerable Jampa Losal and the laywoman YangDol Tsatultsang, members of the Sakya Pandita Translation Group
+                    (International Buddhist Academy Division), Kathmandu.</p>
+                <p tid="4">This translation has been completed under the patronage and supervision of 84000: Translating the Words
+                    of the Buddha.</p>
             </div>
             <div type="introduction">
                 <head type="introduction">Introduction</head>
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-059-014-3"/>
-                    <p tid="5">Considering the cultural norms of the time, the fact that the teaching
-                        contained in this sūtra was given entirely to a laywoman and, moreover, to
-                        a very old and impoverished laywoman, makes it stand apart.</p>
-                    <p tid="6">The setting of
-                        this text is Vaiśalī, the ancient capital of the Licchavis and of the
-                        Vṛji confederacy of which the Licchavi republic was a member. The old
-                        lady, whose name we are never told, asks the Buddha such profound questions
-                        that Ānanda realises this is no ordinary woman but one whose wisdom comes
-                        from merit collected in past lifetimes. As it turns out, the Buddha reveals
-                        that she has been his mother for five hundred lifetimes.</p>
+                    <p tid="5">Considering the cultural norms of the time, the fact that the teaching contained in this sūtra was
+                        given entirely to a laywoman and, moreover, to a very old and impoverished laywoman, makes it stand
+                        apart.</p>
+                    <p tid="6">The setting of this text is Vaiśalī, the ancient capital of the Licchavis and of the Vṛji
+                        confederacy of which the Licchavi republic was a member. The old lady, whose name we are never told, asks
+                        the Buddha such profound questions that Ānanda realises this is no ordinary woman but one whose wisdom
+                        comes from merit collected in past lifetimes. As it turns out, the Buddha reveals that she has been his
+                        mother for five hundred lifetimes.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-4"/>
-                    <p tid="7">The main body of the text, which consists of the Buddha’s teachings in answer
-                        to the old lady’s questions, is an explanation of emptiness. To put it
-                        briefly, the Buddha says no phenomenon arises of its own accord. Neither
-                        does any phenomenon give rise to any other phenomenon. All phenomena arise
-                        owing to their dependence upon collections of causes and conditions. Hence,
-                        there is no independent phenomenon, though we may use terms to indicate
-                        various phenomena as if they were independent. After the Buddha’s teaching
-                        the old lady realizes this profound truth. The Buddha prophesies that she
-                        herself will one day become a buddha. In earlier lifetimes he had planted
-                        roots of virtue and made strong aspirations for her to do so.</p>
+                    <p tid="7">The main body of the text, which consists of the Buddha’s teachings in answer to the old lady’s
+                        questions, is an explanation of emptiness. To put it briefly, the Buddha says no phenomenon arises of its
+                        own accord. Neither does any phenomenon give rise to any other phenomenon. All phenomena arise owing to
+                        their dependence upon collections of causes and conditions. Hence, there is no independent phenomenon,
+                        though we may use terms to indicate various phenomena as if they were independent. After the Buddha’s
+                        teaching the old lady realizes this profound truth. The Buddha prophesies that she herself will one day
+                        become a buddha. In earlier lifetimes he had planted roots of virtue and made strong aspirations for her
+                        to do so.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-059-014-5"/>
-                    <p tid="8">The following modern works should be mentioned. Frye (1979) provides us with
-                        an English translation from the Mongolian version of the sūtra. Research on
-                        the date and translator attributions of the Chinese versions is to be found
-                        in Nattier (2007). Durt (2005) discusses the theme of the <foreign xml:lang="Sa-Ltn">mahallikā</foreign> (old lady) and the three Chinese
-                        versions (Taishō 559, 560, 561) of the <title xml:lang="Sa-Ltn">Mahallikā­paripṛcchā</title>.</p>
+                    <p tid="8">The following modern works should be mentioned. Frye (1979) provides us with an English translation
+                        from the Mongolian version of the sūtra. Research on the date and translator attributions of the Chinese
+                        versions is to be found in Nattier (2007). Durt (2005) discusses the theme of the <foreign xml:lang="Sa-Ltn">mahallikā</foreign> (old lady) and the three Chinese versions (Taishō 559, 560, 561)
+                        of the <title xml:lang="Sa-Ltn">Mahallikā­paripṛcchā</title>.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-6"/>
-                    <p tid="9">There is no Sanskrit version extant. The primary Tibetan text used for the present
-                        translation was the version in the Degé (<foreign xml:lang="Bo-Ltn">sde dge</foreign>)
-                        Kangyur, versions in the other Kangyurs being also compared. The colophon of the sūtra
-                        states that it was translated under the guidance of the abbots Jinamitra and
-                        Dānaśīla by the Tibetan translator Yeshé Dé (<foreign xml:lang="Bo-Ltn">ye
-                            shes sde</foreign>), from which we can conclude that this text must have
-                        been translated from Sanskrit to Tibetan in the early ninth century C.E.
-                        during the first major phase of the translation of Buddhist texts into Tibetan.</p>
+                    <p tid="9">There is no Sanskrit version extant. The primary Tibetan text used for the present translation was
+                        the version in the Degé (<foreign xml:lang="Bo-Ltn">sde dge</foreign>) Kangyur, versions in the other
+                        Kangyurs being also compared. The colophon of the sūtra states that it was translated under the guidance
+                        of the abbots Jinamitra and Dānaśīla by the Tibetan translator Yeshé Dé (<foreign xml:lang="Bo-Ltn">ye
+                            shes sde</foreign>), from which we can conclude that this text must have been translated from Sanskrit
+                        to Tibetan in the early ninth century C.E. during the first major phase of the translation of Buddhist
+                        texts into Tibetan.</p>
                 </div>
             </div>
         </front>
@@ -135,220 +120,177 @@
                     <milestone unit="chunk" xml:id="UT22084-059-014-7"/>
                     <p tid="10">
                         <ref cRef="F.310.b"/>
-                        <!--<modularPassage type="homage">-->Homage to all buddhas and
-                        bodhisattvas.<!--</modularPassage>-->
+                        <!--<modularPassage type="homage">-->Homage to all buddhas and bodhisattvas.<!--</modularPassage>-->
                     </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-059-014-8"/>
-                    <p tid="11">Thus did I hear at one time. When the Bhagavān was travelling in the land of
-                            Vṛji, he went to the great city of Vaiśālī,
-                        together with a large saṅgha of one thousand two hundred and fifty bhikṣus
-                        and a vast number of bodhisattva mahāsattvas. At that time, he came across
-                        an old woman from the city gathering grass in the countryside. She was
-                        decrepit and had reached the end of her life-span, being one hundred and
+                    <p tid="11">Thus did I hear at one time. When the Bhagavān was travelling in the land of Vṛji, he went to the
+                        great city of Vaiśālī, together with a large saṅgha of one thousand two hundred and fifty bhikṣus and a
+                        vast number of bodhisattva mahāsattvas. At that time, he came across an old woman from the city gathering
+                        grass in the countryside. She was decrepit and had reached the end of her life-span, being one hundred and
                         twenty years old.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-9"/>
-                    <p tid="12">The woman saw the Bhagavān coming from afar—handsome, inspiring, with
-                        senses tamed, mind tamed, endowed with supreme discipline and serenity,
-                        guarded, faultless, senses controlled, pure and clear like the sea,
-                        unclouded, upright like a golden sacrificial post, radiant with splendor clear and
-                        distinct, wonderfully adorned with the thirty-two signs of a great being.
-                        When she saw him, faith grew in her mind. Then full of devotion she
-                        approached <ref cRef="F.311.a"/> the Bhagavān, bowed her head at his feet,
+                    <p tid="12">The woman saw the Bhagavān coming from afar—handsome, inspiring, with senses tamed, mind tamed,
+                        endowed with supreme discipline and serenity, guarded, faultless, senses controlled, pure and clear like
+                        the sea, unclouded, upright like a golden sacrificial post, radiant with splendor clear and distinct,
+                        wonderfully adorned with the thirty-two signs of a great being. When she saw him, faith grew in her mind.
+                        Then full of devotion she approached <ref cRef="F.311.a"/> the Bhagavān, bowed her head at his feet,
                         circumambulated the Bhagavān three times and sat to one side. </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-10"/>
-                    <p tid="13">Bowing with her palms together in the direction of the Bhagavān, the woman then asked him, “O Bhagavān, where does birth come from? Where does aging come from? Where do
-                        they go? O Bhagavān, where does sickness come from? Where does death come
-                        from? Where do they go? O Bhagavān, where does form come from? Where do
-                        sensation, notions, <term>formative factors</term> and consciousness come
-                        from? Where do they go? O Bhagavān, where does the earth element come from?
-                        Where do the water element, the fire element, the wind element, the space
-                        element and the element of consciousness come from? Where do they go? O
-                        Bhagavān, where does the eye come from? Where do the ear, the nose, the
-                        tongue, the body and the mind come from? Where do they go?”</p>
+                    <p tid="13">Bowing with her palms together in the direction of the Bhagavān, the woman then asked him, “O
+                        Bhagavān, where does birth come from? Where does aging come from? Where do they go? O Bhagavān, where does
+                        sickness come from? Where does death come from? Where do they go? O Bhagavān, where does form come from?
+                        Where do sensation, notions, <term>formative factors</term> and consciousness come from? Where do they go?
+                        O Bhagavān, where does the earth element come from? Where do the water element, the fire element, the wind
+                        element, the space element and the element of consciousness come from? Where do they go? O Bhagavān, where
+                        does the eye come from? Where do the ear, the nose, the tongue, the body and the mind come from? Where do
+                        they go?”</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-11"/>
-                    <p tid="14">The Bhagavān replied, “Sister, birth does not come from anywhere. Aging does not
-                        come from anywhere. They do not go anywhere. Sister, sickness does not come
-                        from anywhere. Death does not come from anywhere. They do not go anywhere.
-                        Sister, form does not come from anywhere. Sensation, notions, <term>formative
-                        factors</term> and consciousness do not come from anywhere. They do not go
-                        anywhere. Sister, the earth element does not come from anywhere. The water
-                        element, the fire element, the wind element, the space element and the
-                        element of consciousness do not come from anywhere. They do not go anywhere.
-                        Sister, the eye does not come from anywhere. The ear, the nose, the tongue,
-                        the body and the mind do not come from anywhere. They do not go
-                        anywhere.</p>
+                    <p tid="14">The Bhagavān replied, “Sister, birth does not come from anywhere. Aging does not come from
+                        anywhere. They do not go anywhere. Sister, sickness does not come from anywhere. Death does not come from
+                        anywhere. They do not go anywhere. Sister, form does not come from anywhere. Sensation, notions,
+                            <term>formative factors</term> and consciousness do not come from anywhere. They do not go anywhere.
+                        Sister, the earth element does not come from anywhere. The water element, the fire element, the wind
+                        element, the space element and the element of consciousness do not come from anywhere. They do not go
+                        anywhere. Sister, the eye does not come from anywhere. The ear, the nose, the tongue, the body and the
+                        mind do not come from anywhere. They do not go anywhere.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-12"/>
-                    <p tid="15">“Sister, it is as follows: as an analogy, a fire arises based on a stick to rub
-                        with, a stick to rub on, and and also a person’s effort to generate it. That
-                        fire, moreover, once it has burnt the grass and wood, will have no more
-                        causes and will die. Sister, where do you think the fire comes from and
-                        where does it go?” </p>
-                    <p tid="16">She answered, “O Bhagavān, that fire comes into being owing to the power of a
-                        collection of causes. It ceases and dies when it lacks the collection of
-                        causes.” </p>
+                    <p tid="15">“Sister, it is as follows: as an analogy, a fire arises based on a stick to rub with, a stick to
+                        rub on, and and also a person’s effort to generate it. That fire, moreover, once it has burnt the grass
+                        and wood, will have no more causes and will die. Sister, where do you think the fire comes from and where
+                        does it go?” </p>
+                    <p tid="16">She answered, “O Bhagavān, that fire comes into being owing to the power of a collection of
+                        causes. It ceases and dies when it lacks the collection of causes.” </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-13"/>
-                    <p tid="17">The Bhagavān said, “Sister, likewise, all phenomena <ref cRef="F.311.b"/>
-                        come into being owing to the power of a collection. They cease and die when
-                        they lack the collection. Whatever the phenomena, they do not come from
-                        anywhere, nor do they go anywhere. Sister, it is as follows: although the eye
-                        consciousness arises based upon the eye and form, the eye consciousness does
-                        not have a producer, nor anything that makes it cease. Nowhere is it brought
-                        together at all. The aggregates do not come from anywhere, nor do they go
-                        anywhere. When one has accumulated karma through the conditions of the
-                        consciousnesses, the fruits manifest as the results of three types<note place="end" index="1" xml:id="UT22084-059-014-83">The results of three types (<foreign type="term" xml:lang="Bo-Ltn">’bras bu rnam pa gsum</foreign>) may refer to three sorts of
-                            karmic “ripening” (<foreign type="term" xml:lang="Sa-Ltn">vipāka</foreign>), i.e., pleasant, unpleasant and neutral. </note>
-                        in the three realms. That fruit is empty too. It has no coming. It has
-                        no going. No one makes it arise. It is not stopped by anybody. Sister, all
-                        phenomena have stopped due to their very natures.</p>
+                    <p tid="17">The Bhagavān said, “Sister, likewise, all phenomena <ref cRef="F.311.b"/> come into being owing to
+                        the power of a collection. They cease and die when they lack the collection. Whatever the phenomena, they
+                        do not come from anywhere, nor do they go anywhere. Sister, it is as follows: although the eye
+                        consciousness arises based upon the eye and form, the eye consciousness does not have a producer, nor
+                        anything that makes it cease. Nowhere is it brought together at all. The aggregates do not come from
+                        anywhere, nor do they go anywhere. When one has accumulated karma through the conditions of the
+                        consciousnesses, the fruits manifest as the results of three types<note place="end" index="1" xml:id="UT22084-059-014-83">The results of three types (<foreign type="term" xml:lang="Bo-Ltn">’bras
+                                bu rnam pa gsum</foreign>) may refer to three sorts of karmic “ripening” (<foreign type="term" xml:lang="Sa-Ltn">vipāka</foreign>), i.e., pleasant, unpleasant and neutral. </note> in the three
+                        realms. That fruit is empty too. It has no coming. It has no going. No one makes it arise. It is not
+                        stopped by anybody. Sister, all phenomena have stopped due to their very natures.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-14"/>
                     <p tid="18">“Likewise, although the mental consciousness arises based upon the ear and sound, the nose and
-                        smell, the tongue and taste, the body and touch, and the mind and phenomena,
-                        the mental consciousness<note place="end" index="2" xml:id="UT22084-059-014-84">Whereas the
-                            previous paragraph spoke of the visual or eye consciousness, the present
-                            paragraph now discusses the “mental consciousness” (<foreign type="term" xml:lang="Sa-Ltn">manovijñāna</foreign>, <foreign type="term" xml:lang="Bo-Ltn">yid kyi rnam par shes pa</foreign>) that is able
-                            to grasp all that exists, i.e., all phenomena (dharma). See
-                            glossary.</note> does not have a producer nor has it anything that
-                        makes it cease. Nowhere is it brought together at all.<note place="end" index="3" xml:id="UT22084-059-014-85">N <foreign xml:lang="Bo-Ltn">gang yang sogs pa
-                            med</foreign>; D <foreign xml:lang="Bo-Ltn">gang yang sogs pa
-                                yang</foreign>. N is probably correct as it is consistent with
-                            previous similar passages.</note> The aggregates do not come from
-                        anywhere, nor do they go anywhere either. When one has accumulated karma
-                        through the condition of mental consciousness, the fruits manifest as the
-                        results of three types in the three realms. That fruit is empty too. It has
-                        no coming. It has no going. No one makes it arise. It is not stopped by
-                        anybody. Sister, all phenomena are inherently stopped.</p>
+                        smell, the tongue and taste, the body and touch, and the mind and phenomena, the mental consciousness<note place="end" index="2" xml:id="UT22084-059-014-84">Whereas the previous paragraph spoke of the visual
+                            or eye consciousness, the present paragraph now discusses the “mental consciousness” (<foreign type="term" xml:lang="Sa-Ltn">manovijñāna</foreign>, <foreign type="term" xml:lang="Bo-Ltn">yid
+                                kyi rnam par shes pa</foreign>) that is able to grasp all that exists, i.e., all phenomena
+                            (dharma). See glossary.</note> does not have a producer nor has it anything that makes it cease.
+                        Nowhere is it brought together at all.<note place="end" index="3" xml:id="UT22084-059-014-85">N <foreign xml:lang="Bo-Ltn">gang yang sogs pa med</foreign>; D <foreign xml:lang="Bo-Ltn">gang yang sogs pa
+                                yang</foreign>. N is probably correct as it is consistent with previous similar passages.</note>
+                        The aggregates do not come from anywhere, nor do they go anywhere either. When one has accumulated karma
+                        through the condition of mental consciousness, the fruits manifest as the results of three types in the
+                        three realms. That fruit is empty too. It has no coming. It has no going. No one makes it arise. It is not
+                        stopped by anybody. Sister, all phenomena are inherently stopped.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-15"/>
-                    <p tid="19">“Sister, it is as follows: as an analogy, the sound of a drum arises based on
-                        wood, hide and a stick, and also on a person’s effort to make it arise. The
-                        past sound of that drum was empty, the future sound will be empty and the
-                        sound that arises at present is empty. The sound does not dwell in the wood,
-                        neither does it dwell in the hide, nor does it dwell in the stick, nor does
-                        it dwell in the person’s hand. However, because of these conditions, it is
-                        termed sound. That which is termed sound is also empty. It has no coming. It
-                        has no going. No one makes it arise. It is not stopped by anybody. Sister,
-                        all phenomena are inherently stopped.</p>
+                    <p tid="19">“Sister, it is as follows: as an analogy, the sound of a drum arises based on wood, hide and a
+                        stick, and also on a person’s effort to make it arise. The past sound of that drum was empty, the future
+                        sound will be empty and the sound that arises at present is empty. The sound does not dwell in the wood,
+                        neither does it dwell in the hide, nor does it dwell in the stick, nor does it dwell in the person’s hand.
+                        However, because of these conditions, it is termed sound. That which is termed sound is also empty. It has
+                        no coming. It has no going. No one makes it arise. It is not stopped by anybody. Sister, all phenomena are
+                        inherently stopped.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-16"/>
-                    <p tid="20"> “Sister, likewise, all phenomena depend solely on conditions, i.e., ones
-                        such as ignorance, craving, karma and consciousness. When these latter
-                        phenomena are present, the terms death and birth are designated. <ref cRef="F.312.a"/> That which is designated death and birth is also empty.
-                        It has no coming. It has no going. No one makes it arise. It is not stopped
-                        by anybody. Sister, all phenomena are inherently stopped. </p>
+                    <p tid="20"> “Sister, likewise, all phenomena depend solely on conditions, i.e., ones such as ignorance,
+                        craving, karma and consciousness. When these latter phenomena are present, the terms death and birth are
+                        designated. <ref cRef="F.312.a"/> That which is designated death and birth is also empty. It has no
+                        coming. It has no going. No one makes it arise. It is not stopped by anybody. Sister, all phenomena are
+                        inherently stopped. </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-17"/>
-                    <p tid="21">“Sister, in this way, whoever understands the nature of a drum’s sound well
-                        also understands emptiness well. Whoever understands emptiness well,
-                        understands nirvāṇa well. Whoever understands nirvāṇa well has no attachment
-                        to any entity, and despite designating conventional things with all sorts of
-                        terms—‘this is mine,’ or ‘that is me,’ or ‘sentient being,’ or ‘life force,’
-                        or ‘living being,’ or ‘man,’ or ‘person,’ or ‘born of Manu,’ or ‘son of Manu,’ or ‘agent,’ or ‘inciter of action,’ or ‘appropriator,’ or
-                        ‘discarder’—he teaches Dharma without attachment to these. He teaches
-                        Dharma well. He teaches the final reality. He teaches the final reality
-                        well.</p>
+                    <p tid="21">“Sister, in this way, whoever understands the nature of a drum’s sound well also understands
+                        emptiness well. Whoever understands emptiness well, understands nirvāṇa well. Whoever understands nirvāṇa
+                        well has no attachment to any entity, and despite designating conventional things with all sorts of
+                        terms—‘this is mine,’ or ‘that is me,’ or ‘sentient being,’ or ‘life force,’ or ‘living being,’ or ‘man,’
+                        or ‘person,’ or ‘born of Manu,’ or ‘son of Manu,’ or ‘agent,’ or ‘inciter of action,’ or ‘appropriator,’
+                        or ‘discarder’—he teaches Dharma without attachment to these. He teaches Dharma well. He teaches the final
+                        reality. He teaches the final reality well.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-18"/>
-                    <p tid="22">“Sister, it is as follows: an artist or an artist’s apprentice spreads
-                        various paints on a canvas that has been thoroughly cleaned or on a flat
-                        piece of wood or on the surface of a wall that has been wiped clean. He
-                        paints with ease whatever bodily shape he might wish, such as the features
-                        of a man’s physical form, the features of a woman’s physical form, the
-                        features of an elephant’s physical form, the features of a horse’s physical
-                        form or the features of a donkey’s physical form, with complete limbs, parts
-                        of limbs and all the sense faculties. Well executed though the painting may be,
-                        it does not involve any phenomenon at all being transferred from the artist’s hand or mind
-                        to the physical form depicted; and yet we designate that form as a result of those
-                        conditions. That which is designated form is also empty. It has no coming. It
-                        has no going. No one makes it arise. It is not stopped by anybody. Sister,
-                        all phenomena are inherently stopped.</p>
+                    <p tid="22">“Sister, it is as follows: an artist or an artist’s apprentice spreads various paints on a canvas
+                        that has been thoroughly cleaned or on a flat piece of wood or on the surface of a wall that has been
+                        wiped clean. He paints with ease whatever bodily shape he might wish, such as the features of a man’s
+                        physical form, the features of a woman’s physical form, the features of an elephant’s physical form, the
+                        features of a horse’s physical form or the features of a donkey’s physical form, with complete limbs,
+                        parts of limbs and all the sense faculties. Well executed though the painting may be, it does not involve
+                        any phenomenon at all being transferred from the artist’s hand or mind to the physical form depicted; and
+                        yet we designate that form as a result of those conditions. That which is designated form is also empty.
+                        It has no coming. It has no going. No one makes it arise. It is not stopped by anybody. Sister, all
+                        phenomena are inherently stopped.</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-19"/>
-                    <p tid="23">“Sister, it is likewise when there are meritorious formative factors. That is to say,
-                        although bodies conducive to merit might result amongst gods and humans, in
-                        that case not even an atom is transferred from this world to the world
-                        beyond. However, due to the formative factors, <ref cRef="F.312.b"/> there
-                        are various kinds of rebirths. They are represented as physical bodies with
-                        their bases of cognition.
-                    </p>
+                    <p tid="23">“Sister, it is likewise when there are meritorious formative factors. That is to say, although
+                        bodies conducive to merit might result amongst gods and humans, in that case not even an atom is
+                        transferred from this world to the world beyond. However, due to the formative factors, <ref cRef="F.312.b"/> there are various kinds of rebirths. They are represented as physical bodies with
+                        their bases of cognition. </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-20"/>
-                    <p tid="24">“It is likewise when there are demeritorious <term>formative factors</term>. That is to
-                        say, although bodies that are not meritorious result amongst hell beings, or
-                        in the animal state, or in the world of the Lord of Death, or among the
-                            demigods, not even an atom is transferred in such a case from this world to the world
-                        beyond. However, due to the formative factors there are various kinds of
-                        rebirths. They are understood to be physical forms with their bases of cognition. </p>
+                    <p tid="24">“It is likewise when there are demeritorious <term>formative factors</term>. That is to say,
+                        although bodies that are not meritorious result amongst hell beings, or in the animal state, or in the
+                        world of the Lord of Death, or among the demigods, not even an atom is transferred in such a case from
+                        this world to the world beyond. However, due to the formative factors there are various kinds of rebirths.
+                        They are understood to be physical forms with their bases of cognition. </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-21"/>
-                    <p tid="25">“Sister, it is as follows: as an analogy, a vast gathering of clouds arises
-                        because of the nāga-power of the nāgas,<note place="end" index="4" xml:id="UT22084-059-014-86">Nāgas are associated with springs, streams, rivers, and water in general, and among their many magical powers are the ability to produce rain. Presumably this ability is what is meant here by “nāga-power” (<foreign xml:lang="Bo-Ltn">klu’i mthu</foreign>), although this appears to be the only mention of the term in the Kangyur in connection with clouds and rain.</note> and when those huge nets of clouds cover the earth they
-                        let fall a heavy deluge of rain. After the heavy deluge of rain has fallen,
-                        the hills and the valleys are quenched. When the hills and valleys are
-                        quenched, the rain later subsides. But these things do not originate from
-                        the nāgas’ bodies or minds. The nāgas produced the vast gathering of clouds
-                        by virtue of the nāga-powers of nāgas alone. </p>
+                    <p tid="25">“Sister, it is as follows: as an analogy, a vast gathering of clouds arises because of the
+                        nāga-power of the nāgas,<note place="end" index="4" xml:id="UT22084-059-014-86">Nāgas are associated with
+                            springs, streams, rivers, and water in general, and among their many magical powers are the ability to
+                            produce rain. Presumably this ability is what is meant here by “nāga-power” (<foreign xml:lang="Bo-Ltn">klu’i mthu</foreign>), although this appears to be the only mention of the term
+                            in the Kangyur in connection with clouds and rain.</note> and when those huge nets of clouds cover the
+                        earth they let fall a heavy deluge of rain. After the heavy deluge of rain has fallen, the hills and the
+                        valleys are quenched. When the hills and valleys are quenched, the rain later subsides. But these things
+                        do not originate from the nāgas’ bodies or minds. The nāgas produced the vast gathering of clouds by
+                        virtue of the nāga-powers of nāgas alone. </p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-22"/>
-                    <p tid="26">“Sister, it is likewise when there are meritorious formative factors, that is
-                        to say, when meritorious bodies result amongst gods or humans. It is
-                        likewise, too, when there are demeritorious formative factors. That is to
-                        say, although bodies that are not meritorious result amongst hells beings or
-                        in the animal state or the world of the Lord of Death or among the demigods,
-                        in such cases the activity of the formative factor is empty, the agent of
-                        the formative factor is empty and the fruits of the formative factor are
-                        also empty. Sister, when there are formative factors for remaining static,
-                        consciousness will reincarnate amongst the beings of the formless realms.
-                        That on account of which the consciousness reincarnates amongst beings of
-                        the formless realms is empty, and the consciousness which reincarnates
-                        amongst the beings of the formless realms is empty too. Why is this so?
-                        Sister, it is because all phenomena are empty of essence. Even so phenomena
-                        are designated. The learned are not attached to them. As they have no
-                        attachment they do not dispute. Having no disputes is the supreme quality of
-                        the religious mendicant.”</p>
+                    <p tid="26">“Sister, it is likewise when there are meritorious formative factors, that is to say, when
+                        meritorious bodies result amongst gods or humans. It is likewise, too, when there are demeritorious
+                        formative factors. That is to say, although bodies that are not meritorious result amongst hells beings or
+                        in the animal state or the world of the Lord of Death or among the demigods, in such cases the activity of
+                        the formative factor is empty, the agent of the formative factor is empty and the fruits of the formative
+                        factor are also empty. Sister, when there are formative factors for remaining static, consciousness will
+                        reincarnate amongst the beings of the formless realms. That on account of which the consciousness
+                        reincarnates amongst beings of the formless realms is empty, and the consciousness which reincarnates
+                        amongst the beings of the formless realms is empty too. Why is this so? Sister, it is because all
+                        phenomena are empty of essence. Even so phenomena are designated. The learned are not attached to them. As
+                        they have no attachment they do not dispute. Having no disputes is the supreme quality of the religious
+                        mendicant.”</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-23"/>
-                    <p tid="27">The woman said, <ref cRef="F.313.a"/> “Since the Bhagavān has taught the
-                        profound Dharma in this way, O Bhagavān, I, too, have penetrated these
-                        teachings with the eye of wisdom and will never be of two minds about them
-                        again. I have no doubts. O Bhagavān, earlier, as I hadn’t yet heard these
-                        teachings I did have doubts. Now I am old, I am decrepit, I suffer, I am
-                        poor, I have no protector, I have no life and yet I do not die. O Bhagavān,
-                        after hearing these teachings I realize that there is no aging, no poverty,
-                        no happiness, no sickness, nor is anyone ever ill, wealthy or poor at all. I
-                        am freed from the notion of a self.” </p>
+                    <p tid="27">The woman said, <ref cRef="F.313.a"/> “Since the Bhagavān has taught the profound Dharma in this
+                        way, O Bhagavān, I, too, have penetrated these teachings with the eye of wisdom and will never be of two
+                        minds about them again. I have no doubts. O Bhagavān, earlier, as I hadn’t yet heard these teachings I did
+                        have doubts. Now I am old, I am decrepit, I suffer, I am poor, I have no protector, I have no life and yet
+                        I do not die. O Bhagavān, after hearing these teachings I realize that there is no aging, no poverty, no
+                        happiness, no sickness, nor is anyone ever ill, wealthy or poor at all. I am freed from the notion of a
+                        self.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-059-014-24"/>
-                    <p tid="28">Then the Venerable Ānanda inquired of the Bhagavān, “Bhagavān, why have you
-                        taught such a profound Dharma discourse as this? I wonder whether it is
-                        because this woman, who has investigated so well in this way, is
-                        meritorious, learned and naturally wise.”</p>
-                    <p tid="29">The Bhagavān replied, “Ānanda, so it is. Ānanda, it is indeed just as you
-                        say. This woman is meritorious, learned and naturally wise. Ānanda, this
-                        woman was my mother for five hundred lifetimes. Ānanda, in each of those
-                        lifetimes I also generated the roots of virtue so she could attain
-                        unsurpassable and perfectly complete enlightenment. Ānanda, I cherished,
-                        revered and respected this woman greatly. She, too, thought, ‘I will engage
-                        in whatever conduct my son engages in and attain the unsurpassable and
+                    <p tid="28">Then the Venerable Ānanda inquired of the Bhagavān, “Bhagavān, why have you taught such a profound
+                        Dharma discourse as this? I wonder whether it is because this woman, who has investigated so well in this
+                        way, is meritorious, learned and naturally wise.”</p>
+                    <p tid="29">The Bhagavān replied, “Ānanda, so it is. Ānanda, it is indeed just as you say. This woman is
+                        meritorious, learned and naturally wise. Ānanda, this woman was my mother for five hundred lifetimes.
+                        Ānanda, in each of those lifetimes I also generated the roots of virtue so she could attain unsurpassable
+                        and perfectly complete enlightenment. Ānanda, I cherished, revered and respected this woman greatly. She,
+                        too, thought, ‘I will engage in whatever conduct my son engages in and attain the unsurpassable and
                         perfectly complete enlightenment of the vehicle of happiness.’ ”</p>
                     <milestone unit="chunk" xml:id="UT22084-059-014-25"/>
                     <p tid="30"> Ānanda inquired, “Bhagavān, why is she so poor in this way?”</p>
-                    <p tid="31">The Bhagavān answered, “Ānanda, when I took up the conduct of a bodhisattva,
-                        I became a renunciate in the doctrine of the bhagavān, the Tathāgata, arhat,
-                        perfectly complete buddha Krakucchanda. At that time, Ānanda, this woman was
-                        my mother. Because of her attachment she did not want to let me go, so I
-                        stopped eating my one meal per day. Later, she agreed to let me go. Ānanda,
-                        it is because of the ripening <ref cRef="F.313.b"/> of that karma that she is as poor
-                        as she is. Ānanda, this is the last time she will be poor. Ānanda, after
-                        death, this woman, who no longer craves a woman’s faculties, will obtain a
-                        man’s faculties in the Sukhāvatī buddhafield of the bhagavān, the perfectly
-                        complete buddha Amitābha. Once born there, she will make offerings to an
-                        innumerable, immeasurable, inconceivable number of buddhas; guide an
-                        innumerable, immeasurable, inconceivable number of sentient beings to
-                        enlightenment; make an innumerable, immeasurable, inconceivable number of
-                        sentient beings ripe for enlightenment; bring an innumerable, immeasurable,
-                        inconceivable number of sentient beings to enlightenment, and having brought
-                        an innumerable, immeasurable, inconceivable number of sentient beings to
-                        enlightenment, in six million eight hundred thousand kalpas she will become the
-                        Tathāgata, arhat, perfectly complete buddha named Bodhyaṅga­puṣpa­kara in this trichiliocosm.
-                        Ānanda, the wealth and
-                        enjoyments of sentient beings of this buddha field will be like those of the
-                        gods of the Thirty-Three.” </p>
+                    <p tid="31">The Bhagavān answered, “Ānanda, when I took up the conduct of a bodhisattva, I became a renunciate
+                        in the doctrine of the bhagavān, the Tathāgata, arhat, perfectly complete buddha Krakucchanda. At that
+                        time, Ānanda, this woman was my mother. Because of her attachment she did not want to let me go, so I
+                        stopped eating my one meal per day. Later, she agreed to let me go. Ānanda, it is because of the ripening
+                            <ref cRef="F.313.b"/> of that karma that she is as poor as she is. Ānanda, this is the last time she
+                        will be poor. Ānanda, after death, this woman, who no longer craves a woman’s faculties, will obtain a
+                        man’s faculties in the Sukhāvatī buddhafield of the bhagavān, the perfectly complete buddha Amitābha. Once
+                        born there, she will make offerings to an innumerable, immeasurable, inconceivable number of buddhas;
+                        guide an innumerable, immeasurable, inconceivable number of sentient beings to enlightenment; make an
+                        innumerable, immeasurable, inconceivable number of sentient beings ripe for enlightenment; bring an
+                        innumerable, immeasurable, inconceivable number of sentient beings to enlightenment, and having brought an
+                        innumerable, immeasurable, inconceivable number of sentient beings to enlightenment, in six million eight
+                        hundred thousand kalpas she will become the Tathāgata, arhat, perfectly complete buddha named
+                        Bodhyaṅga­puṣpa­kara in this trichiliocosm. Ānanda, the wealth and enjoyments of sentient beings of this
+                        buddha field will be like those of the gods of the Thirty-Three.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-059-014-26"/>
-                    <p tid="32">Thus did the Bhagavān announce, and having spoken these words, the Sugata, the Teacher, added 
-                        the following verses:</p>
+                    <p tid="32">Thus did the Bhagavān announce, and having spoken these words, the Sugata, the Teacher, added the
+                        following verses:</p>
                     <lg tid="33">
                         <l>“Ānanda, behold this old lady,</l>
                         <l>Before me with palms joined,</l>
@@ -372,8 +314,7 @@
                     <milestone unit="chunk" xml:id="UT22084-059-014-29"/>
                     <lg tid="36">
                         <l>“Having also heard the Dharma from them all, </l>
-                        <l>With a purified mind, she will become accomplished in the same
-                                fashion. <ref cRef="F.314.a"/>
+                        <l>With a purified mind, she will become accomplished in the same fashion. <ref cRef="F.314.a"/>
                         </l>
                         <l>Remaining in the immovable, supreme mind of enlightenment, </l>
                         <l>She will cause‌ countless sentient beings to practice the Dharma.</l>
@@ -416,8 +357,7 @@
                     <milestone unit="chunk" xml:id="UT22084-059-014-35"/>
                     <lg tid="42">
                         <l>“At that time, there will be no classifications of vehicles, </l>
-                        <l>Like the vehicles of the śrāvakas and the pratyekabuddhas in this
-                                world.</l>
+                        <l>Like the vehicles of the śrāvakas and the pratyekabuddhas in this world.</l>
                         <l>All will be endowed with a complete mind of enlightenment, </l>
                         <l>Dwell in loving-kindness, and be compassionate. </l>
                     </lg>
@@ -436,14 +376,14 @@
                         <l>Would be less than a single drop of water compared to the ocean.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-059-014-38"/>
-                    <p tid="45">When the Bhagavān had spoken, the venerable Ānanda and the old lady, the
-                        bodhisattvas and bhikṣus, and the world with its gods, humans, demigods
-                        and gandharvas all rejoiced, and praised highly what the Bhagavān had taught.</p>
+                    <p tid="45">When the Bhagavān had spoken, the venerable Ānanda and the old lady, the bodhisattvas and bhikṣus,
+                        and the world with its gods, humans, demigods and gandharvas all rejoiced, and praised highly what the
+                        Bhagavān had taught.</p>
                 </div>
                 <div type="colophon">
                     <milestone unit="chunk" xml:id="UT22084-059-014-39"/>
-                    <p tid="46">This completes the Noble Mahāyāna Sūtra, <title xml:lang="en">The Questions
-                            of an Old Lady</title>.</p>
+                    <p tid="46">This completes the Noble Mahāyāna Sūtra, <title xml:lang="en">The Questions of an Old
+                        Lady</title>.</p>
                 </div>
             </div>
         </body>
@@ -466,33 +406,33 @@
                 <head type="listBibl">Bibliography</head>
                 <div type="section">
                     <bibl xml:id="UT22084-059-014-42">
-                        <title xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya theg pa chen
-                            po’i mdo</title> (<title xml:lang="Sa-Ltn">Ārya­mahallikā­paripṛcchā­nāma­mahā­yāna­sūtra</title>). Toh. 171, Degé Kangyur vol. 59 (mdo sde, ba), folios 310.b–314.a.</bibl>
+                        <title xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Ārya­mahallikā­paripṛcchā­nāma­mahā­yāna­sūtra</title>). Toh. 171, Degé Kangyur vol.
+                        59 (mdo sde, ba), folios 310.b–314.a.</bibl>
                     <bibl xml:id="UT22084-059-014-43">
-                        <title xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya theg pa chen
-                            po’i mdo</title>. bka’ ’gyur (dpe bsdur ma) [Comparative Edition of the Kangyur], krung go’i bod
-                        rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang (The Tibetan
-                        Tripitaka Collation Bureau of the China Tibetology Research Center). 108
-                        volumes. Beijing: krung go’i bod rig pa dpe skrun khang (China Tibetology
-                        Publishing House), 2006-2009, vol. 59, pp 883-893. </bibl>
-                    <bibl xml:id="UT22084-059-014-44">Dharmachakra Translation Group (trans.). <title xml:lang="en">The Play in Full</title> (<title xml:lang="Sa-Ltn">Lalitavistara</title>). 84000: Translating the Words of the Buddha, 2013.</bibl>
-                    <bibl xml:id="UT22084-059-014-45">Durt, Hubert (2005). “Kajaṅgalā, Who Could Have Been
-                            the Last Mother of the Buddha.” <title>Journal of the International College for Advanced Buddhist Studies</title> 9, 2005, pp 65-87.
-                            <ref type="url">http://ci.nii.ac.jp/vol_issue/nels/AA11260687/ISS0000414347_en.html</ref>
+                        <title xml:lang="Bo-Ltn">’phags pa bgres mos zhus pa zhes bya theg pa chen po’i mdo</title>. bka’ ’gyur
+                        (dpe bsdur ma) [Comparative Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’
+                        bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China Tibetology Research Center). 108
+                        volumes. Beijing: krung go’i bod rig pa dpe skrun khang (China Tibetology Publishing House), 2006-2009,
+                        vol. 59, pp 883-893. </bibl>
+                    <bibl xml:id="UT22084-059-014-44">Dharmachakra Translation Group (trans.). <title xml:lang="en">The Play in
+                            Full</title> (<title xml:lang="Sa-Ltn">Lalitavistara</title>). 84000: Translating the Words of the
+                        Buddha, 2013.</bibl>
+                    <bibl xml:id="UT22084-059-014-45">Durt, Hubert (2005). “Kajaṅgalā, Who Could Have Been the Last Mother of the
+                        Buddha.” <title>Journal of the International College for Advanced Buddhist Studies</title> 9, 2005, pp
+                        65-87. <ref type="url">http://ci.nii.ac.jp/vol_issue/nels/AA11260687/ISS0000414347_en.html</ref>
                     </bibl>
-                    <bibl xml:id="UT22084-059-014-46">Edgerton, F. <title xml:lang="en">Buddhist Hybrid Sanskrit Dictionary</title>. Delhi: Motilal Banarsidass, 1985. </bibl>
+                    <bibl xml:id="UT22084-059-014-46">Edgerton, F. <title xml:lang="en">Buddhist Hybrid Sanskrit
+                            Dictionary</title>. Delhi: Motilal Banarsidass, 1985. </bibl>
                     <bibl xml:id="UT22084-059-014-47">
-                        <author>Frye, Stanley</author> (<date>1979</date>). “The Sūtra Requested by the Old Women.”
-                        <title xml:lang="en">Tibet Journal</title>. 4/1, 1979, pp 28-33.</bibl>
+                        <author>Frye, Stanley</author> (<date>1979</date>). “The Sūtra Requested by the Old Women.” <title xml:lang="en">Tibet Journal</title>. 4/1, 1979, pp 28-33.</bibl>
                     <bibl xml:id="UT22084-059-014-48">
-                        <author>Nattier, Jan</author> (<date>2007</date>). “A
-                        Reassessment of the Dates and Translator Attributions of the <title xml:lang="zh">Laonüren
-                            jing</title> (T. 559) and the <title xml:lang="zh">Laomu jing</title> (T. 561).”
-                        <title xml:lang="en">Annual Report of the International Research Institute
-                            for Advanced Buddhology at Soka University</title> 10,
-                        2007, pp 529-532. <ref type="url">http://iriab.soka.ac.jp/orc/Publications/ARIRIAB/index_ARIRIAB.html</ref>
+                        <author>Nattier, Jan</author> (<date>2007</date>). “A Reassessment of the Dates and Translator
+                        Attributions of the <title xml:lang="zh">Laonüren jing</title> (T. 559) and the <title xml:lang="zh">Laomu
+                            jing</title> (T. 561).” <title xml:lang="en">Annual Report of the International Research Institute for
+                            Advanced Buddhology at Soka University</title> 10, 2007, pp 529-532. <ref type="url">http://iriab.soka.ac.jp/orc/Publications/ARIRIAB/index_ARIRIAB.html</ref>
                     </bibl>
-                    <bibl xml:id="UT22084-059-014-49">Rotman, Andy (2008). <title xml:lang="en">Divine Stories: Divyāvadāna, Part I</title>. Somerville, MA: Wisdom Publications, 2008. </bibl>
+                    <bibl xml:id="UT22084-059-014-49">Rotman, Andy (2008). <title xml:lang="en">Divine Stories: Divyāvadāna, Part
+                            I</title>. Somerville, MA: Wisdom Publications, 2008. </bibl>
                 </div>
             </div>
             <div type="glossary">
@@ -504,13 +444,10 @@
                             <term xml:lang="bo">ཁམས་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">tridhātu</term>
                             <term type="definition">The three realms are the desire realm (<foreign type="term" xml:lang="Sa-Ltn">kāmadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’dod khams</foreign>), form realm
-                                    (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>,
-                                    <foreign type="term" xml:lang="Bo-Ltn">gzugs khams</foreign>)
-                                and the formless realm (<foreign type="term" xml:lang="Sa-Ltn">ārūpyadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gzugs med khams</foreign>), i.e., the three worlds that make up
-                                saṃsāra. The first is composed of the six sorts of beings (gods,
-                                demigods, humans, animals, hungry ghosts and hell beings), whereas
-                                the latter two are only realms of gods and are thus higher, more
-                                ethereal states of saṃsāra.</term>
+                                    (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gzugs khams</foreign>) and the formless realm (<foreign type="term" xml:lang="Sa-Ltn">ārūpyadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gzugs med
+                                    khams</foreign>), i.e., the three worlds that make up saṃsāra. The first is composed of the
+                                six sorts of beings (gods, demigods, humans, animals, hungry ghosts and hell beings), whereas the
+                                latter two are only realms of gods and are thus higher, more ethereal states of saṃsāra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -519,8 +456,8 @@
                             <term xml:lang="Bo-Ltn">phung po </term>
                             <term xml:lang="bo">ཕུང་པོ།</term>
                             <term xml:lang="Sa-Ltn">skandha</term>
-                            <term type="definition">Five collections or “heaps” of impersonal mental
-                                and physical elements (<foreign type="term" xml:lang="Sa-Ltn">dharma</foreign>).</term>
+                            <term type="definition">Five collections or “heaps” of impersonal mental and physical elements
+                                    (<foreign type="term" xml:lang="Sa-Ltn">dharma</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
@@ -538,8 +475,7 @@
                             <term xml:lang="Bo-Ltn">rkyen </term>
                             <term xml:lang="bo">རྐྱེན།</term>
                             <term xml:lang="Sa-Ltn">pratyaya</term>
-                            <term type="definition">The concomitant circumstances and influences in a
-                                causal process.</term>
+                            <term type="definition">The concomitant circumstances and influences in a causal process.</term>
                         </gloss>
                     </item>
                     <item>
@@ -548,9 +484,7 @@
                             <term xml:lang="Bo-Ltn">lha ma yin </term>
                             <term xml:lang="bo">ལྷ་མ་ཡིན།</term>
                             <term xml:lang="Sa-Ltn">asura</term>
-                            <term type="definition">The titans who inhabit one of the six types of
-                                “worlds” (<foreign type="term" xml:lang="Sa-Ltn">loka</foreign>)
-                                that make up saṃsāra.</term>
+                            <term type="definition">The titans who inhabit one of the six types of “worlds” (<foreign type="term" xml:lang="Sa-Ltn">loka</foreign>) that make up saṃsāra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -560,8 +494,7 @@
                             <term xml:lang="bo">དགྲ་བཅོམ་པ།</term>
                             <term xml:lang="Sa-Ltn">arhat</term>
                             <term type="definition">Sometimes translated “worthy one,” a term for one who is liberated and who has
-                                extirpated the passions (<foreign type="term" xml:lang="Sa-Ltn">kleśa</foreign>, <foreign type="term" xml:lang="Bo-Ltn">nyon
-                                    mongs</foreign>).</term>
+                                extirpated the passions (<foreign type="term" xml:lang="Sa-Ltn">kleśa</foreign>, <foreign type="term" xml:lang="Bo-Ltn">nyon mongs</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
@@ -570,9 +503,8 @@
                             <term xml:lang="Bo-Ltn">mngon par ’du byed </term>
                             <term xml:lang="bo">མངོན་པར་འདུ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">abhisaṃskāra</term>
-                            <term type="definition">The term is used in this text in the same way as
-                                    <foreign type="term" xml:lang="Sa-Ltn">saṃskāra</foreign>
-                                (<term>formative factors</term>, q.v. second entry).</term>
+                            <term type="definition">The term is used in this text in the same way as <foreign type="term" xml:lang="Sa-Ltn">saṃskāra</foreign> (<term>formative factors</term>, q.v. second
+                                entry).</term>
                         </gloss>
                     </item>
                     <item>
@@ -581,11 +513,10 @@
                             <term xml:lang="Bo-Ltn">’du byed </term>
                             <term xml:lang="bo">འདུ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">saṃskāra</term>
-                            <term type="definition">The various conditioning factors and circumstances
-                                that affect rebirth, including primarily (but not only) karma.
-                                <term type="ignore">Formative factors</term> also constitute one of the five aggregates and
-                                figure as one of the links in the twelve links of dependent arising
-                                to account for how karma eventually leads to rebirth.</term>
+                            <term type="definition">The various conditioning factors and circumstances that affect rebirth,
+                                including primarily (but not only) karma. <term type="ignore">Formative factors</term> also
+                                constitute one of the five aggregates and figure as one of the links in the twelve links of
+                                dependent arising to account for how karma eventually leads to rebirth.</term>
                         </gloss>
                     </item>
                     <item>
@@ -594,9 +525,7 @@
                             <term xml:lang="Bo-Ltn">gzugs med khams </term>
                             <term xml:lang="bo">གཟུགས་མེད་ཁམས།</term>
                             <term xml:lang="Sa-Ltn">ārūpyadhātu</term>
-                            <term type="definition">One of the three realms. See glossary s.v. three
-                                realms (<foreign type="term" xml:lang="Bo-Ltn">khams
-                                gsum</foreign>).</term>
+                            <term type="definition">One of the three realms. See glossary s.v. three realms (<foreign type="term" xml:lang="Bo-Ltn">khams gsum</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
@@ -605,9 +534,9 @@
                             <term xml:lang="Bo-Ltn">’du shes </term>
                             <term xml:lang="bo">འདུ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">saṃjñā</term>
-                            <term type="definition">One of the five aggregates. It is also one of
-                                the five mental omnipresent (<foreign type="term" xml:lang="Sa-Ltn">sarvatraga</foreign>, <foreign type="term" xml:lang="Bo-Ltn">kun ’gro</foreign>) mental factors that necessarily accompany
-                                any cognition.</term>
+                            <term type="definition">One of the five aggregates. It is also one of the five mental omnipresent
+                                    (<foreign type="term" xml:lang="Sa-Ltn">sarvatraga</foreign>, <foreign type="term" xml:lang="Bo-Ltn">kun ’gro</foreign>) mental factors that necessarily accompany any
+                                cognition.</term>
                         </gloss>
                     </item>
                     <item>
@@ -616,12 +545,10 @@
                             <term xml:lang="Bo-Ltn">stong sum gyi stong chen po’i ’jig rten </term>
                             <term xml:lang="bo">སྟོང་སུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན།</term>
                             <term xml:lang="Sa-Ltn">trisāhasra­mahā­sāhasra­loka­dhātu</term>
-                            <term type="definition">This term in Abhidharma cosmology refers to 1,000³ world
-                                systems, i.e., 1,000 “dichiliocosms,” or “two thousand great thousand world realms”
-                                (<foreign type="term" xml:lang="Sa-Ltn">dvi­sāhasra­mahā­sāhasra­loka­dhātu</foreign>), which are in turn made up of 1,000 first-order world systems each
-                                with its own Mt. Meru, continents, sun, moon,
-                                as well as desire, form and formless realms, heavens of gods,
-                                etc.</term>
+                            <term type="definition">This term in Abhidharma cosmology refers to 1,000³ world systems, i.e., 1,000
+                                “dichiliocosms,” or “two thousand great thousand world realms” (<foreign type="term" xml:lang="Sa-Ltn">dvi­sāhasra­mahā­sāhasra­loka­dhātu</foreign>), which are in turn made up of
+                                1,000 first-order world systems each with its own Mt. Meru, continents, sun, moon, as well as
+                                desire, form and formless realms, heavens of gods, etc.</term>
                         </gloss>
                     </item>
                     <item>
@@ -630,11 +557,11 @@
                             <term xml:lang="Bo-Ltn">mtshan sum cu rtsa gnyis </term>
                             <term xml:lang="bo">མཚན་སུམ་ཅུ་རྩ་གཉིས།</term>
                             <term xml:lang="Sa-Ltn">dvātriṃśan mahā­puruṣa­lakṣaṇāni</term>
-                            <term type="definition">The distinctive physical attributes of the
-                                Buddha. These are the “signs of a great man” (Skt. <foreign type="term" xml:lang="Sa-Ltn">mahā­puruṣa­lakṣaṇa</foreign>, Tib. <foreign type="term" xml:lang="Bo-Ltn">skye bu chen
-                                po’i mtshan bzang</foreign>) that following
-                                Indian tradition characterize cakravartin kings (world sovereigns)
-                                as well as buddhas. For a descriptive list, see Dharmachakra (2013), 26.145-173</term>
+                            <term type="definition">The distinctive physical attributes of the Buddha. These are the “signs of a
+                                great man” (Skt. <foreign type="term" xml:lang="Sa-Ltn">mahā­puruṣa­lakṣaṇa</foreign>, Tib.
+                                    <foreign type="term" xml:lang="Bo-Ltn">skye bu chen po’i mtshan bzang</foreign>) that
+                                following Indian tradition characterize cakravartin kings (world sovereigns) as well as buddhas.
+                                For a descriptive list, see Dharmachakra (2013), 26.145-173</term>
                         </gloss>
                     </item>
                     <item>
@@ -643,10 +570,9 @@
                             <term xml:lang="Bo-Ltn">skye mched </term>
                             <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
-                            <term type="definition">There are twelve bases of cognition in all: the
-                                five physical sense organs plus the mind and their respective six sorts
-                                of objects. The six inner bases from eye to mind are what apprehend; and the six outer
-                                bases from form to mental objects are the objects that are
+                            <term type="definition">There are twelve bases of cognition in all: the five physical sense organs
+                                plus the mind and their respective six sorts of objects. The six inner bases from eye to mind are
+                                what apprehend; and the six outer bases from form to mental objects are the objects that are
                                 apprehended.</term>
                         </gloss>
                     </item>
@@ -667,18 +593,13 @@
                             <term xml:lang="Bo-Ltn">yid kyi rnam par shes pa </term>
                             <term xml:lang="bo">ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">manovijñāna</term>
-                            <term type="definition">The Abhidharma speaks of five
-                                consciousnesses that grasp physical objects (form, sound, smells,
-                                tastes, bodily sensations) and are correlated with their respective
-                                physical sense faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dbang
-                                    po</foreign>), i.e. the eye, ear, etc. The mental consciousness,
-                                on the other hand, is said to have as its faculty simply the mind
-                                    (<foreign type="term" xml:lang="Sa-Ltn">manas</foreign>,
-                                    <foreign type="term" xml:lang="Bo-Ltn">yid</foreign>). It grasps
-                                all that exists, including what is presented by the physical
-                                consciousnesses as well as mental and abstract objects. These six
-                                consciousnesses, added to the twelve bases of cognition, constitute the
-                                Abhidharma schema of eighteen domains or spheres (<foreign type="term" xml:lang="Sa-Ltn">dhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">khams</foreign>).</term>
+                            <term type="definition">The Abhidharma speaks of five consciousnesses that grasp physical objects
+                                (form, sound, smells, tastes, bodily sensations) and are correlated with their respective physical
+                                sense faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dbang po</foreign>), i.e. the eye, ear, etc. The mental consciousness, on
+                                the other hand, is said to have as its faculty simply the mind (<foreign type="term" xml:lang="Sa-Ltn">manas</foreign>, <foreign type="term" xml:lang="Bo-Ltn">yid</foreign>). It
+                                grasps all that exists, including what is presented by the physical consciousnesses as well as
+                                mental and abstract objects. These six consciousnesses, added to the twelve bases of cognition,
+                                constitute the Abhidharma schema of eighteen domains or spheres (<foreign type="term" xml:lang="Sa-Ltn">dhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">khams</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
@@ -687,22 +608,23 @@
                             <term xml:lang="Bo-Ltn">dri za </term>
                             <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
-                            <term type="definition">Lit. “smell eater.” Gandharvas are a class of
-                                spirits and minor gods (<foreign type="term" xml:lang="Sa-Ltn">deva</foreign>) in both Hindu and Buddhist cosmologies. They
-                                are supposedly messengers, singers and skilled musicians and
-                                dancers. Often closely associated with various nature-spirits
-                                    (<foreign type="term" xml:lang="Sa-Ltn">yakṣa</foreign>), they
-                                are on occasion depicted as disturbing to monks practicing
-                                meditation.</term>
+                            <term type="definition">Lit. “smell eater.” Gandharvas are a class of spirits and minor gods (<foreign type="term" xml:lang="Sa-Ltn">deva</foreign>) in both Hindu and Buddhist cosmologies. They are
+                                supposedly messengers, singers and skilled musicians and dancers. Often closely associated with
+                                various nature-spirits (<foreign type="term" xml:lang="Sa-Ltn">yakṣa</foreign>), they are on
+                                occasion depicted as disturbing to monks practicing meditation.</term>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-059-014-66">
                             <term>sacrificial post</term>
                             <term xml:lang="Bo-Ltn">mchod sdong </term>
-                            <term xml:lang="bo">མཆོད་སྡོང།</term>
+                            <term xml:lang="bo">མཆོད་སྡོང་།</term>
                             <term xml:lang="Sa-Ltn">yūpa</term>
-                            <term type="definition">A post set up as a marker to which offerings may be presented. Described in the <title xml:lang="Sa-Ltn">Maitreyāvadāna</title> (“The Story of Maitreya”), which in the Kangyur is found within the <title xml:lang="Sa-Ltn">Bhaiṣajya­vastu</title> (in <title xml:lang="Sa-Ltn">Vinayavastu</title>, Toh 1, Degé Kangyur, vol. kha, folios 29a-32b); a matching passage from the <title xml:lang="Sa-Ltn">Divyāvadāna</title> is translated in Rotman, 2008, pp 121-124.</term>
+                            <term type="definition">A post set up as a marker to which offerings may be presented. Described in
+                                the <title xml:lang="Sa-Ltn">Maitreyāvadāna</title> (“The Story of Maitreya”), which in the
+                                Kangyur is found within the <title xml:lang="Sa-Ltn">Bhaiṣajya­vastu</title> (in <title xml:lang="Sa-Ltn">Vinayavastu</title>, Toh 1, Degé Kangyur, vol. kha, folios 29a-32b); a
+                                matching passage from the <title xml:lang="Sa-Ltn">Divyāvadāna</title> is translated in Rotman,
+                                2008, pp 121-124.</term>
                         </gloss>
                     </item>
                     <item>
@@ -711,8 +633,9 @@
                             <term xml:lang="Bo-Ltn">shed las skyes </term>
                             <term xml:lang="bo">ཤེད་ལས་སྐྱེས།</term>
                             <term xml:lang="Sa-Ltn">manuja</term>
-                            <term type="definition">Manu being the archetypal human, the progenitor of
-                                mankind, in the <title xml:lang="Sa-Ltn">Mahā­bhārata</title>, the <title xml:lang="Sa-Ltn">Purāṇas</title>, and other Indian texts, “<term type="ignore">born of Manu</term>” is a synonym of “human being” or mankind in general. Also rendered “son of Manu.”</term>
+                            <term type="definition">Manu being the archetypal human, the progenitor of mankind, in the <title xml:lang="Sa-Ltn">Mahā­bhārata</title>, the <title xml:lang="Sa-Ltn">Purāṇas</title>, and
+                                other Indian texts, “<term type="ignore">born of Manu</term>” is a synonym of “human being” or
+                                mankind in general. Also rendered “son of Manu.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -721,8 +644,9 @@
                             <term xml:lang="Bo-Ltn">shed bu</term>
                             <term xml:lang="bo">ཤེད་བུ།</term>
                             <term xml:lang="Sa-Ltn">mānava</term>
-                            <term type="definition">Manu being the archetypal human, the progenitor of
-                                mankind, in the <title xml:lang="Sa-Ltn">Mahā­bhārata</title>, the <title xml:lang="Sa-Ltn">Purāṇas</title>, and other Indian texts, “<term type="ignore">son of Manu</term>” is a synonym of “human being” or mankind in general. Also rendered “born of Manu.”</term>
+                            <term type="definition">Manu being the archetypal human, the progenitor of mankind, in the <title xml:lang="Sa-Ltn">Mahā­bhārata</title>, the <title xml:lang="Sa-Ltn">Purāṇas</title>, and
+                                other Indian texts, “<term type="ignore">son of Manu</term>” is a synonym of “human being” or
+                                mankind in general. Also rendered “born of Manu.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -731,7 +655,9 @@
                             <term xml:lang="Bo-Ltn">yang dag pa’i mtha’ </term>
                             <term xml:lang="bo">ཡང་དག་པའི་མཐའ།</term>
                             <term xml:lang="Sa-Ltn">bhūtakoṭi</term>
-                            <term type="definition">The ultimate state that can be experienced in the realization of reality, and a near-synonym of <foreign xml:lang="Sa-Ltn">nirvāṇa</foreign>; sometimes also translated as “the reality limit” in contexts describing a partial nirvāṇa that needs to be transcended.</term>
+                            <term type="definition">The ultimate state that can be experienced in the realization of reality, and
+                                a near-synonym of <foreign xml:lang="Sa-Ltn">nirvāṇa</foreign>; sometimes also translated as “the
+                                reality limit” in contexts describing a partial nirvāṇa that needs to be transcended.</term>
                         </gloss>
                     </item>
                     <item>
@@ -758,8 +684,7 @@
                             <term xml:lang="Bo-Ltn">kun dga’ bo </term>
                             <term xml:lang="bo">ཀུན་དགའ་བོ།</term>
                             <term xml:lang="Sa-Ltn">Ānanda</term>
-                            <term type="definition">The personal attendant and cousin of the
-                                Buddha.</term>
+                            <term type="definition">The personal attendant and cousin of the Buddha.</term>
                         </gloss>
                     </item>
                     <item>
@@ -786,10 +711,10 @@
                             <term xml:lang="Bo-Ltn">’khor ba ’jig </term>
                             <term xml:lang="bo">འཁོར་བ་འཇིག</term>
                             <term xml:lang="Sa-Ltn">Krakucchanda</term>
-                            <term type="definition">The first buddha of our eon; the fifth buddha of
-                                the “seven generations of buddhas” (<foreign type="term" xml:lang="Bo-Ltn">sangs rgyas rab bdun</foreign>). Also found as
-                                    Kakutsanda, Kakutsunda, etc. See Edgerton (1985), s.v. Krakucchanda,
-                                    for the various spellings.</term>
+                            <term type="definition">The first buddha of our eon; the fifth buddha of the “seven generations of
+                                buddhas” (<foreign type="term" xml:lang="Bo-Ltn">sangs rgyas rab bdun</foreign>). Also found as
+                                Kakutsanda, Kakutsunda, etc. See Edgerton (1985), s.v. Krakucchanda, for the various
+                                spellings.</term>
                         </gloss>
                     </item>
                     <item>
@@ -825,8 +750,8 @@
                             <term xml:lang="Bo-Ltn">yangs pa can </term>
                             <term xml:lang="bo">ཡངས་པ་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Vaiśālī</term>
-                            <term type="definition">The ancient capital of the Vṛji (q.v.) confederacy and
-                                Licchavi republic.</term>
+                            <term type="definition">The ancient capital of the Vṛji (q.v.) confederacy and Licchavi
+                                republic.</term>
                         </gloss>
                     </item>
                     <item>
@@ -834,14 +759,12 @@
                             <term>Vṛji</term>
                             <term xml:lang="Bo-Ltn">bri dzi na </term>
                             <term xml:lang="bo">བྲི་ཛི་ན།</term>
-                            <term xml:lang="Sa-Ltn">Vṛji,  Vaji</term>
-                            <term type="definition">The land
-                                and people of Vṛji or Vaji (Pāli Vajji), a
-                                country situated on the north eastern Gangetic plain, and one of the 16
-                                mahājanapada of Ancient India. It was run by a confederacy of eight or
-                                nine clans, including the Vṛji, Licchavi, and Videha, who sent
-                                representatives to an administrative council led by an elected ruler.
-                                Its capital was Vaiśalī. See Edgerton, s.v. Vṛji and Vaji.</term>
+                            <term xml:lang="Sa-Ltn">Vṛji, Vaji</term>
+                            <term type="definition">The land and people of Vṛji or Vaji (Pāli Vajji), a country situated on the
+                                north eastern Gangetic plain, and one of the 16 mahājanapada of Ancient India. It was run by a
+                                confederacy of eight or nine clans, including the Vṛji, Licchavi, and Videha, who sent
+                                representatives to an administrative council led by an elected ruler. Its capital was Vaiśalī. See
+                                Edgerton, s.v. Vṛji and Vaji.</term>
                         </gloss>
                     </item>
                     <item>

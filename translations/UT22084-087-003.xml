@@ -5,18 +5,15 @@
         <fileDesc>
             <titleStmt>
                 <title type="mainTitle" xml:lang="bo">བཅོམ་ལྡན་འདས་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་རྒྱུད།</title>
-                <title type="mainTitle" xml:lang="en">The Tantra of the Blue-Clad Blessed
-                    Vajrapāṇi</title>
+                <title type="mainTitle" xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>
                 <title type="mainTitle" xml:lang="Sa-Ltn">Bhagavannīlāmbara­dhara­vajra­pāṇi­tantra</title>
                 <title type="longTitle" xml:lang="bo">བཅོམ་ལྡན་འདས་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་རྒྱུད་ཅེས་བྱ་བ།</title>
-                <title type="longTitle" xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon
-                    po can gyi rgyud ces bya ba</title>
-                <title type="longTitle" xml:lang="en">The Tantra entitled “The Blue-Clad Blessed
-                    Vajrapāṇi”</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon po can gyi rgyud ces bya
+                    ba</title>
+                <title type="longTitle" xml:lang="en">The Tantra entitled “The Blue-Clad Blessed Vajrapāṇi”</title>
                 <title type="longTitle" xml:lang="Sa-Ltn">Bhagavannīlāmbara­dhara­vajra­pāṇi­tantra­nāma</title>
-                <author role="translatorMain">Translated by the Dharmachakra Translation Group<lb/>
-                    under the patronage and supervision of 84000: Translating the Words of the
-                    Buddha.</author>
+                <author role="translatorMain">Translated by the Dharmachakra Translation Group<lb/> under the patronage and
+                    supervision of 84000: Translating the Words of the Buddha.</author>
                 <author role="translatorEng">Catherine Dalton</author>
                 <author role="translatorEng">Andreas Doctor</author>
             </titleStmt>
@@ -26,22 +23,20 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit
-                    initiative that aims to translate all of the Buddha’s words into modern
-                    languages, and to make them available to everyone.
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative that aims to
+                    translate all of the Buddha’s words into modern languages, and to make them available to everyone. <lb/>
                     <lb/>
-                    <lb/>
-                    <name>Warning:</name> Readers are reminded that according to Vajrayāna Buddhist tradition there are restrictions and commitments concerning tantra. Practitioners who are not sure if they should read this translation are advised to consult the authorities of their lineage. The responsibility for reading this text or sharing it with others who may or may not fulfill the requirements lies in the hands of readers.
-                    <lb/>‌‌
-                </publisher>
+                    <name>Warning:</name> Readers are reminded that according to Vajrayāna Buddhist tradition there are
+                    restrictions and commitments concerning tantra. Practitioners who are not sure if they should read this
+                    translation are advised to consult the authorities of their lineage. The responsibility for reading this text
+                    or sharing it with others who may or may not fulfill the requirements lies in the hands of readers. <lb/>‌‌ </publisher>
                 <availability>
                     <licence>
                         <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
-                        <p>This work is provided under the protection of a Creative Commons CC
-                            BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright.
-                            It may be copied or printed for fair use, but only with full
-                            attribution, and not for commercial advantage or personal compensation.
-                            For full details, see the Creative Commons license.</p>
+                        <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution -
+                            Non-commercial - No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but only
+                            with full attribution, and not for commercial advantage or personal compensation. For full details,
+                            see the Creative Commons license.</p>
                     </licence>
                 </availability>
                 <idno xml:id="UT22084-087-003"/>
@@ -49,14 +44,13 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <ref>Toh 498</ref>, <biblScope>Degé Kangyur, vol. 87 (rgyud ’bum, da), folios
-                        158.a–167.a</biblScope>
+                    <ref>Toh 498</ref>, <biblScope>Degé Kangyur, vol. 87 (rgyud ’bum, da), folios 158.a–167.a</biblScope>
                     <author role="translatorTib">Celu</author>
                     <author role="translatorTib">Phakpa Sherab</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 14/02/2018 at 16:06:10 by admin</note>
+                <note type="lastUpdated">Last updated at 07/03/2018 at 11:16:33 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -87,279 +81,219 @@
             <div type="summary">
                 <head type="summary">Summary</head>
                 <milestone unit="chunk" xml:id="UT22084-087-003-1"/>
-                <p tid="1"> In the Kangyur and Tengyur collections there are more than forty titles centered
-                    on the form of Vajrapāṇi known as the “Blue-Clad One,” a measure of this
-                    figure’s great popularity in both India and Tibet. This text, <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>, is a
-                    scripture that belongs to the Conduct tantra (Caryātantra) class, the third of the four
-                    categories used by the Tibetans to organize their tantric canon. It introduces
-                    the practice of Blue-Clad Vajrapāṇi, while also providing the practitioner with
-                    a number of rituals directed at suppressing, subduing, or eliminating ritual
-                    targets.</p>
+                <p tid="1"> In the Kangyur and Tengyur collections there are more than forty titles centered on the form of
+                    Vajrapāṇi known as the “Blue-Clad One,” a measure of this figure’s great popularity in both India and Tibet.
+                    This text, <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>, is a scripture that
+                    belongs to the Conduct tantra (Caryātantra) class, the third of the four categories used by the Tibetans to
+                    organize their tantric canon. It introduces the practice of Blue-Clad Vajrapāṇi, while also providing the
+                    practitioner with a number of rituals directed at suppressing, subduing, or eliminating ritual targets.</p>
             </div>
             <div type="acknowledgment">
                 <head type="acknowledgment">Acknowledgments</head>
                 <milestone unit="chunk" xml:id="UT22084-087-003-2"/>
-                <p tid="2">This translation was produced by the Dharmachakra Translation Committee under the
-                    supervision of Chökyi Nyima Rinpoche. Catherine Dalton and Andreas Doctor
-                    translated the text, with assistance from Ryan Damron and Wiesiek Mical.</p>
-                <p tid="3">This translation has been completed under the patronage and supervision of 84000:
-                    Translating the Words of the Buddha.</p>
+                <p tid="2">This translation was produced by the Dharmachakra Translation Committee under the supervision of Chökyi
+                    Nyima Rinpoche. Catherine Dalton and Andreas Doctor translated the text, with assistance from Ryan Damron and
+                    Wiesiek Mical.</p>
+                <p tid="3">This translation has been completed under the patronage and supervision of 84000: Translating the Words
+                    of the Buddha.</p>
             </div>
             <div type="introduction">
                 <head type="introduction">Introduction</head>
                 <milestone unit="chunk" xml:id="UT22084-087-003-3"/>
                 <p tid="4">
-                    <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title> is a
-                    scripture that, in the fourfold classification that the Tibetans employed to
-                    organize their tantric canon, belongs to the “Conduct” or Caryātantra class. The small number
-                    of tantras in this category were grouped together because of their similarities
-                    in philosophical view and ritualistic conduct. The Caryātantra class is the
-                    second of the “three outer tantras.” It adopts features from both Kriyātantra
-                    and Yogatantra (the first and third, respectively), being characterized by its
-                    attention to worldly rituals (as found in Kriyātantra) as well as more
-                    soteriological insights (as emphasized in Yogatantra). From an historical
-                    perspective, the Caryātantras can also be viewed as exemplifying the transition
-                    in Indian tantric practice from a role of predominantly protecting against
-                    worldly calamities to one of providing a path toward personal awakening, as the
-                    later tantric systems promise. Generally the texts of the Caryātantra class have
-                    been tentatively dated to the early seventh century C.E. (Williams 2000, 207).
-                    There is, however, some evidence within this tantra (which will be discussed
-                    below) that might point to a slightly later date for this text. </p>
+                    <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title> is a scripture that, in the
+                    fourfold classification that the Tibetans employed to organize their tantric canon, belongs to the “Conduct”
+                    or Caryātantra class. The small number of tantras in this category were grouped together because of their
+                    similarities in philosophical view and ritualistic conduct. The Caryātantra class is the second of the “three
+                    outer tantras.” It adopts features from both Kriyātantra and Yogatantra (the first and third, respectively),
+                    being characterized by its attention to worldly rituals (as found in Kriyātantra) as well as more
+                    soteriological insights (as emphasized in Yogatantra). From an historical perspective, the Caryātantras can
+                    also be viewed as exemplifying the transition in Indian tantric practice from a role of predominantly
+                    protecting against worldly calamities to one of providing a path toward personal awakening, as the later
+                    tantric systems promise. Generally the texts of the Caryātantra class have been tentatively dated to the early
+                    seventh century C.E. (Williams 2000, 207). There is, however, some evidence within this tantra (which will be
+                    discussed below) that might point to a slightly later date for this text. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-4"/>
-                <p tid="5">More specifically, the tantra presented in this translation concerns a form of
-                    Vajrapāṇi known as the Blue-Clad One. In this form Vajrapāṇi is dark blue, with
-                    one face, three eyes, and two hands. His clothing is blue and his thick matted
-                    hair streams upward. His body is adorned with eight serpents in various places,
-                    and in his right hand he brandishes a vajra. For the Tibetans, and no doubt for
-                    Indian tantric practitioners, this form of Vajrapāṇi was highly popular—to the
-                    extent that the Kangyur contains no less than seven tantras and two dhāraṇī texts centered on this awakened figure. Of the seven
-                    tantras, three (Toh 498, 499, 501) belong to the Caryātantra class, while the
-                    remaining four (Toh 454, 456, 457, 461) are found in the class called the
-                    “Unexcelled tantras” (<foreign xml:lang="Bo-Ltn">bla na med pa’i
-                        rgyud</foreign>) by Tibetan exegetes. Seen from an historical
-                    standpoint, it seems likely that the Blue-Clad Vajrapāṇi of the Caryātantras may
-                    have functioned as the prototype for the later Unexcelled tantras associated
-                    with this figure. As such, the tantra translated here is of particular
-                    importance for understanding the early developments of this tradition. </p>
+                <p tid="5">More specifically, the tantra presented in this translation concerns a form of Vajrapāṇi known as the
+                    Blue-Clad One. In this form Vajrapāṇi is dark blue, with one face, three eyes, and two hands. His clothing is
+                    blue and his thick matted hair streams upward. His body is adorned with eight serpents in various places, and
+                    in his right hand he brandishes a vajra. For the Tibetans, and no doubt for Indian tantric practitioners, this
+                    form of Vajrapāṇi was highly popular—to the extent that the Kangyur contains no less than seven tantras and
+                    two dhāraṇī texts centered on this awakened figure. Of the seven tantras, three (Toh 498, 499, 501) belong to
+                    the Caryātantra class, while the remaining four (Toh 454, 456, 457, 461) are found in the class called the
+                    “Unexcelled tantras” (<foreign xml:lang="Bo-Ltn">bla na med pa’i rgyud</foreign>) by Tibetan exegetes. Seen
+                    from an historical standpoint, it seems likely that the Blue-Clad Vajrapāṇi of the Caryātantras may have
+                    functioned as the prototype for the later Unexcelled tantras associated with this figure. As such, the tantra
+                    translated here is of particular importance for understanding the early developments of this tradition. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-5"/>
-                <p tid="6">The popularity of Blue-Clad Vajrapāṇi can also be gleaned from the number of
-                    texts concerned with this figure in the Tengyur (the Indian commentarial
-                    collection in Tibetan translation), where we find no less than thirty-seven
-                    works that focus on Blue-Clad Vajrapāṇi. They are made up of actual commentaries
-                    as well as of several shorter practice manuals and of various rituals. Almost 
-                    all of these texts, and importantly all of the
-                    commentaries, relate to the later tantras found in the Unexcelled tantra
-                    section. We can therefore deduce that the tradition of this deity gained its
-                    primary popularity in the later days of the tantric movement in India, where it
-                    seems that a particularly colorful group of devotees took to wearing blue robes
-                    as the hallmark of their community<note place="end" index="1" xml:id="UT22084-087-003-272">See Davidson (2002) p 204.</note>. In the West, however,
-                    Blue-Clad Vajrapāṇi has remained surprisingly unexplored, and to date hardly any
-                    mention of the deity can be found in modern scholarship. </p>
+                <p tid="6">The popularity of Blue-Clad Vajrapāṇi can also be gleaned from the number of texts concerned with this
+                    figure in the Tengyur (the Indian commentarial collection in Tibetan translation), where we find no less than
+                    thirty-seven works that focus on Blue-Clad Vajrapāṇi. They are made up of actual commentaries as well as of
+                    several shorter practice manuals and of various rituals. Almost all of these texts, and importantly all of the
+                    commentaries, relate to the later tantras found in the Unexcelled tantra section. We can therefore deduce that
+                    the tradition of this deity gained its primary popularity in the later days of the tantric movement in India,
+                    where it seems that a particularly colorful group of devotees took to wearing blue robes as the hallmark of
+                    their community<note place="end" index="1" xml:id="UT22084-087-003-272">See Davidson (2002) p 204.</note>. In
+                    the West, however, Blue-Clad Vajrapāṇi has remained surprisingly unexplored, and to date hardly any mention of
+                    the deity can be found in modern scholarship. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-6"/>
-                <p tid="7">The text begins with the bodhisattva Vajrapāṇi requesting the Buddha Akṣobhya to
-                    teach a tantra that can tame all evil spirits that live beneath the ground. The
-                    notion that an underworld exists in which various forms of evil spirits flourish
-                    was well developed in Indian Buddhism since the very early days<note place="end" index="2" xml:id="UT22084-087-003-273">See Mayer (2007).</note>. Both of the two other Caryātantrastantras on Blue-Clad Vajrapāṇi 
-                    (Toh 499 in seven chapters and Toh 501 in five chapters) share the same theme,
-                    unfolding as Vajrapāṇi requests the Buddha to teach the
-                    rituals that can tame the nāgas and yakṣas below the ground and, in the process,
-                    accomplish the wealth that they guard and repel the disease that they inflict on
-                    humans. These two other tantras thus appear to be slightly condensed (or
-                    perhaps earlier) versions of <title xml:lang="en">The Tantra of the Blue-Clad
-                        Blessed Vajrapāṇi</title>.<note place="end" index="3" xml:id="UT22084-087-003-274">Despite being the shortest of the
-                        three tantras, Toh 501 is somewhat broader in scope as it also includes
-                        rituals to tame beings above the ground.</note>
+                <p tid="7">The text begins with the bodhisattva Vajrapāṇi requesting the Buddha Akṣobhya to teach a tantra that
+                    can tame all evil spirits that live beneath the ground. The notion that an underworld exists in which various
+                    forms of evil spirits flourish was well developed in Indian Buddhism since the very early days<note place="end" index="2" xml:id="UT22084-087-003-273">See Mayer (2007).</note>. Both of the two other
+                    Caryātantrastantras on Blue-Clad Vajrapāṇi (Toh 499 in seven chapters and Toh 501 in five chapters) share the
+                    same theme, unfolding as Vajrapāṇi requests the Buddha to teach the rituals that can tame the nāgas and yakṣas
+                    below the ground and, in the process, accomplish the wealth that they guard and repel the disease that they
+                    inflict on humans. These two other tantras thus appear to be slightly condensed (or perhaps earlier) versions
+                    of <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>.<note place="end" index="3" xml:id="UT22084-087-003-274">Despite being the shortest of the three tantras, Toh 501 is somewhat broader
+                        in scope as it also includes rituals to tame beings above the ground.</note>
                 </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-7"/>
-                <p tid="8">The Buddha Akṣobhya agrees to Vajrapāṇi’s request, and then prepares to teach the
-                    tantra known as <title xml:lang="en">The Vajra that Subjugates the Evil Forces
-                        Below the Vajra Earth</title>, which throughout this text is synonymous with
-                    the main title of the tantra. Before he begins, however, he first
-                    blesses Vajrapāṇi with the ability to tame the various serpent beings living in
-                    the environment below, headed by the nāga king Anantaka (another name for Śesa,
-                    the serpent associated with Viṣṇu). Once tamed in this way, the serpent beings
-                    join in the request being put to the Buddha that he teach the tantra. With the
-                    stage thus set, the Buddha Akṣobhya proceeds to teach.</p>
+                <p tid="8">The Buddha Akṣobhya agrees to Vajrapāṇi’s request, and then prepares to teach the tantra known as
+                        <title xml:lang="en">The Vajra that Subjugates the Evil Forces Below the Vajra Earth</title>, which
+                    throughout this text is synonymous with the main title of the tantra. Before he begins, however, he first
+                    blesses Vajrapāṇi with the ability to tame the various serpent beings living in the environment below, headed
+                    by the nāga king Anantaka (another name for Śesa, the serpent associated with Viṣṇu). Once tamed in this way,
+                    the serpent beings join in the request being put to the Buddha that he teach the tantra. With the stage thus
+                    set, the Buddha Akṣobhya proceeds to teach.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-8"/>
-                <p tid="9">The instructions begin with a short, unnumbered chapter (here included at the 
-                    end of the Prologue) called “Taming the Nāgas,”
-                    which details a very brief ritual practice for taming nāgas, grahas, and other
-                    evil forces that live beneath the earth. After this initial instruction, the
-                    remainder of the tantra is structured in thirteen chapters, all of which are
-                    numbered and given titles in the tantra itself.</p>
+                <p tid="9">The instructions begin with a short, unnumbered chapter (here included at the end of the Prologue)
+                    called “Taming the Nāgas,” which details a very brief ritual practice for taming nāgas, grahas, and other evil
+                    forces that live beneath the earth. After this initial instruction, the remainder of the tantra is structured
+                    in thirteen chapters, all of which are numbered and given titles in the tantra itself.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-9"/>
-                <p tid="10">Chapter 1, entitled “Accomplishing Peaceful Activity” or the “Chapter of the
-                    Gods,” presents the “ritual for the action deity,” which amounts to a succinct
-                    practice manual for the visualization of Blue-Clad Vajrapāṇi and the recitation
-                    of his mantra. The practice manual is well structured and simple, and contains
+                <p tid="10">Chapter 1, entitled “Accomplishing Peaceful Activity” or the “Chapter of the Gods,” presents the
+                    “ritual for the action deity,” which amounts to a succinct practice manual for the visualization of Blue-Clad
+                    Vajrapāṇi and the recitation of his mantra. The practice manual is well structured and simple, and contains
                     the tantra’s main iconographic description of Blue-Clad Vajrapāṇi. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-10"/>
-                <p tid="11"> Chapter 2, “The Oblation,” describes the ritual for making an oblation and other
-                    offerings to Vajrapāṇi and his retinue. This contains the offering mantra for
-                    Blue-Clad Vajrapāṇi, as well as mantras for each of the nine yakṣas in his
-                    retinue named in this chapter.</p>
+                <p tid="11"> Chapter 2, “The Oblation,” describes the ritual for making an oblation and other offerings to
+                    Vajrapāṇi and his retinue. This contains the offering mantra for Blue-Clad Vajrapāṇi, as well as mantras for
+                    each of the nine yakṣas in his retinue named in this chapter.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-11"/>
-                <p tid="12">Chapter 3 is entitled “Vaiśravaṇa,” and focuses on the yakṣa Vaiśravaṇa who,
-                    according to the previous chapter, is the first among Vajrapāṇi’s retinue. In
-                    this chapter Vaiśravaṇa is encouraged by the Buddha (one assumes this is still
-                    Akṣobhya, as in the opening of the tantra, but this is not made explicit) to
-                    give instructions on his own practice, in which Vaiśravaṇa himself is the main
-                    figure and the other eight yakṣas are members of his retinue. The practices
-                    described include making offerings to Vaiśravaṇa and his retinue, as well as a
-                    wrathful suppression ritual performed with an effigy.</p>
+                <p tid="12">Chapter 3 is entitled “Vaiśravaṇa,” and focuses on the yakṣa Vaiśravaṇa who, according to the previous
+                    chapter, is the first among Vajrapāṇi’s retinue. In this chapter Vaiśravaṇa is encouraged by the Buddha (one
+                    assumes this is still Akṣobhya, as in the opening of the tantra, but this is not made explicit) to give
+                    instructions on his own practice, in which Vaiśravaṇa himself is the main figure and the other eight yakṣas
+                    are members of his retinue. The practices described include making offerings to Vaiśravaṇa and his retinue, as
+                    well as a wrathful suppression ritual performed with an effigy.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-12"/>
-                <p tid="13">Chapter 4, “The Wheel of Suppression,” describes a short ritual of suppression,
-                    connected with the yoga of Vajrapāṇi, which “strikes all wicked ones,”
-                    presumably clearing away evil or obstructing forces. </p>
+                <p tid="13">Chapter 4, “The Wheel of Suppression,” describes a short ritual of suppression, connected with the
+                    yoga of Vajrapāṇi, which “strikes all wicked ones,” presumably clearing away evil or obstructing forces. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-13"/>
-                <p tid="14"> Chapter 5, entitled “The Ritual for Drawing the Diagram,” outlines a wrathful
-                    ritual for killing a person or subduing a place, and is taught by the Vajra
-                    Holder (Tib. <foreign xml:lang="Bo-Ltn">rdo rje ’dzin pa</foreign>), an epithet
-                    that probably refers to Vajrapāṇi. The appropriate target for such wrathful
-                    practices is not mentioned explicitly in this chapter, but chapter 3 describes
-                    such a ritual target as “those hostile toward the teachings.” </p>
+                <p tid="14"> Chapter 5, entitled “The Ritual for Drawing the Diagram,” outlines a wrathful ritual for killing a
+                    person or subduing a place, and is taught by the Vajra Holder (Tib. <foreign xml:lang="Bo-Ltn">rdo rje ’dzin
+                        pa</foreign>), an epithet that probably refers to Vajrapāṇi. The appropriate target for such wrathful
+                    practices is not mentioned explicitly in this chapter, but chapter 3 describes such a ritual target as “those
+                    hostile toward the teachings.” </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-14"/>
-                <p tid="15">In chapter 6, “The Stages of the Fire Offering,” Vajrapāṇi asks the Blessed One
-                    (again, probably Akṣobhya) whether or not one is liberated through ritual
-                    practices such as the fire offering (Tib. <foreign xml:lang="Bo-Ltn">sbyin
-                        sreg</foreign>, Skt. <foreign xml:lang="Sa-Ltn">homa</foreign>). The Blessed
-                    One replies that one is indeed liberated through the performance of such ritual
-                    practices when they are combined with the maintenance of sacred commitments, and
-                    he proceeds to describe the stages of the fire-offering ritual.</p>
+                <p tid="15">In chapter 6, “The Stages of the Fire Offering,” Vajrapāṇi asks the Blessed One (again, probably
+                    Akṣobhya) whether or not one is liberated through ritual practices such as the fire offering (Tib. <foreign xml:lang="Bo-Ltn">sbyin sreg</foreign>, Skt. <foreign xml:lang="Sa-Ltn">homa</foreign>). The Blessed One
+                    replies that one is indeed liberated through the performance of such ritual practices when they are combined
+                    with the maintenance of sacred commitments, and he proceeds to describe the stages of the fire-offering
+                    ritual.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-15"/>
-                <p tid="16">Chapter 7, “The Wheel of Expulsion,” describes a short ritual in which the
-                    practitioner visualizes himself as the activity deity (presumably Vajrapāṇi) and
-                    summons the target into an effigy, which is burned and then discarded in
-                    water.</p>
+                <p tid="16">Chapter 7, “The Wheel of Expulsion,” describes a short ritual in which the practitioner visualizes
+                    himself as the activity deity (presumably Vajrapāṇi) and summons the target into an effigy, which is burned
+                    and then discarded in water.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-16"/>
-                <p tid="17">Chapter 8, entitled “Mantra,” is an extremely concise chapter that mentions
-                    Vajrapāṇi’s main mantra together with a claim that it “accomplishes all
-                    activity, even without practice.” The rest of the chapter is a list of
-                    activities that one might wish to accomplish (being affectionate toward all
-                    beings, killing all enemies, protecting against epidemics, accomplishing wealth,
-                    and so forth) and a concise statement of the method for accomplishing each of
-                    them.</p>
+                <p tid="17">Chapter 8, entitled “Mantra,” is an extremely concise chapter that mentions Vajrapāṇi’s main mantra
+                    together with a claim that it “accomplishes all activity, even without practice.” The rest of the chapter is a
+                    list of activities that one might wish to accomplish (being affectionate toward all beings, killing all
+                    enemies, protecting against epidemics, accomplishing wealth, and so forth) and a concise statement of the
+                    method for accomplishing each of them.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-17"/>
-                <p tid="18">Chapter 9, “Certainty and Purity,” initially focuses on the recitation of
-                    mantras. Here several mantras are mentioned that are used in the practice of the
-                    activity deity (presumably according to the same ritual manual outlined in the first chapter
-                    of the tantra), and concise advice is given on the recitation of Vajrapāṇi’s
-                    mantra and its attendant visualization. In its later stanzas, however, this
-                    chapter stands out from the rest of the text in its use of a much more abstract
-                    and almost poetic language to describe the intended results of practice, with a
-                    perceptible shift to a more soteriological focus. For example, the “nondual
-                    nature” that is the result to be obtained in a single lifetime is described as
-                    “inexpressible, nonconceptual, the meaning of thatness.” This contrasts rather
-                    sharply with the more ritualistic language of the other chapters, where the
-                    emphasis is mostly on suppressing, subduing, or killing ritual targets. Here the
-                    use of terms like “natural luminosity” and “supreme awakening” suggests an
-                    orientation transcending mere worldly ritual. It is true that throughout the
-                    other chapters there are hints to be found of a more soteriological orientation,
-                    such as in the introductory section of the tantra when the nāga kings are made
-                    to generate the mind of enlightenment; in chapter 1 when the goal of the
-                    “supreme attainment” is mentioned; in chapter 6 when Vajrapāṇi asks the Blessed
-                    One if it is possible to be liberated through a ritual such as the fire
-                    offering; and in the final chapter when Vajrapāṇi asks Vajradhara to explain the
-                    secret of enlightened mind. However, it is in this ninth chapter that the whole
-                    tenor of the text changes most perceptibly, with the language and content
-                    reflecting what is only hinted at in other parts of the text.</p>
+                <p tid="18">Chapter 9, “Certainty and Purity,” initially focuses on the recitation of mantras. Here several
+                    mantras are mentioned that are used in the practice of the activity deity (presumably according to the same
+                    ritual manual outlined in the first chapter of the tantra), and concise advice is given on the recitation of
+                    Vajrapāṇi’s mantra and its attendant visualization. In its later stanzas, however, this chapter stands out
+                    from the rest of the text in its use of a much more abstract and almost poetic language to describe the
+                    intended results of practice, with a perceptible shift to a more soteriological focus. For example, the
+                    “nondual nature” that is the result to be obtained in a single lifetime is described as “inexpressible,
+                    nonconceptual, the meaning of thatness.” This contrasts rather sharply with the more ritualistic language of
+                    the other chapters, where the emphasis is mostly on suppressing, subduing, or killing ritual targets. Here the
+                    use of terms like “natural luminosity” and “supreme awakening” suggests an orientation transcending mere
+                    worldly ritual. It is true that throughout the other chapters there are hints to be found of a more
+                    soteriological orientation, such as in the introductory section of the tantra when the nāga kings are made to
+                    generate the mind of enlightenment; in chapter 1 when the goal of the “supreme attainment” is mentioned; in
+                    chapter 6 when Vajrapāṇi asks the Blessed One if it is possible to be liberated through a ritual such as the
+                    fire offering; and in the final chapter when Vajrapāṇi asks Vajradhara to explain the secret of enlightened
+                    mind. However, it is in this ninth chapter that the whole tenor of the text changes most perceptibly, with the
+                    language and content reflecting what is only hinted at in other parts of the text.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-18"/>
-                <p tid="19">Chapter 10, “Protection,” describes a number of detailed protection
-                    rituals spoken by Vajradhara to Vajrapāṇi. Among the protection rituals
-                    described are those that seem intended to counteract possession—for “those
-                    beings who are seized by wicked ones”—as well as general negative influences,
-                    and to reverse obstacles.</p>
+                <p tid="19">Chapter 10, “Protection,” describes a number of detailed protection rituals spoken by Vajradhara to
+                    Vajrapāṇi. Among the protection rituals described are those that seem intended to counteract possession—for
+                    “those beings who are seized by wicked ones”—as well as general negative influences, and to reverse
+                    obstacles.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-19"/>
-                <p tid="20">Chapter 11, “The Arrangement of Mantras,” describes the ritual arrangement of
-                    mantra syllables within a triangular maṇḍala and explains their ritual
-                    recitation. The arrangement describes syllables from the “first” through the
-                    “seventh,” but then later mentions the “thirteen syllables,” which are
-                    presumably the thirteen syllables of Vajrapāṇi’s root mantra, taught earlier in
-                    the tantra. The relationship between this thirteen-syllable mantra and the
-                    arrangement of the seven syllables described earlier in the chapter, however,
+                <p tid="20">Chapter 11, “The Arrangement of Mantras,” describes the ritual arrangement of mantra syllables within
+                    a triangular maṇḍala and explains their ritual recitation. The arrangement describes syllables from the
+                    “first” through the “seventh,” but then later mentions the “thirteen syllables,” which are presumably the
+                    thirteen syllables of Vajrapāṇi’s root mantra, taught earlier in the tantra. The relationship between this
+                    thirteen-syllable mantra and the arrangement of the seven syllables described earlier in the chapter, however,
                     remains unclear.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-20"/>
-                <p tid="21">Chapter 12, “Bestowing Empowerment on Students,” describes the ritual for
-                    performing initiation for the Vajrapāṇi practice. After discussing the
-                    preparation of the ground and the maṇḍala, the tantra mentions five initiations
-                    that are to be bestowed: the vase, vajra, bell, crown, and name initiations.
-                    These five initiations are characteristic of an early stage in the development
-                    of Buddhist initiatory rites (Tib. <foreign xml:lang="Bo-Ltn">dbang</foreign>,
-                    Skt. <foreign xml:lang="Sa-Ltn">abhiṣeka</foreign>) in which these five
-                    initiations as a group constituted the full initiatory procedure, and the later,
-                    now well-known set of four consecrations (in which these earlier five were
-                    condensed into the first of the four, the vase initiation) had not yet developed
-                    (Isaacson 2010, 263–64). If, as it appears, the tantra is following this early
-                    system—which had, by this point, developed into the full form of the fivefold
-                    consecration—this might suggest a seventh-century or even early-eighth-century
-                    date, since the continued development of initiations, starting with the “secret
-                    initiation” (Skt. <foreign xml:lang="Sa-Ltn">guhyābhiṣeka</foreign>), took place
+                <p tid="21">Chapter 12, “Bestowing Empowerment on Students,” describes the ritual for performing initiation for
+                    the Vajrapāṇi practice. After discussing the preparation of the ground and the maṇḍala, the tantra mentions
+                    five initiations that are to be bestowed: the vase, vajra, bell, crown, and name initiations. These five
+                    initiations are characteristic of an early stage in the development of Buddhist initiatory rites (Tib.
+                        <foreign xml:lang="Bo-Ltn">dbang</foreign>, Skt. <foreign xml:lang="Sa-Ltn">abhiṣeka</foreign>) in which
+                    these five initiations as a group constituted the full initiatory procedure, and the later, now well-known set
+                    of four consecrations (in which these earlier five were condensed into the first of the four, the vase
+                    initiation) had not yet developed (Isaacson 2010, 263–64). If, as it appears, the tantra is following this
+                    early system—which had, by this point, developed into the full form of the fivefold consecration—this might
+                    suggest a seventh-century or even early-eighth-century date, since the continued development of initiations,
+                    starting with the “secret initiation” (Skt. <foreign xml:lang="Sa-Ltn">guhyābhiṣeka</foreign>), took place
                     with the mid-eighth century <title xml:lang="Sa-Ltn">Guhya­samāja­tantra</title>.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-21"/>
-                <p tid="22">In chapter 13, the final chapter of the tantra, “Establishing the Secret,”
-                    Vajrapāṇi asks the Blessed One (again identified as Vajradhara, which we may
-                    assume here is a different name for Akṣobhya) to explain the secret of
-                    enlightened mind. The reply he receives is the instruction to generate the
-                    enlightened attitude and to gather the two accumulations of merit and wisdom,
-                    and then to perform a version of Vajrapāṇi’s ritual practice, which is described
-                    in brief and presented as a method for taming unruly beings and subduing
-                    obstructing forces. Then, after a brief verse lauding the qualities of this
-                    particular tantra, Vajrapāṇi and his retinue praise the words of the Blessed
-                    One, and the text concludes.</p>
+                <p tid="22">In chapter 13, the final chapter of the tantra, “Establishing the Secret,” Vajrapāṇi asks the Blessed
+                    One (again identified as Vajradhara, which we may assume here is a different name for Akṣobhya) to explain the
+                    secret of enlightened mind. The reply he receives is the instruction to generate the enlightened attitude and
+                    to gather the two accumulations of merit and wisdom, and then to perform a version of Vajrapāṇi’s ritual
+                    practice, which is described in brief and presented as a method for taming unruly beings and subduing
+                    obstructing forces. Then, after a brief verse lauding the qualities of this particular tantra, Vajrapāṇi and
+                    his retinue praise the words of the Blessed One, and the text concludes.</p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-22"/>
-                <p tid="23"> If we look at the structure of the tantra as a whole, the various chapters of
-                        <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>,
-                    with the exception of the ninth chapter, appear to be a collection of related
-                    ritual manuals centered on the figure of this particular form of Vajrapāṇi. The
-                    first chapter seems to be the foundational ritual manual for the visualization
-                    and mantra recitation of Blue-Clad Vajrapāṇi, while the later chapters describe
-                    ancillary rituals that, it seems, are to be connected with the framework of the
-                    main ritual manual. These ritual texts are all presented within the tantra’s
-                    larger narrative framework. While the initial introductory narrative framework
-                    (Tib. <foreign xml:lang="Bo-Ltn">gleng gzhi</foreign>, Skt. <foreign xml:lang="Sa-Ltn">nidāna</foreign>) of the tantra is somewhat detailed, its
-                    closing framework is very brief—a single sentence. Additionally, each of the
-                    chapters, again with the single exception of chapter 9, has its own short
-                    introductory narrative framework. These statements, ranging from a single
-                    sentence in some chapters to a few paragraphs in others, give the context for
-                    the rituals presented therein, stating what the ritual is for and who taught it,
-                    thus framing the actual ritual instructions as quotations of the words spoken by
-                    the teacher. </p>
+                <p tid="23"> If we look at the structure of the tantra as a whole, the various chapters of <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>, with the exception of the ninth chapter, appear to
+                    be a collection of related ritual manuals centered on the figure of this particular form of Vajrapāṇi. The
+                    first chapter seems to be the foundational ritual manual for the visualization and mantra recitation of
+                    Blue-Clad Vajrapāṇi, while the later chapters describe ancillary rituals that, it seems, are to be connected
+                    with the framework of the main ritual manual. These ritual texts are all presented within the tantra’s larger
+                    narrative framework. While the initial introductory narrative framework (Tib. <foreign xml:lang="Bo-Ltn">gleng
+                        gzhi</foreign>, Skt. <foreign xml:lang="Sa-Ltn">nidāna</foreign>) of the tantra is somewhat detailed, its
+                    closing framework is very brief—a single sentence. Additionally, each of the chapters, again with the single
+                    exception of chapter 9, has its own short introductory narrative framework. These statements, ranging from a
+                    single sentence in some chapters to a few paragraphs in others, give the context for the rituals presented
+                    therein, stating what the ritual is for and who taught it, thus framing the actual ritual instructions as
+                    quotations of the words spoken by the teacher. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-23"/>
-                <p tid="24">This presentation of teachings as a discourse by a particular teacher, or a
-                    dialogue between teacher and student, is a standard framework for both sūtras
-                    and tantras. What is interesting here, however, is that the content presented
-                    within this framework is almost entirely ritual instruction. In a recent
-                    article, Jacob Dalton has argued convincingly that ritual manuals were often a
-                    major source upon which the tantras themselves were based, rather than the other
-                    way around as traditional scholarship mostly holds (Dalton forthcoming, 4). Here
-                    we see what seems to be a clear example of this inversion, since apart from its
-                    narrative framework, the content of the tantra is nearly exclusively ritual
-                    instruction. </p>
+                <p tid="24">This presentation of teachings as a discourse by a particular teacher, or a dialogue between teacher
+                    and student, is a standard framework for both sūtras and tantras. What is interesting here, however, is that
+                    the content presented within this framework is almost entirely ritual instruction. In a recent article, Jacob
+                    Dalton has argued convincingly that ritual manuals were often a major source upon which the tantras themselves
+                    were based, rather than the other way around as traditional scholarship mostly holds (Dalton forthcoming, 4).
+                    Here we see what seems to be a clear example of this inversion, since apart from its narrative framework, the
+                    content of the tantra is nearly exclusively ritual instruction. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-24"/>
-                <p tid="25"> In this tantra, the ninth chapter is the single exception to both the presence
-                    of this narrative framework and the exclusive ritual content (here we include
-                    within “ritual content” laudatory words praising the efficacy of the ritual,
-                    which are commonly found within ritual works). This chapter names no teacher as
-                    the one imparting the instructions; it simply begins, “Then, moreover, the
-                    certainty of recitation / will be taught now.” </p>
+                <p tid="25"> In this tantra, the ninth chapter is the single exception to both the presence of this narrative
+                    framework and the exclusive ritual content (here we include within “ritual content” laudatory words praising
+                    the efficacy of the ritual, which are commonly found within ritual works). This chapter names no teacher as
+                    the one imparting the instructions; it simply begins, “Then, moreover, the certainty of recitation / will be
+                    taught now.” </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-25"/>
-                <p tid="26">As discussed above, the initial part of chapter 9 is a description of the
-                    visualization for mantra recitation, followed by a short list of the mantras
-                    required for the practice. This part of the chapter can be considered as ritual
-                    content, though it does not contain a full or self-contained ritual as the other
-                    chapters do; instead it appears to be a sort of supplemental instruction to be
-                    integrated into the practice described in chapter 1. The text then shifts,
-                    however, in both content and tone to an overtly soteriological orientation with
-                    the use of abstract language that is not found in other parts of the tantra. The
-                    lack of the narrative framework found in the other chapters combined with the
-                    overt soteriological orientation and abstract language single out chapter 9
-                    as being, perhaps, a later addition to the tantra. </p>
+                <p tid="26">As discussed above, the initial part of chapter 9 is a description of the visualization for mantra
+                    recitation, followed by a short list of the mantras required for the practice. This part of the chapter can be
+                    considered as ritual content, though it does not contain a full or self-contained ritual as the other chapters
+                    do; instead it appears to be a sort of supplemental instruction to be integrated into the practice described
+                    in chapter 1. The text then shifts, however, in both content and tone to an overtly soteriological orientation
+                    with the use of abstract language that is not found in other parts of the tantra. The lack of the narrative
+                    framework found in the other chapters combined with the overt soteriological orientation and abstract language
+                    single out chapter 9 as being, perhaps, a later addition to the tantra. </p>
                 <milestone unit="chunk" xml:id="UT22084-087-003-26"/>
-                <p tid="27"> Although the language of the text is sometimes obscure and difficult, <title xml:lang="en">The Tantra of the Blue-Clad Blessed Vajrapāṇi</title>
-                    represents a fascinating stage in the historical development of Buddhist tantra
-                    and offers a beautiful example of early tantric literature. We hope that this
-                    English translation will open the doors to further engagement with this and
-                    other tantras, by both practitioners and scholars of Buddhist tantra alike. </p>
+                <p tid="27"> Although the language of the text is sometimes obscure and difficult, <title xml:lang="en">The Tantra
+                        of the Blue-Clad Blessed Vajrapāṇi</title> represents a fascinating stage in the historical development of
+                    Buddhist tantra and offers a beautiful example of early tantric literature. We hope that this English
+                    translation will open the doors to further engagement with this and other tantras, by both practitioners and
+                    scholars of Buddhist tantra alike. </p>
             </div>
         </front>
         <body>
@@ -375,71 +309,54 @@
                         <l>I prostrate to the buddhas and bodhisattvas of the three times!</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-28"/>
-                    <p tid="29"> Thus have I heard at one time. Blessed Akṣobhya, the buddha of the vajra
-                        family, was residing in the palace in Alakāvatī together with a retinue of
-                        millions of bodhisattvas, including Vajrapāṇi, <ref cRef="F.158.b"/> Vajra
-                        Regiment, Constant Vajra Holder, Vajra Tamer, Terrible Vajra Conqueror,
-                        Vajra Tamer of All Evil, Vajra Victor of Basic Space, Vajra Joyfully Abiding
-                        Protector, and others. </p>
+                    <p tid="29"> Thus have I heard at one time. Blessed Akṣobhya, the buddha of the vajra family, was residing in
+                        the palace in Alakāvatī together with a retinue of millions of bodhisattvas, including Vajrapāṇi, <ref cRef="F.158.b"/> Vajra Regiment, Constant Vajra Holder, Vajra Tamer, Terrible Vajra Conqueror, Vajra
+                        Tamer of All Evil, Vajra Victor of Basic Space, Vajra Joyfully Abiding Protector, and others. </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-29"/>
-                    <p tid="30">At that time, the great being, the bodhisattva Vajrapāṇi
-                        himself, brandished a vajra three times at his heart center. He made three
-                        circumambulations of the Blessed One and prostrated himself.</p>
+                    <p tid="30">At that time, the great being, the bodhisattva Vajrapāṇi himself, brandished a vajra three times
+                        at his heart center. He made three circumambulations of the Blessed One and prostrated himself.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-30"/>
-                    <p tid="31">Then, kneeling on his right knee, Vajrapāṇi requested, “Blessed One,
-                            Thus-Gone One, Great Vajra Holder, please explain the great
-                            tantra called <title xml:lang="en">The All-Subjugating Vajra</title>
-                            that subjugates all bhūtas and that tames the evil ones that dwell
-                            beneath the earth. Great Vajra Holder, I supplicate you to teach! Great
-                            Lord of All, I supplicate you to teach! Great Tamer of All Evil Forces,
-                            I supplicate you to teach! Great Dispeller of All Darkness, I supplicate
-                            you to teach!” </p>
+                    <p tid="31">Then, kneeling on his right knee, Vajrapāṇi requested, “Blessed One, Thus-Gone One, Great Vajra
+                        Holder, please explain the great tantra called <title xml:lang="en">The All-Subjugating Vajra</title> that
+                        subjugates all bhūtas and that tames the evil ones that dwell beneath the earth. Great Vajra Holder, I
+                        supplicate you to teach! Great Lord of All, I supplicate you to teach! Great Tamer of All Evil Forces, I
+                        supplicate you to teach! Great Dispeller of All Darkness, I supplicate you to teach!” </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-31"/>
-                    <p tid="32">At this request from Vajrapāṇi, the Blessed One declared, “It is excellent
-                       that you, Great Vajradhara, Secret One, have, for the benefit of sentient
-                       beings, requested from me the tantra called <foreign xml:lang="en">The 
-                       All-Subjugating Vajra</foreign>. Lord of Secrets, that is excellent! Great
-                       Bodhisattva, that is excellent! Thus, you who share
-                       Vajrapāṇi’s lineage, listen and remember this! I will reveal and explain
-                       the tantra called <title xml:lang="en">The Vajra that Subjugates the
-                       Evil Forces Below the Vajra Earth</title>. Receive it!”</p>
+                    <p tid="32">At this request from Vajrapāṇi, the Blessed One declared, “It is excellent that you, Great
+                        Vajradhara, Secret One, have, for the benefit of sentient beings, requested from me the tantra called
+                            <foreign xml:lang="en">The All-Subjugating Vajra</foreign>. Lord of Secrets, that is excellent! Great
+                        Bodhisattva, that is excellent! Thus, you who share Vajrapāṇi’s lineage, listen and remember this! I will
+                        reveal and explain the tantra called <title xml:lang="en">The Vajra that Subjugates the Evil Forces Below
+                            the Vajra Earth</title>. Receive it!”</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-32"/>
-                    <p tid="33">After pronouncing these words, the Blessed One, by means of the absorption 
-                        of the all-subjugating vajra, entered equipoise in the
-                        absorption called <emph>vanquishing all grahas and bhūtas from below the
-                        earth</emph>.</p>
-                    <p tid="34">No sooner had the Blessed One entered equipoise than a multitude of wrathful
-                        subjugators of evil forces emanated from all the pores of his body and
-                        filled the space under the earth, on the earth, and above the earth. The
-                        entire land of the underground nāgas was filled with the horrible sound
-                        <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>. <ref cRef="F.159.a"/>
-                        The eight nāga kings together with their retinues were tamed, and bowed
-                        before the Blessed One.</p>
+                    <p tid="33">After pronouncing these words, the Blessed One, by means of the absorption of the all-subjugating
+                        vajra, entered equipoise in the absorption called <emph>vanquishing all grahas and bhūtas from below the
+                            earth</emph>.</p>
+                    <p tid="34">No sooner had the Blessed One entered equipoise than a multitude of wrathful subjugators of evil
+                        forces emanated from all the pores of his body and filled the space under the earth, on the earth, and
+                        above the earth. The entire land of the underground nāgas was filled with the horrible sound <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>. <ref cRef="F.159.a"/> The eight nāga kings together
+                        with their retinues were tamed, and bowed before the Blessed One.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-33"/>
-                    <p tid="35">But the nāga king Anantaka then gave rise to an evil thought, intending to
-                        release a scalding breath. But the Blessed One knew his intention and blessed
-                        the Lord of Secrets, Vajrapāṇi, who spoke this mantra called <title xml:lang="en">the mantra that completely pacifies the anger of all
-                            nāgas</title>: “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ
-                            nīlavajra krodhanāga hūṃ phaṭ</foreign>.”</p>
-                    <p tid="36">Now the mind of the nāga Anantaka was completely pacified; he became
-                        endowed with the awakened mind, through which the minds of all the nāgas were
-                        completely pacified. Then all of the nāga kings like Anantaka, who live
-                        below the earth, supplicated the Blessed One, the Great Vajra Holder, with
-                        these words: </p>
+                    <p tid="35">But the nāga king Anantaka then gave rise to an evil thought, intending to release a scalding
+                        breath. But the Blessed One knew his intention and blessed the Lord of Secrets, Vajrapāṇi, who spoke this
+                        mantra called <title xml:lang="en">the mantra that completely pacifies the anger of all nāgas</title>:
+                            “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ nīlavajra krodhanāga hūṃ phaṭ</foreign>.”</p>
+                    <p tid="36">Now the mind of the nāga Anantaka was completely pacified; he became endowed with the awakened
+                        mind, through which the minds of all the nāgas were completely pacified. Then all of the nāga kings like
+                        Anantaka, who live below the earth, supplicated the Blessed One, the Great Vajra Holder, with these words: </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-34"/>
-                    <p tid="37">“Blessed One, we supplicate you to explain a ritual that will, in future
-                        times and onward, prevent the grahas that are living below the earth from
-                        making obstacles for sentient beings, and that will also pacify the evil of
-                        those spirits. We supplicate you to explain why we, the nāga kings and our
-                        retinues, are unable to create obstacles for that great being. We supplicate
-                        you to explain to us, the nāga kings, our purpose.” </p>
+                    <p tid="37">“Blessed One, we supplicate you to explain a ritual that will, in future times and onward, prevent
+                        the grahas that are living below the earth from making obstacles for sentient beings, and that will also
+                        pacify the evil of those spirits. We supplicate you to explain why we, the nāga kings and our retinues,
+                        are unable to create obstacles for that great being. We supplicate you to explain to us, the nāga kings,
+                        our purpose.” </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-35"/>
-                    <p tid="38">The Blessed One, the Great Vajra Holder, glanced at the nāga kings and
-                        replied, “Nāga kings, that is excellent! Your request is timely. I will reveal
-                        this for the benefit of sentient beings. I will explain; listen!” </p>
+                    <p tid="38">The Blessed One, the Great Vajra Holder, glanced at the nāga kings and replied, “Nāga kings, that
+                        is excellent! Your request is timely. I will reveal this for the benefit of sentient beings. I will
+                        explain; listen!” </p>
                     <p tid="39"> The nāgas and the others replied, “Excellent, Blessed One!”</p>
-                    <p tid="40"> They then listened appropriately. At that point, the Blessed One explained
-                        the following chapter called “Taming the Nāgas.” </p>
+                    <p tid="40"> They then listened appropriately. At that point, the Blessed One explained the following chapter
+                        called “Taming the Nāgas.” </p>
                     <div type="section">
                         <head type="section">Taming the Nāgas</head>
                         <milestone unit="chunk" xml:id="UT22084-087-003-36"/>
@@ -509,8 +426,7 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-44"/>
                     <lg tid="50">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ
-                                śūnyatā­jñāna­vajra­svabhāvātmako 'haṃ</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ śūnyatā­jñāna­vajra­svabhāvātmako 'haṃ</foreign>
                         </l>
                         <l>Meditate on the absorption of emptiness.</l>
                     </lg>
@@ -558,8 +474,7 @@
                     <lg tid="56">
                         <l>“Visualize, at his head, throat, and heart center,</l>
                         <l>A wheel, a lotus, and a vajra</l>
-                        <l>Marked by the syllables <foreign type="mantra" xml:lang="Sa-Ltn">oṃ āḥ
-                                hūṃ</foreign>, <ref cRef="F.160.a"/>
+                        <l>Marked by the syllables <foreign type="mantra" xml:lang="Sa-Ltn">oṃ āḥ hūṃ</foreign>, <ref cRef="F.160.a"/>
                         </l>
                         <l>Ornamented with the thirteen-syllable mantra.</l>
                     </lg>
@@ -570,10 +485,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-52"/>
                     <lg tid="58">
-                        <l>Then the Blessed One resolutely spoke his root mantra, the statement of
-                            all activity:</l>
-                        <l>“<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ nīlāmbara­dhara­vajra­pāṇi hūṃ
-                                hūṃ phaṭ</foreign>.</l>
+                        <l>Then the Blessed One resolutely spoke his root mantra, the statement of all activity:</l>
+                        <l>“<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ nīlāmbara­dhara­vajra­pāṇi hūṃ hūṃ phaṭ</foreign>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-53"/>
                     <lg tid="59">
@@ -601,16 +514,15 @@
                         <l>With whatever is striven for!</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-57"/>
-                    <trailer tid="242">This was the first chapter from <title xml:lang="en">The Glorious
-                            Tantra of the Vajra in the Underworld</title>, “Accomplishing Peaceful
-                        Activity” or the “Chapter of the Gods.” </trailer>
+                    <trailer tid="242">This was the first chapter from <title xml:lang="en">The Glorious Tantra of the Vajra in
+                            the Underworld</title>, “Accomplishing Peaceful Activity” or the “Chapter of the Gods.” </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 2</head>
                     <head type="chapterTitle">The Oblation</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-58"/>
-                    <p tid="63">Then the great bodhisattva, the great being Vajrapāṇi, supplicated the
-                        Blessed One with these words:</p>
+                    <p tid="63">Then the great bodhisattva, the great being Vajrapāṇi, supplicated the Blessed One with these
+                        words:</p>
                     <lg tid="64">
                         <l> “Blessed One, Teacher, Vajra Holder, </l>
                         <l>Please explain the supreme ritual</l>
@@ -636,15 +548,12 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-61"/>
                     <lg tid="68">
                         <l>“Through entering the absorption of emptiness,</l>
-                        <l>From <foreign type="mantra" xml:lang="Sa-Ltn">bruṃ</foreign> generate a
-                            beautiful vessel.</l>
-                        <l>With <foreign type="mantra" xml:lang="Sa-Ltn">kham</foreign> visualize
-                            food and drink</l>
+                        <l>From <foreign type="mantra" xml:lang="Sa-Ltn">bruṃ</foreign> generate a beautiful vessel.</l>
+                        <l>With <foreign type="mantra" xml:lang="Sa-Ltn">kham</foreign> visualize food and drink</l>
                         <l>Filling all of space, and recite this mantra:</l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ āḥkāro mukhaṃ sarva­dharmāṇām
-                                ādyanta­panna tathā oṃ āḥ hūṃ phaṭ svāhā</foreign>.
-                        </l>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ āḥkāro mukhaṃ sarva­dharmāṇām ādyanta­panna tathā oṃ āḥ
+                                hūṃ phaṭ svāhā</foreign>. </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-62"/>
                     <lg tid="69">
@@ -698,23 +607,20 @@
                     </lg>
                     <lg tid="76">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇa saparivāra
-                                samāja jaḥ hūṃ vaṃ hoḥ</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇa saparivāra samāja jaḥ hūṃ vaṃ hoḥ</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn"> Oṃ ve svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa ākarṣaya hūṃ
-                                jaḥ</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa ākarṣaya hūṃ jaḥ</foreign>
                         </l>
                         <l>Is the mantra for the invitation.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-69"/>
                     <lg tid="77">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ amṛta­kuṇḍalī hana hana hūṃ
-                                phaṭ</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ amṛta­kuṇḍalī hana hana hūṃ phaṭ</foreign>
                         </l>
                         <l>Is the mantra for dispelling obstructors.</l>
                     </lg>
@@ -727,15 +633,15 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-71"/>
                     <lg tid="79">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara­vajra­pāṇi
-                                ājñāpayati imaṃ baligṛhnantu</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara­vajra­pāṇi ājñāpayati imaṃ
+                                baligṛhnantu</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn">Samayarakṣantu</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Mama sarva­siddhiṃ me
-                                prayacchantu mama karmāmogha svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Mama sarva­siddhiṃ me prayacchantu mama karmāmogha
+                                svāhā</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇāyā svāhā</foreign>
@@ -744,8 +650,7 @@
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ jambhalāya svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pūrṇavhadrāya
-                                svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pūrṇavhadrāya svāhā</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ maṇibhadrāya svāhā</foreign>
@@ -754,19 +659,16 @@
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ kuberāya svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ samprajñānāya
-                                svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ samprajñānāya svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ guhyasthānāya
-                                svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ guhyasthānāya svāhā</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pāñcikāya svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ bījakuṇḍaline
-                                svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ bījakuṇḍaline svāhā</foreign>
                         </l>
                         <l>These are the mantras for offering the oblation.</l>
                     </lg>
@@ -778,90 +680,72 @@
                         <l> Perform the ritual of equal enjoyment.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-73"/>
-                    <trailer tid="243">This was the second chapter of <title xml:lang="en">The Tantra of the
-                            Vajra in the Underworld</title>, “The Oblation.” </trailer>
+                    <trailer tid="243">This was the second chapter of <title xml:lang="en">The Tantra of the Vajra in the
+                            Underworld</title>, “The Oblation.” </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 3</head>
                     <head type="chapterTitle">Vaiśravaṇa</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-74"/>
-                    <p tid="81">Then, for the benefit of those who wish to attain worldly accomplishment, the
-                        Blessed One entered the absorption called <emph>the origination of all
-                            worldly wheels</emph>
-                        <ref cRef="F.161.a"/> and emanated rays of light from the pores of his body.
-                        Vaiśravaṇa and his retinue were thus inspired and gathered around him. He
-                        prostrated to the Blessed One, scattered dust made from precious gems, and
-                        made this request: </p>
+                    <p tid="81">Then, for the benefit of those who wish to attain worldly accomplishment, the Blessed One entered
+                        the absorption called <emph>the origination of all worldly wheels</emph>
+                        <ref cRef="F.161.a"/> and emanated rays of light from the pores of his body. Vaiśravaṇa and his retinue
+                        were thus inspired and gathered around him. He prostrated to the Blessed One, scattered dust made from
+                        precious gems, and made this request: </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-75"/>
-                    <p tid="82">“Blessed One, I am the Dharma-upholding king named Vaiśravaṇa. If I myself
-                        were to proclaim a secret in order to protect the Dharma of the pious and
-                        ensure that the Dharma abides for a long time, would the Blessed One grant
-                        me an opportunity?” </p>
+                    <p tid="82">“Blessed One, I am the Dharma-upholding king named Vaiśravaṇa. If I myself were to proclaim a
+                        secret in order to protect the Dharma of the pious and ensure that the Dharma abides for a long time,
+                        would the Blessed One grant me an opportunity?” </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-76"/>
-                    <p tid="83">The Blessed One said, “Great King, excellent! Explain your secret well! I
-                        rejoice and give my blessings. May all vajra holders also bless you. Speak
-                        well!” </p>
-                    <p tid="84"> Then Vaiśravaṇa got up from his seat, prostrated to the Blessed One, and
-                        spoke his own incantation: “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ
-                            vaiśravaṇāya hūṃ hūṃ paca paca chinda chinda svāhā.</foreign>”
-                    </p>
+                    <p tid="83">The Blessed One said, “Great King, excellent! Explain your secret well! I rejoice and give my
+                        blessings. May all vajra holders also bless you. Speak well!” </p>
+                    <p tid="84"> Then Vaiśravaṇa got up from his seat, prostrated to the Blessed One, and spoke his own
+                        incantation: “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇāya hūṃ hūṃ paca paca chinda chinda
+                            svāhā.</foreign>” </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-77"/>
-                    <p tid="85"> Once he had spoken these words, he requested the Blessed One, “O Blessed
-                        One, the accomplishment of this, my mantra, is excellent. Whoever wants to
-                        accomplish my state of being should arrange great offerings in the three
-                        times. To make the offering to me and my retinue, the practitioner should
-                        remain with one-pointed concentration in an isolated place. A practitioner
-                        of the blessed Vajrapāṇi must recite my mantra ten thousand times, and then
-                        accomplish the activities. One who thus accomplishes my state of being and
-                        my activity should offer an oblation and make vast offerings to me and to my
-                        retinue. The mantra to recite for making vast offerings and offering the
-                        oblation to me and my retinue is this: </p>
+                    <p tid="85"> Once he had spoken these words, he requested the Blessed One, “O Blessed One, the accomplishment
+                        of this, my mantra, is excellent. Whoever wants to accomplish my state of being should arrange great
+                        offerings in the three times. To make the offering to me and my retinue, the practitioner should remain
+                        with one-pointed concentration in an isolated place. A practitioner of the blessed Vajrapāṇi must recite
+                        my mantra ten thousand times, and then accomplish the activities. One who thus accomplishes my state of
+                        being and my activity should offer an oblation and make vast offerings to me and to my retinue. The mantra
+                        to recite for making vast offerings and offering the oblation to me and my retinue is this: </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-78"/>
                     <lg tid="86">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ jambhalāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ jambhalāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pūrṇabhadrāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pūrṇabhadrāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ maṇibhadrāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ maṇibhadrāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ kuberāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ kuberāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ samprajñānāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ samprajñānāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ guhyasthānāya svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ guhyasthānāya svāhā </foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pāñcikāya svāhā 
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ pāñcikāya svāhā </foreign>
                             <ref cRef="F.161.b"/>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ bījakuṇḍaline svāhā
-                                </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ bījakuṇḍaline svāhā </foreign>
                         </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-79"/>
-                    <p tid="87">“Know that these are the mantras both for making offerings and giving an
-                            oblation to me and my retinue.</p>
-                    <p tid="88">“Then, with respect to accomplishing my activity, I requested the
-                        Blessed One to bless me with his explanation. The explanation of the activity
-                        is this: </p>
+                    <p tid="87">“Know that these are the mantras both for making offerings and giving an oblation to me and my
+                        retinue.</p>
+                    <p tid="88">“Then, with respect to accomplishing my activity, I requested the Blessed One to bless me with his
+                        explanation. The explanation of the activity is this: </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-80"/>
                     <lg tid="89">
                         <l>“Whoever wishes to gain accomplishment</l>
@@ -884,11 +768,10 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-83"/>
                     <lg tid="92">
                         <l>“If one is practicing the burnt offerings </l>
-                        <l>From among peaceful, increasing, magnetizing, and wrathful
-                            activities,</l>
+                        <l>From among peaceful, increasing, magnetizing, and wrathful activities,</l>
                         <l>Here one should perform liberation wrathfully.</l>
-                        <l>Thoroughly burn with a blazing fire.<note place="end" index="4" xml:id="UT22084-087-003-275">Translation based
-                                on the spelling in the Yonglé, Peking, Narthang, and Lhasa Kangyurs: <foreign xml:lang="Bo-Ltn">mer sbar.</foreign> The Degé Kangyur has:<foreign xml:lang="Bo-Ltn"> ner sba. </foreign>
+                        <l>Thoroughly burn with a blazing fire.<note place="end" index="4" xml:id="UT22084-087-003-275">Translation based on the spelling in the Yonglé, Peking, Narthang, and Lhasa Kangyurs: <foreign xml:lang="Bo-Ltn">mer sbar.</foreign> The Degé Kangyur has:<foreign xml:lang="Bo-Ltn"> ner
+                                    sba. </foreign>
                             </note>
                         </l>
                     </lg>
@@ -910,8 +793,8 @@
                     <lg tid="95">
                         <l>“Imagine the retinue of yakṣas in the fire</l>
                         <l>And present them with the burnt substances,</l>
-                        <l>Or scatter the activity-fire yakṣas with the substances.<note place="end" index="5" xml:id="UT22084-087-003-276">We are unsure about this line: <foreign xml:lang="Bo-Ltn">las me
-                                    gnod sbyin rdzas kyis brab.</foreign>
+                        <l>Or scatter the activity-fire yakṣas with the substances.<note place="end" index="5" xml:id="UT22084-087-003-276">We are unsure about this line: <foreign xml:lang="Bo-Ltn">las me gnod
+                                    sbyin rdzas kyis brab.</foreign>
                             </note>
                         </l>
                         <l>However you do it, it will be accomplished.</l>
@@ -949,8 +832,8 @@
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> naivedye hūṃ
-                                svāhā </foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> naivedye hūṃ svāhā
+                            </foreign>
                         </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-89"/>
@@ -963,8 +846,7 @@
                     </lg>
                     <lg tid="100">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇaya chegemo māraya
-                                phaṭ svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇaya chegemo māraya phaṭ svāhā</foreign>
                             <ref cRef="F.162.a "/>
                         </l>
                     </lg>
@@ -1006,16 +888,14 @@
                     </lg>
                     <lg tid="106">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇāya dhanapuṣṭiṃ
-                                kuru ye svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇāya dhanapuṣṭiṃ kuru ye svāhā</foreign>
                         </l>
                         <l>
                             <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> vaśaṃ kuru
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇāye śāntiṃ kuru
-                                svāhā</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇāye śāntiṃ kuru svāhā</foreign>
                         </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-95"/>
@@ -1033,48 +913,41 @@
                         <l>They are accomplished in a middling and lesser way.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-97"/>
-                    <p tid="109">Then Vaiśravaṇa and his retinue declared to the Blessed One, “Blessed One, 
-                        whoever engages in the practices that we have explained here
-                        should continually worship the Blessed Vajrapāṇi and the yakṣas with the
-                        three white substances. He must completely avoid alcohol. He must acquire
-                        meats that are suitable and auspicious.<note place="end" index="6" xml:id="UT22084-087-003-277">Tibetan: <foreign xml:lang="Sa-Ltn">drang bar bya.</foreign>
-                        </note> If we fail to accomplish, properly and one-pointedly, the activities
-                        that are our accomplishments, then we will have insulted the Blessed One and
-                        we will have failed to protect the Dharma. This is our oath. <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term>
+                    <p tid="109">Then Vaiśravaṇa and his retinue declared to the Blessed One, “Blessed One, whoever engages in the
+                        practices that we have explained here should continually worship the Blessed Vajrapāṇi and the yakṣas with
+                        the three white substances. He must completely avoid alcohol. He must acquire meats that are suitable and
+                            auspicious.<note place="end" index="6" xml:id="UT22084-087-003-277">Tibetan: <foreign xml:lang="Sa-Ltn">drang bar bya.</foreign>
+                        </note> If we fail to accomplish, properly and one-pointedly, the activities that are our accomplishments,
+                        then we will have insulted the Blessed One and we will have failed to protect the Dharma. This is our
+                        oath. <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term>
                             arthakathama.</foreign>” <ref cRef="F.162.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-98"/>
-                    <p tid="110">“Great Vaiśravaṇa, that is excellent. So very excellent!” said the Blessed One. “So very excellent! 
-                        The secret of which you have spoken will be of great
-                        benefit for the people of the future. In order that their benefit will
-                        certainly be accomplished, I also will pronounce this mantra. Listen!”</p>
+                    <p tid="110">“Great Vaiśravaṇa, that is excellent. So very excellent!” said the Blessed One. “So very
+                        excellent! The secret of which you have spoken will be of great benefit for the people of the future. In
+                        order that their benefit will certainly be accomplished, I also will pronounce this mantra. Listen!”</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-99"/>
-                    <p tid="111">“Excellent!” said Vaiśravaṇa and the others to the Blessed One, and listened
-                        accordingly.</p>
+                    <p tid="111">“Excellent!” said Vaiśravaṇa and the others to the Blessed One, and listened accordingly.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-100"/>
-                    <p tid="112">The Blessed One then said, “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ
-                        vajrapāṇi nīlāmbara­dhara vajrasphoṭa hūṃ phaṭ svāhā</foreign>. This
-                        incantation is a mantra that brings control over activities. Great
-                        Vaiśravaṇa brings about possession of the secret just as he promised.”</p>
+                    <p tid="112">The Blessed One then said, “<foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vajrapāṇi nīlāmbara­dhara
+                            vajrasphoṭa hūṃ phaṭ svāhā</foreign>. This incantation is a mantra that brings control over
+                        activities. Great Vaiśravaṇa brings about possession of the secret just as he promised.”</p>
                     <p tid="113">“That is so,” said the yakṣas, and vanished. </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-101"/>
-                    <trailer tid="244"> This was the third chapter of <title xml:lang="en">The Tantra of the
-                            Vajra in the Underworld</title>, the chapter on Vaiśravaṇa. </trailer>
+                    <trailer tid="244"> This was the third chapter of <title xml:lang="en">The Tantra of the Vajra in the
+                            Underworld</title>, the chapter on Vaiśravaṇa. </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 4</head>
                     <head type="chapterTitle">The Wheel of Suppression</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-102"/>
-                    <p tid="114">Then, once again, the bodhisattva Vajrapāṇi requested the Blessed One, “Lord, for 
-                        the sake of sentient beings of the future, please teach a
-                            wheel that strikes all wicked ones!”</p>
-                    <p tid="115">The Blessed One mentally consented to this request, yet remained completely silent. 
-                        Instead he projected an all-pervading light from his heart center that embraced all sentient 
-                        beings with love.</p>
+                    <p tid="114">Then, once again, the bodhisattva Vajrapāṇi requested the Blessed One, “Lord, for the sake of
+                        sentient beings of the future, please teach a wheel that strikes all wicked ones!”</p>
+                    <p tid="115">The Blessed One mentally consented to this request, yet remained completely silent. Instead he
+                        projected an all-pervading light from his heart center that embraced all sentient beings with love.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-103"/>
-                    <p tid="116">Then he told Vajrapāṇi, “Vajrapāṇi, I shall now teach a wheel that strikes the obstructors
-                            within the ground below. So listen one-pointedly, and I will teach.”
-                        </p>
+                    <p tid="116">Then he told Vajrapāṇi, “Vajrapāṇi, I shall now teach a wheel that strikes the obstructors within
+                        the ground below. So listen one-pointedly, and I will teach.” </p>
                     <p tid="117">Vajrapāṇi listened accordingly, and the Blessed One began to speak: </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-104"/>
                     <lg tid="118">
@@ -1086,8 +959,7 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-105"/>
                     <lg tid="119">
                         <l>“From the element of wind up until the central mountain,</l>
-                        <l>Imagine it to consist of enlightened bodies as numerous as there are
-                                particles.</l>
+                        <l>Imagine it to consist of enlightened bodies as numerous as there are particles.</l>
                         <l>Amid this, cultivate the practice of Vajrapāṇi.</l>
                         <l>His feet are placed on the holder of the hare.</l>
                     </lg>
@@ -1118,8 +990,7 @@
                         <l>“With his hand, he strikes with the vajra;</l>
                         <l>Like a bolt shot from a crossbow, it strikes down.</l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Hūṃ hūṃ</foreign> resounds
-                                like thunder; </l>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Hūṃ hūṃ</foreign> resounds like thunder; </l>
                         <l> They are thoroughly suppressed by his voice.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-110"/>
@@ -1135,8 +1006,8 @@
                         <l>In particular, the supreme and the common.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-112"/>
-                    <trailer tid="245"> This was the fourth chapter on the wheel of suppression from <title xml:lang="en">The Tantra of the Vajra in the Underworld</title>.
-                    </trailer>
+                    <trailer tid="245"> This was the fourth chapter on the wheel of suppression from <title xml:lang="en">The
+                            Tantra of the Vajra in the Underworld</title>. </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 5</head>
@@ -1146,103 +1017,95 @@
                         <l>Then, at another time, the Vajra Holder</l>
                         <l>Taught the ritual of the diagram:</l>
                     </lg>
-                    
-                        <milestone unit="chunk" xml:id="UT22084-087-003-114"/>
-                        <lg tid="127">
-                            <l>“On a piece of birch bark or rind,</l>
-                            <l>Draw a wheel</l>
-                            <l>With twenty-one sections.</l>
-                            <l>Commence this on the waxing phase of the moon,</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-115"/>
-                        <lg tid="128">
-                            <l>“And write, with a one-pointed mind.</l>
-                            <l>In the center, place the wrathful syllable.</l>
-                            <l>In the second, the syllable of the wealth holder.</l>
-                            <l>In the third, comes the vajra.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-116"/>
-                        <lg tid="129">
-                            <l> “In the fourth, place the first syllable of water.</l>
-                            <l> In the fifth, place the <foreign type="mantra" xml:lang="Sa-Ltn">ṇi</foreign>.</l>
-                            <l>At the four borders, write the essence mantra for killing the
-                                target.</l>
-                            <l>These are the inner sections.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-117"/>
-                        <lg tid="130">
-                            <l>“On the twelve outer sections</l>
-                            <l>Are the twelve syllables, omitting <foreign type="mantra" xml:lang="Sa-Ltn">oṃ</foreign>.</l>
-                            <l>On these the secret mantra is as follows:</l>
-                            <l>
-                                <foreign type="mantra" xml:lang="Sa-Ltn">Nīlāmbara­dhara­vajra­pāṇi hūṃ
-                                    phaṭ.</foreign>
-                            </l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-118"/>
-                        <lg tid="131">
-                            <l> “This completed wheel</l>
-                            <l>Should be rolled up and fixed to the heart center of the target;</l>
-                            <l>It should be rolled up from the front edge.</l>
-                            <l>Then the fire-offering ritual should be performed.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-119"/>
-                        <lg tid="132">
-                            <l>“If one wishes to subdue,</l>
-                            <l>The diagram should be completed as before.</l>
-                            <l>At the end, perform the ritual of subjugation.</l>
-                            <l>Place the diagram in a fresh clay cup</l>
-                            <l>And draw a crossed vajra on the lid.</l>
-                            <l>Closing it with clay,</l>
-                            <l>Temples and the like can be suppressed.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-120"/>
-                        <lg tid="133">
-                            <l>“If you prefer not to have sections,</l>
-                            <l>Make a wheel with twelve spokes.</l>
-                            <l>In the center, place and affix</l>
-                            <l>A <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and the name
-                                of the target.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-121"/>
-                        <lg tid="134">
-                            <l> “The remaining twelve are placed on the spokes. <ref cRef="F.163.b"/>
-                            </l>
-                            <l>When the drawing is complete, insert it in the heart center.</l>
-                            <l>Summon, usher, and so forth, then burn.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-122"/>
-                        <lg tid="135">
-                            <l> “Perform the ritual for suppression of the unwanted; </l>
-                            <l>From that time onward, there is auspiciousness.</l>
-                            <l> Whenever the diagram is drawn,</l>
-                            <l>There is no doubt that things will occur as desired.</l>
-                        </lg>
-                        <milestone unit="chunk" xml:id="UT22084-087-003-123"/>
-                        <lg tid="136">
-                            <l>“Just like dry grass being burnt up by flames,</l>
-                            <l>The person will be unable to remain.”</l>
-                        </lg>
-                    
+                    <milestone unit="chunk" xml:id="UT22084-087-003-114"/>
+                    <lg tid="127">
+                        <l>“On a piece of birch bark or rind,</l>
+                        <l>Draw a wheel</l>
+                        <l>With twenty-one sections.</l>
+                        <l>Commence this on the waxing phase of the moon,</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-115"/>
+                    <lg tid="128">
+                        <l>“And write, with a one-pointed mind.</l>
+                        <l>In the center, place the wrathful syllable.</l>
+                        <l>In the second, the syllable of the wealth holder.</l>
+                        <l>In the third, comes the vajra.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-116"/>
+                    <lg tid="129">
+                        <l> “In the fourth, place the first syllable of water.</l>
+                        <l> In the fifth, place the <foreign type="mantra" xml:lang="Sa-Ltn">ṇi</foreign>.</l>
+                        <l>At the four borders, write the essence mantra for killing the target.</l>
+                        <l>These are the inner sections.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-117"/>
+                    <lg tid="130">
+                        <l>“On the twelve outer sections</l>
+                        <l>Are the twelve syllables, omitting <foreign type="mantra" xml:lang="Sa-Ltn">oṃ</foreign>.</l>
+                        <l>On these the secret mantra is as follows:</l>
+                        <l>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Nīlāmbara­dhara­vajra­pāṇi hūṃ phaṭ.</foreign>
+                        </l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-118"/>
+                    <lg tid="131">
+                        <l> “This completed wheel</l>
+                        <l>Should be rolled up and fixed to the heart center of the target;</l>
+                        <l>It should be rolled up from the front edge.</l>
+                        <l>Then the fire-offering ritual should be performed.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-119"/>
+                    <lg tid="132">
+                        <l>“If one wishes to subdue,</l>
+                        <l>The diagram should be completed as before.</l>
+                        <l>At the end, perform the ritual of subjugation.</l>
+                        <l>Place the diagram in a fresh clay cup</l>
+                        <l>And draw a crossed vajra on the lid.</l>
+                        <l>Closing it with clay,</l>
+                        <l>Temples and the like can be suppressed.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-120"/>
+                    <lg tid="133">
+                        <l>“If you prefer not to have sections,</l>
+                        <l>Make a wheel with twelve spokes.</l>
+                        <l>In the center, place and affix</l>
+                        <l>A <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and the name of the target.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-121"/>
+                    <lg tid="134">
+                        <l> “The remaining twelve are placed on the spokes. <ref cRef="F.163.b"/>
+                        </l>
+                        <l>When the drawing is complete, insert it in the heart center.</l>
+                        <l>Summon, usher, and so forth, then burn.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-122"/>
+                    <lg tid="135">
+                        <l> “Perform the ritual for suppression of the unwanted; </l>
+                        <l>From that time onward, there is auspiciousness.</l>
+                        <l> Whenever the diagram is drawn,</l>
+                        <l>There is no doubt that things will occur as desired.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-087-003-123"/>
+                    <lg tid="136">
+                        <l>“Just like dry grass being burnt up by flames,</l>
+                        <l>The person will be unable to remain.”</l>
+                    </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-124"/>
-                    <trailer tid="246"> This was the fifth chapter on the ritual for drawing the diagram from
-                            <title xml:lang="en">The Glorious Tantra of the Vajra in the
-                            Underworld</title>.</trailer>
+                    <trailer tid="246"> This was the fifth chapter on the ritual for drawing the diagram from <title xml:lang="en">The Glorious Tantra of the Vajra in the Underworld</title>.</trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 6</head>
                     <head type="chapterTitle">The Stages of Fire Offering</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-125"/>
-                    <p tid="137">Then, once again, Vajrapāṇi asked the Blessed One, “Lord, since everything
-                        is the domain of the profound, does one get
-                            liberated through such rituals as fire offerings, or not? Please clear
-                            away my doubts!” </p>
+                    <p tid="137">Then, once again, Vajrapāṇi asked the Blessed One, “Lord, since everything is the domain of the
+                        profound, does one get liberated through such rituals as fire offerings, or not? Please clear away my
+                        doubts!” </p>
                     <p tid="138">The Blessed One replied:</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-126"/>
                     <lg tid="139">
                         <l>“Vajrapāṇi! Great compassion,</l>
                         <l>Removal through the power of faith,<note place="end" index="7" xml:id="UT22084-087-003-278">Tibetan:
-                                        <foreign xml:lang="Bo-Ltn">rab snyams.</foreign>
+                                    <foreign xml:lang="Bo-Ltn">rab snyams.</foreign>
                             </note>
                         </l>
                         <l>The maṇḍala endowed with substantial riches,</l>
@@ -1292,10 +1155,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-133"/>
                     <p tid="146">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara oṃ
-                            vajra­jvalānala hana sarva­duḥkha sarva­vighna samma
-                            kuru­nīlāmbara­dhara vajra­pāṇi chegemo māraya hūṃ
-                                    phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara oṃ vajra­jvalānala hana sarva­duḥkha
+                            sarva­vighna samma kuru­nīlāmbara­dhara vajra­pāṇi chegemo māraya hūṃ phaṭ.</foreign>
                     </p>
                     <lg tid="147">
                         <l> “Say this while burning the substances.</l>
@@ -1307,17 +1168,16 @@
                         </l>
                     </lg>
                     <p tid="149">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara
-                                    vajrapāṇi <term type="ignore">yakṣa</term> khādaya khādaya bandhaya bandhaya mohaya mohaya
-                                    sha hum ānaya hūṃ phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi <term type="ignore">yakṣa</term>
+                            khādaya khādaya bandhaya bandhaya mohaya mohaya sha hum ānaya hūṃ phaṭ.</foreign>
                     </p>
                     <lg tid="150">
                         <l> “This was the mantra for scattering the form.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-135"/>
                     <p tid="151">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara
-                                    vajrapāṇi sha hum gṛham ākarṣaya hūṃ jaḥ jaḥ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi sha hum gṛham ākarṣaya hūṃ jaḥ
+                            jaḥ.</foreign>
                     </p>
                     <lg tid="152">
                         <l>“This was the mantra for summoning beings.</l>
@@ -1326,9 +1186,9 @@
                     <lg tid="153">
                         <l>“Having performed the fire offering in that manner,</l>
                         <l>Go to a dried-up river, fell a nāga tree,</l>
-                        <l>And make a large fire with elephant dung.<note place="end" index="8" xml:id="UT22084-087-003-279">We are
-                                    unsure of this line: <foreign xml:lang="Bo-Ltn">glang chen
-                                        g.yang ltung me chen ’bar. </foreign>
+                        <l>And make a large fire with elephant dung.<note place="end" index="8" xml:id="UT22084-087-003-279">We
+                                are unsure of this line: <foreign xml:lang="Bo-Ltn">glang chen g.yang ltung me chen ’bar.
+                                </foreign>
                             </note>
                         </l>
                         <l>Should illness and disease occur,</l>
@@ -1360,8 +1220,8 @@
                         <l>Be diligent in its practice.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-141"/>
-                    <trailer tid="247"> This was the sixth chapter on the stages of fire offering from <title xml:lang="en">The Glorious Tantra of the Vajra in the
-                            Underworld</title>.</trailer>
+                    <trailer tid="247"> This was the sixth chapter on the stages of fire offering from <title xml:lang="en">The
+                            Glorious Tantra of the Vajra in the Underworld</title>.</trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 7</head>
@@ -1400,8 +1260,8 @@
                         <l>Then burn it in the fire of a thorny tree.</l>
                     </lg>
                     <p tid="163">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi
-                                stambhaya mohaya bandhaya dāhanaya hūṃ hūṃ phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi stambhaya mohaya bandhaya dāhanaya
+                            hūṃ hūṃ phaṭ.</foreign>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-147"/>
                     <lg tid="164">
@@ -1410,8 +1270,7 @@
                         <l>Then throw it in the water, using this mantra:</l>
                     </lg>
                     <p tid="165">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ caṇḍa­mahā­roṣaṇa hūṃ
-                                phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ caṇḍa­mahā­roṣaṇa hūṃ phaṭ.</foreign>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-148"/>
                     <lg tid="166">
@@ -1422,28 +1281,26 @@
                         <l>Recite this mantra continuously:</l>
                     </lg>
                     <p tid="167">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi
-                                hūṃ hūṃ stambhaya nan phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi hūṃ hūṃ stambhaya nan
+                            phaṭ.</foreign>
                     </p>
-
                     <milestone unit="chunk" xml:id="UT22084-087-003-149"/>
                     <lg tid="168">
                         <l>“Recite this continuously.</l>
                         <l> Then the activity will certainly be accomplished.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-150"/>
-                    <trailer tid="248"> This was the seventh chapter on the wheel of expulsion from <title xml:lang="en">The Tantra of the Vajra in the
-                        Underworld</title>.</trailer>
+                    <trailer tid="248"> This was the seventh chapter on the wheel of expulsion from <title xml:lang="en">The
+                            Tantra of the Vajra in the Underworld</title>.</trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 8</head>
                     <head type="chapterTitle">Mantra</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-151"/>
-                    <p tid="169">Then the Blessed One, the Vajra Holder, taught this chapter on mantra for the
-                        sake of living beings:</p>
+                    <p tid="169">Then the Blessed One, the Vajra Holder, taught this chapter on mantra for the sake of living
+                        beings:</p>
                     <p tid="170">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi
-                                hūṃ hūṃ phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara vajrapāṇi hūṃ hūṃ phaṭ.</foreign>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-152"/>
                     <lg tid="171">
@@ -1455,32 +1312,29 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-153"/>
                     <lg tid="172">
                         <l>“With vajra confidence, you accomplish all samaya vows!</l>
-                        <l>With the vajra smile, you are affectionate toward all sentient
-                            beings.</l>
-                        <l>By uttering the vajra <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>, you make everyone mute.</l>
-                        <l>Through the vajra lotus, you gain the spiritual accomplishment of
-                            traversing the sky.</l>
+                        <l>With the vajra smile, you are affectionate toward all sentient beings.</l>
+                        <l>By uttering the vajra <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>, you make everyone
+                            mute.</l>
+                        <l>Through the vajra lotus, you gain the spiritual accomplishment of traversing the sky.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-154"/>
                     <lg tid="173">
                         <l>“With the tail of the peacock, you tame all nāgas.</l>
                         <l>With the diagram, you kill all enemies.</l>
-                        <l>If you wish to accomplish wealth, perform the water offering to
-                            Jambhala.</l>
+                        <l>If you wish to accomplish wealth, perform the water offering to Jambhala.</l>
                         <l>If you wish to repel obstacle makers, do so through absorption.</l>
                         <l>With the vajra iron hook, you summon all.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-155"/>
                     <lg tid="174">
                         <l>“Protect against epidemics with the kuśa grass pock.</l>
-                        <l> If you wish to accomplish nāgas, use the shoots of hardwood trees and
-                            nectar.</l>
+                        <l> If you wish to accomplish nāgas, use the shoots of hardwood trees and nectar.</l>
                         <l>If you wish to destroy an opposing army, do so with frankincense.</l>
                         <l>For all actions, recite a hundred thousand mantras.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-156"/>
-                    <trailer tid="249"> This was the eighth chapter on mantra from <title xml:lang="en">The
-                            Tantra of the Vajra in the Underworld</title>.</trailer>
+                    <trailer tid="249"> This was the eighth chapter on mantra from <title xml:lang="en">The Tantra of the Vajra in
+                            the Underworld</title>.</trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 9</head>
@@ -1496,8 +1350,7 @@
                     <lg tid="176">
                         <l>“And visualize oneself as the deity of activity.</l>
                         <l>Then invite the wrathful wisdom.</l>
-                        <l>Summon and the rest with <foreign type="mantra" xml:lang="Sa-Ltn">jaḥ hūṃ
-                                vaṃ hoḥ.</foreign>
+                        <l>Summon and the rest with <foreign type="mantra" xml:lang="Sa-Ltn">jaḥ hūṃ vaṃ hoḥ.</foreign>
                         </l>
                         <l>In your heart, on a moon, is the mantra chain.</l>
                     </lg>
@@ -1520,13 +1373,11 @@
                             <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ āḥ hūṃ.</foreign>
                         </l>
                     </lg>
-                    <p tid="180">“That is the mantra for the blessings of enlightened body, speech, and
-                            mind.</p>
+                    <p tid="180">“That is the mantra for the blessings of enlightened body, speech, and mind.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-162"/>
                     <lg tid="181">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn"> “Oṃ vajrapāṇi abhiṣiñca
-                                mām.</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn"> “Oṃ vajrapāṇi abhiṣiñca mām.</foreign>
                         </l>
                     </lg>
                     <lg tid="182">
@@ -1535,8 +1386,7 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-163"/>
                     <lg tid="183">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vajrapāṇi tiṣṭha
-                                hūṃ.</foreign>
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vajrapāṇi tiṣṭha hūṃ.</foreign>
                         </l>
                     </lg>
                     <lg tid="184">
@@ -1559,8 +1409,7 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-166"/>
                     <lg tid="187">
                         <l>“Let go in this spontaneously accomplished state.</l>
-                        <l>On the form of <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and
-                                <foreign type="mantra" xml:lang="Sa-Ltn">āḥ</foreign>,</l>
+                        <l>On the form of <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and <foreign type="mantra" xml:lang="Sa-Ltn">āḥ</foreign>,</l>
                         <l>Like a moon reflected in water,</l>
                         <l>Meditate continually, with an undistracted mind.</l>
                     </lg>
@@ -1578,8 +1427,8 @@
                         <l>It abides as supreme awakening.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-169"/>
-                    <trailer tid="250"> This was the ninth chapter on certainty and purity from <title xml:lang="en">The Tantra of the Vajra in the
-                        Underworld</title>.</trailer>
+                    <trailer tid="250"> This was the ninth chapter on certainty and purity from <title xml:lang="en">The Tantra of
+                            the Vajra in the Underworld</title>.</trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 10</head>
@@ -1676,7 +1525,8 @@
                         <l> So shall you be free.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-183"/>
-                    <trailer tid="251"> This was the tenth chapter on protection from <title xml:lang="en">The Tantra of the Vajra in the Underworld</title>. </trailer>
+                    <trailer tid="251"> This was the tenth chapter on protection from <title xml:lang="en">The Tantra of the Vajra
+                            in the Underworld</title>. </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 11</head>
@@ -1704,8 +1554,7 @@
                         <l>“Within that, arrange the secret mantras.</l>
                         <l>In the center, place the lord of syllables.</l>
                         <l>In the fifth of the fourth,</l>
-                        <l>Place the syllable <foreign type="mantra" xml:lang="Sa-Ltn">i</foreign>.
-                        </l>
+                        <l>Place the syllable <foreign type="mantra" xml:lang="Sa-Ltn">i</foreign>. </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-188"/>
                     <lg tid="209">
@@ -1754,8 +1603,8 @@
                         <l>That manifests the spiritual accomplishments of Vajrapāṇi. </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-195"/>
-                    <trailer tid="252">This was the eleventh chapter on the arrangement of mantras from <title xml:lang="en">The Glorious Tantra of the Vajra in the
-                            Underworld</title>. </trailer>
+                    <trailer tid="252">This was the eleventh chapter on the arrangement of mantras from <title xml:lang="en">The
+                            Glorious Tantra of the Vajra in the Underworld</title>. </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 12</head>
@@ -1769,14 +1618,14 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-197"/>
                     <lg tid="217">
-                        <l>“The vajra master, the great ascetic,<note place="end" index="9" xml:id="UT22084-087-003-280">Tibetan: <foreign xml:lang="Bo-Ltn">dka’ thub che.</foreign>
+                        <l>“The vajra master, the great ascetic,<note place="end" index="9" xml:id="UT22084-087-003-280">Tibetan:
+                                    <foreign xml:lang="Bo-Ltn">dka’ thub che.</foreign>
                             </note>
                         </l>
                         <l>Has obtained empowerment, replete with secrets.</l>
                         <l>He is disciplined, upright, and a great spiritual friend.</l>
-                        <l>In the excellent state of little movement, he obtained the awakened
-                                mind.<note place="end" index="10" xml:id="UT22084-087-003-281">We are unsure of this line: <foreign xml:lang="Bo-Ltn">g.yo chung ngang bzang byang sems thob.
-                                </foreign>
+                        <l>In the excellent state of little movement, he obtained the awakened mind.<note place="end" index="10" xml:id="UT22084-087-003-281">We are unsure of this line: <foreign xml:lang="Bo-Ltn">g.yo chung
+                                    ngang bzang byang sems thob. </foreign>
                             </note>
                         </l>
                         <l>Learned in the maṇḍala ritual,</l>
@@ -1800,10 +1649,9 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-200"/>
                     <lg tid="220">
-                        <l>“From <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>, visualize a
-                            great vajra.</l>
-                        <l>From <foreign type="mantra" xml:lang="Sa-Ltn">bhrūṃ</foreign>, visualize
-                            the great celestial palace.</l>
+                        <l>“From <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>, visualize a great vajra.</l>
+                        <l>From <foreign type="mantra" xml:lang="Sa-Ltn">bhrūṃ</foreign>, visualize the great celestial
+                            palace.</l>
                         <l>The light from the two eyes, the sun and the moon,</l>
                         <l>Annihilates all obstructing forces without exception.</l>
                     </lg>
@@ -1858,23 +1706,19 @@
                         <l>And for the maturing of students.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-208"/>
-                    <trailer tid="253">This was the twelfth chapter on bestowing empowerment on the students
-                        from <title xml:lang="en">The Tantra of the Vajra in the
-                        Underworld</title>. </trailer>
+                    <trailer tid="253">This was the twelfth chapter on bestowing empowerment on the students from <title xml:lang="en">The Tantra of the Vajra in the Underworld</title>. </trailer>
                 </div>
                 <div type="chapter">
                     <head type="chapter">Chapter 13</head>
                     <head type="chapterTitle">Establishing the Secret</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-209"/>
-                    <p tid="228">Then the bodhisattva Vajrapāṇi requested the Blessed One, “Lord, for the 
-                        sake of all sentient beings, please explain the secret of
-                            enlightened mind.”</p>
+                    <p tid="228">Then the bodhisattva Vajrapāṇi requested the Blessed One, “Lord, for the sake of all sentient
+                        beings, please explain the secret of enlightened mind.”</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-210"/>
                     <p tid="229">The Blessed One answered this request by saying:</p>
                     <lg tid="230">
                         <l>“Vajrapāṇi, terrifying one, </l>
-                        <l>It is excellent that you consider the welfare of others so
-                                diligently.</l>
+                        <l>It is excellent that you consider the welfare of others so diligently.</l>
                         <l>In the degenerated age, whoever wishes</l>
                         <l>To tame those sentient beings that are difficult to tame,</l>
                     </lg>
@@ -1897,27 +1741,23 @@
                         <l>“First invite and make offerings,</l>
                         <l>Then recite while projecting and absorbing oneself and the deity.</l>
                         <l>Think that the eight nāgas are pacified.</l>
-                        <l>Thus, from <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and
-                                the rope of <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>,</l>
+                        <l>Thus, from <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign> and the rope of <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>,</l>
                         <l>The one to be accomplished is turned into a mass of light, </l>
                         <l>And, in an instant, caught within the <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-214"/>
                     <p tid="234">
-                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vajrakrodha ahicaṇḍa
-                                    phaṭ.</foreign>
+                        <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vajrakrodha ahicaṇḍa phaṭ.</foreign>
                     </p>
                     <lg tid="235">
-                        <l>“With ten thousand repetitions, one will certainly be freed from the
-                                grahas.</l>
+                        <l>“With ten thousand repetitions, one will certainly be freed from the grahas.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-215"/>
                     <lg tid="236">
                         <l>“Vajrapāṇi,</l>
                         <l>Your radiation and absorption of enlightened mind is secret.</l>
                         <l>Cover the body of the one to be accomplished in color,</l>
-                        <l>And cut it with the radiation and absorption of the garland of the
-                                great <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>.</l>
+                        <l>And cut it with the radiation and absorption of the garland of the great <foreign type="mantra" xml:lang="Sa-Ltn">hūṃ</foreign>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-216"/>
                     <lg tid="237">
@@ -1941,17 +1781,16 @@
                         <l>And supreme among all protective intentions.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-219"/>
-                    <p tid="240">As soon as the Blessed One had spoken, the retinues of the family,
-                        including Vajrapāṇi, along with all the hosts of deities, rejoiced and
-                        praised what the Blessed Vajradhara had said.</p>
+                    <p tid="240">As soon as the Blessed One had spoken, the retinues of the family, including Vajrapāṇi, along
+                        with all the hosts of deities, rejoiced and praised what the Blessed Vajradhara had said.</p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-220"/>
-                    <trailer tid="254"> This was the thirteenth chapter on establishing the secret from <title xml:lang="en">The Glorious Tantra of the Vajra in the
-                            Underworld</title>.</trailer>
+                    <trailer tid="254"> This was the thirteenth chapter on establishing the secret from <title xml:lang="en">The
+                            Glorious Tantra of the Vajra in the Underworld</title>.</trailer>
                 </div>
                 <div type="colophon">
                     <milestone unit="chunk" xml:id="UT22084-087-003-221"/>
-                    <p tid="241">The translation was completed by the Kashmiri scholar Celu and the Tibetan
-                        translator Phakpa Sherab.</p>
+                    <p tid="241">The translation was completed by the Kashmiri scholar Celu and the Tibetan translator Phakpa
+                        Sherab.</p>
                 </div>
             </div>
         </body>
@@ -1964,40 +1803,32 @@
                 <div type="section">
                     <head type="section">Tibetan Texts</head>
                     <bibl xml:id="UT22084-087-003-222">
-                        <title xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon po can
-                            gyi rgyud ces bya ba
-                            (Bhagavan­nīlāmbaradhara­vajrapāṇi­tantra­nāma)</title>. Toh 498, Degé Kangyur
-                        vol. 87 (rgyud ’bum, da), folios 158a.6–167a.3.</bibl>
+                        <title xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon po can gyi rgyud ces bya ba
+                            (Bhagavan­nīlāmbaradhara­vajrapāṇi­tantra­nāma)</title>. Toh 498, Degé Kangyur vol. 87 (rgyud ’bum,
+                        da), folios 158a.6–167a.3.</bibl>
                     <bibl xml:id="UT22084-087-003-223">
-                        <title xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon po can
-                            gyi rgyud ces bya ba. </title>bka’ ’gyur (dpe bsdur ma) [Comparative
-                        Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’
-                        bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China
-                        Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe
-                        skrun khang (China Tibetology Publishing House), 2006–9, vol. 87, 469–90.
-                    </bibl>
+                        <title xml:lang="Bo-Ltn">bcom ldan ’das phyag na rdo rje gos sngon po can gyi rgyud ces bya ba.
+                        </title>bka’ ’gyur (dpe bsdur ma) [Comparative Edition of the Kangyur], krung go’i bod rig pa zhib ’jug
+                        ste gnas kyi bka’ bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China Tibetology
+                        Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe skrun khang (China Tibetology Publishing
+                        House), 2006–9, vol. 87, 469–90. </bibl>
                 </div>
                 <div type="section">
                     <head type="section">Secondary Sources</head>
-                    <bibl xml:id="UT22084-087-003-224">Dalton, Jacob. “How Dhāraṇis were
-                            Proto-Tantric: Liturgies, Ritual Manuals, and the Origins of the
-                            Tantras.” In Gray, David B. and Overbey, Ryan R., eds., <title xml:lang="en">Tantric Traditions on the Move</title>. Oxford: Oxford University Press, 2016.</bibl>
+                    <bibl xml:id="UT22084-087-003-224">Dalton, Jacob. “How Dhāraṇis were Proto-Tantric: Liturgies, Ritual Manuals,
+                        and the Origins of the Tantras.” In Gray, David B. and Overbey, Ryan R., eds., <title xml:lang="en">Tantric Traditions on the Move</title>. Oxford: Oxford University Press, 2016.</bibl>
                     <bibl xml:id="UT22084-087-003-225">Davidson, Ronald M. <title xml:lang="Bo-Ltn">Indian Esoteric Buddhism: A
-                            Social History of the Tantric Movement</title>. New York: Columbia
-                        University Press, 2002.</bibl>
-                    <bibl xml:id="UT22084-087-003-226">Isaacson, Harunaga. “Observations on the
-                            Development of the Ritual of Initiation (abhiṣeka) in the Higher Buddhist Tantric Systems.” In
-                        <title xml:lang="en">Hindu and Buddhist Initiations in India and Nepal</title>, edited by Astrid Zotter
-                        and Christof Zotter, 261–80. Wiesbaden: Harrassowitz Verlag, 2010.</bibl>
-                    <bibl xml:id="UT22084-087-003-227">Mayer, Robert. “The Importance of the
-                            Underworlds: Asuras’ Caves in Buddhism, and Some Other Themes in Early
-                            Buddhist Tantras Reminiscent of the Later Padmasambhava
-                        Legends.” In <title xml:lang="en">Journal of the
-                            International Association for Tibetan Studies 3</title> (December 2007):
-                        1–31.</bibl>
+                            Social History of the Tantric Movement</title>. New York: Columbia University Press, 2002.</bibl>
+                    <bibl xml:id="UT22084-087-003-226">Isaacson, Harunaga. “Observations on the Development of the Ritual of
+                        Initiation (abhiṣeka) in the Higher Buddhist Tantric Systems.” In <title xml:lang="en">Hindu and Buddhist
+                            Initiations in India and Nepal</title>, edited by Astrid Zotter and Christof Zotter, 261–80.
+                        Wiesbaden: Harrassowitz Verlag, 2010.</bibl>
+                    <bibl xml:id="UT22084-087-003-227">Mayer, Robert. “The Importance of the Underworlds: Asuras’ Caves in
+                        Buddhism, and Some Other Themes in Early Buddhist Tantras Reminiscent of the Later Padmasambhava Legends.”
+                        In <title xml:lang="en">Journal of the International Association for Tibetan Studies 3</title> (December
+                        2007): 1–31.</bibl>
                     <bibl xml:id="UT22084-087-003-228">Williams, Paul. <title xml:lang="en">Buddhist Thought: A Complete
-                            Introduction to the Indian Tradition</title>. London: Routledge,
-                        2000.</bibl>
+                            Introduction to the Indian Tradition</title>. London: Routledge, 2000.</bibl>
                 </div>
             </div>
             <div type="glossary">
@@ -2008,8 +1839,7 @@
                             <term xml:lang="Bo-Ltn">ting nge ’dzin </term>
                             <term xml:lang="bo">ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">samādhi</term>
-                            <term type="definition">A state of meditative concentration or
-                                absorption.</term>
+                            <term type="definition">A state of meditative concentration or absorption.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2036,13 +1866,11 @@
                             <term xml:lang="Bo-Ltn">khang brtsegs </term>
                             <term xml:lang="bo">ཁང་བརྩེགས།</term>
                             <term xml:lang="Sa-Ltn">vimāna</term>
-                            <term type="definition">The Sanskrit term 
-                              <foreign xml:lang="Sa-Ltn">vimāna</foreign> can refer to a 
-                                multi-storied mansion or palace, or even an estate, but is 
-                                more often used in the sense of a celestial chariot of the gods,
-                                sometimes taking the form of a multi-storied palace; hence the
-                                Tibetan translation, <foreign xml:lang="Bo-Ltn">khang 
-                                brtsegs</foreign>, literally “storied house.”</term>
+                            <term type="definition">The Sanskrit term <foreign xml:lang="Sa-Ltn">vimāna</foreign> can refer to a
+                                multi-storied mansion or palace, or even an estate, but is more often used in the sense of a
+                                celestial chariot of the gods, sometimes taking the form of a multi-storied palace; hence the
+                                Tibetan translation, <foreign xml:lang="Bo-Ltn">khang brtsegs</foreign>, literally “storied
+                                house.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2077,8 +1905,7 @@
                             <term xml:lang="Bo-Ltn"> ba yi rnam lnga </term>
                             <term xml:lang="bo">བ་ཡི་རྣམ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn">pañcagavya</term>
-                            <term type="definition">Milk, yogurt, clarified butter, cow urine, and
-                                cow dung.</term>
+                            <term type="definition">Milk, yogurt, clarified butter, cow urine, and cow dung.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2087,9 +1914,8 @@
                             <term xml:lang="Bo-Ltn"> gdon </term>
                             <term xml:lang="bo">གདོན།</term>
                             <term xml:lang="Sa-Ltn">graha</term>
-                            <term type="definition">A type of evil spirit known to exert a harmful
-                                influence on the human body and mind. Grahas are closely associated
-                                with the planets and other astronomical bodies.</term>
+                            <term type="definition">A type of evil spirit known to exert a harmful influence on the human body and
+                                mind. Grahas are closely associated with the planets and other astronomical bodies.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2107,9 +1933,8 @@
                             <term xml:lang="Bo-Ltn">rig pa </term>
                             <term xml:lang="bo">རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
-                            <term type="definition">A type of incantation or spell used to
-                                accomplish a ritual goal. This can be associated with either
-                                ordinary attainments or those whose goal is awakening.</term>
+                            <term type="definition">A type of incantation or spell used to accomplish a ritual goal. This can be
+                                associated with either ordinary attainments or those whose goal is awakening.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2126,8 +1951,8 @@
                             <term xml:lang="Bo-Ltn"> klu shing </term>
                             <term xml:lang="bo">ཀླུ་ཤིང་།</term>
                             <term xml:lang="Sa-Ltn">nāgakesara</term>
-                            <term type="definition">A species of euphorbia used in burnt offerings
-                                to get rid of nāga influences.</term>
+                            <term type="definition">A species of euphorbia used in burnt offerings to get rid of nāga
+                                influences.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2153,8 +1978,8 @@
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
                             <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
                             <term xml:lang="Sa-Ltn">sādhya</term>
-                            <term type="definition">This is the object of ritual accomplishment,
-                                whatever is the focus and/or the goal of ritual activity. Also translated “one to be accomplished.”</term>
+                            <term type="definition">This is the object of ritual accomplishment, whatever is the focus and/or the
+                                goal of ritual activity. Also translated “one to be accomplished.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2163,8 +1988,8 @@
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
                             <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
                             <term xml:lang="Sa-Ltn">sādhya</term>
-                            <term type="definition">This is the object of ritual accomplishment,
-                                whatever is the focus and/or the goal of ritual activity. Also translated “target.”</term>
+                            <term type="definition">This is the object of ritual accomplishment, whatever is the focus and/or the
+                                goal of ritual activity. Also translated “target.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2197,7 +2022,10 @@
                             <term xml:lang="Bo-Ltn">gzungs </term>
                             <term xml:lang="bo">གཟུངས།</term>
                             <term xml:lang="Sa-Ltn">dhāraṇī</term>
-                            <term type="definition">Used in several senses, elsewhere in this text translated as “incantation mantra,” but here referring to entire canonical texts used mainly for ritual purposes, structured around an incantation mantra in Sanskrit but also detailing its uses and the story of its origin.</term>
+                            <term type="definition">Used in several senses, elsewhere in this text translated as “incantation
+                                mantra,” but here referring to entire canonical texts used mainly for ritual purposes, structured
+                                around an incantation mantra in Sanskrit but also detailing its uses and the story of its
+                                origin.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2206,7 +2034,10 @@
                             <term xml:lang="Bo-Ltn">spyod pa’i rgyud </term>
                             <term xml:lang="bo">སྤྱོད་པའི་རྒྱུད།</term>
                             <term xml:lang="Sa-Ltn">caryātantra</term>
-                            <term type="definition">“Conduct tantras,” the second, middle category of the three outer tantras according to the new translation (<foreign xml:lang="Bo-Ltn">gsar ma</foreign>) traditions; in old translation (<foreign xml:lang="Bo-Ltn">rnying ma</foreign>) classifications the term Upa- or Ubhaya-tantra is more often used.</term>
+                            <term type="definition">“Conduct tantras,” the second, middle category of the three outer tantras
+                                according to the new translation (<foreign xml:lang="Bo-Ltn">gsar ma</foreign>) traditions; in old
+                                translation (<foreign xml:lang="Bo-Ltn">rnying ma</foreign>) classifications the term Upa- or
+                                Ubhaya-tantra is more often used.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2215,9 +2046,8 @@
                             <term xml:lang="Bo-Ltn">mtha’ yas </term>
                             <term xml:lang="bo">མཐའ་ཡས།</term>
                             <term xml:lang="Sa-Ltn">Anantaka; Ananta</term>
-                            <term type="definition">Another name of Śesa, the serpent upon whom
-                                Viṣṇu rests during the interlude between the destruction and
-                                recreation of the world.</term>
+                            <term type="definition">Another name of Śesa, the serpent upon whom Viṣṇu rests during the interlude
+                                between the destruction and recreation of the world.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2234,9 +2064,7 @@
                             <term>Constant Vajra Holder </term>
                             <term xml:lang="Bo-Ltn">rdo rje kun tu ’dzin pa </term>
                             <term xml:lang="bo">རྡོ་རྗེ་ཀུན་ཏུ་འཛིན་པ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2298,7 +2126,6 @@
                             <term>Phakpa Sherab </term>
                             <term xml:lang="Bo-Ltn">phags pa shes rab </term>
                             <term xml:lang="bo">ཕགས་པ་ཤེས་རབ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
                         </gloss>
                     </item>
                     <item>
@@ -2315,9 +2142,7 @@
                             <term>Terrible Vajra Conqueror </term>
                             <term xml:lang="Bo-Ltn">rdo rje mi bzad ’joms </term>
                             <term xml:lang="bo">རྡོ་རྗེ་མི་བཟད་འཇོམས།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2342,9 +2167,7 @@
                             <term>Vajra Joyfully Abiding Protector </term>
                             <term xml:lang="Bo-Ltn">rdo rje dgyes gnas skyob </term>
                             <term xml:lang="bo">རྡོ་རྗེ་དགྱེས་གནས་སྐྱོབ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2352,9 +2175,7 @@
                             <term>Vajra Regiment </term>
                             <term xml:lang="Bo-Ltn">rdor rje sde </term>
                             <term xml:lang="bo">རྡོར་རྗེ་སྡེ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2362,9 +2183,7 @@
                             <term>Vajra Tamer </term>
                             <term xml:lang="Bo-Ltn">rdo rje rab tu ’dul byed </term>
                             <term xml:lang="bo">རྡོ་རྗེ་རབ་ཏུ་འདུལ་བྱེད།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2372,9 +2191,7 @@
                             <term>Vajra Tamer of All Evil </term>
                             <term xml:lang="Bo-Ltn">rdo rje gdug pa kun ’dul </term>
                             <term xml:lang="bo">རྡོ་རྗེ་གདུག་པ་ཀུན་འདུལ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2382,9 +2199,7 @@
                             <term>Vajra Victor of Basic Space </term>
                             <term xml:lang="Bo-Ltn">rdo rje dbyings las rgyal ba </term>
                             <term xml:lang="bo">རྡོ་རྗེ་དབྱིངས་ལས་རྒྱལ་བ།</term>
-                            <term xml:lang="Sa-Ltn">-</term>
-                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
-                                in this tantra.</term>
+                            <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2393,11 +2208,9 @@
                             <term xml:lang="Bo-Ltn">yang dag </term>
                             <term xml:lang="bo">ཡང་དག</term>
                             <term xml:lang="Sa-Ltn">Samprajñāna</term>
-                            <term type="definition">A yakṣa in this tantra. Although <foreign xml:lang="Bo-Ltn">yang
-                                dag</foreign> is normally translated as “Viśuddha,” we have
-                                rendered it here as “Samprajñāna” since this is the Sanskrit
-                                rendering of this particular yakṣa’s name in the list of name
-                                mantras at 2.14.</term>
+                            <term type="definition">A yakṣa in this tantra. Although <foreign xml:lang="Bo-Ltn">yang dag</foreign>
+                                is normally translated as “Viśuddha,” we have rendered it here as “Samprajñāna” since this is the
+                                Sanskrit rendering of this particular yakṣa’s name in the list of name mantras at 2.14.</term>
                         </gloss>
                     </item>
                     <item>
