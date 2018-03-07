@@ -45,13 +45,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 100</ref>
-                    <biblScope>Degé Kangyur, vol. 47 (mdo sde, ga), folios 276a–305a</biblScope>
+                    <biblScope>Degé Kangyur, vol. 47 (mdo sde, ga), folios 276.a–305.a</biblScope>
                     <author role="translatorTib">Surendrabodhi</author>
                     <author role="translatorTib">Bhande Yeshe De</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:01:11 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 14:48:49 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1151,7 +1151,7 @@ Notes-->
                             constructs, concepts, and elaborations. On the other hand, Mañjuśrī,
                             because of variations in sentient beings’ inclinations to wholesome
                             intent, the light of the rays of awareness from the round sun of the
-                            Tathāgata is varied too. <ref cRef="64"/> [B.2] </p>
+                            Tathāgata is varied too. <ref cRef="64"/> <ref cRef="B2" type="bampo"/> </p>
                         <lb/>
                         <milestone unit="chunk" xml:id="UT22084-047-002-72"/>
                         <p tid="115"> “It is as follows: Mañjuśrī, in the great ocean there is a great,
@@ -1535,8 +1535,7 @@ Notes-->
                             cause of purification. </p>
                         <p tid="165">“The six entrances are a cause of affliction. The six remembrances are a
                             cause of purification. </p>
-                        <p tid="166">“The seven false dharmas are a cause of affliction. The seven limbs of
-                            awakening are a cause of purification. </p>
+                        <p tid="166">“The <term>seven false dharmas</term> are a cause of affliction. The seven limbs of awakening are a cause of purification. </p>
                         <p tid="167">“The eight wrong modes are a cause of affliction. The eight right modes
                             are a cause of purification. </p>
                         <p tid="168">“The nine causes of antagonism are a cause of affliction. The absorptions
@@ -1761,7 +1760,7 @@ Notes-->
                         non-dual, without characteristics, not made into two, without names, without
                         signs, free from mind, mentality, and consciousness, non-arisen and
                         unceasing, not acting, not moving forth, not occurring, without syllables,
-                        and without speech. <ref cRef="118"/> [B.3] </p>
+                        and without speech. <ref cRef="118"/> <ref cRef="B3" type="bampo"/> </p>
                     <milestone unit="chunk" xml:id="UT22084-047-002-109"/>
                     <p tid="204">“Moreover, Mañjuśrī, that which is called empty is an appellation for no
                         attachment and no grasping. On the other hand, Mañjuśrī, in the ultimate
@@ -2883,9 +2882,8 @@ Notes-->
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-240">
-                            <term>absorptions into nine successive
-                                abodes</term>
+                        <gloss type="term" xml:id="UT22084-047-002-240">
+                            <term>absorptions into nine successive abodes</term>
                             <term xml:lang="Bo-Ltn">mthar gyis gnas pa’i snyoms par ’jug pa dgu </term>
                             <term xml:lang="bo">མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ</term>
                             <term xml:lang="Sa-Ltn">navānupūrva­vihāra­samāpattayaḥ</term>
@@ -2894,30 +2892,30 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-241">
+                        <gloss type="term" xml:id="UT22084-047-002-241">
                             <term>ācārya</term>
                             <term xml:lang="Bo-Ltn">slob dpon </term>
-                            <term xml:lang="bo">སློབ་དཔོན</term>
+                            <term xml:lang="bo">སློབ་དཔོན།</term>
                             <term xml:lang="Sa-Ltn">ācārya</term>
                             <term type="definition">Teacher (sometimes more specifically the deputy
                                 or substitute of the <foreign type="term" xml:lang="Sa-Ltn">upādhyāya</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-242">
+                        <gloss type="term" xml:id="UT22084-047-002-242">
                             <term>affliction</term>
                             <term xml:lang="Bo-Ltn">nyon mongs pa </term>
-                            <term xml:lang="bo">ཉོན་མོངས་པ</term>
+                            <term xml:lang="bo">ཉོན་མོངས་པ།</term>
                             <term xml:lang="Sa-Ltn">kleśa</term>
                             <term type="definition">A type of mental imperfection. The most basic
                                 afflictions are attachment, aversion, and confusion.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-243">
+                        <gloss type="term" xml:id="UT22084-047-002-243">
                             <term>aggregates</term>
                             <term xml:lang="Bo-Ltn">phung po </term>
-                            <term xml:lang="bo">ཕུང་པོ</term>
+                            <term xml:lang="bo">ཕུང་པོ།</term>
                             <term xml:lang="Sa-Ltn">skandha</term>
                             <term type="definition">Five collections of similar dharmas, under which
                                 all compounded dharmas may be included; form, feeling, notions,
@@ -2925,19 +2923,19 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-244">
+                        <gloss type="term" xml:id="UT22084-047-002-244">
                             <term>apsaras</term>
                             <term xml:lang="Bo-Ltn">lha’i bu mo </term>
-                            <term xml:lang="bo">ལྷའི་བུ་མོ</term>
+                            <term xml:lang="bo">ལྷའི་བུ་མོ།</term>
                             <term xml:lang="Sa-Ltn">apsaras</term>
                             <term type="definition">A divine girl.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-245">
+                        <gloss type="term" xml:id="UT22084-047-002-245">
                             <term>arhat</term>
                             <term xml:lang="Bo-Ltn">dgra bcom pa </term>
-                            <term xml:lang="bo">དགྲ་བཅོམ་པ</term>
+                            <term xml:lang="bo">དགྲ་བཅོམ་པ།</term>
                             <term xml:lang="Sa-Ltn">arhat</term>
                             <term type="definition">“Worthy one” or “someone who has killed his
                                 foes” (i.e., mental afflictions); a Buddhist saint who has obtained
@@ -2945,10 +2943,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-246">
+                        <gloss type="term" xml:id="UT22084-047-002-246">
                             <term>Bhagavat</term>
                             <term xml:lang="Bo-Ltn">bcom ldan ’das </term>
-                            <term xml:lang="bo">བཅོམ་ལྡན་འདས</term>
+                            <term xml:lang="bo">བཅོམ་ལྡན་འདས།</term>
                             <term xml:lang="Sa-Ltn">bhagavat</term>
                             <term type="definition">Epithet of the Buddha, meaning “one who has
                                 fortune” (explained as having six features); or “one who has
@@ -2956,10 +2954,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-247">
+                        <gloss type="term" xml:id="UT22084-047-002-247">
                             <term>bodhicitta</term>
                             <term xml:lang="Bo-Ltn">byang chub kyi sems </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས།</term>
                             <term xml:lang="Sa-Ltn">bodhicitta</term>
                             <term type="definition">The intent to obtain buddhahood to benefit all
                                 sentient beings; the practices towards buddhahood; the realization
@@ -2967,10 +2965,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-248">
+                        <gloss type="term" xml:id="UT22084-047-002-248">
                             <term>bodhisattva</term>
                             <term xml:lang="Bo-Ltn">byang chub sems dpa’ </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའ</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའ།</term>
                             <term xml:lang="Sa-Ltn">bodhisattva</term>
                             <term type="definition">Someone who practices according to the Vehicle
                                 of the Bodhisattvas; one who aims for complete buddhahood;
@@ -2979,30 +2977,30 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-249">
-                            <term>buddhafield, buddhafields</term>
+                        <gloss type="term" xml:id="UT22084-047-002-249">
+                            <term>buddhafield</term>
                             <term xml:lang="Bo-Ltn">sangs rgyas kyi zhing </term>
-                            <term xml:lang="bo">སངས་རྒྱས་ཀྱི་ཞིང</term>
+                            <term xml:lang="bo">སངས་རྒྱས་ཀྱི་ཞིང།</term>
                             <term xml:lang="Sa-Ltn">buddhakṣetra</term>
                             <term type="definition">The field of activity of a specific
                                 buddha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-047-002-250">
+                        <gloss type="term" xml:id="UT22084-047-002-250">
                             <term>Cloud of Dharma</term>
                             <term xml:lang="Bo-Ltn">chos kyi sprin </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་སྤྲིན</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་སྤྲིན།</term>
                             <term xml:lang="Sa-Ltn">dharmameghā</term>
                             <term type="definition">The tenth and highest of the levels in the
                                 bodhisattva path.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-047-002-251">
+                        <gloss type="term" xml:id="UT22084-047-002-251">
                             <term>Dharma</term>
                             <term xml:lang="Bo-Ltn">chos </term>
-                            <term xml:lang="bo">ཆོས</term>
+                            <term xml:lang="bo">ཆོས།</term>
                             <term xml:lang="Sa-Ltn">dharma</term>
                             <term type="definition">Among many of its meanings, this term can refer
                                 to: the teachings of the Buddha; positive actions that accord with
@@ -3011,10 +3009,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="2" xml:id="UT22084-047-002-252">
+                        <gloss type="term" xml:id="UT22084-047-002-252">
                             <term>Dharma wheel</term>
                             <term xml:lang="Bo-Ltn">chos kyi ’khor lo </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་འཁོར་ལོ</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་འཁོར་ལོ།</term>
                             <term xml:lang="Sa-Ltn">dharmacakra</term>
                             <term type="definition">When a buddha gives his first teaching he “sets
                                 in motion the Wheel of Dharma;” just like a monarch with exceptional
@@ -3023,20 +3021,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-253">
+                        <gloss type="term" xml:id="UT22084-047-002-253">
                             <term>dharmadhātu</term>
                             <term xml:lang="Bo-Ltn">chos kyi dbyings </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་དབྱིངས</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་དབྱིངས།</term>
                             <term xml:lang="Sa-Ltn">dharmadhātu</term>
                             <term type="definition">“The sphere of dharmas,” “the base of dharmas,”
                                 “the ore of dharmas”—a synonym for the nature of things.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-254">
+                        <gloss type="term" xml:id="UT22084-047-002-254">
                             <term>dharmakāya</term>
                             <term xml:lang="Bo-Ltn">chos kyi sku </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmakāya</term>
                             <term type="definition">One of the subdivisions in the collection of
                                 dharmas that constitutes a buddha, variously explained but usually
@@ -3044,30 +3042,30 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-255">
+                        <gloss type="term" xml:id="UT22084-047-002-255">
                             <term>dharmatā</term>
                             <term xml:lang="Bo-Ltn">chos nyid </term>
-                            <term xml:lang="bo">ཆོས་ཉིད</term>
+                            <term xml:lang="bo">ཆོས་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">dharmatā</term>
                             <term type="definition">The nature of the dharmas, or their
                                 state.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-047-002-256">
+                        <gloss type="term" xml:id="UT22084-047-002-256">
                             <term>diamond-like samādhi</term>
                             <term xml:lang="Bo-Ltn">rdo rje lta bu’i ting nge ’dzin </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">vajropama­samādhi</term>
                             <term type="definition">A very high level of samādhi obtained during the
                                 last stages of the Buddhist path.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-257">
+                        <gloss type="term" xml:id="UT22084-047-002-257">
                             <term>eight right modes</term>
                             <term xml:lang="Bo-Ltn">yang dag pa nyid brgyad </term>
-                            <term xml:lang="bo">ཡང་དག་པ་ཉིད་བརྒྱད</term>
+                            <term xml:lang="bo">ཡང་དག་པ་ཉིད་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">aṣṭau samyaktvāni</term>
                             <term type="definition">The eight right modes are: right view, right
                                 thought, right speech, right actions, right livelihood, right
@@ -3075,10 +3073,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-258">
+                        <gloss type="term" xml:id="UT22084-047-002-258">
                             <term>eight wrong modes</term>
                             <term xml:lang="Bo-Ltn">log pa nyid brgyad </term>
-                            <term xml:lang="bo">ལོག་པ་ཉིད་བརྒྱད</term>
+                            <term xml:lang="bo">ལོག་པ་ཉིད་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">aṣṭa­mithyātvāni</term>
                             <term type="definition">The eight wrong modes are: wrong view, wrong
                                 thought, wrong speech, wrong actions, wrong livelihood, wrong
@@ -3086,10 +3084,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-259">
+                        <gloss type="term" xml:id="UT22084-047-002-259">
                             <term>eighteen bases</term>
                             <term xml:lang="Bo-Ltn">khams </term>
-                            <term xml:lang="bo">ཁམས</term>
+                            <term xml:lang="bo">ཁམས།</term>
                             <term xml:lang="Sa-Ltn">dhātu</term>
                             <term type="definition">Eighteen collections of similar dharmas, under
                                 which all compounded and uncompounded dharmas may be included: eye,
@@ -3099,20 +3097,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-260">
+                        <gloss type="term" xml:id="UT22084-047-002-260">
                             <term>attaining the stream</term>
                             <term xml:lang="Bo-Ltn">rgyun du zhugs pa </term>
-                            <term xml:lang="bo">རྒྱུན་དུ་ཞུགས་པ</term>
+                            <term xml:lang="bo">རྒྱུན་དུ་ཞུགས་པ།</term>
                             <term xml:lang="Sa-Ltn">srota-āpatti</term>
                             <term type="definition">The first level of noble ones when practicing
                                 the path of the hearers.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-261">
+                        <gloss type="term" xml:id="UT22084-047-002-261">
                             <term>five faculties</term>
                             <term xml:lang="Bo-Ltn">dbang po lnga’i ming la </term>
-                            <term xml:lang="bo">དབང་པོ་ལྔའི་མིང་ལ</term>
+                            <term xml:lang="bo">དབང་པོ་ལྔའི་མིང་ལ།</term>
                             <term xml:lang="Sa-Ltn">pañcendriyāṇi</term>
                             <term type="definition">Faith, diligence, recollection, samādhi, and
                                 wisdom (<foreign type="term" xml:lang="Sa-Ltn">śraddhā</foreign>,
@@ -3120,10 +3118,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="2" xml:id="UT22084-047-002-262">
+                        <gloss type="term" xml:id="UT22084-047-002-262">
                             <term>five hindrances</term>
                             <term xml:lang="Bo-Ltn">sgrib pa lnga </term>
-                            <term xml:lang="bo">སྒྲིབ་པ་ལྔ</term>
+                            <term xml:lang="bo">སྒྲིབ་པ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn">pañca nīvaraṇāni</term>
                             <term type="definition">Longing for desires (<foreign type="term" xml:lang="Sa-Ltn">kāmacchanda</foreign>), malice (<foreign type="term" xml:lang="Sa-Ltn">vyāpāda</foreign>), sloth and
                                 torpor (<foreign type="term" xml:lang="Sa-Ltn">styānamiddha</foreign>), excitement and remorse (<foreign type="term" xml:lang="Sa-Ltn">auddhatya­kaukṛtya</foreign>) and
@@ -3131,10 +3129,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-263">
+                        <gloss type="term" xml:id="UT22084-047-002-263">
                             <term>four distortions</term>
                             <term xml:lang="Bo-Ltn">phyin ci log bzhi </term>
-                            <term xml:lang="bo">ཕྱིན་ཅི་ལོག་བཞི</term>
+                            <term xml:lang="bo">ཕྱིན་ཅི་ལོག་བཞི།</term>
                             <term xml:lang="Sa-Ltn">catvāro viparyāsāḥ</term>
                             <term type="definition">Taking what is impure as pure; what is
                                 impermanent as permanent; what is suffering as happiness; and what
@@ -3142,58 +3140,58 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-264">
+                        <gloss type="term" xml:id="UT22084-047-002-264">
                             <term>four placements of
                                 mindfulness</term>
                             <term xml:lang="Bo-Ltn">yang dag pa’i dran pa nye bar bzhag pa bzhi </term>
-                            <term xml:lang="bo">ཡང་དག་པའི་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི</term>
+                            <term xml:lang="bo">ཡང་དག་པའི་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">catvāri samyak­smṛtyupasthānāni</term>
                             <term type="definition">Mindfulness of the body; feelings; the mind; and
                                 dharmas.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-265">
+                        <gloss type="term" xml:id="UT22084-047-002-265">
                             <term>gandharva</term>
                             <term xml:lang="Bo-Ltn">dri za </term>
-                            <term xml:lang="bo">དྲི་ཟ</term>
+                            <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
                             <term type="definition">A semi-divine being “feeding on smell” and
                                 musically skilled.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-266">
+                        <gloss type="term" xml:id="UT22084-047-002-266">
                             <term>garuḍa</term>
                             <term xml:lang="Bo-Ltn">nam mkha’ lding </term>
-                            <term xml:lang="bo">ནམ་མཁའ་ལྡིང</term>
+                            <term xml:lang="bo">ནམ་མཁའ་ལྡིང།</term>
                             <term xml:lang="Sa-Ltn">garuḍa</term>
                             <term type="definition">A semi-divine bird.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-267">
+                        <gloss type="term" xml:id="UT22084-047-002-267">
                             <term>gods of the Four Great Kings</term>
                             <term xml:lang="Bo-Ltn">rgyal chen bzhi’i lha </term>
-                            <term xml:lang="bo">རྒྱལ་ཆེན་བཞིའི་ལྷ</term>
+                            <term xml:lang="bo">རྒྱལ་ཆེན་བཞིའི་ལྷ།</term>
                             <term xml:lang="Sa-Ltn">cātur­mahārājika­deva</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-268">
+                        <gloss type="term" xml:id="UT22084-047-002-268">
                             <term>Great Vehicle</term>
                             <term xml:lang="Bo-Ltn">theg pa chen po </term>
-                            <term xml:lang="bo">ཐེག་པ་ཆེན་པོ</term>
+                            <term xml:lang="bo">ཐེག་པ་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahāyāna</term>
                             <term type="definition">The same as the Bodhisattva Vehicle, whose
                                 practitioners aim at complete buddhahood.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-269">
+                        <gloss type="term" xml:id="UT22084-047-002-269">
                             <term>hearer</term>
                             <term xml:lang="Bo-Ltn">nyan thos </term>
-                            <term xml:lang="bo">ཉན་ཐོས</term>
+                            <term xml:lang="bo">ཉན་ཐོས།</term>
                             <term xml:lang="Sa-Ltn">śrāvaka</term>
                             <term type="definition">Someone who practices according to the Vehicle
                                 of the Hearers (those who hear the teachings from others); or,
@@ -3201,29 +3199,29 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-047-002-270">
+                        <gloss type="term" xml:id="UT22084-047-002-270">
                             <term>hindrances</term>
                             <term xml:lang="Bo-Ltn">sgrib pa </term>
-                            <term xml:lang="bo">སྒྲིབ་པ</term>
+                            <term xml:lang="bo">སྒྲིབ་པ།</term>
                             <term xml:lang="Sa-Ltn">nīvaraṇa</term>
                             <term type="definition">See “five hindrances.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-271">
+                        <gloss type="term" xml:id="UT22084-047-002-271">
                             <term>irreversibility</term>
                             <term xml:lang="Bo-Ltn">phyir mi ldog pa nyid </term>
-                            <term xml:lang="bo">ཕྱིར་མི་ལྡོག་པ་ཉིད</term>
+                            <term xml:lang="bo">ཕྱིར་མི་ལྡོག་པ་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">avaivartikatva</term>
                             <term type="definition">A stage in the bodhisattva path where the
                                 practitioner will never turn back.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-047-002-272">
+                        <gloss type="term" xml:id="UT22084-047-002-272">
                             <term>karma</term>
                             <term xml:lang="Bo-Ltn">las </term>
-                            <term xml:lang="bo">ལས</term>
+                            <term xml:lang="bo">ལས།</term>
                             <term xml:lang="Sa-Ltn">karman</term>
                             <term type="definition">Intention or what follows an intention.
                                 Intention is mental karma; what follows an intention is verbal and
@@ -3231,20 +3229,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-273">
+                        <gloss type="term" xml:id="UT22084-047-002-273">
                             <term>kinnara</term>
                             <term xml:lang="Bo-Ltn">mi’am ci </term>
-                            <term xml:lang="bo">མིའམ་ཅི</term>
+                            <term xml:lang="bo">མིའམ་ཅི།</term>
                             <term xml:lang="Sa-Ltn">kinnara</term>
                             <term type="definition">A semi-divine being who is partly human and
                                 musically skilled.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="7" xml:id="UT22084-047-002-274">
+                        <gloss type="term" xml:id="UT22084-047-002-274">
                             <term>vaipulya sūtras of the Heap of Jewels</term>
                             <term xml:lang="Bo-Ltn">shin tu rgyas pa’i sde kon mchog brtsegs pa’i mdo </term>
-                            <term xml:lang="bo">ཤིན་ཏུ་རྒྱས་པའི་སྡེ་ཀོན་མཆོག་བརྩེགས་པའི་མདོ</term>
+                            <term xml:lang="bo">ཤིན་ཏུ་རྒྱས་པའི་སྡེ་ཀོན་མཆོག་བརྩེགས་པའི་མདོ།</term>
                             <term xml:lang="Sa-Ltn">ratna­kūṭa­vaipulya­sūtra</term>
                             <term type="definition">This could refer to the Ratnakūṭa collection of
                                 sūtras as it is known in the Kangyur and Chinese canons; however, as
@@ -3254,7 +3252,7 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-047-002-275">
+                        <gloss type="term" xml:id="UT22084-047-002-275">
                             <term>limbs of awakening</term>
                             <term xml:lang="Bo-Ltn">byang chub kyi yan lag </term>
                             <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་ཡན་ལག</term>
@@ -3263,17 +3261,17 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-276">
+                        <gloss type="term" xml:id="UT22084-047-002-276">
                             <term>nāga</term>
                             <term xml:lang="Bo-Ltn">klu </term>
-                            <term xml:lang="bo">ཀླུ</term>
+                            <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
                             <term type="definition">A semi-divine being similar to a large
                                 snake.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-277">
+                        <gloss type="term" xml:id="UT22084-047-002-277">
                             <term>nine causes of antagonism</term>
                             <term xml:lang="Bo-Ltn">kun nas mnar sems kyi dngos po dgu </term>
                             <term xml:lang="bo">ཀུན་ནས་མནར་སེམས་ཀྱི་དངོས་པོ་དགུ</term>
@@ -3284,30 +3282,30 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-278">
+                        <gloss type="term" xml:id="UT22084-047-002-278">
                             <term>Nirgrantha</term>
                             <term xml:lang="Bo-Ltn">gcer bu pa </term>
-                            <term xml:lang="bo">གཅེར་བུ་པ</term>
+                            <term xml:lang="bo">གཅེར་བུ་པ།</term>
                             <term xml:lang="Sa-Ltn">nirgrantha</term>
                             <term type="definition">A type of non-Buddhist religious
                                 practitioner.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-279">
+                        <gloss type="term" xml:id="UT22084-047-002-279">
                             <term>nirvāṇa</term>
                             <term xml:lang="Bo-Ltn">mya ngan las ’das pa </term>
-                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ</term>
+                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ།</term>
                             <term xml:lang="Sa-Ltn">nirvāṇa</term>
                             <term type="definition">The “blowing off” of suffering; the state of
                                 freedom from the suffering of saṃsāra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-280">
+                        <gloss type="term" xml:id="UT22084-047-002-280">
                             <term>noble one</term>
                             <term xml:lang="Bo-Ltn">’phags pa </term>
-                            <term xml:lang="bo">འཕགས་པ</term>
+                            <term xml:lang="bo">འཕགས་པ།</term>
                             <term xml:lang="Sa-Ltn">ārya</term>
                             <term type="definition">Someone who has entered the “path of seeing,”
                                 i.e., who has a direct and stable realization of selflessness,
@@ -3315,20 +3313,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-281">
+                        <gloss type="term" xml:id="UT22084-047-002-281">
                             <term>non-returner</term>
                             <term xml:lang="Bo-Ltn">phyir mi ’ong ba </term>
-                            <term xml:lang="bo">ཕྱིར་མི་འོང་བ</term>
+                            <term xml:lang="bo">ཕྱིར་མི་འོང་བ།</term>
                             <term xml:lang="Sa-Ltn">anāgāmin</term>
                             <term type="definition">The third level of noble ones when practicing
                                 the path of the hearers (bound to never be reborn).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-282">
+                        <gloss type="term" xml:id="UT22084-047-002-282">
                             <term>once-returner</term>
                             <term xml:lang="Bo-Ltn">lan cig phyir ’ong ba </term>
-                            <term xml:lang="bo">ལན་ཅིག་ཕྱིར་འོང་བ</term>
+                            <term xml:lang="bo">ལན་ཅིག་ཕྱིར་འོང་བ།</term>
                             <term xml:lang="Sa-Ltn">sakṛdāgāmin</term>
                             <term type="definition">The second level of noble ones when practicing
                                 the path of the hearers (bound to be born again no more than
@@ -3336,31 +3334,31 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-283">
+                        <gloss type="term" xml:id="UT22084-047-002-283">
                             <term>one who follows out of
                                 conviction</term>
                             <term xml:lang="Bo-Ltn">dad pas rjes su ’brang ba </term>
-                            <term xml:lang="bo">དད་པས་རྗེས་སུ་འབྲང་བ</term>
+                            <term xml:lang="bo">དད་པས་རྗེས་སུ་འབྲང་བ།</term>
                             <term xml:lang="Sa-Ltn">śraddhānusārin</term>
                             <term type="definition">Someone who follows his or her goal out of trust
                                 in someone else.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="5" xml:id="UT22084-047-002-284">
+                        <gloss type="term" xml:id="UT22084-047-002-284">
                             <term>one who follows the Dharma</term>
                             <term xml:lang="Bo-Ltn">chos kyi rjes su ’brang ba </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ།</term>
                             <term xml:lang="Sa-Ltn">dharmānusārin</term>
                             <term type="definition">Someone who follows his or her goal according to
                                 the teaching of the sūtras and so forth.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-285">
+                        <gloss type="term" xml:id="UT22084-047-002-285">
                             <term>one who follows the meaning</term>
                             <term xml:lang="Bo-Ltn">don gyi rjes su ’brang ba </term>
-                            <term xml:lang="bo">དོན་གྱི་རྗེས་སུ་འབྲང་བ</term>
+                            <term xml:lang="bo">དོན་གྱི་རྗེས་སུ་འབྲང་བ།</term>
                             <term xml:lang="Sa-Ltn">arthānusārin</term>
                             <term type="definition">According to the Abhi­dharma­kośa­bhāṣya, both
                                 those who “follow out of conviction” and those who “follow due to the
@@ -3369,10 +3367,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-286">
+                        <gloss type="term" xml:id="UT22084-047-002-286">
                             <term>ordinary people</term>
                             <term xml:lang="Bo-Ltn">so so’i skye bo </term>
-                            <term xml:lang="bo">སོ་སོའི་སྐྱེ་བོ</term>
+                            <term xml:lang="bo">སོ་སོའི་སྐྱེ་བོ།</term>
                             <term xml:lang="Sa-Ltn">pṛthagjana</term>
                             <term type="definition">Anyone who has not entered the “Path of Seeing”
                                 (i.e., has no stable direct realization of selflessness) is an
@@ -3380,10 +3378,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-287">
+                        <gloss type="term" xml:id="UT22084-047-002-287">
                             <term>outflow</term>
                             <term xml:lang="Bo-Ltn">zag pa </term>
-                            <term xml:lang="bo">ཟག་པ</term>
+                            <term xml:lang="bo">ཟག་པ།</term>
                             <term xml:lang="Sa-Ltn">āsrava</term>
                             <term type="definition">Mental afflictions can be called outflows since
                                 they “flow out,” i.e., they are caused by certain dharmas (said to
@@ -3391,20 +3389,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-288">
+                        <gloss type="term" xml:id="UT22084-047-002-288">
                             <term>Parivrājakas</term>
                             <term xml:lang="Bo-Ltn">kun tu rgyu </term>
-                            <term xml:lang="bo">ཀུན་ཏུ་རྒྱུ</term>
+                            <term xml:lang="bo">ཀུན་ཏུ་རྒྱུ།</term>
                             <term xml:lang="Sa-Ltn">pari­vrājaka</term>
                             <term type="definition">A non-Buddhist religious practitioner who “roams
                                 around.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-289">
+                        <gloss type="term" xml:id="UT22084-047-002-289">
                             <term>perfection</term>
                             <term xml:lang="Bo-Ltn">pha rol tu phyin pa </term>
-                            <term xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ</term>
+                            <term xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
                             <term xml:lang="Sa-Ltn">pāramitā</term>
                             <term type="definition">A set of practices to be completely mastered
                                 (until one reaches their “other shore”) for those on the bodhisattva
@@ -3412,19 +3410,19 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-290">
+                        <gloss type="term" xml:id="UT22084-047-002-290">
                             <term>postures</term>
                             <term xml:lang="Bo-Ltn">spyod lam </term>
-                            <term xml:lang="bo">སྤྱོད་ལམ</term>
+                            <term xml:lang="bo">སྤྱོད་ལམ།</term>
                             <term xml:lang="Sa-Ltn">īryapatha</term>
                             <term type="definition">Sitting, standing, lying down, walking.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-291">
+                        <gloss type="term" xml:id="UT22084-047-002-291">
                             <term>pratyekabuddha</term>
                             <term xml:lang="Bo-Ltn">rang sangs rgyas </term>
-                            <term xml:lang="bo">རང་སངས་རྒྱས</term>
+                            <term xml:lang="bo">རང་སངས་རྒྱས།</term>
                             <term xml:lang="Sa-Ltn">pratyeka­buddha</term>
                             <term type="definition">Someone who obtains personal liberation through
                                 very little or no instruction from others; “solitary buddha” in some
@@ -3432,10 +3430,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-292">
+                        <gloss type="term" xml:id="UT22084-047-002-292">
                             <term>preta</term>
                             <term xml:lang="Bo-Ltn">yi dwags </term>
-                            <term xml:lang="bo">ཡི་དྭགས</term>
+                            <term xml:lang="bo">ཡི་དྭགས།</term>
                             <term xml:lang="Sa-Ltn">preta</term>
                             <term type="definition">A class of sentient beings constantly suffering
                                 from hunger and thirst, one of the six (or five) possible realms of
@@ -3443,45 +3441,45 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-047-002-293">
+                        <gloss type="term" xml:id="UT22084-047-002-293">
                             <term>samādhi</term>
                             <term xml:lang="Bo-Ltn">ting nge ’dzin </term>
-                            <term xml:lang="bo">ཏིང་ངེ་འཛིན</term>
+                            <term xml:lang="bo">ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">samādhi</term>
                             <term type="definition">Placing the mind on an object of attention, or
                                 sometimes more generally, a meditative state.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-294">
+                        <gloss type="term" xml:id="UT22084-047-002-294">
                             <term>saṃsāra</term>
                             <term xml:lang="Bo-Ltn">’khor ba </term>
-                            <term xml:lang="bo">འཁོར་བ</term>
+                            <term xml:lang="bo">འཁོར་བ།</term>
                             <term xml:lang="Sa-Ltn">saṃsāra</term>
                             <term type="definition">The continuum of repeated birth and
                                 death.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-295">
+                        <gloss type="term" xml:id="UT22084-047-002-295" mode="marked">
                             <term>seven false dharmas</term>
                             <term xml:lang="Bo-Ltn">dam pa ma yin pa’i chos bdun </term>
-                            <term xml:lang="bo">དམ་པ་མ་ཡིན་པའི་ཆོས་བདུན</term>
+                            <term xml:lang="bo">དམ་པ་མ་ཡིན་པའི་ཆོས་བདུན།</term>
                             <term xml:lang="Sa-Ltn">saptāsaddharmāḥ</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="4" xml:id="UT22084-047-002-296">
+                        <gloss type="term" xml:id="UT22084-047-002-296">
                             <term>seven limbs of awakening</term>
                             <term xml:lang="Bo-Ltn">byang chub kyi yan lag bdun </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན།</term>
                             <term xml:lang="Sa-Ltn">sapta bodhyanggāni</term>
                             <term type="definition">Recollection, analysis of the dharmas,
                                 diligence, joy, pliancy, samādhi, equanimity.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-297">
+                        <gloss type="term" xml:id="UT22084-047-002-297">
                             <term>six entrances</term>
                             <term xml:lang="Bo-Ltn">skye mched drug </term>
                             <term xml:lang="bo">སྐྱེ་མཆེད་དྲུག</term>
@@ -3490,7 +3488,7 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-298">
+                        <gloss type="term" xml:id="UT22084-047-002-298">
                             <term>six remembrances</term>
                             <term xml:lang="Bo-Ltn">rjes su dran pa drug </term>
                             <term xml:lang="bo">རྗེས་སུ་དྲན་པ་དྲུག</term>
@@ -3500,30 +3498,30 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-299">
+                        <gloss type="term" xml:id="UT22084-047-002-299">
                             <term>stūpa</term>
                             <term xml:lang="Bo-Ltn">mchod rten </term>
-                            <term xml:lang="bo">མཆོད་རྟེན</term>
+                            <term xml:lang="bo">མཆོད་རྟེན།</term>
                             <term xml:lang="Sa-Ltn">stūpa</term>
                             <term type="definition">A Buddhist sacred monument usually holding the
                                 relics of a buddha or some highly revered Buddhist master.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-300">
+                        <gloss type="term" xml:id="UT22084-047-002-300">
                             <term>Sugata</term>
                             <term xml:lang="Bo-Ltn">bde bar gshegs pa </term>
-                            <term xml:lang="bo">བདེ་བར་གཤེགས་པ</term>
+                            <term xml:lang="bo">བདེ་བར་གཤེགས་པ།</term>
                             <term xml:lang="Sa-Ltn">sugata</term>
                             <term type="definition">An epithet of the Buddha meaning “well-gone
                                 one,” “gone to bliss,” “easily understood.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-047-002-301">
+                        <gloss type="term" xml:id="UT22084-047-002-301">
                             <term>sūtra</term>
                             <term xml:lang="Bo-Ltn">mdo sde </term>
-                            <term xml:lang="bo">མདོ་སྡེ</term>
+                            <term xml:lang="bo">མདོ་སྡེ།</term>
                             <term xml:lang="Sa-Ltn">sūtra</term>
                             <term type="definition">Usually referring to a discourse by the Buddha;
                                 sometimes to just a few sentences by the Buddha; or also, when not
@@ -3532,40 +3530,40 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-302">
+                        <gloss type="term" xml:id="UT22084-047-002-302">
                             <term>Tathāgata</term>
                             <term xml:lang="Bo-Ltn">de bzhin gshegs pa </term>
-                            <term xml:lang="bo">དེ་བཞིན་གཤེགས་པ</term>
+                            <term xml:lang="bo">དེ་བཞིན་གཤེགས་པ།</term>
                             <term xml:lang="Sa-Ltn">tathāgata</term>
                             <term type="definition">An epithet of the Buddha, meaning “one who has
                                 gone, reached, or had realized in that way.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-303">
+                        <gloss type="term" xml:id="UT22084-047-002-303">
                             <term>tathatā</term>
                             <term xml:lang="Bo-Ltn">de bshin nyid </term>
-                            <term xml:lang="bo">དེ་བཤིན་ཉིད</term>
+                            <term xml:lang="bo">དེ་བཤིན་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">tathatā</term>
                             <term type="definition">The state in which things are;
                                 “thusness.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-304">
+                        <gloss type="term" xml:id="UT22084-047-002-304">
                             <term>tattva</term>
                             <term xml:lang="Bo-Ltn">de kho na nyid </term>
-                            <term xml:lang="bo">དེ་ཁོ་ན་ཉིད</term>
+                            <term xml:lang="bo">དེ་ཁོ་ན་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">tattva</term>
                             <term type="definition">The nature of things; their actual state;
                                 “thatness.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="5" xml:id="UT22084-047-002-305">
+                        <gloss type="term" xml:id="UT22084-047-002-305">
                             <term>ten unwholesome courses of karma</term>
                             <term xml:lang="Bo-Ltn">mi dge ba bcu’i las kyi lam </term>
-                            <term xml:lang="bo">མི་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ</term>
+                            <term xml:lang="bo">མི་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ།</term>
                             <term xml:lang="Sa-Ltn">daśākuśalāḥ karma­pathāḥ</term>
                             <term type="definition">Killing, taking what is not given, sexual
                                 misconduct, speaking what is false, divisive speech, harsh speech,
@@ -3574,59 +3572,59 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="5" xml:id="UT22084-047-002-306">
+                        <gloss type="term" xml:id="UT22084-047-002-306">
                             <term>ten wholesome courses of karma</term>
                             <term xml:lang="Bo-Ltn">dge ba bcu’i las kyi lam </term>
-                            <term xml:lang="bo">དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ</term>
+                            <term xml:lang="bo">དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ།</term>
                             <term xml:lang="Sa-Ltn">daśakuśalāḥ karma­pathāḥ</term>
                             <term type="definition">The opposite of the ten unwholesome courses of
                                 karma.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-307">
+                        <gloss type="term" xml:id="UT22084-047-002-307">
                             <term>Thirty-Three</term>
                             <term xml:lang="Bo-Ltn">gsum cu rsta gsum pa </term>
-                            <term xml:lang="bo">གསུམ་ཅུ་རསྟ་གསུམ་པ</term>
+                            <term xml:lang="bo">གསུམ་ཅུ་རསྟ་གསུམ་པ།</term>
                             <term xml:lang="Sa-Ltn">trayastriṃśat</term>
                             <term type="definition">A class of gods.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-308">
+                        <gloss type="term" xml:id="UT22084-047-002-308">
                             <term>three vehicles</term>
                             <term xml:lang="Bo-Ltn">theg pa gsum </term>
-                            <term xml:lang="bo">ཐེག་པ་གསུམ</term>
+                            <term xml:lang="bo">ཐེག་པ་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">triyāna</term>
                             <term type="definition">The Hearers’ Vehicle, the Pratyekabuddha
                                 Vehicle, and the Bodhisattva Vehicle.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-309">
+                        <gloss type="term" xml:id="UT22084-047-002-309">
                             <term>three world spheres</term>
                             <term xml:lang="Bo-Ltn">khams gsum </term>
-                            <term xml:lang="bo">ཁམས་གསུམ</term>
+                            <term xml:lang="bo">ཁམས་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">traidhātuka</term>
                             <term type="definition">The realm of desire, the realm of form, and the
                                 formless realm (under which the whole universe is subsumed).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-310">
+                        <gloss type="term" xml:id="UT22084-047-002-310">
                             <term>tīrthika</term>
                             <term xml:lang="Bo-Ltn">mu stegs can </term>
-                            <term xml:lang="bo">མུ་སྟེགས་ཅན</term>
+                            <term xml:lang="bo">མུ་སྟེགས་ཅན།</term>
                             <term xml:lang="Sa-Ltn">tīrthika</term>
                             <term type="definition">A non-Buddhist religious practitioner who relies
                                 on sacred “fords” (<foreign type="term" xml:lang="Sa-Ltn">tīrtha</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-311">
+                        <gloss type="term" xml:id="UT22084-047-002-311">
                             <term>transitory collection</term>
                             <term xml:lang="Bo-Ltn">’jig tshogs </term>
-                            <term xml:lang="bo">འཇིག་ཚོགས</term>
+                            <term xml:lang="bo">འཇིག་ཚོགས།</term>
                             <term xml:lang="Sa-Ltn">satkāya</term>
                             <term type="definition">The transitory collection of the five
                                 aggregates, the basis for the view of a self or that which belongs
@@ -3634,19 +3632,19 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-312">
+                        <gloss type="term" xml:id="UT22084-047-002-312">
                             <term>trichiliocosm</term>
                             <term xml:lang="Bo-Ltn">’jig rten gyi khams stong gsum gyi stong chen po </term>
-                            <term xml:lang="bo">འཇིག་རྟེན་གྱི་ཁམས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོ</term>
+                            <term xml:lang="bo">འཇིག་རྟེན་གྱི་ཁམས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">tri­sāhasra­mahā­sāhasra­loka­dhātu</term>
                             <term type="definition">A very large universe.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-313">
+                        <gloss type="term" xml:id="UT22084-047-002-313">
                             <term>twelve entrances</term>
                             <term xml:lang="Bo-Ltn">skye mched </term>
-                            <term xml:lang="bo">སྐྱེ་མཆེད</term>
+                            <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
                             <term type="definition">Twelve collections of similar dharmas, under
                                 which all compounded and uncompounded dharmas may be included: eye,
@@ -3655,10 +3653,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-314">
+                        <gloss type="term" xml:id="UT22084-047-002-314">
                             <term>twelve limbs of existence</term>
                             <term xml:lang="Bo-Ltn">srid pa’i yan lag bcu gnyis </term>
-                            <term xml:lang="bo">སྲིད་པའི་ཡན་ལག་བཅུ་གཉིས</term>
+                            <term xml:lang="bo">སྲིད་པའི་ཡན་ལག་བཅུ་གཉིས།</term>
                             <term xml:lang="Sa-Ltn">dvādaśa bhavānggāni</term>
                             <term type="definition">Twelve successive parts in which to subdivide
                                 the longest possible process of dependent arising for one sentient
@@ -3668,10 +3666,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-315">
+                        <gloss type="term" xml:id="UT22084-047-002-315">
                             <term>two extremes</term>
                             <term xml:lang="Bo-Ltn">mtha’ gnyis </term>
-                            <term xml:lang="bo">མཐའ་གཉིས</term>
+                            <term xml:lang="bo">མཐའ་གཉིས།</term>
                             <term xml:lang="Sa-Ltn">antadvaya</term>
                             <term type="definition">The extreme of permanence (of a self through
                                 many lives) and the extreme of cutting off (i.e., the cessation of
@@ -3679,65 +3677,65 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-316">
+                        <gloss type="term" xml:id="UT22084-047-002-316">
                             <term>upādhyāya</term>
                             <term xml:lang="Bo-Ltn">mkhan po </term>
-                            <term xml:lang="bo">མཁན་པོ</term>
+                            <term xml:lang="bo">མཁན་པོ།</term>
                             <term xml:lang="Sa-Ltn">upādhyāya</term>
                             <term type="definition">Teacher, (monastic) preceptor; “having
                                 approached him, one studies from him” (<foreign type="term" xml:lang="Sa-Ltn">upetyādhīyate asmāt</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-317">
+                        <gloss type="term" xml:id="UT22084-047-002-317">
                             <term>uragasāra</term>
                             <term xml:lang="Bo-Ltn">sbrul gyi snying po </term>
-                            <term xml:lang="bo">སྦྲུལ་གྱི་སྙིང་པོ</term>
+                            <term xml:lang="bo">སྦྲུལ་གྱི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">uragasāra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-318">
+                        <gloss type="term" xml:id="UT22084-047-002-318">
                             <term>vedikā</term>
                             <term xml:lang="Bo-Ltn">kha khyer </term>
-                            <term xml:lang="bo">ཁ་ཁྱེར</term>
+                            <term xml:lang="bo">ཁ་ཁྱེར།</term>
                             <term xml:lang="Sa-Ltn">vedikā</term>
                             <term type="definition">An architectural element similar to a
                                 pedestal.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-319">
+                        <gloss type="term" xml:id="UT22084-047-002-319">
                             <term>vidyutpradīpa gem</term>
                             <term xml:lang="Bo-Ltn">nor bu rin po che glog gi sgron ma </term>
-                            <term xml:lang="bo">ནོར་བུ་རིན་པོ་ཆེ་གློག་གི་སྒྲོན་མ</term>
+                            <term xml:lang="bo">ནོར་བུ་རིན་པོ་ཆེ་གློག་གི་སྒྲོན་མ།</term>
                             <term xml:lang="Sa-Ltn">vidyutpradīpa­maṇi­ratna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-320">
+                        <gloss type="term" xml:id="UT22084-047-002-320">
                             <term>yakṣa</term>
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
-                            <term xml:lang="bo">གནོད་སྦྱིན</term>
+                            <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
                             <term type="definition">A semi-divine being.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-047-002-321">
+                        <gloss type="term" xml:id="UT22084-047-002-321">
                             <term>Carakas</term>
                             <term xml:lang="Bo-Ltn">spyod pa ba </term>
-                            <term xml:lang="bo">སྤྱོད་པ་བ</term>
+                            <term xml:lang="bo">སྤྱོད་པ་བ།</term>
                             <term xml:lang="Sa-Ltn">caraka</term>
                             <term type="definition">A non-Buddhist wanderer, often grouped with the
                                 Parivrājakas.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-322">
+                        <gloss type="person" xml:id="UT22084-047-002-322">
                             <term>Ājñāta­kauṇḍinya</term>
                             <term xml:lang="Bo-Ltn">kun shes kauN+Din+ya </term>
-                            <term xml:lang="bo">ཀུན་ཤེས་ཀཽཎྜིནྱ</term>
+                            <term xml:lang="bo">ཀུན་ཤེས་ཀཽཎྜིནྱ།</term>
                             <term xml:lang="Sa-Ltn">ājñāta­kauṇḍinya</term>
                             <term type="definition">“Kauṇḍinya Who Understood.” Name of the first
                                 monk that Śākyamuni Buddha recognized as having understood his
@@ -3745,37 +3743,37 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-323">
+                        <gloss type="person" xml:id="UT22084-047-002-323">
                             <term>Bhaiṣajyarāja</term>
                             <term xml:lang="Bo-Ltn">sman gyi rgyal po </term>
-                            <term xml:lang="bo">སྨན་གྱི་རྒྱལ་པོ</term>
+                            <term xml:lang="bo">སྨན་གྱི་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn">bhaiṣajya­rāja</term>
                             <term type="definition">Name of a bodhisattva, “King of
                                 Medicine.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-324">
+                        <gloss type="person" xml:id="UT22084-047-002-324">
                             <term>Bhaiṣajya­samudgata</term>
                             <term xml:lang="Bo-Ltn">sman yang dag ’phags la sogs pa </term>
-                            <term xml:lang="bo">སྨན་ཡང་དག་འཕགས་ལ་སོགས་པ</term>
+                            <term xml:lang="bo">སྨན་ཡང་དག་འཕགས་ལ་སོགས་པ།</term>
                             <term xml:lang="Sa-Ltn">bhaiṣajya­samudgata</term>
                             <term type="definition">Name of a bodhisattva, “Medicine-Risen
                                 Up.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-325">
+                        <gloss type="person" xml:id="UT22084-047-002-325">
                             <term>Bhande Yeshe De</term>
                             <term xml:lang="Bo-Ltn">ban de ye shes sde </term>
-                            <term xml:lang="bo">བན་དེ་ཡེ་ཤེས་སྡེ</term>
+                            <term xml:lang="bo">བན་དེ་ཡེ་ཤེས་སྡེ།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-326">
+                        <gloss type="person" xml:id="UT22084-047-002-326">
                             <term>Brahmā</term>
                             <term xml:lang="Bo-Ltn">tshangs pa </term>
-                            <term xml:lang="bo">ཚངས་པ</term>
+                            <term xml:lang="bo">ཚངས་པ།</term>
                             <term xml:lang="Sa-Ltn">brahman</term>
                             <term type="definition">A high-ranking deity who presides over a divine
                                 world where other beings consider him the creator; he is also
@@ -3783,10 +3781,10 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-327">
+                        <gloss type="person" xml:id="UT22084-047-002-327">
                             <term>Buddhiśrī</term>
                             <term xml:lang="Bo-Ltn">sangs rgyas dpal </term>
-                            <term xml:lang="bo">སངས་རྒྱས་དཔལ</term>
+                            <term xml:lang="bo">སངས་རྒྱས་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">buddhiśrī</term>
                             <term type="definition">Name of a bodhisattva, “Intellect-Splendor.”
                                 However, the Tibetan suggests “Buddha-” rather than “Buddhi-,” which
@@ -3794,29 +3792,29 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-328">
+                        <gloss type="person" xml:id="UT22084-047-002-328">
                             <term>Dhanaśrī</term>
                             <term xml:lang="Bo-Ltn">nor dpal </term>
-                            <term xml:lang="bo">ནོར་དཔལ</term>
+                            <term xml:lang="bo">ནོར་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">dhanaśrī</term>
                             <term type="definition">Name of a bodhisattva, “Wealth-Splendor.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-329">
+                        <gloss type="person" xml:id="UT22084-047-002-329">
                             <term>Mañjuśrī</term>
                             <term xml:lang="Bo-Ltn">’jam dpal </term>
-                            <term xml:lang="bo">འཇམ་དཔལ</term>
+                            <term xml:lang="bo">འཇམ་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">mañjuśrī</term>
                             <term type="definition">Name of a bodhisattva, “Beautiful Glory, Lovely
                                 Splendor.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-330">
+                        <gloss type="person" xml:id="UT22084-047-002-330">
                             <term>Māra</term>
                             <term xml:lang="Bo-Ltn">bdud </term>
-                            <term xml:lang="bo">བདུད</term>
+                            <term xml:lang="bo">བདུད།</term>
                             <term xml:lang="Sa-Ltn">māra</term>
                             <term type="definition">The personification of negativity. In the
                                 Sanskrit tradition, four Māras are usually listed: the aggregates,
@@ -3825,43 +3823,43 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-331">
+                        <gloss type="person" xml:id="UT22084-047-002-331">
                             <term>Śakra</term>
                             <term xml:lang="Bo-Ltn">brgya byin </term>
-                            <term xml:lang="bo">བརྒྱ་བྱིན</term>
+                            <term xml:lang="bo">བརྒྱ་བྱིན།</term>
                             <term xml:lang="Sa-Ltn">śakra</term>
                             <term type="definition">The lord of the gods of the Thirty-Three.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-332">
+                        <gloss type="person" xml:id="UT22084-047-002-332">
                             <term>Śīladhvaja</term>
                             <term xml:lang="Bo-Ltn">tshul khrims rgyal mtshan </term>
-                            <term xml:lang="bo">ཚུལ་ཁྲིམས་རྒྱལ་མཚན</term>
+                            <term xml:lang="bo">ཚུལ་ཁྲིམས་རྒྱལ་མཚན།</term>
                             <term xml:lang="Sa-Ltn">śīladhvaja</term>
                             <term type="definition">“Banner of Discipline;” the name of the person
                                 who sponsored the writing of the manuscript of the JAA.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-333">
+                        <gloss type="person" xml:id="UT22084-047-002-333">
                             <term>Surendrabodhi</term>
                             <term xml:lang="Bo-Ltn">su ren dra bo dhi </term>
-                            <term xml:lang="bo">སུ་རེན་དྲ་བོ་དྷི</term>
+                            <term xml:lang="bo">སུ་རེན་དྲ་བོ་དྷི།</term>
                             <term xml:lang="Sa-Ltn">surendrabodhi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-047-002-334">
+                        <gloss type="person" xml:id="UT22084-047-002-334">
                             <term>Yama</term>
                             <term xml:lang="Bo-Ltn">gshin rje </term>
-                            <term xml:lang="bo">གཤིན་རྗེ</term>
+                            <term xml:lang="bo">གཤིན་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">yama</term>
                             <term type="definition">The king of the preta realm.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-335">
+                        <gloss type="place" xml:id="UT22084-047-002-335">
                             <term>Cakravāḍa</term>
                             <term xml:lang="Bo-Ltn">’khor yug </term>
                             <term xml:lang="bo">འཁོར་ཡུག</term>
@@ -3871,20 +3869,20 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-336">
+                        <gloss type="place" xml:id="UT22084-047-002-336">
                             <term>Jāmbū</term>
                             <term xml:lang="Bo-Ltn">’dzam bu </term>
-                            <term xml:lang="bo">འཛམ་བུ</term>
+                            <term xml:lang="bo">འཛམ་བུ།</term>
                             <term xml:lang="Sa-Ltn">jāmbū</term>
                             <term type="definition">A river whose gold is believed to be especially
                                 good.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-337">
+                        <gloss type="place" xml:id="UT22084-047-002-337">
                             <term>Jambūdvīpa</term>
                             <term xml:lang="Bo-Ltn">’dzam bu gling </term>
-                            <term xml:lang="bo">འཛམ་བུ་གླིང</term>
+                            <term xml:lang="bo">འཛམ་བུ་གླིང།</term>
                             <term xml:lang="Sa-Ltn">jambūdvīpa</term>
                             <term type="definition">The continent (<foreign type="term" xml:lang="Sa-Ltn">dvīpa</foreign>) on which we live which,
                                 according to ancient South-Asian cosmology, is shaped like a
@@ -3895,59 +3893,59 @@ Notes-->
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-338">
+                        <gloss type="place" xml:id="UT22084-047-002-338">
                             <term>Mahācakravāḍa</term>
                             <term xml:lang="Bo-Ltn">’khor yug chen po </term>
-                            <term xml:lang="bo">འཁོར་ཡུག་ཆེན་པོ</term>
+                            <term xml:lang="bo">འཁོར་ཡུག་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahā­cakra­vāḍa</term>
                             <term type="definition">Name of a mountain range in Buddhist
                                 cosmology.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-339">
+                        <gloss type="place" xml:id="UT22084-047-002-339">
                             <term>Meru</term>
                             <term xml:lang="Bo-Ltn">lhun po </term>
-                            <term xml:lang="bo">ལྷུན་པོ</term>
+                            <term xml:lang="bo">ལྷུན་པོ།</term>
                             <term xml:lang="Sa-Ltn">meru</term>
                             <term type="definition">The highest mountain at the center of our world
                                 according to traditional Buddhist cosmology.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-340">
+                        <gloss type="place" xml:id="UT22084-047-002-340">
                             <term>Rājgir</term>
                             <term xml:lang="Bo-Ltn">rgyal po’i khab </term>
-                            <term xml:lang="bo">རྒྱལ་པོའི་ཁབ</term>
+                            <term xml:lang="bo">རྒྱལ་པོའི་ཁབ།</term>
                             <term xml:lang="Sa-Ltn">rājagṛha</term>
                             <term type="definition">“King’s House;” name of a town in modern-day
                                 Bihar, North India.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-341">
+                        <gloss type="place" xml:id="UT22084-047-002-341">
                             <term>Sudharma</term>
                             <term xml:lang="Bo-Ltn">chos bzang </term>
-                            <term xml:lang="bo">ཆོས་བཟང</term>
+                            <term xml:lang="bo">ཆོས་བཟང།</term>
                             <term xml:lang="Sa-Ltn">sudharma</term>
                             <term type="definition">Name of hall where the gods of the thirty-three
                                 assemble to listen to the Dharma.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-342">
+                        <gloss type="place" xml:id="UT22084-047-002-342">
                             <term>Sumeru</term>
                             <term xml:lang="Bo-Ltn">ri rab </term>
-                            <term xml:lang="bo">རི་རབ</term>
+                            <term xml:lang="bo">རི་རབ།</term>
                             <term xml:lang="Sa-Ltn">sumeru</term>
                             <term type="definition">See “Meru.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-047-002-343">
+                        <gloss type="place" xml:id="UT22084-047-002-343">
                             <term>Vulture Peak</term>
                             <term xml:lang="Bo-Ltn">bya rgod phung po’i ri </term>
-                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི</term>
+                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི།</term>
                             <term xml:lang="Sa-Ltn">gṛdhrakūṭa parvata</term>
                             <term type="definition">Name of a mountain in Rājgir.</term>
                         </gloss>

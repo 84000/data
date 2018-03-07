@@ -43,13 +43,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 130</ref>
-                    <biblScope>Degé Kangyur, vol. 55 (mdo sde, da), folios 210b–230b</biblScope>
+                    <biblScope>Degé Kangyur, vol. 55 (mdo sde, da), folios 210.b–230.b</biblScope>
                     <author role="translatorTib">Surendrabodhi </author>
                     <author role="translatorTib">Bandé Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:02:23 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 15:02:19 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -259,7 +259,8 @@
                 <head type="titleMain">The Illusory Absorption</head>
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-055-004-19"/>
-                    <p tid="20">Homage to all buddhas and bodhisattvas!</p>
+                    <p tid="20">
+                        <ref cRef="F.210.b"/> Homage to all buddhas and bodhisattvas!</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-20"/>
                     <p tid="21">Thus have I heard at one time. The Blessed One was dwelling in the Deer Park
@@ -817,7 +818,8 @@
                         <l>And the experience of the victorious ones is entirely
                                 inconceivable.</l>
                         <l>The assemblies of sons of the victorious ones, hearers,</l>
-                        <l>And circumstantial victorious ones<note place="end" index="4" xml:id="UT22084-055-004-247">
+                        <l>And <term>circumstantial victorious ones</term>
+                            <note place="end" index="4" xml:id="UT22084-055-004-247">
                                 <foreign xml:lang="Bo-Ltn" type="term">rkyen gyi rgyal
                                         ba</foreign>, a term that from the context is very likely a
                             synonym of <foreign xml:lang="Sa-Ltn" type="term">pratyeka­buddha</foreign> (<foreign xml:lang="Bo-Ltn" type="term">rang sangs rgyas</foreign>). The term is found
@@ -1665,60 +1667,60 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-161">
+                        <gloss type="term" xml:id="UT22084-055-004-161">
                             <term>āmalakī</term>
                             <term xml:lang="Bo-Ltn">skyu ru ra </term>
-                            <term xml:lang="bo">སྐྱུ་རུ་ར</term>
+                            <term xml:lang="bo">སྐྱུ་རུ་ར།</term>
                             <term xml:lang="Sa-Ltn">āmalakī</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-055-004-162">
+                        <gloss type="term" xml:id="UT22084-055-004-162">
                             <term>atyartha­śobhati­cakra</term>
                             <term xml:lang="Bo-Ltn">shin tu mdzes pa’i ’khor lo </term>
-                            <term xml:lang="bo">ཤིན་ཏུ་མཛེས་པའི་འཁོར་ལོ</term>
+                            <term xml:lang="bo">ཤིན་ཏུ་མཛེས་པའི་འཁོར་ལོ།</term>
                             <term xml:lang="Sa-Ltn">atyartha­śobhati­cakra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-055-004-163">
+                        <gloss type="term" xml:id="UT22084-055-004-163">
                             <term>atyartha­śobhati­candra</term>
                             <term xml:lang="Bo-Ltn">shin tu mdzes pa’i zla ba </term>
-                            <term xml:lang="bo">ཤིན་ཏུ་མཛེས་པའི་ཟླ་བ</term>
+                            <term xml:lang="bo">ཤིན་ཏུ་མཛེས་པའི་ཟླ་བ།</term>
                             <term xml:lang="Sa-Ltn">atyartha­śobhati­candra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-164">
+                        <gloss type="term" xml:id="UT22084-055-004-164">
                             <term>bodhi tree</term>
                             <term xml:lang="Bo-Ltn">byang chub shing </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཤིང</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་ཤིང་།</term>
                             <term xml:lang="Sa-Ltn">bodhivṛkṣa</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-055-004-165">
+                        <gloss type="term" xml:id="UT22084-055-004-165">
                             <term>cakra</term>
                             <term xml:lang="Bo-Ltn">me tog ’khor lo </term>
-                            <term xml:lang="bo">མེ་ཏོག་འཁོར་ལོ</term>
+                            <term xml:lang="bo">མེ་ཏོག་འཁོར་ལོ།</term>
                             <term xml:lang="Sa-Ltn">cakra</term>
                             <term type="definition">“Wheel;” here, a flower.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-055-004-166">
+                        <gloss type="term" xml:id="UT22084-055-004-166">
                             <term>candra</term>
                             <term xml:lang="Bo-Ltn">me tog zla ba </term>
-                            <term xml:lang="bo">མེ་ཏོག་ཟླ་བ</term>
+                            <term xml:lang="bo">མེ་ཏོག་ཟླ་བ།</term>
                             <term xml:lang="Sa-Ltn">candra</term>
                             <term type="definition">“Moon;” here, a flower.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-167">
+                        <gloss type="term" xml:id="UT22084-055-004-167" mode="marked">
                             <term>circumstantial victorious one</term>
                             <term xml:lang="Bo-Ltn">rkyen gyi rgyal ba </term>
-                            <term xml:lang="bo">རྐྱེན་གྱི་རྒྱལ་བ</term>
+                            <term xml:lang="bo">རྐྱེན་གྱི་རྒྱལ་བ།</term>
                             <term xml:lang="Sa-Ltn">*pratyayajina</term>
                             <term type="definition">A being who attains victory (i.e. awakening)
                                 through specific circumstances. Almost certainly a synonym for a
@@ -1726,10 +1728,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-168">
+                        <gloss type="term" xml:id="UT22084-055-004-168">
                             <term>eight unfree states</term>
                             <term xml:lang="Bo-Ltn">mi khom brgyad </term>
-                            <term xml:lang="bo">མི་ཁོམ་བརྒྱད</term>
+                            <term xml:lang="bo">མི་ཁོམ་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">aṣṭākṣaṇāni</term>
                             <term type="definition">Being born as a hell being, preta, animal, god,
                                 barbarian, human with wrong views, where there is no buddha, or as a
@@ -1737,21 +1739,21 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-169">
+                        <gloss type="term" xml:id="UT22084-055-004-169">
                             <term>four means of attracting
                                 disciples</term>
                             <term xml:lang="Bo-Ltn">bsdu ba’i dngos po bzhi </term>
-                            <term xml:lang="bo">བསྡུ་བའི་དངོས་པོ་བཞི</term>
+                            <term xml:lang="bo">བསྡུ་བའི་དངོས་པོ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">catuḥsaṃgraha­vastu</term>
                             <term type="definition">Generosity, kind talk, meaningful actions, and
                                 practicing what one preaches.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-170">
+                        <gloss type="term" xml:id="UT22084-055-004-170">
                             <term>illusory absorption</term>
                             <term xml:lang="Bo-Ltn">sgyu ma lta bu’i ting nge ‘dzin </term>
-                            <term xml:lang="bo">སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན</term>
+                            <term xml:lang="bo">སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">māyopama­samadhi</term>
                             <term type="definition">The realization that all phenomena are illusory
                                 and empty, which occurs when a bodhisattva understands the unborn
@@ -1759,7 +1761,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-171">
+                        <gloss type="term" xml:id="UT22084-055-004-171">
                             <term>mañjuṣaka</term>
                             <term xml:lang="Bo-Ltn">ma ny+dzu Sha ka </term>
                             <term xml:lang="bo">མ་ཉྫུ་ཥ་ཀ</term>
@@ -1767,17 +1769,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-172">
+                        <gloss type="term" xml:id="UT22084-055-004-172">
                             <term>mental sign</term>
                             <term xml:lang="Bo-Ltn">sems kyi mtshan ma </term>
-                            <term xml:lang="bo">སེམས་ཀྱི་མཚན་མ</term>
+                            <term xml:lang="bo">སེམས་ཀྱི་མཚན་མ།</term>
                             <term xml:lang="Sa-Ltn">cittanimitta</term>
                             <term type="definition">A high level of absorption reached through
                                 mastery of concentration.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-055-004-173">
+                        <gloss type="term" xml:id="UT22084-055-004-173">
                             <term>paramacandra</term>
                             <term xml:lang="Bo-Ltn">zla ba mchog </term>
                             <term xml:lang="bo">ཟླ་བ་མཆོག</term>
@@ -1785,7 +1787,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-174">
+                        <gloss type="term" xml:id="UT22084-055-004-174">
                             <term>pāruṣaka</term>
                             <term xml:lang="Bo-Ltn">pa ru Sha ka </term>
                             <term xml:lang="bo">པ་རུ་ཥ་ཀ</term>
@@ -1793,54 +1795,54 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-175">
+                        <gloss type="term" xml:id="UT22084-055-004-175">
                             <term>realm of phenomena</term>
                             <term xml:lang="Bo-Ltn">chos kyi dbyings </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་དབྱིངས</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་དབྱིངས།</term>
                             <term xml:lang="Sa-Ltn">dharmadhātu</term>
                             <term type="definition">The "sphere of dharmas," a synonym for the
                                 nature of things.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-055-004-176">
+                        <gloss type="term" xml:id="UT22084-055-004-176">
                             <term>roca</term>
                             <term xml:lang="Bo-Ltn">mdog mdzes </term>
-                            <term xml:lang="bo">མདོག་མཛེས</term>
+                            <term xml:lang="bo">མདོག་མཛེས།</term>
                             <term xml:lang="Sa-Ltn">roca</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-177">
+                        <gloss type="term" xml:id="UT22084-055-004-177">
                             <term>roots of virtue</term>
                             <term xml:lang="Bo-Ltn">dge ba’i rtsa ba </term>
-                            <term xml:lang="bo">དགེ་བའི་རྩ་བ</term>
+                            <term xml:lang="bo">དགེ་བའི་རྩ་བ།</term>
                             <term xml:lang="Sa-Ltn">kuśalamūla</term>
                             <term type="definition">Wholesome actions that are conducive to
                                 happiness.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-178">
+                        <gloss type="term" xml:id="UT22084-055-004-178">
                             <term>sthāla</term>
                             <term xml:lang="Bo-Ltn">s+tha la </term>
-                            <term xml:lang="bo">སྠ་ལ</term>
+                            <term xml:lang="bo">སྠ་ལ།</term>
                             <term xml:lang="Sa-Ltn">sthāla</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-179">
+                        <gloss type="term" xml:id="UT22084-055-004-179">
                             <term>palm tree</term>
                             <term xml:lang="Bo-Ltn">shing ta la </term>
-                            <term xml:lang="bo">ཤིང་ཏ་ལ</term>
+                            <term xml:lang="bo">ཤིང་ཏ་ལ།</term>
                             <term xml:lang="Sa-Ltn">tāla</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-180">
+                        <gloss type="term" xml:id="UT22084-055-004-180">
                             <term>ten virtues</term>
                             <term xml:lang="Bo-Ltn">dge ba bcu </term>
-                            <term xml:lang="bo">དགེ་བ་བཅུ</term>
+                            <term xml:lang="bo">དགེ་བ་བཅུ།</term>
                             <term xml:lang="Sa-Ltn">daśakuśala</term>
                             <term type="definition">Abstaining from killing, taking what is not
                                 given, sexual misconduct, lying, uttering divisive talk, speaking
@@ -1849,78 +1851,78 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-181">
+                        <gloss type="term" xml:id="UT22084-055-004-181">
                             <term>beryl</term>
                             <term xml:lang="Bo-Ltn">bai dU rya </term>
-                            <term xml:lang="bo">བཻ་དཱུ་རྱ</term>
+                            <term xml:lang="bo">བཻ་དཱུ་རྱ།</term>
                             <term xml:lang="Sa-Ltn">vaidūrya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-182">
+                        <gloss type="term" xml:id="UT22084-055-004-182">
                             <term>emerald</term>
                             <term xml:lang="Bo-Ltn">rdo’i snying po </term>
-                            <term xml:lang="bo">རྡོའི་སྙིང་པོ</term>
+                            <term xml:lang="bo">རྡོའི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">marakata</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-183">
+                        <gloss type="term" xml:id="UT22084-055-004-183">
                             <term>coral</term>
                             <term xml:lang="Bo-Ltn">spug </term>
                             <term xml:lang="bo">སྤུག</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-184">
+                        <gloss type="term" xml:id="UT22084-055-004-184">
                             <term>uragasāra sandalwood</term>
                             <term xml:lang="Bo-Ltn">tsan dan sbrul gyi snying po </term>
-                            <term xml:lang="bo">ཙན་དན་སྦྲུལ་གྱི་སྙིང་པོ</term>
+                            <term xml:lang="bo">ཙན་དན་སྦྲུལ་གྱི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">uragasāra­candana</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="2" xml:id="UT22084-055-004-185">
+                        <gloss type="term" xml:id="UT22084-055-004-185">
                             <term>aloe wood</term>
                             <term xml:lang="Bo-Ltn">a ka ru </term>
-                            <term xml:lang="bo">ཨ་ཀ་རུ</term>
+                            <term xml:lang="bo">ཨ་ཀ་རུ།</term>
                             <term xml:lang="Sa-Ltn">aguru</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-055-004-186">
+                        <gloss type="term" xml:id="UT22084-055-004-186">
                             <term>black aloe wood</term>
                             <term xml:lang="Bo-Ltn">a ga ru nag po </term>
-                            <term xml:lang="bo">ཨ་ག་རུ་ནག་པོ</term>
+                            <term xml:lang="bo">ཨ་ག་རུ་ནག་པོ།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-187">
+                        <gloss type="term" xml:id="UT22084-055-004-187">
                             <term>blue lotus</term>
                             <term xml:lang="Bo-Ltn">ud pa la </term>
-                            <term xml:lang="bo">ཨུད་པ་ལ</term>
+                            <term xml:lang="bo">ཨུད་པ་ལ།</term>
                             <term xml:lang="Sa-Ltn">utpala</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-188">
+                        <gloss type="term" xml:id="UT22084-055-004-188">
                             <term>water lily</term>
                             <term xml:lang="Bo-Ltn">ku mu da </term>
-                            <term xml:lang="bo">ཀུ་མུ་ད</term>
+                            <term xml:lang="bo">ཀུ་མུ་ད།</term>
                             <term xml:lang="Sa-Ltn">kumuda</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-189">
+                        <gloss type="term" xml:id="UT22084-055-004-189">
                             <term>nutmeg</term>
                             <term xml:lang="Bo-Ltn">sna ma </term>
-                            <term xml:lang="bo">སྣ་མ</term>
+                            <term xml:lang="bo">སྣ་མ།</term>
                             <term xml:lang="Sa-Ltn">jāti</term>
                             <term type="definition">May also mean a type of jasmine.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-190">
+                        <gloss type="term" xml:id="UT22084-055-004-190">
                             <term>jasmine</term>
                             <term xml:lang="Bo-Ltn">bar sha ka </term>
                             <term xml:lang="bo">བར་ཤ་ཀ</term>
@@ -1928,7 +1930,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-191">
+                        <gloss type="term" xml:id="UT22084-055-004-191">
                             <term>magnolia</term>
                             <term xml:lang="Bo-Ltn">tsam pa ka </term>
                             <term xml:lang="bo">ཙམ་པ་ཀ</term>
@@ -1936,15 +1938,15 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-192">
+                        <gloss type="term" xml:id="UT22084-055-004-192">
                             <term>pāṭalam</term>
                             <term xml:lang="Bo-Ltn">skya snar </term>
-                            <term xml:lang="bo">སྐྱ་སྣར</term>
+                            <term xml:lang="bo">སྐྱ་སྣར།</term>
                             <term xml:lang="Sa-Ltn">pāṭalam</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-193">
+                        <gloss type="term" xml:id="UT22084-055-004-193">
                             <term>mountain ebony</term>
                             <term xml:lang="Bo-Ltn">a ti mug ta ka </term>
                             <term xml:lang="bo">ཨ་ཏི་མུག་ཏ་ཀ</term>
@@ -1952,95 +1954,95 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-194">
+                        <gloss type="term" xml:id="UT22084-055-004-194">
                             <term>aloe flower</term>
                             <term xml:lang="Bo-Ltn">ta ra ni </term>
-                            <term xml:lang="bo">ཏ་ར་ནི</term>
+                            <term xml:lang="bo">ཏ་ར་ནི།</term>
                             <term xml:lang="Sa-Ltn">taraṇi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-195">
+                        <gloss type="term" xml:id="UT22084-055-004-195">
                             <term>gotaraṇi</term>
                             <term xml:lang="Bo-Ltn">go ta ra ni </term>
-                            <term xml:lang="bo">གོ་ཏ་ར་ནི</term>
+                            <term xml:lang="bo">གོ་ཏ་ར་ནི།</term>
                             <term xml:lang="Sa-Ltn">gotaraṇi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-196">
+                        <gloss type="term" xml:id="UT22084-055-004-196">
                             <term>danuskari</term>
                             <term xml:lang="Bo-Ltn">da nu ska ri </term>
-                            <term xml:lang="bo">ད་ནུ་སྐ་རི</term>
+                            <term xml:lang="bo">ད་ནུ་སྐ་རི།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-197">
+                        <gloss type="term" xml:id="UT22084-055-004-197">
                             <term>māndārava</term>
                             <term xml:lang="Bo-Ltn">man dA ra </term>
-                            <term xml:lang="bo">མན་དཱ་ར</term>
+                            <term xml:lang="bo">མན་དཱ་ར།</term>
                             <term xml:lang="Sa-Ltn">māndārava</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-055-004-198">
+                        <gloss type="term" xml:id="UT22084-055-004-198">
                             <term>sarvacakra</term>
                             <term xml:lang="Bo-Ltn">kun tu ’khor lo </term>
-                            <term xml:lang="bo">ཀུན་ཏུ་འཁོར་ལོ</term>
+                            <term xml:lang="bo">ཀུན་ཏུ་འཁོར་ལོ།</term>
                             <term xml:lang="Sa-Ltn">sarvacakra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-055-004-199">
+                        <gloss type="term" xml:id="UT22084-055-004-199">
                             <term>twenty-eight marks of a great being</term>
                             <term xml:lang="Bo-Ltn">skyes bu chen po’i mtshan nyi shu rtsa brgyad </term>
-                            <term xml:lang="bo">སྐྱེས་བུ་ཆེན་པོའི་མཚན་ཉི་ཤུ་རྩ་བརྒྱད</term>
+                            <term xml:lang="bo">སྐྱེས་བུ་ཆེན་པོའི་མཚན་ཉི་ཤུ་རྩ་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">aṣṭa­viṃśati­mahā­puruṣa­lakṣaṇa</term>
                             <term type="definition">A variation on the more usual set of 32 such marks; this set is mentioned only in this sūtra and in three others: the <title xml:lang="Sa-Ltn">Gaṇḍa­vyūha</title> (ch. 45 of Toh 44), the <title xml:lang="Sa-Ltn">Tathā­gatācintya­guhya­nirdeśa</title> (Toh 47), and the longest <title xml:lang="Sa-Ltn">Sāgara­mati­paripṛcchā</title> (Toh 153). None of these texts give a list.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-200">
+                        <gloss type="person" xml:id="UT22084-055-004-200">
                             <term>Agnidatta</term>
                             <term xml:lang="Bo-Ltn">mes byin </term>
-                            <term xml:lang="bo">མེས་བྱིན</term>
+                            <term xml:lang="bo">མེས་བྱིན།</term>
                             <term xml:lang="Sa-Ltn">Agnidatta</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-201">
+                        <gloss type="person" xml:id="UT22084-055-004-201">
                             <term>Amitābha</term>
                             <term xml:lang="Bo-Ltn">’od dpag med </term>
-                            <term xml:lang="bo">འོད་དཔག་མེད</term>
+                            <term xml:lang="bo">འོད་དཔག་མེད།</term>
                             <term xml:lang="Sa-Ltn">Amitābha</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-202">
+                        <gloss type="person" xml:id="UT22084-055-004-202">
                             <term>Amoghadarśin</term>
                             <term xml:lang="Bo-Ltn">mthong ba don yod </term>
-                            <term xml:lang="bo">མཐོང་བ་དོན་ཡོད</term>
+                            <term xml:lang="bo">མཐོང་བ་དོན་ཡོད།</term>
                             <term xml:lang="Sa-Ltn">Amoghadarśin</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-203">
+                        <gloss type="person" xml:id="UT22084-055-004-203">
                             <term>Anikṣiptadhura</term>
                             <term xml:lang="Bo-Ltn">brtson pa mi gtong ba </term>
-                            <term xml:lang="bo">བརྩོན་པ་མི་གཏོང་བ</term>
+                            <term xml:lang="bo">བརྩོན་པ་མི་གཏོང་བ།</term>
                             <term xml:lang="Sa-Ltn">Anikṣiptadhura</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-204">
+                        <gloss type="person" xml:id="UT22084-055-004-204">
                             <term>Anupamamati</term>
                             <term xml:lang="Bo-Ltn">dpe med blo gros </term>
-                            <term xml:lang="bo">དཔེ་མེད་བློ་གྲོས</term>
+                            <term xml:lang="bo">དཔེ་མེད་བློ་གྲོས།</term>
                             <term xml:lang="Sa-Ltn">Anupamamati</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-205">
+                        <gloss type="person" xml:id="UT22084-055-004-205">
                             <term>Avalokiteśvara</term>
                             <term xml:lang="Bo-Ltn">spyan ras gzigs dbang phyug </term>
                             <term xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག</term>
@@ -2048,61 +2050,61 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-206">
+                        <gloss type="person" xml:id="UT22084-055-004-206">
                             <term>Bhadrapāla</term>
                             <term xml:lang="Bo-Ltn">bzang skyong </term>
-                            <term xml:lang="bo">བཟང་སྐྱོང</term>
+                            <term xml:lang="bo">བཟང་སྐྱོང་།</term>
                             <term xml:lang="Sa-Ltn">Bhadrapāla</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-207">
+                        <gloss type="person" xml:id="UT22084-055-004-207">
                             <term>Bandé Yeshé Dé</term>
                             <term xml:lang="Bo-Ltn">ban de ye shes sde </term>
-                            <term xml:lang="bo">བན་དེ་ཡེ་ཤེས་སྡེ</term>
+                            <term xml:lang="bo">བན་དེ་ཡེ་ཤེས་སྡེ།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-208">
+                        <gloss type="person" xml:id="UT22084-055-004-208">
                             <term>Brahmā</term>
                             <term xml:lang="Bo-Ltn">tshangs pa </term>
-                            <term xml:lang="bo">ཚངས་པ</term>
+                            <term xml:lang="bo">ཚངས་པ།</term>
                             <term xml:lang="Sa-Ltn">Brahmā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-209">
+                        <gloss type="person" xml:id="UT22084-055-004-209">
                             <term>Dharaṇīṃdhara</term>
                             <term xml:lang="Bo-Ltn">sa ’dzin </term>
-                            <term xml:lang="bo">ས་འཛིན</term>
+                            <term xml:lang="bo">ས་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">Dharaṇīṃdhara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-210">
+                        <gloss type="person" xml:id="UT22084-055-004-210">
                             <term>Dīpaṃkara</term>
                             <term xml:lang="Bo-Ltn">mar me mdzad </term>
-                            <term xml:lang="bo">མར་མེ་མཛད</term>
+                            <term xml:lang="bo">མར་མེ་མཛད།</term>
                             <term xml:lang="Sa-Ltn">Dīpaṃkara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-211">
+                        <gloss type="person" xml:id="UT22084-055-004-211">
                             <term>Glorious Splendor</term>
                             <term xml:lang="Bo-Ltn">dpal gyi gzi brjid </term>
-                            <term xml:lang="bo">དཔལ་གྱི་གཟི་བརྗིད</term>
+                            <term xml:lang="bo">དཔལ་གྱི་གཟི་བརྗིད།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-212">
+                        <gloss type="person" xml:id="UT22084-055-004-212">
                             <term>Guhyagupta</term>
                             <term xml:lang="Bo-Ltn">phug sbas </term>
-                            <term xml:lang="bo">ཕུག་སྦས</term>
+                            <term xml:lang="bo">ཕུག་སྦས།</term>
                             <term xml:lang="Sa-Ltn">Guhyagupta</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-213">
+                        <gloss type="person" xml:id="UT22084-055-004-213">
                             <term>Harisiṃha</term>
                             <term xml:lang="Bo-Ltn">seng ge’i seng ge </term>
                             <term xml:lang="bo">སེང་གེའི་སེང་གེ</term>
@@ -2110,19 +2112,19 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-214">
+                        <gloss type="person" xml:id="UT22084-055-004-214">
                             <term>Jñānākara</term>
                             <term xml:lang="Bo-Ltn">ye shes ’byung gnas </term>
-                            <term xml:lang="bo">ཡེ་ཤེས་འབྱུང་གནས</term>
+                            <term xml:lang="bo">ཡེ་ཤེས་འབྱུང་གནས།</term>
                             <term xml:lang="Sa-Ltn">Jñānākara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-215">
+                        <gloss type="person" xml:id="UT22084-055-004-215">
                             <term>Supra­tiṣṭhita­guṇa­maṇi­kūṭa­rāja</term>
                             <term xml:lang="Bo-Ltn">yon tan shin tu gnas pa nor bu brtsegs pa’i
                                 rgyal po </term>
-                            <term xml:lang="bo">ཡོན་ཏན་ཤིན་ཏུ་གནས་པ་ནོར་བུ་བརྩེགས་པའི་རྒྱལ་པོ</term>
+                            <term xml:lang="bo">ཡོན་ཏན་ཤིན་ཏུ་གནས་པ་ནོར་བུ་བརྩེགས་པའི་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn">Supra­tiṣṭhita­guṇa­maṇi­kūṭa­rāja</term>
                             <term type="definition">“King Jewel Mound Full of Enduring
                                 Qualities.” The name that Mahā­sthāmprāpta will have when he becomes a tathāgata. The 
@@ -2132,59 +2134,59 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-216">
+                        <gloss type="person" xml:id="UT22084-055-004-216">
                             <term>Samanta­raśmyabhyudgata­śrī­kūta­rāja</term>
                             <term xml:lang="Bo-Ltn">’od zer kun nas ’phags pa’i dpal brtsegs rgyal
                                 po </term>
-                            <term xml:lang="bo">འོད་ཟེར་ཀུན་ནས་འཕགས་པའི་དཔལ་བརྩེགས་རྒྱལ་པོ</term>
+                            <term xml:lang="bo">འོད་ཟེར་ཀུན་ནས་འཕགས་པའི་དཔལ་བརྩེགས་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn">Samanta­raśmyabhyudgata­śrī­kūta­rāja</term>
                             <term type="definition">“King of Heaped Splendors That Shine Above
                                 All.” The name that Avalokiteśvara will have when he becomes a tathāgata. The Sanskrit name is attested in the <title xml:lang="Sa-Ltn">Karuṇā­puṇḍarīka­sūtra</title>.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-217">
+                        <gloss type="person" xml:id="UT22084-055-004-217">
                             <term>King of the Golden-Hued Lion’s
                                 Play</term>
                             <term xml:lang="Bo-Ltn">gser ’od seng ge’i rnam par rol pa’i rgyal po </term>
-                            <term xml:lang="bo">གསེར་འོད་སེང་གེའི་རྣམ་པར་རོལ་པའི་རྒྱལ་པོ</term>
+                            <term xml:lang="bo">གསེར་འོད་སེང་གེའི་རྣམ་པར་རོལ་པའི་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-218">
+                        <gloss type="person" xml:id="UT22084-055-004-218">
                             <term>Mahā­sthāmprāpta</term>
                             <term xml:lang="Bo-Ltn">mthu chen thob </term>
-                            <term xml:lang="bo">མཐུ་ཆེན་ཐོབ</term>
+                            <term xml:lang="bo">མཐུ་ཆེན་ཐོབ།</term>
                             <term xml:lang="Sa-Ltn">Mahā­sthāmprāpta</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-219">
+                        <gloss type="person" xml:id="UT22084-055-004-219">
                             <term>Maitreya</term>
                             <term xml:lang="Bo-Ltn">byams pa </term>
-                            <term xml:lang="bo">བྱམས་པ</term>
+                            <term xml:lang="bo">བྱམས་པ།</term>
                             <term xml:lang="Sa-Ltn">Maitreya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-220">
+                        <gloss type="person" xml:id="UT22084-055-004-220">
                             <term>Mañjuśrī Kumārabhūta</term>
                             <term xml:lang="Bo-Ltn">’jam dpal gzhon nur gyur pa </term>
-                            <term xml:lang="bo">འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ</term>
+                            <term xml:lang="bo">འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ།</term>
                             <term xml:lang="Sa-Ltn">Mañjuśrī Kumārabhuta</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-221">
+                        <gloss type="person" xml:id="UT22084-055-004-221">
                             <term>Padmaśrīgarbha</term>
                             <term xml:lang="Bo-Ltn">pad ma’i dpal gyi snying po </term>
-                            <term xml:lang="bo">པད་མའི་དཔལ་གྱི་སྙིང་པོ</term>
+                            <term xml:lang="bo">པད་མའི་དཔལ་གྱི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">Padmaśrīgarbha</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-222">
+                        <gloss type="person" xml:id="UT22084-055-004-222">
                             <term>Perfect Wealth</term>
                             <term xml:lang="Bo-Ltn">rin chen mchog </term>
                             <term xml:lang="bo">རིན་ཆེན་མཆོག</term>
@@ -2192,175 +2194,175 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-223">
+                        <gloss type="person" xml:id="UT22084-055-004-223">
                             <term>Precious Mind</term>
                             <term xml:lang="Bo-Ltn">rin chen sems </term>
-                            <term xml:lang="bo">རིན་ཆེན་སེམས</term>
+                            <term xml:lang="bo">རིན་ཆེན་སེམས།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-224">
+                        <gloss type="person" xml:id="UT22084-055-004-224">
                             <term>Ratnākara</term>
                             <term xml:lang="Bo-Ltn">dkon mchog ’byung gnas </term>
-                            <term xml:lang="bo">དཀོན་མཆོག་འབྱུང་གནས</term>
+                            <term xml:lang="bo">དཀོན་མཆོག་འབྱུང་གནས།</term>
                             <term xml:lang="Sa-Ltn">Ratnākara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-225">
+                        <gloss type="person" xml:id="UT22084-055-004-225">
                             <term>Repeller of All Disturbing
                                 Emotions</term>
                             <term xml:lang="Bo-Ltn">nyon mongs pa thams cad zlog pa </term>
-                            <term xml:lang="bo">ཉོན་མོངས་པ་ཐམས་ཅད་ཟློག་པ</term>
+                            <term xml:lang="bo">ཉོན་མོངས་པ་ཐམས་ཅད་ཟློག་པ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-226">
+                        <gloss type="person" xml:id="UT22084-055-004-226">
                             <term>Śakra</term>
                             <term xml:lang="Bo-Ltn">brgya byin </term>
-                            <term xml:lang="bo">བརྒྱ་བྱིན</term>
+                            <term xml:lang="bo">བརྒྱ་བྱིན།</term>
                             <term xml:lang="Sa-Ltn">Śakra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-227">
+                        <gloss type="person" xml:id="UT22084-055-004-227">
                             <term>Śākyamuni</term>
                             <term xml:lang="Bo-Ltn">shA kya thub pa </term>
-                            <term xml:lang="bo">ཤཱ་ཀྱ་ཐུབ་པ</term>
+                            <term xml:lang="bo">ཤཱ་ཀྱ་ཐུབ་པ།</term>
                             <term xml:lang="Sa-Ltn">Śākyamuni</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-228">
+                        <gloss type="person" xml:id="UT22084-055-004-228">
                             <term>Śāriputra</term>
                             <term xml:lang="Bo-Ltn">Shā ri’i bu </term>
-                            <term xml:lang="bo">ཥā་རིའི་བུ</term>
+                            <term xml:lang="bo">ཥā་རིའི་བུ།</term>
                             <term xml:lang="Sa-Ltn">Śāriputra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-229">
+                        <gloss type="person" xml:id="UT22084-055-004-229">
                             <term>Siṃhamati</term>
                             <term xml:lang="Bo-Ltn">seng ge’i blo gros </term>
-                            <term xml:lang="bo">སེང་གེའི་བློ་གྲོས</term>
+                            <term xml:lang="bo">སེང་གེའི་བློ་གྲོས།</term>
                             <term xml:lang="Sa-Ltn">Siṃhamati</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-230">
+                        <gloss type="person" xml:id="UT22084-055-004-230">
                             <term>Su­pratiṣṭhita­buddhi</term>
                             <term xml:lang="Bo-Ltn">legs par gnas pa’i blo gros </term>
-                            <term xml:lang="bo">ལེགས་པར་གནས་པའི་བློ་གྲོས</term>
+                            <term xml:lang="bo">ལེགས་པར་གནས་པའི་བློ་གྲོས།</term>
                             <term xml:lang="Sa-Ltn">Su­pratiṣṭhita­buddhi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-231">
+                        <gloss type="person" xml:id="UT22084-055-004-231">
                             <term>Surendrabodhi</term>
                             <term xml:lang="Bo-Ltn">su ren dra bo dhi </term>
-                            <term xml:lang="bo">སུ་རེན་དྲ་བོ་དྷི</term>
+                            <term xml:lang="bo">སུ་རེན་དྲ་བོ་དྷི།</term>
                             <term xml:lang="Sa-Ltn">Surendrabodhi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-232">
+                        <gloss type="person" xml:id="UT22084-055-004-232">
                             <term>Susīma</term>
                             <term xml:lang="Bo-Ltn">mtshams bzangs </term>
-                            <term xml:lang="bo">མཚམས་བཟངས</term>
+                            <term xml:lang="bo">མཚམས་བཟངས།</term>
                             <term xml:lang="Sa-Ltn">Susīma</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="1" xml:id="UT22084-055-004-233">
+                        <gloss type="person" xml:id="UT22084-055-004-233">
                             <term>Vairocana</term>
                             <term xml:lang="Bo-Ltn">rnam par snang byed </term>
-                            <term xml:lang="bo">རྣམ་པར་སྣང་བྱེད</term>
+                            <term xml:lang="bo">རྣམ་པར་སྣང་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">Vairocana</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-234">
+                        <gloss type="person" xml:id="UT22084-055-004-234">
                             <term>Varuṇa</term>
                             <term xml:lang="Bo-Ltn">chu lha </term>
-                            <term xml:lang="bo">ཆུ་ལྷ</term>
+                            <term xml:lang="bo">ཆུ་ལྷ།</term>
                             <term xml:lang="Sa-Ltn">Varuṇa</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-235">
+                        <gloss type="person" xml:id="UT22084-055-004-235">
                             <term>Vidyutdeva</term>
                             <term xml:lang="Bo-Ltn">glog lha </term>
-                            <term xml:lang="bo">གློག་ལྷ</term>
+                            <term xml:lang="bo">གློག་ལྷ།</term>
                             <term xml:lang="Sa-Ltn">Vidyutdeva</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-055-004-236">
+                        <gloss type="person" xml:id="UT22084-055-004-236">
                             <term>Viraja</term>
                             <term xml:lang="Bo-Ltn">rdul dang bral ba </term>
-                            <term xml:lang="bo">རྡུལ་དང་བྲལ་བ</term>
+                            <term xml:lang="bo">རྡུལ་དང་བྲལ་བ།</term>
                             <term xml:lang="Sa-Ltn">Viraja</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-055-004-237">
+                        <gloss type="place" xml:id="UT22084-055-004-237">
                             <term>Boundless Accumulation of Precious
                                 Qualities and Full Display of Happiness</term>
                             <term xml:lang="Bo-Ltn">yon tan rin chen bsag pa dpag tu med pa bde ba
                                 kun tu ston pa </term>
-                            <term xml:lang="bo">ཡོན་ཏན་རིན་ཆེན་བསག་པ་དཔག་ཏུ་མེད་པ་བདེ་བ་ཀུན་ཏུ་སྟོན་པ</term>
+                            <term xml:lang="bo">ཡོན་ཏན་རིན་ཆེན་བསག་པ་དཔག་ཏུ་མེད་པ་བདེ་བ་ཀུན་ཏུ་སྟོན་པ།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="3" xml:id="UT22084-055-004-238">
+                        <gloss type="place" xml:id="UT22084-055-004-238">
                             <term>Greater Mucilinda Mountains</term>
                             <term xml:lang="Bo-Ltn">btang bzung chen po </term>
-                            <term xml:lang="bo">བཏང་བཟུང་ཆེན་པོ</term>
+                            <term xml:lang="bo">བཏང་བཟུང་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahāmucilinda</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-055-004-239">
+                        <gloss type="place" xml:id="UT22084-055-004-239">
                             <term>Hill of the Fallen Sages</term>
                             <term xml:lang="Bo-Ltn">drang srong lhung ba </term>
-                            <term xml:lang="bo">དྲང་སྲོང་ལྷུང་བ</term>
+                            <term xml:lang="bo">དྲང་སྲོང་ལྷུང་བ།</term>
                             <term xml:lang="Sa-Ltn">Ṛṣipatana</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="2" xml:id="UT22084-055-004-240">
+                        <gloss type="place" xml:id="UT22084-055-004-240">
                             <term>Mucilinda Mountains</term>
                             <term xml:lang="Bo-Ltn">btang bzung </term>
-                            <term xml:lang="bo">བཏང་བཟུང</term>
+                            <term xml:lang="bo">བཏང་བཟུང།</term>
                             <term xml:lang="Sa-Ltn">mucilinda</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-055-004-241">
+                        <gloss type="place" xml:id="UT22084-055-004-241">
                             <term>Sahā</term>
                             <term xml:lang="Bo-Ltn">mi mjed </term>
-                            <term xml:lang="bo">མི་མཇེད</term>
+                            <term xml:lang="bo">མི་མཇེད།</term>
                             <term xml:lang="Sa-Ltn">Sahā</term>
                             <term type="definition">The present world.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-055-004-242">
+                        <gloss type="place" xml:id="UT22084-055-004-242">
                             <term>Sukhāvatī</term>
                             <term xml:lang="Bo-Ltn">bde ba can </term>
-                            <term xml:lang="bo">བདེ་བ་ཅན</term>
+                            <term xml:lang="bo">བདེ་བ་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Sukhāvatī</term>
                             <term type="definition">The buddha realm in which Buddha Amitābha
                                 lives.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-055-004-243">
+                        <gloss type="place" xml:id="UT22084-055-004-243">
                             <term>Complete Gathering of Wealth</term>
                             <term xml:lang="Bo-Ltn">rin chen kun nas bsags pa </term>
-                            <term xml:lang="bo">རིན་ཆེན་ཀུན་ནས་བསགས་པ</term>
+                            <term xml:lang="bo">རིན་ཆེན་ཀུན་ནས་བསགས་པ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                             <term type="definition">The buddha realm in which Avalokiteśvara will become a fully 
                                 enlightened buddha. Probably the same as Sarvaratnasannicaya attested in

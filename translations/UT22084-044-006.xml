@@ -47,14 +47,14 @@
                 <bibl>
                     <ref>Toh 86</ref>
                     <biblScope>Degé Kangyur, vol. 44 (dkon brtsegs, cha), folios
-                        116b–119b</biblScope>
+                        116.b–119.b</biblScope>
                     <author role="translatorTib">Jinamitra </author>
                     <author role="translatorTib">Danaśila</author>
                     <author role="translatorTib">Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:00:39 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 14:29:51 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -171,7 +171,8 @@
                 <head type="titleMain">The Question of Maitreya on the Eight Qualities </head>
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-044-006-11"/>
-                    <p tid="12">Homage to all the buddhas and bodhisattvas!</p>
+                    <p tid="12">
+                        <ref cRef="F.116.b"/>Homage to all the buddhas and bodhisattvas!</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-044-006-12"/>
                     <p tid="13">Thus have I heard at one time. The Blessed One was staying in Rājagṛha on the
@@ -211,7 +212,7 @@
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-044-006-16"/>
                     <p tid="19">The Blessed One, in turn, continued, “Maitreya, if a bodhisattva possesses eight qualities, he will become
-                            irreversibly set on supreme and perfect enlightenment <ref cRef="F. 117.b"/> without regressing, without regressing in the
+                            irreversibly set on supreme and perfect enlightenment <ref cRef="F.117.b"/> without regressing, without regressing in the
                             slightest, and will gain special attainments; he will vanquish negative
                             and hostile influences; and, while engaging in the conduct of a
                             bodhisattva, he will realize the intrinsic characteristics of all
@@ -236,7 +237,7 @@
                             has excellent intention. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-006-19"/>
                     <p tid="22">“Maitreya, how does such a bodhisattva have excellent application? Well,
-                            Maitreya, such a bodhisattva mahāsattva renounces killing, theft, <ref cRef="F. 118.a"/> sexual misconduct, falsehood, slander, harsh
+                            Maitreya, such a bodhisattva mahāsattva renounces killing, theft, <ref cRef="F.118.a"/> sexual misconduct, falsehood, slander, harsh
                             speech, and gossip. This, Maitreya, is how the bodhisattva mahāsattva
                             has excellent application. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-006-20"/>
@@ -266,7 +267,7 @@
                     <p tid="26">“Maitreya, how does such a bodhisattva have excellent compassion? Well,
                             Maitreya, the bodhisattva mahāsattva’s physical actions are without
                             malice, his verbal actions are without malice, and his mental actions
-                            are without malice. <ref cRef="F. 118.b"/> This, Maitreya, is how the
+                            are without malice. <ref cRef="F.118.b"/> This, Maitreya, is how the
                             bodhisattva has excellent compassion. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-006-24"/>
                     <p tid="27">“Maitreya, how does such a bodhisattva mahāsattva have skill in his
@@ -298,7 +299,7 @@
                             formations cease. When karmic formations cease, consciousness ceases.
                             When consciousness ceases, name and form cease. When name and form
                             cease, the six sources of perception cease. When the six sources of
-                            perception cease, contact ceases. When contact ceases, feeling <ref cRef="F. 119.a"/> ceases. 
+                            perception cease, contact ceases. When contact ceases, feeling <ref cRef="F.119.a"/> ceases. 
                             When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping 
                             ceases, existence ceases. When existence ceases, birth ceases.
                             When birth ceases, aging, death, misery, lamentations, suffering,
@@ -361,72 +362,72 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-34">
+                        <gloss type="term" xml:id="UT22084-044-006-34">
                             <term>perfection of wisdom</term>
                             <term xml:lang="Bo-Ltn">shes rab kyi pha rol tu phyin pa </term>
-                            <term xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ</term>
+                            <term xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
                             <term xml:lang="Sa-Ltn">prajñāpāramitā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-35">
+                        <gloss type="term" xml:id="UT22084-044-006-35">
                             <term>intrinsic characteristics</term>
                             <term xml:lang="Bo-Ltn">ngo bo nyid kyi mtshan nyid </term>
-                            <term xml:lang="bo">ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད</term>
-                        </gloss>
+                            <term xml:lang="bo">ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-36">
+                        <gloss type="term" xml:id="UT22084-044-006-36">
                             <term>intention</term>
                             <term xml:lang="Bo-Ltn">bsam pa </term>
-                            <term xml:lang="bo">བསམ་པ</term>
-                        </gloss>
+                            <term xml:lang="bo">བསམ་པ།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-37">
+                        <gloss type="term" xml:id="UT22084-044-006-37">
                             <term>application</term>
                             <term xml:lang="Bo-Ltn">sbyor ba </term>
-                            <term xml:lang="bo">སྦྱོར་བ</term>
-                        </gloss>
+                            <term xml:lang="bo">སྦྱོར་བ།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-38">
+                        <gloss type="term" xml:id="UT22084-044-006-38">
                             <term>giving</term>
                             <term xml:lang="Bo-Ltn">gtong ba </term>
-                            <term xml:lang="bo">གཏོང་བ</term>
-                        </gloss>
+                            <term xml:lang="bo">གཏོང་བ།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-39">
+                        <gloss type="term" xml:id="UT22084-044-006-39">
                             <term>emancipation</term>
                             <term xml:lang="Bo-Ltn">nges par byung ba </term>
-                            <term xml:lang="bo">ངེས་པར་བྱུང་བ</term>
-                        </gloss>
+                            <term xml:lang="bo">ངེས་པར་བྱུང་བ།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-40">
+                        <gloss type="term" xml:id="UT22084-044-006-40">
                             <term>malice</term>
                             <term xml:lang="Bo-Ltn">gnod sems </term>
-                            <term xml:lang="bo">གནོད་སེམས</term>
-                        </gloss>
+                            <term xml:lang="bo">གནོད་སེམས།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-044-006-41">
+                        <gloss type="term" xml:id="UT22084-044-006-41">
                             <term>indefatigable</term>
                             <term xml:lang="Bo-Ltn">mi skyo ba </term>
-                            <term xml:lang="bo">མི་སྐྱོ་བ</term>
-                        </gloss>
+                            <term xml:lang="bo">མི་སྐྱོ་བ།</term>
+                            </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-044-006-42">
+                        <gloss type="person" xml:id="UT22084-044-006-42">
                             <term>Maitreya</term>
                             <term xml:lang="Bo-Ltn">byams pa </term>
-                            <term xml:lang="bo">བྱམས་པ</term>
+                            <term xml:lang="bo">བྱམས་པ།</term>
                             <term xml:lang="Sa-Ltn">Maitreya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-044-006-43">
+                        <gloss type="place" xml:id="UT22084-044-006-43">
                             <term>Country of the Bhargas</term>
                             <term xml:lang="Bo-Ltn">yul bha rga </term>
                             <term xml:lang="bo">ཡུལ་བྷ་རྒ</term>
@@ -434,18 +435,19 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-044-006-44">
+                        <gloss type="place" xml:id="UT22084-044-006-44">
                             <term>Mount Śuśumāra</term>
                             <term xml:lang="Bo-Ltn">chu srin byis pa gsod lta bu’i ri </term>
-                            <term xml:lang="bo">ཆུ་སྲིན་བྱིས་པ་གསོད་ལྟ་བུའི་རི</term>
+                            <term xml:lang="bo">ཆུ་སྲིན་བྱིས་པ་གསོད་ལྟ་བུའི་རི།</term>
                             <term xml:lang="Sa-Ltn">Śuśumāragiri</term>
+                            <term type="definition">Sometimes has the alternative Sanskrit spelling Śiśumāragiri.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-044-006-45">
+                        <gloss type="place" xml:id="UT22084-044-006-45">
                             <term>Vulture Peak Mountain</term>
                             <term xml:lang="Bo-Ltn">bya rgod phung po’i ri </term>
-                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི</term>
+                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི།</term>
                             <term xml:lang="Sa-Ltn">Gṛdhra­kūta­parvata</term>
                         </gloss>
                     </item>

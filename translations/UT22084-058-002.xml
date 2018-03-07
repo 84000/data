@@ -44,13 +44,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 155</ref>
-                    <biblScope>Degé Kangyur, vol. 58 (mdo sde, pa), folios 205a-205b</biblScope>
+                    <biblScope>Degé Kangyur, vol. 58 (mdo sde, pa), folios 205.a-205.b</biblScope>
                     <author role="translatorTib">Surendrabodhi</author>
                     <author role="translatorTib">Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:04:14 by admin</note>
+                <note type="lastUpdated">Last updated at 14/01/2018 at 10:04:23 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -227,14 +227,14 @@
                     <milestone unit="chunk" xml:id="UT22084-058-002-13"/>
                     <p tid="14">
                         <!--<modularPassage type="homage">-->
-                        <ref cRef="F.409.a"/>Prostrations to all buddhas and
+                        <ref cRef="F.205.a"/> Prostrations to all buddhas and
                         bodhisattvas.<!--</modularPassage>-->
                     </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-058-002-14"/>
                     <p tid="15">
                         <!--<modularPassage type="thusDid">-->Thus did I hear at one time. The
-                        Bhagavān was dwelling at the place of the nāga king Sāgara together with a
+                        Bhagavān <ref cRef="F.205.b"/> was dwelling at the place of the nāga king Sāgara together with a
                         great assembly of 1,250<!--</modularPassage>--> bhikṣus as well as a
                         multitude of bodhisattvas and mahāsattvas. At that time the Bhagavān said to
                         the nāga king Sāgara: </p>
@@ -383,36 +383,36 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-42">
+                        <gloss type="term" xml:id="UT22084-058-002-42">
                             <term>bhikṣu</term>
                             <term xml:lang="Bo-Ltn">dge slong </term>
-                            <term xml:lang="bo">དགེ་སློང</term>
+                            <term xml:lang="bo">དགེ་སློང་།</term>
                             <term xml:lang="Sa-Ltn">bhikṣu</term>
                             <term type="definition">A fully ordained monk of the Buddhist
                                 Saṅgha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-43">
+                        <gloss type="term" xml:id="UT22084-058-002-43">
                             <term>compounded phenomena</term>
                             <term xml:lang="Bo-Ltn">’du byed </term>
-                            <term xml:lang="bo">འདུ་བྱེད</term>
+                            <term xml:lang="bo">འདུ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">saṃskāra</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-44">
+                        <gloss type="term" xml:id="UT22084-058-002-44">
                             <term>impermanent</term>
                             <term xml:lang="Bo-Ltn">mi rtag pa </term>
-                            <term xml:lang="bo">མི་རྟག་པ</term>
+                            <term xml:lang="bo">མི་རྟག་པ།</term>
                             <term xml:lang="Sa-Ltn">anitya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-45">
+                        <gloss type="term" xml:id="UT22084-058-002-45">
                             <term>contaminated phenomena</term>
                             <term xml:lang="Bo-Ltn">zag pa dang bcas pa </term>
-                            <term xml:lang="bo">ཟག་པ་དང་བཅས་པ</term>
+                            <term xml:lang="bo">ཟག་པ་དང་བཅས་པ།</term>
                             <term xml:lang="Sa-Ltn">sāsrava</term>
                             <term type="definition">The phenomena of saṃsāra. Contaminated phenomena
                                 are those influenced by the defilements (<foreign type="term" xml:lang="Sa-Ltn">kleśa</foreign>, <foreign type="term" xml:lang="Bo-Ltn">nyon mongs</foreign>) and karma. Thus, e.g.,
@@ -421,43 +421,43 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-46">
+                        <gloss type="term" xml:id="UT22084-058-002-46">
                             <term>suffering</term>
                             <term xml:lang="Bo-Ltn">sdug bsngal ba </term>
-                            <term xml:lang="bo">སྡུག་བསྔལ་བ</term>
+                            <term xml:lang="bo">སྡུག་བསྔལ་བ།</term>
                             <term xml:lang="Sa-Ltn">duḥkha</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-47">
+                        <gloss type="term" xml:id="UT22084-058-002-47">
                             <term>without self</term>
                             <term xml:lang="Bo-Ltn">bdag med pa </term>
-                            <term xml:lang="bo">བདག་མེད་པ</term>
+                            <term xml:lang="bo">བདག་མེད་པ།</term>
                             <term xml:lang="Sa-Ltn">anātman</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-48">
+                        <gloss type="term" xml:id="UT22084-058-002-48">
                             <term>nirvāṇa</term>
                             <term xml:lang="Bo-Ltn">mya ngan las ’das pa </term>
-                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ</term>
+                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ།</term>
                             <term xml:lang="Sa-Ltn">nirvāṇa</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-058-002-49">
+                        <gloss type="term" xml:id="UT22084-058-002-49">
                             <term>peaceful</term>
                             <term xml:lang="Bo-Ltn">zhi ba </term>
-                            <term xml:lang="bo">ཞི་བ</term>
+                            <term xml:lang="bo">ཞི་བ།</term>
                             <term xml:lang="Sa-Ltn">śānta/śānti</term>
                             <term type="alternative" xml:lang="en">peace</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-50">
+                        <gloss type="term" xml:id="UT22084-058-002-50">
                             <term>four aphorisms of the Dharma</term>
                             <term xml:lang="Bo-Ltn">chos kyi mdo bzhi </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་མདོ་བཞི</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་མདོ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">dharmoddāna­catuṣṭaya</term>
                             <term type="definition">The main topic of this sūtra; known also in
                                 Tibetan by the synonym <foreign type="term" xml:lang="Bo-Ltn">bka’
@@ -468,10 +468,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-058-002-51">
+                        <gloss type="term" xml:id="UT22084-058-002-51">
                             <term>four seals</term>
                             <term xml:lang="Bo-Ltn">phyag rgya bzhi </term>
-                            <term xml:lang="bo">ཕྱག་རྒྱ་བཞི</term>
+                            <term xml:lang="bo">ཕྱག་རྒྱ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">caturmudrā</term>
                             <term type="definition">A synonym for the “four aphorisms of the
                                 Dharma,” q.v. Often seen in Tibetan in the expanded form <foreign type="term" xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya
@@ -481,10 +481,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-058-002-52">
+                        <gloss type="person" xml:id="UT22084-058-002-52">
                             <term>Nāga King Sāgara</term>
                             <term xml:lang="Bo-Ltn">klu’i rgyal po rgya mtsho </term>
-                            <term xml:lang="bo">ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ</term>
+                            <term xml:lang="bo">ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ།</term>
                             <term xml:lang="Sa-Ltn">Sāgaranāgarāja</term>
                             <term type="definition">Name of a king of a race of supernatural
                                 serpents who protect the doctrine.</term>

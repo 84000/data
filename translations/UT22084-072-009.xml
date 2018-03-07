@@ -41,13 +41,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 309</ref>
-                    <biblScope>Degé Kangyur, vol 72 (mdo sde, sa), folios 155a-155b</biblScope>
+                    <biblScope>Degé Kangyur, vol 72 (mdo sde, sa), folios 155.a-155.b</biblScope>
                     <author role="translatorTib">Surendrabodhi</author>
                     <author role="translatorTib">Zhang Yeshé Dé</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:07:01 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 15:44:11 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -141,7 +141,7 @@
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-072-009-6"/>
                     <p tid="7">
-                        <!--<modularPassage type="homage">-->Homage to all buddhas and
+                        <ref cRef="F.155.a"/> <!--<modularPassage type="homage">-->Homage to all buddhas and
                         bodhisattvas!<!--</modularPassage>-->
                     </p>
                     <lb/>
@@ -236,11 +236,11 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-21">
+                        <gloss type="term" xml:id="UT22084-072-009-21">
                             <term>three principal characteristics of
                                 existence</term>
                             <term xml:lang="Bo-Ltn">bkar btags gsum </term>
-                            <term xml:lang="bo">བཀར་བཏགས་གསུམ</term>
+                            <term xml:lang="bo">བཀར་བཏགས་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">(Pāli tilakkhaṇa)</term>
                             <term type="definition">Impermanence, suffering, and no-self. They are
                                 called the “three characteristics” in Pāli, a term that has no
@@ -251,45 +251,45 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-22">
+                        <gloss type="term" xml:id="UT22084-072-009-22">
                             <term>impermanent</term>
                             <term xml:lang="Bo-Ltn">mi rtag pa </term>
-                            <term xml:lang="bo">མི་རྟག་པ</term>
+                            <term xml:lang="bo">མི་རྟག་པ།</term>
                             <term xml:lang="Sa-Ltn">anitya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-23">
+                        <gloss type="term" xml:id="UT22084-072-009-23">
                             <term>impermanence</term>
                             <term xml:lang="Bo-Ltn">mi rtag pa nyid </term>
-                            <term xml:lang="bo">མི་རྟག་པ་ཉིད</term>
+                            <term xml:lang="bo">མི་རྟག་པ་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">anityatā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-24">
+                        <gloss type="term" xml:id="UT22084-072-009-24">
                             <term>suffering</term>
                             <term xml:lang="Bo-Ltn">bdug bsngal </term>
-                            <term xml:lang="bo">བདུག་བསྔལ</term>
+                            <term xml:lang="bo">བདུག་བསྔལ།</term>
                             <term xml:lang="Sa-Ltn">duḥkha</term>
                             <term type="alternative" xml:lang="en">unsatisfactoriness</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-25">
+                        <gloss type="term" xml:id="UT22084-072-009-25">
                             <term>no-self</term>
                             <term xml:lang="Bo-Ltn">bdag med </term>
-                            <term xml:lang="bo">བདག་མེད</term>
+                            <term xml:lang="bo">བདག་མེད།</term>
                             <term xml:lang="Sa-Ltn">anātman</term>
                             <term type="alternative" xml:lang="en">lack of an inherent
                                 substance</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-26">
+                        <gloss type="term" xml:id="UT22084-072-009-26">
                             <term>four seals of the Buddha’s teaching</term>
                             <term xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya bzhi__,__bkar btags bzhi__,__chos kyi sdom bzhi </term>
-                            <term xml:lang="bo">བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི  ,  བཀར་བཏགས་བཞི  ,  ཆོས་ཀྱི་སྡོམ་བཞི</term>
+                            <term xml:lang="bo">བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི།  ,  བཀར་བཏགས་བཞི།  ,  ཆོས་ཀྱི་སྡོམ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">caturdharmoddāna</term>
                             <term type="definition">All conditioned phenomena are impermanent; all
                                 defilements are suffering; all phenomena are without self; nirvāṇa
@@ -297,10 +297,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-072-009-27">
+                        <gloss type="term" xml:id="UT22084-072-009-27">
                             <term>singled out</term>
                             <term xml:lang="Bo-Ltn">dben pa </term>
-                            <term xml:lang="bo">དབེན་པ</term>
+                            <term xml:lang="bo">དབེན་པ།</term>
                             <term xml:lang="Sa-Ltn">viveka, vivikta</term>
                         </gloss>
                     </item>

@@ -198,42 +198,49 @@
                     <!-- sourceDesc -->
                     <rng:element name="sourceDesc">
                         <!-- bibl -->
-                        <rng:element name="bibl">
-                            <rng:element name="ref">
-                                <rng:data type="string"/>
-                            </rng:element>
-                            <rng:text/>
-                            <rng:element name="biblScope">
+                        <rng:oneOrMore>
+                            <rng:element name="bibl">
+                                <rng:element name="ref">
+                                    <rng:data type="string"/>
+                                </rng:element>
+                                <rng:text/>
+                                <rng:element name="biblScope">
+                                    <rng:zeroOrMore>
+                                        <rng:choice>
+                                            <rng:text/>
+                                            <rng:element name="lb">
+                                                <rng:ref name="lb"/>
+                                            </rng:element>
+                                        </rng:choice>
+                                    </rng:zeroOrMore>
+                                </rng:element>
+                                <rng:optional>
+                                    <rng:element name="series">
+                                        <rng:data type="string"/>
+                                    </rng:element>
+                                </rng:optional>
+                                <rng:optional>
+                                    <rng:attribute name="key">
+                                       <rng:data type="integer"/>
+                                    </rng:attribute>
+                                </rng:optional>
+                                <rng:optional>
+                                    <rng:element name="citedRange">
+                                        <rng:data type="string"/>
+                                    </rng:element>
+                                </rng:optional>
                                 <rng:zeroOrMore>
-                                    <rng:choice>
+                                    <rng:element name="author">
+                                        <rng:attribute name="role">
+                                            <rng:choice>
+                                                <rng:value>translatorTib</rng:value>
+                                            </rng:choice>
+                                        </rng:attribute>
                                         <rng:text/>
-                                        <rng:element name="lb">
-                                            <rng:ref name="lb"/>
-                                        </rng:element>
-                                    </rng:choice>
+                                    </rng:element>
                                 </rng:zeroOrMore>
                             </rng:element>
-                            <rng:optional>
-                                <rng:element name="series">
-                                    <rng:data type="string"/>
-                                </rng:element>
-                            </rng:optional>
-                            <rng:optional>
-                                <rng:element name="citedRange">
-                                    <rng:data type="string"/>
-                                </rng:element>
-                            </rng:optional>
-                            <rng:zeroOrMore>
-                                <rng:element name="author">
-                                    <rng:attribute name="role">
-                                        <rng:choice>
-                                            <rng:value>translatorTib</rng:value>
-                                        </rng:choice>
-                                    </rng:attribute>
-                                    <rng:text/>
-                                </rng:element>
-                            </rng:zeroOrMore>
-                        </rng:element>
+                        </rng:oneOrMore>
                     </rng:element>
                     <!-- notesStmt -->
                     <rng:optional>
@@ -590,31 +597,41 @@
                                             <rng:oneOrMore>
                                                 <!-- item -->
                                                 <rng:element name="item">
-                                                  <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
-                                                  <rng:text/>
-                                                  </rng:attribute>
+                                                    <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
+                                                        <rng:text/>
+                                                    </rng:attribute>
                                                     <rng:text/>
-                                                  <!-- abbr -->
-                                                  <rng:optional>
-                                                  <rng:element name="abbr">
-                                                  <rng:data type="string"/>
-                                                  </rng:element>
-                                                  </rng:optional>
-                                                  <!-- expan -->
-                                                  <rng:optional>
-                                                  <rng:element name="expan">
-                                                  <rng:oneOrMore>
-                                                  <rng:choice>
-                                                  <rng:zeroOrMore>
-                                                  <rng:element name="foreign">
-                                                  <rng:ref name="foreign"/>
-                                                  </rng:element>
-                                                  </rng:zeroOrMore>
-                                                  <rng:text/>
-                                                  </rng:choice>
-                                                  </rng:oneOrMore>
-                                                  </rng:element>
-                                                  </rng:optional>
+                                                    <!-- abbr -->
+                                                    <rng:optional>
+                                                        <rng:element name="abbr">
+                                                            <rng:data type="string"/>
+                                                        </rng:element>
+                                                    </rng:optional>
+                                                    <!-- expan -->
+                                                    <rng:optional>
+                                                        <rng:element name="expan">
+                                                            <rng:oneOrMore>
+                                                                <rng:choice>
+                                                                    <rng:zeroOrMore>
+                                                                        <rng:element name="foreign">
+                                                                            <rng:ref name="foreign"/>
+                                                                        </rng:element>
+                                                                    </rng:zeroOrMore>
+                                                                    <rng:zeroOrMore>
+                                                                        <rng:element name="title">
+                                                                            <rng:ref name="title"/>
+                                                                        </rng:element>
+                                                                    </rng:zeroOrMore>
+                                                                    <rng:zeroOrMore>
+                                                                        <rng:element name="ptr">
+                                                                            <rng:ref name="ptr"/>
+                                                                        </rng:element>
+                                                                    </rng:zeroOrMore>
+                                                                    <rng:text/>
+                                                                </rng:choice>
+                                                            </rng:oneOrMore>
+                                                        </rng:element>
+                                                    </rng:optional>
                                                 </rng:element>
                                             </rng:oneOrMore>
                                         </rng:element>
@@ -682,9 +699,6 @@
                                                         <rng:value>text</rng:value>
                                                     </rng:choice>
                                                   </rng:attribute>
-                                                  <rng:attribute name="priority">
-                                                    <rng:data type="integer"/>
-                                                  </rng:attribute>
                                                   <rng:optional>
                                                       <rng:attribute name="mode">
                                                           <rng:choice>
@@ -699,6 +713,11 @@
                                                          <rng:oneOrMore>
                                                            <rng:choice>
                                                              <rng:text/>
+                                                               <rng:zeroOrMore>
+                                                                   <rng:element name="term">
+                                                                       <rng:ref name="term"/>
+                                                                   </rng:element>
+                                                               </rng:zeroOrMore>
                                                                <rng:zeroOrMore>
                                                                    <rng:element name="foreign">
                                                                        <rng:ref name="foreign"/>
@@ -735,6 +754,7 @@
                                                                    <rng:value type="language">de</rng:value>
                                                                    <rng:value type="language">ja</rng:value>
                                                                    <rng:value type="language">it</rng:value>
+                                                                   <rng:value type="language">Zh-Ltn</rng:value>
                                                                    <rng:value type="language">el</rng:value>
                                                                    <rng:value type="language">th</rng:value>
                                                                </rng:choice>
@@ -1107,7 +1127,16 @@
                                 </rng:choice>
                             </rng:attribute>
                         </rng:optional>
-                        <rng:text/>
+                        <rng:oneOrMore>
+                            <rng:choice>
+                                <rng:zeroOrMore>
+                                    <rng:element name="foreign">
+                                        <rng:ref name="foreign"/>
+                                    </rng:element>
+                                </rng:zeroOrMore>
+                                <rng:text/>
+                            </rng:choice>
+                        </rng:oneOrMore>
                     </rng:element>
                 </rng:zeroOrMore>
             </rng:choice>
@@ -1168,6 +1197,18 @@
                         <rng:ref name="lb"/>
                     </rng:element>
                 </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                    <rng:element name="term">
+                        <rng:optional>
+                            <rng:attribute name="type">
+                                <rng:choice>
+                                    <rng:value>ignore</rng:value>
+                                </rng:choice>
+                            </rng:attribute>
+                        </rng:optional>
+                        <rng:text/>
+                    </rng:element>
+                </rng:zeroOrMore>
             </rng:choice>
         </rng:zeroOrMore>
     </rng:define>
@@ -1193,11 +1234,27 @@
             </rng:choice>
         </rng:oneOrMore>
     </rng:define>
+    <!--    term type -->
+    <rng:define name="term" ns="http://www.tei-c.org/ns/1.0">
+        <rng:optional>
+            <rng:attribute name="type">
+                <rng:choice>
+                    <rng:value>ignore</rng:value>
+                </rng:choice>
+            </rng:attribute>
+        </rng:optional>
+        <rng:text/>
+    </rng:define>
     <!-- l type -->
     <rng:define name="l" ns="http://www.tei-c.org/ns/1.0">
         <rng:oneOrMore>
             <rng:choice>
                 <rng:text/>
+                <rng:zeroOrMore>
+                    <rng:element name="term">
+                        <rng:ref name="term"/>
+                    </rng:element>
+                </rng:zeroOrMore>
                 <rng:zeroOrMore>
                     <rng:element name="title">
                         <rng:ref name="title"/>
@@ -1311,7 +1368,13 @@
                         <rng:attribute name="tid">
                             <rng:data type="integer"/>
                         </rng:attribute>
-                        <rng:data type="string"/>
+                        <rng:text/>
+                    </rng:element>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                    <!-- invalid in html -->
+                    <rng:element name="p">
+                        <rng:ref name="paragraph"/>
                     </rng:element>
                 </rng:zeroOrMore>
                 <rng:oneOrMore>
@@ -1337,6 +1400,25 @@
                                 <rng:zeroOrMore>
                                     <rng:element name="lb">
                                         <rng:ref name="lb"/>
+                                    </rng:element>
+                                </rng:zeroOrMore>
+                                <rng:zeroOrMore>
+                                    <rng:element name="label">
+                                        <rng:oneOrMore>
+                                            <rng:choice>
+                                                <rng:text/>
+                                                <rng:zeroOrMore>
+                                                    <rng:element name="foreign">
+                                                        <rng:ref name="foreign"/>
+                                                    </rng:element>
+                                                </rng:zeroOrMore>
+                                            </rng:choice>
+                                        </rng:oneOrMore>
+                                    </rng:element>
+                                </rng:zeroOrMore>
+                                <rng:zeroOrMore>
+                                    <rng:element name="milestone">
+                                        <rng:ref name="milestone"/>
                                     </rng:element>
                                 </rng:zeroOrMore>
                             </rng:choice>
@@ -1396,6 +1478,7 @@
                     <rng:value type="language">de</rng:value>
                     <rng:value type="language">ja</rng:value>
                     <rng:value type="language">it</rng:value>
+                    <rng:value type="language">Zh-Ltn</rng:value>
                     <rng:value type="language">el</rng:value>
                     <rng:value type="language">th</rng:value>
                 </rng:choice>
@@ -1423,6 +1506,16 @@
                         <rng:ref name="note"/>
                     </rng:element>
                 </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                    <rng:element name="term">
+                        <rng:attribute name="type">
+                            <rng:choice>
+                                <rng:value>ignore</rng:value>
+                            </rng:choice>
+                        </rng:attribute>
+                        <rng:text/>
+                    </rng:element>
+                </rng:zeroOrMore>
             </rng:choice>
         </rng:oneOrMore>
     </rng:define>
@@ -1442,7 +1535,7 @@
                     <rng:value type="language">de</rng:value>
                     <rng:value type="language">ja</rng:value>
                     <rng:value type="language">it</rng:value>
-                    <rng:value type="language">Chi-Ltn</rng:value>
+                    <rng:value type="language">Zh-Ltn</rng:value>
                     <rng:value type="language">el</rng:value>
                     <rng:value type="language">th</rng:value>
                 </rng:choice>
@@ -1525,6 +1618,11 @@
                     </rng:element>
                 </rng:zeroOrMore>
                 <rng:zeroOrMore>
+                    <rng:element name="term">
+                        <rng:ref name="term"/>
+                    </rng:element>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
                     <rng:element name="abbr">
                         <rng:data type="string"/>
                     </rng:element>
@@ -1547,6 +1645,16 @@
         <rng:optional>
             <rng:attribute name="type">
                 <rng:data type="string"/>
+            </rng:attribute>
+        </rng:optional>
+        <rng:optional>
+            <rng:attribute name="rend">
+                <rng:data type="string"/>
+            </rng:attribute>
+        </rng:optional>
+        <rng:optional>
+            <rng:attribute name="key">
+                <rng:data type="integer"/>
             </rng:attribute>
         </rng:optional>
         <rng:optional>

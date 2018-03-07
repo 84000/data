@@ -44,12 +44,12 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 283</ref>
-                    <biblScope>Degé Kangyur, vol. 68 (mdo sde, ya), folios 56a–57a</biblScope>
+                    <biblScope>Degé Kangyur, vol. 68 (mdo sde, ya), folios 56.a–57.a</biblScope>
                     <author role="translatorTib">Unknown</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:06:49 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 15:43:04 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -91,7 +91,7 @@
                     <milestone unit="chunk" xml:id="UT22084-068-017-3"/>
                     <p tid="4">The setting of this sūtra is Vulture Peak in Rajgir (Rājgṛha), said to be the
                         location where the Buddha, explaining the doctrine of emptiness in the
-                        second turning of the wheel of Dharma, taught the <foreign xml:lang="Sa-Ltn">prajñā­pāramitā </foreign> and other topics associated with Mahāyāna
+                        second turning of the wheel of Dharma, taught the <foreign xml:lang="Sa-Ltn">prajñā­pāramitā</foreign> and other topics associated with Mahāyāna
                         Buddhism. It is here that the bodhisattva Kṣitigarbha asks the Buddha a
                         series of questions regarding the body of the Buddha, which the Buddha
                         answers by expounding the teaching on the three bodies.</p>
@@ -252,50 +252,50 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-25">
+                        <gloss type="term" xml:id="UT22084-068-017-25">
                             <term>bodhisattva</term>
                             <term xml:lang="Bo-Ltn">byang chub sems dpa’ </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའ</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའ།</term>
                             <term xml:lang="Sa-Ltn">bodhisattva</term>
                             <term type="definition">According to the Mahāyāna, an individual with
                                 the intent to achieve awakening for the sake of all beings.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-26">
+                        <gloss type="term" xml:id="UT22084-068-017-26">
                             <term>nāgas</term>
                             <term xml:lang="Bo-Ltn">klu </term>
-                            <term xml:lang="bo">ཀླུ</term>
+                            <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
                             <term type="definition">Snake-like mystical creature with supernatural
                                 powers belonging to the animal realm.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-27">
+                        <gloss type="term" xml:id="UT22084-068-017-27">
                             <term>dharmakāya</term>
                             <term xml:lang="Bo-Ltn">chos kyi sku </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ</term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmakāya</term>
                             <term type="definition">Dharmakāya or body of dharma refers to the
                                 Buddha’s realization of reality. Sometimes translated “truth body” or “reality body.” In other contexts, particularly in early texts, the term may also refer to the Buddha’s qualities as a collective whole, or to his teachings as embodying him.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-28">
+                        <gloss type="term" xml:id="UT22084-068-017-28">
                             <term>saṃbhogakāya</term>
                             <term xml:lang="Bo-Ltn">longs spyod rdzogs pa’i sku </term>
-                            <term xml:lang="bo">ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ</term>
+                            <term xml:lang="bo">ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">saṃbhogakāya</term>
                             <term type="definition">Saṃbhogakāya or body of enjoyment. Aspect of
                                 buddhahood perceptible to bodhisattvas.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-29">
+                        <gloss type="term" xml:id="UT22084-068-017-29">
                             <term>nirmāṇakāya</term>
                             <term xml:lang="Bo-Ltn">sprul pa’i sku </term>
-                            <term xml:lang="bo">སྤྲུལ་པའི་སྐུ</term>
+                            <term xml:lang="bo">སྤྲུལ་པའི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">nirmāṇakāya</term>
                             <term type="definition">Nirmāṇakāya or body of manifestation. Aspect of
                                 buddhahood perceptible to ordinary individuals with good
@@ -303,52 +303,52 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-30">
+                        <gloss type="term" xml:id="UT22084-068-017-30">
                             <term>three bodies</term>
                             <term xml:lang="Bo-Ltn">sku gsum </term>
-                            <term xml:lang="bo">སྐུ་གསུམ</term>
+                            <term xml:lang="bo">སྐུ་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">trikāya</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-31">
+                        <gloss type="term" xml:id="UT22084-068-017-31">
                             <term>basis-of-all</term>
                             <term xml:lang="Bo-Ltn">kun gzhi </term>
-                            <term xml:lang="bo">ཀུན་གཞི</term>
+                            <term xml:lang="bo">ཀུན་གཞི།</term>
                             <term xml:lang="Sa-Ltn">ālaya</term>
                             <term type="definition">Here, probably the short form for <foreign type="term" xml:lang="Sa-Ltn">ālayavijñāna</foreign>.
                             </term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-32">
+                        <gloss type="term" xml:id="UT22084-068-017-32">
                             <term>mirror-like wisdom</term>
                             <term xml:lang="Bo-Ltn">me long lta bu’i ye shes </term>
-                            <term xml:lang="bo">མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས</term>
+                            <term xml:lang="bo">མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">ādarśajñāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-33">
+                        <gloss type="term" xml:id="UT22084-068-017-33">
                             <term>afflicted mind</term>
                             <term xml:lang="Bo-Ltn">nyon mongs pa’i yid </term>
-                            <term xml:lang="bo">ཉོན་མོངས་པའི་ཡིད</term>
+                            <term xml:lang="bo">ཉོན་མོངས་པའི་ཡིད།</term>
                             <term xml:lang="Sa-Ltn">kliṣṭamana</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-34">
+                        <gloss type="term" xml:id="UT22084-068-017-34">
                             <term>wisdom of equality</term>
                             <term xml:lang="Bo-Ltn">mnyam pa nyid kyi ye shes </term>
-                            <term xml:lang="bo">མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས</term>
+                            <term xml:lang="bo">མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">samatājñāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-35">
+                        <gloss type="term" xml:id="UT22084-068-017-35">
                             <term>mental cognition</term>
                             <term xml:lang="Bo-Ltn">yid kyi rnam par shes pa </term>
-                            <term xml:lang="bo">ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ</term>
+                            <term xml:lang="bo">ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">manovijñāna</term>
                             <term type="definition">Just as the five sense cognitions occur on the
                                 basis of the five sense faculties, mental cognition is the cognition
@@ -356,152 +356,152 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-36">
+                        <gloss type="term" xml:id="UT22084-068-017-36">
                             <term>discriminating wisdom</term>
                             <term xml:lang="Bo-Ltn">so sor kun du rtog pa’i ye shes </term>
-                            <term xml:lang="bo">སོ་སོར་ཀུན་དུ་རྟོག་པའི་ཡེ་ཤེས</term>
+                            <term xml:lang="bo">སོ་སོར་ཀུན་དུ་རྟོག་པའི་ཡེ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">pratyavekṣaṇā­jñāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-37">
+                        <gloss type="term" xml:id="UT22084-068-017-37">
                             <term>five sense cognitions</term>
                             <term xml:lang="Bo-Ltn">sgo lnga’i rnam par shes pa </term>
-                            <term xml:lang="bo">སྒོ་ལྔའི་རྣམ་པར་ཤེས་པ</term>
+                            <term xml:lang="bo">སྒོ་ལྔའི་རྣམ་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-38">
+                        <gloss type="term" xml:id="UT22084-068-017-38">
                             <term>all-accomplishing wisdom</term>
                             <term xml:lang="Bo-Ltn">bya ba grub pa’i ye shes </term>
-                            <term xml:lang="bo">བྱ་བ་གྲུབ་པའི་ཡེ་ཤེས</term>
+                            <term xml:lang="bo">བྱ་བ་གྲུབ་པའི་ཡེ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">kṛtyānuśṭhāna­jñāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-39">
+                        <gloss type="term" xml:id="UT22084-068-017-39">
                             <term>yakṣas</term>
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
-                            <term xml:lang="bo">གནོད་སྦྱིན</term>
+                            <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
                             <term type="definition">Yakṣas or harm givers. A class of mostly
                                 malevolent spirits.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-40">
+                        <gloss type="term" xml:id="UT22084-068-017-40">
                             <term>gandharvas</term>
                             <term xml:lang="Bo-Ltn">dri za </term>
-                            <term xml:lang="bo">དྲི་ཟ</term>
+                            <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
                             <term type="definition">Gandharvas, literally “smell-eaters,” are a class of spirits, sometimes described as celestial musicians. In other contexts the term can also refer to beings in the bardo-state.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-41">
-                            <term>prajñāpāramitā</term>
+                        <gloss type="term" xml:id="UT22084-068-017-41" mode="marked">
+                            <term>prajñā­pāramitā</term>
                             <term xml:lang="Bo-Ltn">shes rab kyi pha rol tu phyin pa </term>
-                            <term xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ</term>
-                            <term xml:lang="Sa-Ltn">prajñāpāramitā</term>
+                            <term xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
+                            <term xml:lang="Sa-Ltn">prajñā­pāramitā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-42">
+                        <gloss type="term" xml:id="UT22084-068-017-42">
                             <term>Mahāyāna</term>
                             <term xml:lang="Bo-Ltn">theg pa chen po </term>
-                            <term xml:lang="bo">ཐེག་པ་ཆེན་པོ</term>
+                            <term xml:lang="bo">ཐེག་པ་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahāyāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-43">
+                        <gloss type="term" xml:id="UT22084-068-017-43">
                             <term>emptiness</term>
                             <term xml:lang="Bo-Ltn">stong pa nyid </term>
-                            <term xml:lang="bo">སྟོང་པ་ཉིད</term>
+                            <term xml:lang="bo">སྟོང་པ་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">śūnyatā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-44">
+                        <gloss type="term" xml:id="UT22084-068-017-44">
                             <term>Yogācāra</term>
                             <term xml:lang="Bo-Ltn">rnal ’byor spyod pa </term>
-                            <term xml:lang="bo">རྣལ་འབྱོར་སྤྱོད་པ</term>
+                            <term xml:lang="bo">རྣལ་འབྱོར་སྤྱོད་པ།</term>
                             <term xml:lang="Sa-Ltn">yogācāra</term>
                             <term type="definition">Influential philosophical school belonging to
                                 Mahāyāna Buddhism.</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="term" priority="0" xml:id="UT22084-068-017-45">
                             <term>teachings of the Buddha</term>
                             <term xml:lang="Bo-Ltn">chos </term>
-                            <term xml:lang="bo">ཆོས</term>
+                            <term xml:lang="bo">ཆོས།</term>
                             <term xml:lang="Sa-Ltn">dharma</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-46">
+                        <gloss type="term" xml:id="UT22084-068-017-46">
                             <term>rūpakāya</term>
                             <term xml:lang="Bo-Ltn">gzugs kyi sku </term>
-                            <term xml:lang="bo">གཟུགས་ཀྱི་སྐུ</term>
+                            <term xml:lang="bo">གཟུགས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">rūpakāya</term>
                             <term type="definition">Used to refer to the two form bodies of the
                                 Buddha, i.e. the nirmāṇakāya and the saṃbhogakāya.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-068-017-47">
+                        <gloss type="term" xml:id="UT22084-068-017-47">
                             <term>form bodies</term>
                             <term xml:lang="Bo-Ltn">gzugs kyi sku </term>
-                            <term xml:lang="bo">གཟུགས་ཀྱི་སྐུ</term>
+                            <term xml:lang="bo">གཟུགས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">rūpakāya</term>
                             <term type="definition">See “rūpakāya.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-068-017-48">
+                        <gloss type="person" xml:id="UT22084-068-017-48">
                             <term>Blessed One</term>
                             <term xml:lang="Bo-Ltn">bcom ldan ’das </term>
-                            <term xml:lang="bo">བཅོམ་ལྡན་འདས</term>
+                            <term xml:lang="bo">བཅོམ་ལྡན་འདས།</term>
                             <term xml:lang="Sa-Ltn">Bhagavat</term>
                             <term type="definition">Epithet of the Buddha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-068-017-49">
+                        <gloss type="person" xml:id="UT22084-068-017-49">
                             <term>Kṣitigarbha</term>
                             <term xml:lang="Bo-Ltn">sa’i snying po </term>
-                            <term xml:lang="bo">སའི་སྙིང་པོ</term>
+                            <term xml:lang="bo">སའི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">Kṣitigarbha</term>
                             <term type="definition">An important bodhisattva disciple of the
                                 Buddha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-068-017-50">
+                        <gloss type="person" xml:id="UT22084-068-017-50">
                             <term>Tathāgata</term>
                             <term xml:lang="Bo-Ltn">de bzhin gshegs pa </term>
-                            <term xml:lang="bo">དེ་བཞིན་གཤེགས་པ</term>
+                            <term xml:lang="bo">དེ་བཞིན་གཤེགས་པ།</term>
                             <term xml:lang="Sa-Ltn">Tathāgata</term>
                             <term type="definition">Epithet of the Buddha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-068-017-51">
+                        <gloss type="place" xml:id="UT22084-068-017-51">
                             <term>Rājgṛha</term>
                             <term xml:lang="Bo-Ltn">rgyal po’i khab </term>
-                            <term xml:lang="bo">རྒྱལ་པོའི་ཁབ</term>
+                            <term xml:lang="bo">རྒྱལ་པོའི་ཁབ།</term>
                             <term xml:lang="Sa-Ltn">Rājgṛha</term>
                             <term type="definition">Town close to Nālānda in the modern state of
                                 Bihar.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-068-017-52">
+                        <gloss type="place" xml:id="UT22084-068-017-52">
                             <term>Vulture Peak Mountain</term>
                             <term xml:lang="Bo-Ltn">bya rgod phung po’i ri </term>
-                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི</term>
+                            <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི།</term>
                             <term xml:lang="Sa-Ltn">Gṛ̥dhra­kūṭa-parvata</term>
                             <term type="definition">Name of a mountain close to Rajgir. It is famous
                                 as the place where the Buddha is said to have taught the

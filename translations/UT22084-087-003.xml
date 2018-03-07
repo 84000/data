@@ -50,13 +50,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 498</ref>, <biblScope>Degé Kangyur, vol. 87 (rgyud ’bum, da), folios
-                        158a–167a</biblScope>
+                        158.a–167.a</biblScope>
                     <author role="translatorTib">Celu</author>
                     <author role="translatorTib">Phakpa Sherab</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:10:23 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 16:06:10 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -370,7 +370,8 @@
                     <head type="section">Prologue</head>
                     <milestone unit="chunk" xml:id="UT22084-087-003-27"/>
                     <lg tid="28">
-                        <l> I prostrate to the Blue-Clad Blessed Vajrapāṇi!</l>
+                        <l>
+                            <ref cRef="F.158.a"/> I prostrate to the Blue-Clad Blessed Vajrapāṇi!</l>
                         <l>I prostrate to the buddhas and bodhisattvas of the three times!</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-087-003-28"/>
@@ -932,23 +933,23 @@
                     <milestone unit="chunk" xml:id="UT22084-087-003-88"/>
                     <lg tid="98">
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ vaiśravaṇa puṣpe hūṃ
+                            <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ <term type="ignore">vaiśravaṇa</term> puṣpe hūṃ
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa dhupe hūṃ
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> dhupe hūṃ
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa dīpaṃ hūṃ
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> dīpaṃ hūṃ
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn"> Oṃ vaiśravaṇa gandhe hūṃ
+                            <foreign type="mantra" xml:lang="Sa-Ltn"> Oṃ <term type="ignore">vaiśravaṇa</term> gandhe hūṃ
                                 svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa naivedye hūṃ
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> naivedye hūṃ
                                 svāhā </foreign>
                         </l>
                     </lg>
@@ -1009,7 +1010,7 @@
                                 kuru ye svāhā</foreign>
                         </l>
                         <l>
-                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa vaśaṃ kuru
+                            <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term> vaśaṃ kuru
                                 svāhā</foreign>
                         </l>
                         <l>
@@ -1039,7 +1040,7 @@
                         meats that are suitable and auspicious.<note place="end" index="6" xml:id="UT22084-087-003-277">Tibetan: <foreign xml:lang="Sa-Ltn">drang bar bya.</foreign>
                         </note> If we fail to accomplish, properly and one-pointedly, the activities
                         that are our accomplishments, then we will have insulted the Blessed One and
-                        we will have failed to protect the Dharma. This is our oath. <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ vaiśravaṇa
+                        we will have failed to protect the Dharma. This is our oath. <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ <term type="ignore">vaiśravaṇa</term>
                             arthakathama.</foreign>” <ref cRef="F.162.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-087-003-98"/>
@@ -1307,7 +1308,7 @@
                     </lg>
                     <p tid="149">
                         <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ nīlāmbara­dhara
-                                    vajrapāṇi yakṣa khādaya khādaya bandhaya bandhaya mohaya mohaya
+                                    vajrapāṇi <term type="ignore">yakṣa</term> khādaya khādaya bandhaya bandhaya mohaya mohaya
                                     sha hum ānaya hūṃ phaṭ.</foreign>
                     </p>
                     <lg tid="150">
@@ -2002,26 +2003,26 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-229">
+                        <gloss type="term" xml:id="UT22084-087-003-229">
                             <term>absorption </term>
                             <term xml:lang="Bo-Ltn">ting nge ’dzin </term>
-                            <term xml:lang="bo">ཏིང་ངེ་འཛིན</term>
+                            <term xml:lang="bo">ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">samādhi</term>
                             <term type="definition">A state of meditative concentration or
                                 absorption.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-230">
+                        <gloss type="term" xml:id="UT22084-087-003-230">
                             <term>bhūta </term>
                             <term xml:lang="Bo-Ltn"> ’byung po </term>
-                            <term xml:lang="bo">འབྱུང་པོ</term>
+                            <term xml:lang="bo">འབྱུང་པོ།</term>
                             <term xml:lang="Sa-Ltn">bhūta</term>
                             <term type="definition">A generic term for spirits or ghosts.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-231">
+                        <gloss type="term" xml:id="UT22084-087-003-231">
                             <term>burnt offering </term>
                             <term xml:lang="Bo-Ltn">sbyin sreg </term>
                             <term xml:lang="bo">སྦྱིན་སྲེག</term>
@@ -2030,10 +2031,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-232">
+                        <gloss type="term" xml:id="UT22084-087-003-232">
                             <term>celestial chariot </term>
                             <term xml:lang="Bo-Ltn">khang brtsegs </term>
-                            <term xml:lang="bo">ཁང་བརྩེགས</term>
+                            <term xml:lang="bo">ཁང་བརྩེགས།</term>
                             <term xml:lang="Sa-Ltn">vimāna</term>
                             <term type="definition">The Sanskrit term 
                               <foreign xml:lang="Sa-Ltn">vimāna</foreign> can refer to a 
@@ -2045,7 +2046,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-233">
+                        <gloss type="term" xml:id="UT22084-087-003-233">
                             <term>commitment </term>
                             <term xml:lang="Bo-Ltn">dam tshig </term>
                             <term xml:lang="bo">དམ་ཚིག</term>
@@ -2054,37 +2055,37 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-234">
+                        <gloss type="term" xml:id="UT22084-087-003-234">
                             <term>diagram </term>
                             <term xml:lang="Bo-Ltn"> ’khrul ’khor </term>
-                            <term xml:lang="bo">འཁྲུལ་འཁོར</term>
+                            <term xml:lang="bo">འཁྲུལ་འཁོར།</term>
                             <term xml:lang="Sa-Ltn">yantra</term>
                             <term type="definition">A diagram drawn in tantric rituals.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-235">
+                        <gloss type="term" xml:id="UT22084-087-003-235">
                             <term>disciplined conduct </term>
                             <term xml:lang="Bo-Ltn">bstul zhugs </term>
-                            <term xml:lang="bo">བསྟུལ་ཞུགས</term>
+                            <term xml:lang="bo">བསྟུལ་ཞུགས།</term>
                             <term xml:lang="Sa-Ltn">vrata, saṃvara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-236">
+                        <gloss type="term" xml:id="UT22084-087-003-236">
                             <term>five substances of a cow </term>
                             <term xml:lang="Bo-Ltn"> ba yi rnam lnga </term>
-                            <term xml:lang="bo">བ་ཡི་རྣམ་ལྔ</term>
+                            <term xml:lang="bo">བ་ཡི་རྣམ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn">pañcagavya</term>
                             <term type="definition">Milk, yogurt, clarified butter, cow urine, and
                                 cow dung.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-237">
+                        <gloss type="term" xml:id="UT22084-087-003-237">
                             <term>graha </term>
                             <term xml:lang="Bo-Ltn"> gdon </term>
-                            <term xml:lang="bo">གདོན</term>
+                            <term xml:lang="bo">གདོན།</term>
                             <term xml:lang="Sa-Ltn">graha</term>
                             <term type="definition">A type of evil spirit known to exert a harmful
                                 influence on the human body and mind. Grahas are closely associated
@@ -2092,19 +2093,19 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-238">
+                        <gloss type="term" xml:id="UT22084-087-003-238">
                             <term>holder of the hare </term>
                             <term xml:lang="Bo-Ltn">ri bong ’dzin pa </term>
-                            <term xml:lang="bo">རི་བོང་འཛིན་པ</term>
+                            <term xml:lang="bo">རི་བོང་འཛིན་པ།</term>
                             <term xml:lang="Sa-Ltn">śaśadhara</term>
                             <term type="definition">An epithet of the moon.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-087-003-239">
+                        <gloss type="term" xml:id="UT22084-087-003-239">
                             <term>incantation</term>
                             <term xml:lang="Bo-Ltn">rig pa </term>
-                            <term xml:lang="bo">རིག་པ</term>
+                            <term xml:lang="bo">རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
                             <term type="definition">A type of incantation or spell used to
                                 accomplish a ritual goal. This can be associated with either
@@ -2112,107 +2113,107 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="2" xml:id="UT22084-087-003-240">
+                        <gloss type="term" xml:id="UT22084-087-003-240">
                             <term>incantation mantra</term>
                             <term xml:lang="Bo-Ltn">gzungs sngags </term>
-                            <term xml:lang="bo">གཟུངས་སྔགས</term>
+                            <term xml:lang="bo">གཟུངས་སྔགས།</term>
                             <term xml:lang="Sa-Ltn">dhāraṇī</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-241">
+                        <gloss type="term" xml:id="UT22084-087-003-241">
                             <term>nāga tree </term>
                             <term xml:lang="Bo-Ltn"> klu shing </term>
-                            <term xml:lang="bo">ཀླུ་ཤིང</term>
+                            <term xml:lang="bo">ཀླུ་ཤིང་།</term>
                             <term xml:lang="Sa-Ltn">nāgakesara</term>
                             <term type="definition">A species of euphorbia used in burnt offerings
                                 to get rid of nāga influences.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-242">
+                        <gloss type="term" xml:id="UT22084-087-003-242">
                             <term>oblation </term>
                             <term xml:lang="Bo-Ltn">gtor ma </term>
-                            <term xml:lang="bo">གཏོར་མ</term>
+                            <term xml:lang="bo">གཏོར་མ།</term>
                             <term xml:lang="Sa-Ltn">bali</term>
                             <term type="definition">A ritual offering of food and drink.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-243">
+                        <gloss type="term" xml:id="UT22084-087-003-243">
                             <term>obstructors </term>
                             <term xml:lang="Bo-Ltn"> bgegs </term>
-                            <term xml:lang="bo">བགེགས</term>
+                            <term xml:lang="bo">བགེགས།</term>
                             <term xml:lang="Sa-Ltn">vighna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-244">
+                        <gloss type="term" xml:id="UT22084-087-003-244">
                             <term>target</term>
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
-                            <term xml:lang="bo">བསྒྲུབ་བྱ</term>
+                            <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
                             <term xml:lang="Sa-Ltn">sādhya</term>
                             <term type="definition">This is the object of ritual accomplishment,
                                 whatever is the focus and/or the goal of ritual activity. Also translated “one to be accomplished.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-245">
+                        <gloss type="term" xml:id="UT22084-087-003-245">
                             <term>one to be accomplished</term>
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
-                            <term xml:lang="bo">བསྒྲུབ་བྱ</term>
+                            <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
                             <term xml:lang="Sa-Ltn">sādhya</term>
                             <term type="definition">This is the object of ritual accomplishment,
                                 whatever is the focus and/or the goal of ritual activity. Also translated “target.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-246">
+                        <gloss type="term" xml:id="UT22084-087-003-246">
                             <term>practice manual</term>
                             <term xml:lang="Bo-Ltn">sgrub thabs </term>
-                            <term xml:lang="bo">སྒྲུབ་ཐབས</term>
+                            <term xml:lang="bo">སྒྲུབ་ཐབས།</term>
                             <term xml:lang="Sa-Ltn">sādhana</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-247">
+                        <gloss type="term" xml:id="UT22084-087-003-247">
                             <term>spiritual accomplishment</term>
                             <term xml:lang="Bo-Ltn">dngos grub </term>
-                            <term xml:lang="bo">དངོས་གྲུབ</term>
+                            <term xml:lang="bo">དངོས་གྲུབ།</term>
                             <term xml:lang="Sa-Ltn">siddhi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-248">
+                        <gloss type="term" xml:id="UT22084-087-003-248">
                             <term>yakṣa </term>
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
-                            <term xml:lang="bo">གནོད་སྦྱིན</term>
+                            <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-249">
+                        <gloss type="term" xml:id="UT22084-087-003-249">
                             <term>dhāraṇī</term>
                             <term xml:lang="Bo-Ltn">gzungs </term>
-                            <term xml:lang="bo">གཟུངས</term>
+                            <term xml:lang="bo">གཟུངས།</term>
                             <term xml:lang="Sa-Ltn">dhāraṇī</term>
                             <term type="definition">Used in several senses, elsewhere in this text translated as “incantation mantra,” but here referring to entire canonical texts used mainly for ritual purposes, structured around an incantation mantra in Sanskrit but also detailing its uses and the story of its origin.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-087-003-250">
+                        <gloss type="term" xml:id="UT22084-087-003-250">
                             <term>Caryātantra</term>
                             <term xml:lang="Bo-Ltn">spyod pa’i rgyud </term>
-                            <term xml:lang="bo">སྤྱོད་པའི་རྒྱུད</term>
+                            <term xml:lang="bo">སྤྱོད་པའི་རྒྱུད།</term>
                             <term xml:lang="Sa-Ltn">caryātantra</term>
                             <term type="definition">“Conduct tantras,” the second, middle category of the three outer tantras according to the new translation (<foreign xml:lang="Bo-Ltn">gsar ma</foreign>) traditions; in old translation (<foreign xml:lang="Bo-Ltn">rnying ma</foreign>) classifications the term Upa- or Ubhaya-tantra is more often used.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-251">
+                        <gloss type="person" xml:id="UT22084-087-003-251">
                             <term>Anantaka</term>
                             <term xml:lang="Bo-Ltn">mtha’ yas </term>
-                            <term xml:lang="bo">མཐའ་ཡས</term>
+                            <term xml:lang="bo">མཐའ་ཡས།</term>
                             <term xml:lang="Sa-Ltn">Anantaka; Ananta</term>
                             <term type="definition">Another name of Śesa, the serpent upon whom
                                 Viṣṇu rests during the interlude between the destruction and
@@ -2220,174 +2221,174 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-252">
+                        <gloss type="person" xml:id="UT22084-087-003-252">
                             <term>Bījakuṇḍalī</term>
                             <term xml:lang="Bo-Ltn">bi tsi kuN+Da li </term>
-                            <term xml:lang="bo">བི་ཙི་ཀུཎྜ་ལི</term>
+                            <term xml:lang="bo">བི་ཙི་ཀུཎྜ་ལི།</term>
                             <term xml:lang="Sa-Ltn">Bījakuṇḍalī </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-253">
+                        <gloss type="person" xml:id="UT22084-087-003-253">
                             <term>Constant Vajra Holder </term>
                             <term xml:lang="Bo-Ltn">rdo rje kun tu ’dzin pa </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་ཀུན་ཏུ་འཛིན་པ</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་ཀུན་ཏུ་འཛིན་པ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-254">
+                        <gloss type="person" xml:id="UT22084-087-003-254">
                             <term>Vajracaṇḍa</term>
                             <term xml:lang="Bo-Ltn"> rdo rje gtum po </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་གཏུམ་པོ</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་གཏུམ་པོ།</term>
                             <term xml:lang="Sa-Ltn">Vajracaṇḍa </term>
                             <term type="definition">Lit. "Fierce Vajra."</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-255">
+                        <gloss type="person" xml:id="UT22084-087-003-255">
                             <term>Guhyasthāna</term>
                             <term xml:lang="Bo-Ltn">’brog gnas </term>
-                            <term xml:lang="bo">འབྲོག་གནས</term>
+                            <term xml:lang="bo">འབྲོག་གནས།</term>
                             <term xml:lang="Sa-Ltn">Guhyasthāna </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-256">
+                        <gloss type="person" xml:id="UT22084-087-003-256">
                             <term>Jambhala</term>
                             <term xml:lang="Bo-Ltn">rmugs ’dzin </term>
-                            <term xml:lang="bo">རྨུགས་འཛིན</term>
+                            <term xml:lang="bo">རྨུགས་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">Jambhala </term>
                             <term type="definition">An alternate name for the yakṣa Jambhala.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-257">
+                        <gloss type="person" xml:id="UT22084-087-003-257">
                             <term>Kubera</term>
                             <term xml:lang="Bo-Ltn">ku be ra </term>
-                            <term xml:lang="bo">ཀུ་བེ་ར</term>
+                            <term xml:lang="bo">ཀུ་བེ་ར།</term>
                             <term xml:lang="Sa-Ltn">Kubera </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-258">
+                        <gloss type="person" xml:id="UT22084-087-003-258">
                             <term>Maṇibhadra</term>
                             <term xml:lang="Bo-Ltn">nor bzangs </term>
-                            <term xml:lang="bo">ནོར་བཟངས</term>
+                            <term xml:lang="bo">ནོར་བཟངས།</term>
                             <term xml:lang="Sa-Ltn">Maṇibhadra </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-259">
+                        <gloss type="person" xml:id="UT22084-087-003-259">
                             <term>Pāñcika</term>
                             <term xml:lang="Bo-Ltn">lngas rtsen </term>
-                            <term xml:lang="bo">ལྔས་རྩེན</term>
+                            <term xml:lang="bo">ལྔས་རྩེན།</term>
                             <term xml:lang="Sa-Ltn">Pāñcika </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-260">
+                        <gloss type="person" xml:id="UT22084-087-003-260">
                             <term>Phakpa Sherab </term>
                             <term xml:lang="Bo-Ltn">phags pa shes rab </term>
-                            <term xml:lang="bo">ཕགས་པ་ཤེས་རབ</term>
+                            <term xml:lang="bo">ཕགས་པ་ཤེས་རབ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-261">
+                        <gloss type="person" xml:id="UT22084-087-003-261">
                             <term>Pūrṇabhadra</term>
                             <term xml:lang="Bo-Ltn">gang ba bzang po </term>
-                            <term xml:lang="bo">གང་བ་བཟང་པོ</term>
+                            <term xml:lang="bo">གང་བ་བཟང་པོ།</term>
                             <term xml:lang="Sa-Ltn">Pūrṇabhadra </term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-262">
+                        <gloss type="person" xml:id="UT22084-087-003-262">
                             <term>Terrible Vajra Conqueror </term>
                             <term xml:lang="Bo-Ltn">rdo rje mi bzad ’joms </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་མི་བཟད་འཇོམས</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་མི་བཟད་འཇོམས།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-263">
+                        <gloss type="person" xml:id="UT22084-087-003-263">
                             <term>Celu </term>
                             <term xml:lang="Bo-Ltn">tse lu </term>
-                            <term xml:lang="bo">ཙེ་ལུ</term>
+                            <term xml:lang="bo">ཙེ་ལུ།</term>
                             <term xml:lang="Sa-Ltn">Celu</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-264">
+                        <gloss type="person" xml:id="UT22084-087-003-264">
                             <term>Vaiśravaṇa</term>
                             <term xml:lang="Bo-Ltn">rnam thos bu </term>
-                            <term xml:lang="bo">རྣམ་ཐོས་བུ</term>
+                            <term xml:lang="bo">རྣམ་ཐོས་བུ།</term>
                             <term xml:lang="Sa-Ltn">Vaiśravaṇa</term>
                             <term type="definition">A yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-265">
+                        <gloss type="person" xml:id="UT22084-087-003-265">
                             <term>Vajra Joyfully Abiding Protector </term>
                             <term xml:lang="Bo-Ltn">rdo rje dgyes gnas skyob </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་དགྱེས་གནས་སྐྱོབ</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་དགྱེས་གནས་སྐྱོབ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-266">
+                        <gloss type="person" xml:id="UT22084-087-003-266">
                             <term>Vajra Regiment </term>
                             <term xml:lang="Bo-Ltn">rdor rje sde </term>
-                            <term xml:lang="bo">རྡོར་རྗེ་སྡེ</term>
+                            <term xml:lang="bo">རྡོར་རྗེ་སྡེ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="2" xml:id="UT22084-087-003-267">
+                        <gloss type="person" xml:id="UT22084-087-003-267">
                             <term>Vajra Tamer </term>
                             <term xml:lang="Bo-Ltn">rdo rje rab tu ’dul byed </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་རབ་ཏུ་འདུལ་བྱེད</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་རབ་ཏུ་འདུལ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="5" xml:id="UT22084-087-003-268">
+                        <gloss type="person" xml:id="UT22084-087-003-268">
                             <term>Vajra Tamer of All Evil </term>
                             <term xml:lang="Bo-Ltn">rdo rje gdug pa kun ’dul </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་གདུག་པ་ཀུན་འདུལ</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་གདུག་པ་ཀུན་འདུལ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-269">
+                        <gloss type="person" xml:id="UT22084-087-003-269">
                             <term>Vajra Victor of Basic Space </term>
                             <term xml:lang="Bo-Ltn">rdo rje dbyings las rgyal ba </term>
-                            <term xml:lang="bo">རྡོ་རྗེ་དབྱིངས་ལས་རྒྱལ་བ</term>
+                            <term xml:lang="bo">རྡོ་རྗེ་དབྱིངས་ལས་རྒྱལ་བ།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">A bodhisattva in the Buddha Akṣobhya's retinue
                                 in this tantra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-087-003-270">
+                        <gloss type="person" xml:id="UT22084-087-003-270">
                             <term>Samprajñāna </term>
                             <term xml:lang="Bo-Ltn">yang dag </term>
                             <term xml:lang="bo">ཡང་དག</term>
@@ -2400,10 +2401,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-087-003-271">
+                        <gloss type="place" xml:id="UT22084-087-003-271">
                             <term>Alakāvatī </term>
                             <term xml:lang="Bo-Ltn">lcang lo can </term>
-                            <term xml:lang="bo">ལྕང་ལོ་ཅན</term>
+                            <term xml:lang="bo">ལྕང་ལོ་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Alakāvatī </term>
                         </gloss>
                     </item>

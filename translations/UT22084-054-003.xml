@@ -45,7 +45,7 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 122</ref>
-                    <biblScope>Degé Kangyur vol. 54 (mdo sde, tha), folios 153a–153b</biblScope>
+                    <biblScope>Degé Kangyur vol. 54 (mdo sde, tha), folios 153.a–153.b</biblScope>
                <author role="translatorTib">Unknown</author>
                 </bibl>
             </sourceDesc>
@@ -449,10 +449,10 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-47">
+                        <gloss type="term" xml:id="UT22084-054-003-47">
                             <term>Five Royal Sūtras</term>
                             <term xml:lang="Bo-Ltn">rgyal po mdo lnga </term>
-                            <term xml:lang="bo">རྒྱལ་པོ་མདོ་ལྔ</term>
+                            <term xml:lang="bo">རྒྱལ་པོ་མདོ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                             <term type="definition">(1) <title xml:lang="Sa-Ltn">Bhadra­caryā­praṇidhāna</title> (<title xml:lang="Bo-Ltn">bzang
                                 spyod smon lam</title>, in chapter 44 of the <title xml:lang="Sa-Ltn">Avataṃsaka</title>); for aspiration (<foreign xml:lang="Bo-Ltn">smon lam</foreign>), and described as vast
@@ -469,10 +469,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-48">
+                        <gloss type="term" xml:id="UT22084-054-003-48">
                             <term>Ten Royal Sūtras</term>
                             <term xml:lang="Bo-Ltn">rgyal po mdo bcu </term>
-                            <term xml:lang="bo">རྒྱལ་པོ་མདོ་བཅུ</term>
+                            <term xml:lang="bo">རྒྱལ་པོ་མདོ་བཅུ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                             <term type="definition">In addition to the Five Royal Sūtras: (6) <title xml:lang="Sa-Ltn">Aparimitāyur­jñāna</title> (<title xml:lang="Bo-Ltn">tshe dang ye shes dpag tu med pa’i
                                 mdo</title>, Toh 674); for extending longevity (<foreign xml:lang="Bo-Ltn">tshe bsring</foreign>). (7) <title xml:lang="Bo-Ltn">gos sngon can gyi gzungs</title>, perhaps
@@ -489,11 +489,11 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-49">
+                        <gloss type="term" xml:id="UT22084-054-003-49">
                             <term>Five Sets of One Hundred
                                 Thousand</term>
                             <term xml:lang="Bo-Ltn">’bum sde lnga__,__’bum chen sde lnga </term>
-                            <term xml:lang="bo">འབུམ་སྡེ་ལྔ  ,  འབུམ་ཆེན་སྡེ་ལྔ</term>
+                            <term xml:lang="bo">འབུམ་སྡེ་ལྔ།  ,  འབུམ་ཆེན་སྡེ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn"> - </term>
                             <term type="definition">(1) The long <title xml:lang="Sa-Ltn">Prajñā­pāramitā </title>(Toh 8), which contains 100,000 ślokas;
                                 (2) the <title xml:lang="Sa-Ltn">Mahā­pari­nirvāṇa</title> (Toh
@@ -508,65 +508,65 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-50">
+                        <gloss type="term" xml:id="UT22084-054-003-50">
                             <term>definitive meaning</term>
                             <term xml:lang="Bo-Ltn">nges don </term>
-                            <term xml:lang="bo">ངེས་དོན</term>
+                            <term xml:lang="bo">ངེས་དོན།</term>
                             <term xml:lang="Sa-Ltn">nitārtha</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-51">
+                        <gloss type="term" xml:id="UT22084-054-003-51">
                             <term>clear understanding</term>
                             <term xml:lang="Bo-Ltn">’du shes </term>
-                            <term xml:lang="bo">འདུ་ཤེས</term>
+                            <term xml:lang="bo">འདུ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">saṃjñā</term>
                             <term type="definition">The term is used in an ordinary sense in Sanskrit to mean “notion,” “sign,” “conception,” “clear understanding.”  It is also used more specifically in Buddhist scholastic contexts in the phrase “the aggregate of perceptions” (<foreign xml:lang="Sa-Ltn">saṃjñāskandha</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-52">
+                        <gloss type="term" xml:id="UT22084-054-003-52">
                             <term>cultivate</term>
                             <term xml:lang="Bo-Ltn">sgom pa </term>
-                            <term xml:lang="bo">སྒོམ་པ</term>
+                            <term xml:lang="bo">སྒོམ་པ།</term>
                             <term xml:lang="Sa-Ltn">bhāvanā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-53">
+                        <gloss type="term" xml:id="UT22084-054-003-53">
                             <term>luminous</term>
                             <term xml:lang="Bo-Ltn">’od gsal </term>
-                            <term xml:lang="bo">འོད་གསལ</term>
+                            <term xml:lang="bo">འོད་གསལ།</term>
                             <term xml:lang="Sa-Ltn">prabhāsvara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-54">
+                        <gloss type="term" xml:id="UT22084-054-003-54">
                             <term>wisdom of the hour of death</term>
                             <term xml:lang="Bo-Ltn">’da’ ka ye shes </term>
-                            <term xml:lang="bo">འདའ་ཀ་ཡེ་ཤེས</term>
+                            <term xml:lang="bo">འདའ་ཀ་ཡེ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">atyayajñāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-55">
+                        <gloss type="term" xml:id="UT22084-054-003-55">
                             <term>subsumed</term>
                             <term xml:lang="Bo-Ltn">’dus pa </term>
-                            <term xml:lang="bo">འདུས་པ</term>
+                            <term xml:lang="bo">འདུས་པ།</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-054-003-56">
+                        <gloss type="term" xml:id="UT22084-054-003-56">
                             <term>non-apprehension</term>
                             <term xml:lang="Bo-Ltn">mi dmigs pa__,__dmigs pa med pa </term>
-                            <term xml:lang="bo">མི་དམིགས་པ  ,  དམིགས་པ་མེད་པ</term>
+                            <term xml:lang="bo">མི་དམིགས་པ།  ,  དམིགས་པ་མེད་པ</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-054-003-57">
+                        <gloss type="person" xml:id="UT22084-054-003-57">
                             <term>Ākāśagarbha </term>
                             <term xml:lang="Bo-Ltn">nam mkha’i snying po </term>
-                            <term xml:lang="bo">ནམ་མཁའི་སྙིང་པོ</term>
+                            <term xml:lang="bo">ནམ་མཁའི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">Ākāśagarbha </term>
                             <term type="definition">An important bodhisattva, his name means
                                 “essence of space.” He is one of the “eight great close sons”
@@ -574,10 +574,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-054-003-58">
+                        <gloss type="place" xml:id="UT22084-054-003-58">
                             <term>Akaniṣṭha </term>
                             <term xml:lang="Bo-Ltn">’og min </term>
-                            <term xml:lang="bo">འོག་མིན</term>
+                            <term xml:lang="bo">འོག་མིན།</term>
                             <term xml:lang="Sa-Ltn">Akaniṣṭha </term>
                             <term type="definition">The eighth and highest level of the Realm of
                                 Form (<foreign xml:lang="Sa-Ltn">rūpadhātu</foreign>, <foreign xml:lang="Bo-Ltn">gzugs khams</foreign>), and thus part of the

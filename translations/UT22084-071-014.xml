@@ -45,13 +45,13 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 300</ref>
-                    <biblScope>Degé Kangyur, vol 71 (mdo sde, sha), folios 304b—305a</biblScope>
+                    <biblScope>Degé Kangyur, vol 71 (mdo sde, sha), folios 304.b—305.a</biblScope>
                     <author role="translatorTib">Paṇḍita Dharmākara</author>
                     <author role="translatorTib">Lotsāwa Zangkyong (bzang skyong)</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:06:55 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 15:43:38 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -294,30 +294,29 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-071-014-26">
+                        <gloss type="term" xml:id="UT22084-071-014-26">
                             <term>bhikṣus</term>
                             <term xml:lang="Bo-Ltn">dge slong </term>
-                            <term xml:lang="bo">དགེ་སློང</term>
+                            <term xml:lang="bo">དགེ་སློང་།</term>
                             <term xml:lang="Sa-Ltn">bhikṣu</term>
-                            <term type="definition">A fully ordained monk of the Buddhist
-                                saṅgha.</term>
+                            <term type="definition">A fully ordained monk of the Buddhist saṅgha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-071-014-27">
+                        <gloss type="term" xml:id="UT22084-071-014-27">
                             <term>virtuous spiritual friend</term>
                             <term xml:lang="Bo-Ltn">dge ba’i bshes gnyen </term>
-                            <term xml:lang="bo">དགེ་བའི་བཤེས་གཉེན</term>
+                            <term xml:lang="bo">དགེ་བའི་བཤེས་གཉེན།</term>
                             <term xml:lang="Sa-Ltn">kalyāṇamitra</term>
                             <term type="definition">A general term to denote a qualified spiritual
                                 teacher.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-071-014-28">
+                        <gloss type="term" xml:id="UT22084-071-014-28">
                             <term>holy life</term>
                             <term xml:lang="Bo-Ltn">tshangs par spyod pa </term>
-                            <term xml:lang="bo">ཚངས་པར་སྤྱོད་པ</term>
+                            <term xml:lang="bo">ཚངས་པར་སྤྱོད་པ།</term>
                             <term xml:lang="Sa-Ltn">brahmacarya</term>
                             <term type="definition">Lit. “brahma conduct,” this denotes the conduct
                                 of those who have renounced worldly life and entered the ordained
@@ -326,48 +325,48 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-071-014-29">
+                        <gloss type="term" xml:id="UT22084-071-014-29">
                             <term>parinirvāṇa</term>
                             <term xml:lang="Bo-Ltn">yongs su mya ngan las ’das pa </term>
-                            <term xml:lang="bo">ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ</term>
+                            <term xml:lang="bo">ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ།</term>
                             <term xml:lang="Sa-Ltn">parinirvāṇa</term>
                             <term type="definition">The name given to the display of the Buddha’s
                                 passing away in Kuśinagara.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-071-014-30">
+                        <gloss type="term" xml:id="UT22084-071-014-30">
                             <term>four reliances</term>
                             <term xml:lang="Bo-Ltn">rton pa bzhi </term>
-                            <term xml:lang="bo">རྟོན་པ་བཞི</term>
+                            <term xml:lang="bo">རྟོན་པ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">pratisaraṇa</term>
                             <term type="definition">See note 1.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-071-014-31">
+                        <gloss type="person" xml:id="UT22084-071-014-31">
                             <term>Ānanda</term>
                             <term xml:lang="Bo-Ltn">kun dga’ bo </term>
-                            <term xml:lang="bo">ཀུན་དགའ་བོ</term>
+                            <term xml:lang="bo">ཀུན་དགའ་བོ།</term>
                             <term xml:lang="Sa-Ltn">Ānanda</term>
                             <term type="definition">The Buddha’s cousin and attendant.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-071-014-32">
+                        <gloss type="place" xml:id="UT22084-071-014-32">
                             <term>Kuśinagara</term>
                             <term xml:lang="Bo-Ltn">ku shi na </term>
-                            <term xml:lang="bo">ཀུ་ཤི་ན</term>
+                            <term xml:lang="bo">ཀུ་ཤི་ན།</term>
                             <term xml:lang="Sa-Ltn">Kuśinagara</term>
                             <term type="definition">The capital of the Malla kingdom, and the town,
                                 in the vicinity of which the Buddha passed into parinirvāṇa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-071-014-33">
+                        <gloss type="place" xml:id="UT22084-071-014-33">
                             <term>Malla</term>
                             <term xml:lang="Bo-Ltn">gyad </term>
-                            <term xml:lang="bo">གྱད</term>
+                            <term xml:lang="bo">གྱད།</term>
                             <term xml:lang="Sa-Ltn">Malla</term>
                             <term type="definition">A kingdom of ancient India situated to the North
                                 of Magadha.</term>

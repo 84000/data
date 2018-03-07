@@ -50,7 +50,7 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 425</ref>
-                    <biblScope>Degé Kangyur, vol. 80 (rgyud ’bum, nga), folios 167a–171a</biblScope>
+                    <biblScope>Degé Kangyur, vol. 80 (rgyud ’bum, nga), folios 167.a–171.a</biblScope>
                     <author role="translatorTib">Jinavara</author>
                     <author role="translatorTib">Gö Lhetsé</author>
                 </bibl>
@@ -58,7 +58,7 @@
                     <provenance>Buddhist Literary Heritage Project</provenance>-->
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:08:09 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 15:49:43 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -556,7 +556,8 @@
                     <head type="chapter">Chapter 1</head>
                     <head type="chapterTitle">The First Instruction</head>
                     <milestone unit="chunk" xml:id="UT22084-080-009-24"/>
-                    <p tid="33">Homage to the Glorious Vajraḍākinī!</p>
+                    <p tid="33">
+                        <ref cRef="F.167.a"/> Homage to the Glorious Vajraḍākinī!</p>
                     <lg tid="34">
                         <l>I pay homage to the protector of beings, Glorious Vajraḍākinī,</l>
                         <l>Universal sovereign of the ḍākinīs, the very essence of the five wisdoms
@@ -1400,20 +1401,20 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-130">
+                        <gloss type="term" xml:id="UT22084-080-009-130">
                             <term>āli kāli</term>
                             <term xml:lang="Bo-Ltn">A li kA li </term>
-                            <term xml:lang="bo">ཨཱ་ལི་ཀཱ་ལི</term>
+                            <term xml:lang="bo">ཨཱ་ལི་ཀཱ་ལི།</term>
                             <term xml:lang="Sa-Ltn">āli kāli</term>
                             <term type="definition">The vowels (<foreign type="term" xml:lang="Sa-Ltn">āli</foreign>) and consonants (<foreign type="term" xml:lang="Sa-Ltn">kāli</foreign>) of the Sanskrit
                                 alphabet.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-131">
+                        <gloss type="term" xml:id="UT22084-080-009-131">
                             <term>semen</term>
                             <term xml:lang="Bo-Ltn">byang chub kyi sems </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས།</term>
                             <term xml:lang="Sa-Ltn">bodhicitta</term>
                             <term type="definition">In normative Mahāyāna doctrine, bodhicitta
                                 refers to the awakened mind both in its relative and aboslute
@@ -1423,17 +1424,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-132">
+                        <gloss type="term" xml:id="UT22084-080-009-132">
                             <term>movement of breath</term>
                             <term xml:lang="Bo-Ltn">srog dang rtsol ba </term>
-                            <term xml:lang="bo">སྲོག་དང་རྩོལ་བ</term>
+                            <term xml:lang="bo">སྲོག་དང་རྩོལ་བ།</term>
                             <term xml:lang="Sa-Ltn">prāṇāyāma</term>
                             <term type="definition">The manipulation of breath by means of yogic
                                 exercise. The Tibetan translation of the Sanskrit compound <foreign type="term" xml:lang="Sa-Ltn">prāṇāyāma</foreign> is more usually the compound <foreign type="term" xml:lang="Bo-Ltn">srog rtsol</foreign>.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-133">
+                        <gloss type="term" xml:id="UT22084-080-009-133">
                             <term>commitment</term>
                             <term xml:lang="Bo-Ltn">dam tshig </term>
                             <term xml:lang="bo">དམ་ཚིག</term>
@@ -1444,10 +1445,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-134">
+                        <gloss type="term" xml:id="UT22084-080-009-134">
                             <term>sacramental substances</term>
                             <term xml:lang="Bo-Ltn">dam tshig gyi rdzas </term>
-                            <term xml:lang="bo">དམ་ཚིག་གྱི་རྫས</term>
+                            <term xml:lang="bo">དམ་ཚིག་གྱི་རྫས།</term>
                             <term xml:lang="Sa-Ltn">samayadravya</term>
                             <term type="definition">Sacramental substances ingested as part of
                                 tantric ritual; frequently composed of bodily fluids or illicit
@@ -1455,10 +1456,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-135">
+                        <gloss type="term" xml:id="UT22084-080-009-135">
                             <term>completion stage</term>
                             <term xml:lang="Bo-Ltn">rdzogs pa’i rim pa </term>
-                            <term xml:lang="bo">རྫོགས་པའི་རིམ་པ</term>
+                            <term xml:lang="bo">རྫོགས་པའི་རིམ་པ།</term>
                             <term xml:lang="Sa-Ltn">niṣpannakrama</term>
                             <term type="definition">The second of the two stages of tantric sādhana
                                 practiced. Its practices are specific to individual tantric systems
@@ -1469,10 +1470,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-136">
+                        <gloss type="term" xml:id="UT22084-080-009-136">
                             <term>ḍākinī</term>
                             <term xml:lang="Bo-Ltn">mkha’ ’gro ma </term>
-                            <term xml:lang="bo">མཁའ་འགྲོ་མ</term>
+                            <term xml:lang="bo">མཁའ་འགྲོ་མ།</term>
                             <term xml:lang="Sa-Ltn">ḍākinī</term>
                             <term type="definition">Like yoginīs, these are semi-divine female
                                 beings who have long haunted the margins of South Asian culture.
@@ -1481,10 +1482,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-137">
+                        <gloss type="term" xml:id="UT22084-080-009-137">
                             <term>development stage</term>
                             <term xml:lang="Bo-Ltn">skyed pa’i rim pa </term>
-                            <term xml:lang="bo">སྐྱེད་པའི་རིམ་པ</term>
+                            <term xml:lang="bo">སྐྱེད་པའི་རིམ་པ།</term>
                             <term xml:lang="Sa-Ltn">utpattikrama</term>
                             <term type="definition">The first of the two stages of tantric practice
                                 focused on the visualized development of the tantric maṇḍala and its
@@ -1492,37 +1493,37 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-138">
+                        <gloss type="term" xml:id="UT22084-080-009-138">
                             <term>Egg of Brahmā</term>
                             <term xml:lang="Bo-Ltn">tshangs sgo nga </term>
-                            <term xml:lang="bo">ཚངས་སྒོ་ང</term>
+                            <term xml:lang="bo">ཚངས་སྒོ་ང་།</term>
                             <term xml:lang="Sa-Ltn">brahmāṇḍā</term>
                             <term type="definition">Traditional Brahmanical term for the created
                                 universe.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-139">
+                        <gloss type="term" xml:id="UT22084-080-009-139">
                             <term>guhyaka</term>
                             <term xml:lang="Bo-Ltn">gsang ba pa </term>
-                            <term xml:lang="bo">གསང་བ་པ</term>
+                            <term xml:lang="bo">གསང་བ་པ།</term>
                             <term xml:lang="Sa-Ltn">guhyaka</term>
                             <term type="definition">A type of semi-divine being frequently found in
                                 the entourage of Kubera, the lord of wealth.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-140">
+                        <gloss type="term" xml:id="UT22084-080-009-140">
                             <term>Indra’s Web</term>
                             <term xml:lang="Bo-Ltn">mig ’phrul </term>
-                            <term xml:lang="bo">མིག་འཕྲུལ</term>
+                            <term xml:lang="bo">མིག་འཕྲུལ།</term>
                             <term xml:lang="Sa-Ltn">indrajāla</term>
                             <term type="definition">Traditional Brahmanical term for the illusory
                                 structure of mundane reality.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-141">
+                        <gloss type="term" xml:id="UT22084-080-009-141">
                             <term>khaṭvāṅga</term>
                             <term xml:lang="Bo-Ltn">kha TwAM ga </term>
                             <term xml:lang="bo">ཁ་ཊྭཱཾ་ག</term>
@@ -1533,10 +1534,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-080-009-142">
+                        <gloss type="term" xml:id="UT22084-080-009-142">
                             <term>mahāyoga</term>
                             <term xml:lang="Bo-Ltn">rnal ’byor chen po’i rgyud </term>
-                            <term xml:lang="bo">རྣལ་འབྱོར་ཆེན་པོའི་རྒྱུད</term>
+                            <term xml:lang="bo">རྣལ་འབྱོར་ཆེན་པོའི་རྒྱུད།</term>
                             <term xml:lang="Sa-Ltn">mahā­yoga­tantra</term>
                             <term type="definition">A term used to describe the later tantras of the
                                 Yoga class that incoporated more transgressive pactices and a
@@ -1545,10 +1546,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-143">
+                        <gloss type="term" xml:id="UT22084-080-009-143">
                             <term>sādhana</term>
                             <term xml:lang="Bo-Ltn">sgrub thabs </term>
-                            <term xml:lang="bo">སྒྲུབ་ཐབས</term>
+                            <term xml:lang="bo">སྒྲུབ་ཐབས།</term>
                             <term xml:lang="Sa-Ltn">sādhana</term>
                             <term type="definition">The method of practice. Experiential methods for actualizing spiritual
                                 attainments and liberation.</term>
@@ -1556,20 +1557,20 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-144">
+                        <gloss type="term" xml:id="UT22084-080-009-144">
                             <term>spiritual attainment</term>
                             <term xml:lang="Bo-Ltn">dngos grub </term>
-                            <term xml:lang="bo">དངོས་གྲུབ</term>
+                            <term xml:lang="bo">དངོས་གྲུབ།</term>
                             <term xml:lang="Sa-Ltn">siddhi</term>
                             <term type="definition">The mundane and transcendent abilities that are
                                 conferred through the perfection of yogic practices.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-080-009-145">
+                        <gloss type="term" xml:id="UT22084-080-009-145">
                             <term>vidyā</term>
                             <term xml:lang="Bo-Ltn">rig ma </term>
-                            <term xml:lang="bo">རིག་མ</term>
+                            <term xml:lang="bo">རིག་མ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
                             <term type="definition">An epithet of the female deity of the maṇḍala
                                 (most frequently as the consort of the main deity) who represents
@@ -1579,10 +1580,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-080-009-146">
+                        <gloss type="term" xml:id="UT22084-080-009-146">
                             <term>vidyādhara</term>
                             <term xml:lang="Bo-Ltn">rig pa ’dzin pa </term>
-                            <term xml:lang="bo">རིག་པ་འཛིན་པ</term>
+                            <term xml:lang="bo">རིག་པ་འཛིན་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyādhara</term>
                             <term type="definition">A type of semi-divine being whose identiy has
                                 shifted over time and genre. In their most popular form they are
@@ -1596,10 +1597,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-147">
+                        <gloss type="term" xml:id="UT22084-080-009-147">
                             <term>Virile One</term>
                             <term xml:lang="Bo-Ltn">dpa’ bo </term>
-                            <term xml:lang="bo">དཔའ་བོ</term>
+                            <term xml:lang="bo">དཔའ་བོ།</term>
                             <term xml:lang="Sa-Ltn">vīra</term>
                             <term type="definition">Closely associated with notions of virility,
                                 this term can denote the male deity of the maṇḍala (whose consort is
@@ -1607,10 +1608,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-080-009-148">
+                        <gloss type="term" xml:id="UT22084-080-009-148">
                             <term>yoga</term>
                             <term xml:lang="Bo-Ltn">rnal ’byor </term>
-                            <term xml:lang="bo">རྣལ་འབྱོར</term>
+                            <term xml:lang="bo">རྣལ་འབྱོར།</term>
                             <term xml:lang="Sa-Ltn">yoga</term>
                             <term type="definition">A term which is generally used to refer to a
                                 wide range of spiritual practices. It literally means to be merged
@@ -1619,10 +1620,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-149" mode="marked">
+                        <gloss type="term" xml:id="UT22084-080-009-149" mode="marked">
                             <term>Unexcelled Yoga tantra</term>
                             <term xml:lang="Bo-Ltn">bla na med pa’i rnal ’byor gyi rgyud </term>
-                            <term xml:lang="bo">བླ་ན་མེད་པའི་རྣལ་འབྱོར་གྱི་རྒྱུད</term>
+                            <term xml:lang="bo">བླ་ན་མེད་པའི་རྣལ་འབྱོར་གྱི་རྒྱུད།</term>
                             <term xml:lang="Sa-Ltn">yoga­niruttara­tantra</term>
                             <term type="definition">A category of tantra that includes the so-called
                                 father tantras like the <title xml:lang="Sa-Ltn">Guhya­samāja
@@ -1631,10 +1632,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-150">
+                        <gloss type="term" xml:id="UT22084-080-009-150">
                             <term>yoginī</term>
                             <term xml:lang="Bo-Ltn">rnal ’byor ma </term>
-                            <term xml:lang="bo">རྣལ་འབྱོར་མ</term>
+                            <term xml:lang="bo">རྣལ་འབྱོར་མ།</term>
                             <term xml:lang="Sa-Ltn">yoginī</term>
                             <term type="definition">With a long history in South Asian folklore and
                                 religious traditions, yoginīs are liminal, trangressive and often
@@ -1644,10 +1645,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-080-009-151">
+                        <gloss type="term" xml:id="UT22084-080-009-151">
                             <term>Yoginītantra</term>
                             <term xml:lang="Bo-Ltn">rnal ’byor ma’i rgyud </term>
-                            <term xml:lang="bo">རྣལ་འབྱོར་མའི་རྒྱུད</term>
+                            <term xml:lang="bo">རྣལ་འབྱོར་མའི་རྒྱུད།</term>
                             <term xml:lang="Sa-Ltn">yoginī­tantra</term>
                             <term type="definition">The last development of Buddhist tantra in
                                 India; focused upon the figure of the yoginī and the meditative
@@ -1658,10 +1659,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-152">
+                        <gloss type="person" xml:id="UT22084-080-009-152">
                             <term>Kṛṣṇavajra</term>
                             <term xml:lang="Bo-Ltn">nag po rdo rje </term>
-                            <term xml:lang="bo">ནག་པོ་རྡོ་རྗེ</term>
+                            <term xml:lang="bo">ནག་པོ་རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">Kṛṣṇavajra</term>
                             <term type="definition">An 11th or 12th century Buddhist commentator.
                                 Wrote <title xml:lang="Sa-Ltn">Recollection: a commentary on the
@@ -1669,19 +1670,19 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-153">
+                        <gloss type="person" xml:id="UT22084-080-009-153">
                             <term>Gö Lhetsé</term>
                             <term xml:lang="Bo-Ltn">gos lhas btsas </term>
-                            <term xml:lang="bo">གོས་ལྷས་བཙས</term>
-                            <term xml:lang="Sa-Ltn">-</term>
+                            <term xml:lang="bo">གོས་ལྷས་བཙས།</term>
+                            <!--<term xml:lang="Sa-Ltn">-</term>-->
                             <term type="definition">11th century translator and teacher of <title xml:lang="Sa-Ltn">Guhya­samāja­tantra</title>.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-154">
+                        <gloss type="person" xml:id="UT22084-080-009-154">
                             <term>Mahāmāyā</term>
                             <term xml:lang="Bo-Ltn">sgyu ’phrul chen mo </term>
-                            <term xml:lang="bo">སྒྱུ་འཕྲུལ་ཆེན་མོ</term>
+                            <term xml:lang="bo">སྒྱུ་འཕྲུལ་ཆེན་མོ།</term>
                             <term xml:lang="Sa-Ltn">Mahāmāyā</term>
                             <term type="definition">The female central deity of the <title xml:lang="Sa-Ltn">Mahā­māyā Tantra</title> who appears in the
                                 form of the male Heruka. She was also a popular form of the
@@ -1691,10 +1692,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-155">
+                        <gloss type="person" xml:id="UT22084-080-009-155">
                             <term>Heruka</term>
                             <term xml:lang="Bo-Ltn">he ru ka </term>
-                            <term xml:lang="bo">ཧེ་རུ་ཀ</term>
+                            <term xml:lang="bo">ཧེ་རུ་ཀ།</term>
                             <term xml:lang="Sa-Ltn">Heruka</term>
                             <term type="definition">The wrathful form of Akṣobhya, buddha of the
                                 vajra family, who appears in the center of many tantric maṇḍalas. He
@@ -1703,10 +1704,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-156">
+                        <gloss type="person" xml:id="UT22084-080-009-156">
                             <term>Kukkuripa</term>
                             <term xml:lang="Bo-Ltn">ku ku ri pa </term>
-                            <term xml:lang="bo">ཀུ་ཀུ་རི་པ</term>
+                            <term xml:lang="bo">ཀུ་ཀུ་རི་པ།</term>
                             <term xml:lang="Sa-Ltn">Kukkuripa</term>
                             <term type="definition">Counted among the most famous of the Indian
                                 Buddhist Mahāsiddhas and renowned for his association with packs of
@@ -1717,11 +1718,11 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="3" xml:id="UT22084-080-009-157">
+                        <gloss type="person" xml:id="UT22084-080-009-157">
                             <term>Marpa Chökyi Lodrö</term>
                             <term xml:lang="Bo-Ltn">mar pa chos kyi blo gros </term>
-                            <term xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</term>
-                            <term xml:lang="Sa-Ltn">-</term>
+                            <term xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས།</term>
+                            <!--<term xml:lang="Sa-Ltn">-</term>-->
                             <term type="definition">(1012 - 1097) Tibetan translator and lay
                                 practitioner from Lhodrak, traveled several times to Nepal and India
                                 to receive tantric Buddhist teachings, notably from Nāropa and
@@ -1732,10 +1733,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="1" xml:id="UT22084-080-009-158">
+                        <gloss type="person" xml:id="UT22084-080-009-158">
                             <term>Nāropa</term>
                             <term xml:lang="Bo-Ltn">na ro pa </term>
-                            <term xml:lang="bo">ན་རོ་པ</term>
+                            <term xml:lang="bo">ན་རོ་པ།</term>
                             <term xml:lang="Sa-Ltn">Nāropa</term>
                             <term type="definition">Indian scholar and practitioner (956 - 1041), a
                                 major figure in the transmission of tantric Buddhism to Tibet;
@@ -1746,10 +1747,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-080-009-159">
+                        <gloss type="person" xml:id="UT22084-080-009-159">
                             <term>Ratnākaraśānti</term>
                             <term xml:lang="Bo-Ltn">rin chen ’byung gnas zhi ba </term>
-                            <term xml:lang="bo">རིན་ཆེན་འབྱུང་གནས་ཞི་བ</term>
+                            <term xml:lang="bo">རིན་ཆེན་འབྱུང་གནས་ཞི་བ།</term>
                             <term xml:lang="Sa-Ltn">Ratnākaraśānti</term>
                             <term type="definition">An important 11th century Buddhist monastic
                                 scholar who wrote prolifically on a number on both Mahāyāna and
@@ -1757,10 +1758,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-080-009-160">
+                        <gloss type="place" xml:id="UT22084-080-009-160">
                             <term>Akaniṣṭha</term>
                             <term xml:lang="Bo-Ltn">’og min </term>
-                            <term xml:lang="bo">འོག་མིན</term>
+                            <term xml:lang="bo">འོག་མིན།</term>
                             <term xml:lang="Sa-Ltn">Akaniṣṭha</term>
                             <term type="definition">The highest of the buddhafields. The term can be
                                 used to indicate the pure realm of the dharmakāya in general or can

@@ -43,14 +43,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <ref>Toh 150</ref>, <biblScope>Degé Kangyur, vol. 57 (mdo sde, pa), folios 331a
-                        – 331b</biblScope>
+                    <ref>Toh 150</ref>, <biblScope>Degé Kangyur, vol. 57 (mdo sde, pa), folios 331.a
+                        – 331.b</biblScope>
                     <author role="translatorTib">Dīpaṃkaraśrījñāna</author>
                     <author role="translatorTib">Gewai Lodrö</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:04:08 by admin</note>
+                <note type="lastUpdated">Last updated at 28/02/2018 at 18:49:03 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -129,7 +129,7 @@
                         West Tibet, where the rulers of Ngari (<foreign type="term" xml:lang="Bo-Ltn">mnga’ ris</foreign>) first officially welcomed Atiśa
                         and where Gewai Lodrö was active.<note place="end" index="2" xml:id="UT22084-057-009-51">See Chattopadhyaya 1967:
                             325.</note> Gewai Lodrö collaborated with the great Kaśmīri scholar
-                        Subhūtiśrī(śānti) in Tholing before working with Atiśa. Atiśa and Gewai
+                        <term>Subhūtiśrī</term>(śānti) in Tholing before working with Atiśa. Atiśa and Gewai
                         Lodrö worked together on several translations found in editions of the
                         Tengyur, including the verses of the <title xml:lang="Sa-Ltn">Bodhi­patha­pradīpa</title> (<ref>Toh 3947</ref>) and the 
                             <title xml:lang="Sa-Ltn">Cittotpāda­saṃvara­vidhikrama</title> (<ref>Toh
@@ -163,7 +163,7 @@
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-057-009-9"/>
                     <p tid="11">
-                        <!--<modularPassage type="homage">-->Homage to the Bhagavān
+                        <ref cRef="F.331.a"/> <!--<modularPassage type="homage">-->Homage to the Bhagavān
                         Mañjuśrīkumārabhūta!<!--</modularPassage>-->
                     </p>
                     <lb/>
@@ -401,11 +401,11 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-057-009-43">
+                        <gloss type="term" xml:id="UT22084-057-009-43">
                             <term>generating the altruistic mind set on
                                 attaining awakening</term>
                             <term xml:lang="Bo-Ltn">byang chub kyi sems bskyed </term>
-                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད</term>
+                            <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད།</term>
                             <term xml:lang="Sa-Ltn">bodhicittotpāda</term>
                             <term type="definition">The altruistic resolve to achieve complete and
                                 perfect Buddhahood for the sake of oneself and all sentient
@@ -413,15 +413,15 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-057-009-44">
+                        <gloss type="term" xml:id="UT22084-057-009-44">
                             <term>the opening formula</term>
                             <term xml:lang="Bo-Ltn">gleng gzhi </term>
-                            <term xml:lang="bo">གླེང་གཞི</term>
+                            <term xml:lang="bo">གླེང་གཞི།</term>
                             <term xml:lang="Sa-Ltn">nidāna</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-057-009-45">
+                        <gloss type="person" xml:id="UT22084-057-009-45">
                             <term>Avalokiteśvara</term>
                             <term xml:lang="Bo-Ltn">spyan ras gzigs dbang phyug </term>
                             <term xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག</term>
@@ -434,10 +434,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-057-009-46">
+                        <gloss type="person" xml:id="UT22084-057-009-46">
                             <term>Atiśa</term>
                             <term xml:lang="Bo-Ltn">a ti sha </term>
-                            <term xml:lang="bo">ཨ་ཏི་ཤ</term>
+                            <term xml:lang="bo">ཨ་ཏི་ཤ།</term>
                             <term xml:lang="Sa-Ltn">Atiśa</term>
                             <term type="definition">Atiśa Dīpaṃkara­śrī­jñāna (982–1054 C.E.), often
                                 referred to in Tibetan as <foreign xml:lang="Bo-Ltn">jo bo</foreign>, “(The) Lord,” was a renowned figure
@@ -447,10 +447,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-057-009-47">
+                        <gloss type="person" xml:id="UT22084-057-009-47">
                             <term>Gewai Lodrö</term>
                             <term xml:lang="Bo-Ltn">dge ba’i blo gros </term>
-                            <term xml:lang="bo">དགེ་བའི་བློ་གྲོས</term>
+                            <term xml:lang="bo">དགེ་བའི་བློ་གྲོས།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">Ma Gewai Lodrö (<foreign xml:lang="Bo-Ltn">ma dge ba’i blo gros</foreign>), a Tibetan
                                 lotsāva, was an important disciple of Rinchen Zangpo (<foreign xml:lang="Bo-Ltn">rin chen bzang
@@ -460,7 +460,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-057-009-48">
+                        <gloss type="person" xml:id="UT22084-057-009-48" mode="marked">
                             <term>Subhūtiśrī</term>
                             <term xml:lang="Bo-Ltn">-</term>
                             <term xml:lang="bo">-</term>
@@ -472,10 +472,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="place" priority="0" xml:id="UT22084-057-009-49">
+                        <gloss type="place" xml:id="UT22084-057-009-49">
                             <term>Tholing</term>
                             <term xml:lang="Bo-Ltn">tho ling </term>
-                            <term xml:lang="bo">ཐོ་ལིང</term>
+                            <term xml:lang="bo">ཐོ་ལིང།</term>
                             <term xml:lang="Sa-Ltn">-</term>
                             <term type="definition">The important West Tibetan monastery founded in
                                 996 C.E. by King Yeshé Ö (<foreign xml:lang="Bo-Ltn">ye shes 'od</foreign>) and the translator Rinchen Zangpo (<foreign xml:lang="Bo-Ltn">rin chen bzang

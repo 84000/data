@@ -49,14 +49,14 @@
             <sourceDesc>
                 <bibl>
                     <ref>Toh 544</ref>, <biblScope> Degé Kangyur, vol. 89 (rgyud ’bum, pa), folios
-                        1b–13a</biblScope>
+                        1.b–13.a</biblScope>
                     <author role="translatorTib">Dīpaṃkara Śrījñāna</author>
                     <author role="translatorTib">Géwai Lodrö</author>
                     <author role="translatorTib">Tsultrim Gyalwa</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 10/01/2018 at 16:10:39 by admin</note>
+                <note type="lastUpdated">Last updated at 14/02/2018 at 16:09:43 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -503,7 +503,7 @@
                         stop that army. <ref cRef="F.3.a"/>
                     </p>
                     <p tid="42">One should place this mantra, enclosed at both ends by a syllable <foreign type="mantra" xml:lang="Sa-Ltn">oṁ</foreign> flanked
-                        by two <foreign type="mantra" xml:lang="Sa-Ltn">ṭha</foreign> syllables, adorned by eight <foreign type="mantra" xml:lang="Sa-Ltn ">laṁ</foreign> syllables, covered with a maṇḍala
+                        by two <foreign type="mantra" xml:lang="Sa-Ltn">ṭha</foreign> syllables, adorned by eight <foreign type="mantra" xml:lang="Sa-Ltn">laṁ</foreign> syllables, covered with a maṇḍala
                         of Indra, and embellished with a double vajra, in the abdomen of the effigy
                         of Gaṇapati made of clay from an anthill. One should then place it in a
                         cremation urn and bury this urn in a cemetery.<note place="end" index="22" xml:id="UT22084-089-001-343">Tib. adds
@@ -2283,63 +2283,63 @@
             <div type="glossary">
                 <list>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-184">
+                        <gloss type="term" xml:id="UT22084-089-001-184">
                             <term>bali</term>
                             <term xml:lang="Bo-Ltn">gtor ma </term>
-                            <term xml:lang="bo">གཏོར་མ</term>
+                            <term xml:lang="bo">གཏོར་མ།</term>
                             <term xml:lang="Sa-Ltn">bali</term>
                             <term type="definition">Ritual oblation offered into the fire.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-185">
+                        <gloss type="term" xml:id="UT22084-089-001-185">
                             <term>bhūmi</term>
                             <term xml:lang="Bo-Ltn">sa </term>
-                            <term xml:lang="bo">ས</term>
+                            <term xml:lang="bo">ས།</term>
                             <term xml:lang="Sa-Ltn">bhūmi</term>
                             <term type="definition">Level of the realization of a bodhisattva.
                                 Typically there are ten bhūmis, sometimes thirteen.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-186">
+                        <gloss type="term" xml:id="UT22084-089-001-186">
                             <term>wish-fulfilling gem</term>
                             <term xml:lang="Bo-Ltn">yid bzhin nor bu </term>
-                            <term xml:lang="bo">ཡིད་བཞིན་ནོར་བུ</term>
+                            <term xml:lang="bo">ཡིད་བཞིན་ནོར་བུ།</term>
                             <term xml:lang="Sa-Ltn">cintāmaṇi</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-187">
+                        <gloss type="term" xml:id="UT22084-089-001-187">
                             <term>sole hero</term>
                             <term xml:lang="Bo-Ltn">dpa’ bo gcig po </term>
-                            <term xml:lang="bo">དཔའ་བོ་གཅིག་པོ</term>
+                            <term xml:lang="bo">དཔའ་བོ་གཅིག་པོ།</term>
                             <term xml:lang="Sa-Ltn">ekavīra, ekalavīra, ekallavīra</term>
                             <term type="definition">Male deity visualized with a consort, but
                                 without the maṇḍala deities.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-188">
+                        <gloss type="term" xml:id="UT22084-089-001-188">
                             <term>mantra knot</term>
                             <term xml:lang="Bo-Ltn">sngags mdud </term>
-                            <term xml:lang="bo">སྔགས་མདུད</term>
+                            <term xml:lang="bo">སྔགས་མདུད།</term>
                             <term xml:lang="Sa-Ltn">gaṇḍaka</term>
                             <term type="definition">Knot which has been incanted with the mantra
                                 while being tied.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-189">
+                        <gloss type="term" xml:id="UT22084-089-001-189">
                             <term>villagers’ dharma</term>
                             <term xml:lang="Bo-Ltn">grong pa’i chos </term>
-                            <term xml:lang="bo">གྲོང་པའི་ཆོས</term>
+                            <term xml:lang="bo">གྲོང་པའི་ཆོས།</term>
                             <term xml:lang="Sa-Ltn">grāmyadharma</term>
                             <term type="definition">Euphemism for sexual intercourse.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-089-001-190">
+                        <gloss type="term" xml:id="UT22084-089-001-190">
                             <term>homa</term>
                             <term xml:lang="Bo-Ltn">sbyin sreg </term>
                             <term xml:lang="bo">སྦྱིན་སྲེག</term>
@@ -2350,72 +2350,72 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-191">
+                        <gloss type="term" xml:id="UT22084-089-001-191">
                             <term>karṣa</term>
                             <term xml:lang="Bo-Ltn">zho </term>
-                            <term xml:lang="bo">ཞོ</term>
+                            <term xml:lang="bo">ཞོ།</term>
                             <term xml:lang="Sa-Ltn">karṣa</term>
                             <term type="definition">A unit of weight equal to 280 grains troy, or,
                                 sometimes, 176 grains troy.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-192">
+                        <gloss type="term" xml:id="UT22084-089-001-192">
                             <term>human skull</term>
                             <term xml:lang="Bo-Ltn">ka pa chen po </term>
-                            <term xml:lang="bo">ཀ་པ་ཆེན་པོ</term>
+                            <term xml:lang="bo">ཀ་པ་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahākapala</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-193">
+                        <gloss type="term" xml:id="UT22084-089-001-193">
                             <term>human fat</term>
                             <term xml:lang="Bo-Ltn">snum chen po </term>
-                            <term xml:lang="bo">སྣུམ་ཆེན་པོ</term>
+                            <term xml:lang="bo">སྣུམ་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">mahātaila</term>
                             <term type="definition">In this context, a ritual object used in rituals
                                 of enthrallment.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-194">
+                        <gloss type="term" xml:id="UT22084-089-001-194">
                             <term>maṇḍala of Indra</term>
                             <term xml:lang="Bo-Ltn">dbang chen gyi dkyil ’khor </term>
-                            <term xml:lang="bo">དབང་ཆེན་གྱི་དཀྱིལ་འཁོར</term>
+                            <term xml:lang="bo">དབང་ཆེན་གྱི་དཀྱིལ་འཁོར།</term>
                             <term xml:lang="Sa-Ltn">mahendra­maṇḍala</term>
                             <term type="definition">A rainbow.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-195">
+                        <gloss type="term" xml:id="UT22084-089-001-195">
                             <term>follower of Mantra</term>
                             <term xml:lang="Bo-Ltn">sngags pa </term>
-                            <term xml:lang="bo">སྔགས་པ</term>
+                            <term xml:lang="bo">སྔགས་པ།</term>
                             <term xml:lang="Sa-Ltn">mantrin</term>
                             <term type="definition">A practitioner of mantra; a follower of the
                                 Mantra Vehicle.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-196">
+                        <gloss type="term" xml:id="UT22084-089-001-196">
                             <term>nāga</term>
                             <term xml:lang="Bo-Ltn">klu </term>
-                            <term xml:lang="bo">ཀླུ</term>
+                            <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
                             <term type="definition">Class of semi-divine serpent-like beings.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-197">
+                        <gloss type="term" xml:id="UT22084-089-001-197">
                             <term>pala</term>
                             <term xml:lang="Bo-Ltn">srang </term>
-                            <term xml:lang="bo">སྲང</term>
+                            <term xml:lang="bo">སྲང་།</term>
                             <term xml:lang="Sa-Ltn">pala</term>
                             <term type="definition">A unit of weight equal to four <foreign type="term" xml:lang="Sa-Ltn">karṣa</foreign>.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-198">
+                        <gloss type="term" xml:id="UT22084-089-001-198">
                             <term>pātāla</term>
                             <term xml:lang="Sa-Ltn">pātāla</term>
                             <term type="definition">One of the seven subterranean realms, the
@@ -2423,85 +2423,85 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-199">
+                        <gloss type="term" xml:id="UT22084-089-001-199">
                             <term>piśāca</term>
                             <term xml:lang="Bo-Ltn">sha za </term>
-                            <term xml:lang="bo">ཤ་ཟ</term>
+                            <term xml:lang="bo">ཤ་ཟ།</term>
                             <term xml:lang="Sa-Ltn">piśāca</term>
                             <term type="definition">A class of spirits.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-200">
+                        <gloss type="term" xml:id="UT22084-089-001-200">
                             <term>prastha</term>
                             <term xml:lang="Bo-Ltn">bre </term>
-                            <term xml:lang="bo">བྲེ</term>
+                            <term xml:lang="bo">བྲེ།</term>
                             <term xml:lang="Sa-Ltn">prastha</term>
                             <term type="definition">A unit of weight equal to thirty-two
                                 pala.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-201">
+                        <gloss type="term" xml:id="UT22084-089-001-201">
                             <term>effigy</term>
                             <term xml:lang="Bo-Ltn">gzugs </term>
-                            <term xml:lang="bo">གཟུགས</term>
+                            <term xml:lang="bo">གཟུགས།</term>
                             <term xml:lang="Sa-Ltn">puttalaka, puttalikā</term>
                             <term type="definition">Effigy of the target used in magical
                                 rites.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-202">
+                        <gloss type="term" xml:id="UT22084-089-001-202">
                             <term>target</term>
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
-                            <term xml:lang="bo">བསྒྲུབ་བྱ</term>
+                            <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
                             <term xml:lang="Sa-Ltn">sādhya, sādhyā</term>
                             <term type="definition">Person or being who is the target of a
                                 particular sādhana, or ritual.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-203">
+                        <gloss type="term" xml:id="UT22084-089-001-203">
                             <term>pacifying</term>
                             <term xml:lang="Bo-Ltn">zhi ba </term>
-                            <term xml:lang="bo">ཞི་བ</term>
+                            <term xml:lang="bo">ཞི་བ།</term>
                             <term xml:lang="Sa-Ltn">śāntika, śānti</term>
                             <term type="definition">Peace; one of the four main types of enlightened
                                 activity.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="1" xml:id="UT22084-089-001-204">
+                        <gloss type="term" xml:id="UT22084-089-001-204">
                             <term>siddhi</term>
                             <term xml:lang="Bo-Ltn">dngos grub </term>
-                            <term xml:lang="bo">དངོས་གྲུབ</term>
+                            <term xml:lang="bo">དངོས་གྲུབ།</term>
                             <term xml:lang="Sa-Ltn">siddhi</term>
                             <term type="definition">An accomplishment that is the goal of sādhana
                                 practice; a supernatural power or ability.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-205">
+                        <gloss type="term" xml:id="UT22084-089-001-205">
                             <term>tika</term>
                             <term xml:lang="Bo-Ltn">tika </term>
-                            <term xml:lang="bo">ཏིཀ</term>
+                            <term xml:lang="bo">ཏིཀ།</term>
                             <term xml:lang="Sa-Ltn">tika, tilaka</term>
                             <term type="definition">Dot painted between the eyebrows.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-206">
+                        <gloss type="term" xml:id="UT22084-089-001-206">
                             <term>three hot substances</term>
                             <term xml:lang="Bo-Ltn">tsha ba gsum </term>
-                            <term xml:lang="bo">ཚ་བ་གསུམ</term>
+                            <term xml:lang="bo">ཚ་བ་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">trikaṭu, trikaṭuka</term>
                             <term type="definition">Black pepper, long pepper, and dry
                                 ginger.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="2" xml:id="UT22084-089-001-207">
+                        <gloss type="term" xml:id="UT22084-089-001-207">
                             <term>chaff homa</term>
                             <term xml:lang="Bo-Ltn">phub ma’i sbyin sreg </term>
                             <term xml:lang="bo">ཕུབ་མའི་སྦྱིན་སྲེག</term>
@@ -2512,57 +2512,57 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-208">
+                        <gloss type="term" xml:id="UT22084-089-001-208">
                             <term>ūrṇā</term>
                             <term xml:lang="Bo-Ltn">mdzod spu </term>
-                            <term xml:lang="bo">མཛོད་སྤུ</term>
+                            <term xml:lang="bo">མཛོད་སྤུ།</term>
                             <term xml:lang="Sa-Ltn">ūrṇā, ūrṇākośa</term>
                             <term type="definition">Circular tuft of hair between the
                                 eyebrows.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-209">
+                        <gloss type="term" xml:id="UT22084-089-001-209">
                             <term>vidyādhara</term>
                             <term xml:lang="Bo-Ltn">rig ’dzin </term>
-                            <term xml:lang="bo">རིག་འཛིན</term>
+                            <term xml:lang="bo">རིག་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">vidyādhara</term>
                             <term type="definition">“Knowledge holder,” a being possessed of magical
                                 powers.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-210">
+                        <gloss type="term" xml:id="UT22084-089-001-210">
                             <term>double vajra</term>
                             <term xml:lang="Bo-Ltn">sna tshogs rdo rje </term>
-                            <term xml:lang="bo">སྣ་ཚོགས་རྡོ་རྗེ</term>
+                            <term xml:lang="bo">སྣ་ཚོགས་རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">viśvavajra</term>
                             <term type="definition">Two crossed vajras.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-211">
+                        <gloss type="term" xml:id="UT22084-089-001-211">
                             <term>yakṣa</term>
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
-                            <term xml:lang="bo">གནོད་སྦྱིན</term>
+                            <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
                             <term type="definition">Class of non-human beings.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="0" xml:id="UT22084-089-001-212">
+                        <gloss type="term" xml:id="UT22084-089-001-212">
                             <term>yakṣiṇī</term>
                             <term xml:lang="Bo-Ltn">gnod sbyin mo </term>
-                            <term xml:lang="bo">གནོད་སྦྱིན་མོ</term>
+                            <term xml:lang="bo">གནོད་སྦྱིན་མོ།</term>
                             <term xml:lang="Sa-Ltn">yakṣiṇī</term>
                             <term type="definition">Female yakṣa.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" priority="3" xml:id="UT22084-089-001-213">
+                        <gloss type="term" xml:id="UT22084-089-001-213">
                             <term>eight great siddhis</term>
                             <term xml:lang="Bo-Ltn">dngos grub chen po brgyad </term>
-                            <term xml:lang="bo">དངོས་གྲུབ་ཆེན་པོ་བརྒྱད</term>
+                            <term xml:lang="bo">དངོས་གྲུབ་ཆེན་པོ་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">aṣṭamahāsiddhi</term>
                             <term type="definition">Eight “ordinary” accomplishments attained
                                 through practice: (1) eye medicine (<foreign type="term" xml:lang="Sa-Ltn">añjana</foreign>, <foreign type="term" xml:lang="Bo-Ltn">mig sman</foreign>); (2) swift-footedness
@@ -2580,21 +2580,21 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-214">
+                        <gloss type="person" xml:id="UT22084-089-001-214">
                             <term>Aditi</term>
                             <term xml:lang="Sa-Ltn">Aditi</term>
                             <term type="definition">Goddess invoked to help win a girl.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-215">
+                        <gloss type="person" xml:id="UT22084-089-001-215">
                             <term>Ajitā</term>
                             <term xml:lang="Sa-Ltn">Ajitā</term>
                             <term type="definition">One of the “four sisters of victory.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-216">
+                        <gloss type="person" xml:id="UT22084-089-001-216">
                             <term>Amaraṇī</term>
                             <term xml:lang="Sa-Ltn">Amaraṇī</term>
                             <term type="definition">“Immortal One,” epithet of Jīvantī in the mantra
@@ -2602,21 +2602,21 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-217">
+                        <gloss type="person" xml:id="UT22084-089-001-217">
                             <term>Ambāsimbāka</term>
                             <term xml:lang="Sa-Ltn">Ambāsimbāka</term>
                             <term type="definition">Deity invoked to remove fear.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-218">
+                        <gloss type="person" xml:id="UT22084-089-001-218">
                             <term>Aparājitā</term>
                             <term xml:lang="Sa-Ltn">Aparājitā</term>
                             <term type="definition">One of the “four sisters of victory.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-219">
+                        <gloss type="person" xml:id="UT22084-089-001-219">
                             <term>Arapacana</term>
                             <term xml:lang="Sa-Ltn">Arapacana</term>
                             <term type="definition">Emanation of Mañjuśrī, invoked to obtain the
@@ -2624,7 +2624,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-220">
+                        <gloss type="person" xml:id="UT22084-089-001-220">
                             <term>Arkamālinī</term>
                             <term xml:lang="Sa-Ltn">Arkamālinī</term>
                             <term type="definition">“Having the nimbus of the sun,” epithet of
@@ -2633,7 +2633,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-221">
+                        <gloss type="person" xml:id="UT22084-089-001-221">
                             <term>Āryā</term>
                             <term xml:lang="Sa-Ltn">Āryā</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -2641,35 +2641,35 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-222">
+                        <gloss type="person" xml:id="UT22084-089-001-222">
                             <term>Avalokiteśvara</term>
                             <term xml:lang="Bo-Ltn">spyan ras gzigs </term>
-                            <term xml:lang="bo">སྤྱན་རས་གཟིགས</term>
+                            <term xml:lang="bo">སྤྱན་རས་གཟིགས།</term>
                             <term xml:lang="Sa-Ltn">Avalokiteśvara</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-223">
+                        <gloss type="person" xml:id="UT22084-089-001-223">
                             <term>Lokanātha</term>
                             <term xml:lang="Bo-Ltn">’jig rten mgon po </term>
-                            <term xml:lang="bo">འཇིག་རྟེན་མགོན་པོ</term>
+                            <term xml:lang="bo">འཇིག་རྟེན་མགོན་པོ།</term>
                             <term xml:lang="Sa-Ltn">Lokanātha</term>
                             <term type="definition">“Lord of the World,” an epithet of
                                 Avalokiteśvara.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-224">
+                        <gloss type="person" xml:id="UT22084-089-001-224">
                             <term>Bhṛkuṭī</term>
                             <term xml:lang="Bo-Ltn">khro gnyer can </term>
-                            <term xml:lang="bo">ཁྲོ་གཉེར་ཅན</term>
+                            <term xml:lang="bo">ཁྲོ་གཉེར་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Bhṛkuṭī</term>
                             <term type="definition">Along with Tārā, a female deity visualized in
                                 the sādhana of Lavaṇāmbha.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-225">
+                        <gloss type="person" xml:id="UT22084-089-001-225">
                             <term>Calā</term>
                             <term xml:lang="Sa-Ltn">Calā</term>
                             <term type="definition">Goddess of fortune invoked in divination and
@@ -2677,7 +2677,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-226">
+                        <gloss type="person" xml:id="UT22084-089-001-226">
                             <term>Caṇḍa­mahā­roṣaṇa</term>
                             <term xml:lang="Sa-Ltn">Caṇḍa­mahā­roṣaṇa</term>
                             <term type="definition">Deity invoked to destroy evil and to grant
@@ -2685,7 +2685,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-227">
+                        <gloss type="person" xml:id="UT22084-089-001-227">
                             <term>Candrakāntī</term>
                             <term xml:lang="Sa-Ltn">Candrakāntī</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -2693,17 +2693,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-228">
+                        <gloss type="person" xml:id="UT22084-089-001-228">
                             <term>Candraprabha</term>
                             <term xml:lang="Bo-Ltn">zla ba’i ’od </term>
-                            <term xml:lang="bo">ཟླ་བའི་འོད</term>
+                            <term xml:lang="bo">ཟླ་བའི་འོད།</term>
                             <term xml:lang="Sa-Ltn">Candraprabha</term>
                             <term type="definition">One of the four retinue deities of
                                 Arapacana.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-229">
+                        <gloss type="person" xml:id="UT22084-089-001-229">
                             <term>Carendra</term>
                             <term xml:lang="Sa-Ltn">Carendra</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -2711,21 +2711,21 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-230">
+                        <gloss type="person" xml:id="UT22084-089-001-230">
                             <term>Culā</term>
                             <term xml:lang="Sa-Ltn">Culā</term>
                             <term type="definition">Epithet of Calā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-231">
+                        <gloss type="person" xml:id="UT22084-089-001-231">
                             <term>Cundā</term>
                             <term xml:lang="Sa-Ltn">Cundā</term>
                             <term type="definition">Epithet of Calā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-232">
+                        <gloss type="person" xml:id="UT22084-089-001-232">
                             <term>Dantilī</term>
                             <term xml:lang="Sa-Ltn">Dantilī</term>
                             <term type="definition">Goddess who reveals hidden facts in one’s
@@ -2733,7 +2733,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-233">
+                        <gloss type="person" xml:id="UT22084-089-001-233">
                             <term>Dattā</term>
                             <term xml:lang="Sa-Ltn">Dattā</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -2741,7 +2741,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-234">
+                        <gloss type="person" xml:id="UT22084-089-001-234">
                             <term>Devī</term>
                             <term xml:lang="Sa-Ltn">Devī</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -2749,7 +2749,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-235">
+                        <gloss type="person" xml:id="UT22084-089-001-235">
                             <term>Dhanada</term>
                             <term xml:lang="Sa-Ltn">Dhanada</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -2757,7 +2757,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-236">
+                        <gloss type="person" xml:id="UT22084-089-001-236">
                             <term>Dīpaṃkara Śrījñāna</term>
                             <term xml:lang="Sa-Ltn">Dīpaṃkara Śrījñāna</term>
                             <term type="definition">The famed Indian scholar who spent twelve years
@@ -2765,7 +2765,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-237">
+                        <gloss type="person" xml:id="UT22084-089-001-237">
                             <term>Gaṇapati</term>
                             <term xml:lang="Sa-Ltn">Gaṇapati</term>
                             <term type="definition">Epithet of Ganeśa; sometimes of other
@@ -2773,7 +2773,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-238">
+                        <gloss type="person" xml:id="UT22084-089-001-238">
                             <term>Guptā</term>
                             <term xml:lang="Sa-Ltn">Guptā</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -2781,7 +2781,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-239">
+                        <gloss type="person" xml:id="UT22084-089-001-239">
                             <term>Grey Monkey</term>
                             <term xml:lang="Sa-Ltn">Harimarkaṭa</term>
                             <term type="definition">Deity invoked to release a prisoner from
@@ -2789,7 +2789,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-240">
+                        <gloss type="person" xml:id="UT22084-089-001-240">
                             <term>Jālinīprabha</term>
                             <term xml:lang="Sa-Ltn">Jālinīprabha</term>
                             <term type="definition">One of the four retinue deities of Arapacana,
@@ -2797,7 +2797,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-241">
+                        <gloss type="person" xml:id="UT22084-089-001-241">
                             <term>Jambhā</term>
                             <term xml:lang="Sa-Ltn">Jambhā</term>
                             <term type="definition">Deity invoked to make a person lovable; also to
@@ -2805,14 +2805,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-242">
+                        <gloss type="person" xml:id="UT22084-089-001-242">
                             <term>Jambhala</term>
                             <term xml:lang="Sa-Ltn">Jambhala</term>
                             <term type="definition">God of riches.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-243">
+                        <gloss type="person" xml:id="UT22084-089-001-243">
                             <term>Jambhanī</term>
                             <term xml:lang="Sa-Ltn">Jambhanī</term>
                             <term type="definition">“Snapper.” This seems to be an epithet of
@@ -2820,14 +2820,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-244">
+                        <gloss type="person" xml:id="UT22084-089-001-244">
                             <term>Jayā</term>
                             <term xml:lang="Sa-Ltn">Jayā</term>
                             <term type="definition">One of the “four sisters of victory.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-245">
+                        <gloss type="person" xml:id="UT22084-089-001-245">
                             <term>Jīvaṃvaradā</term>
                             <term xml:lang="Sa-Ltn">Jīvaṃvaradā</term>
                             <term type="definition">“Giver of the Boon of Life,” epithet of a
@@ -2835,7 +2835,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-246">
+                        <gloss type="person" xml:id="UT22084-089-001-246">
                             <term>Jīvantī</term>
                             <term xml:lang="Sa-Ltn">Jīvantī</term>
                             <term type="definition">“Ever Alive,” goddess invoked in the mantra of
@@ -2843,7 +2843,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-247">
+                        <gloss type="person" xml:id="UT22084-089-001-247">
                             <term>Jvālājihvā</term>
                             <term xml:lang="Sa-Ltn">Jvālājihvā</term>
                             <term type="definition">“Tongue of Flames,” goddess invoked to pacify
@@ -2851,7 +2851,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-248">
+                        <gloss type="person" xml:id="UT22084-089-001-248">
                             <term>Kailāsakūṭa­putra</term>
                             <term xml:lang="Sa-Ltn">Kailāsakūṭa­putra</term>
                             <term type="definition">“Son of Mount Meru,” god invoked in divination
@@ -2859,14 +2859,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-249">
+                        <gloss type="person" xml:id="UT22084-089-001-249">
                             <term>Kamalā</term>
                             <term xml:lang="Sa-Ltn">Kamalā</term>
                             <term type="definition">One of the names of Lakṣmī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-250">
+                        <gloss type="person" xml:id="UT22084-089-001-250">
                             <term>Kamalavikāsinī</term>
                             <term xml:lang="Sa-Ltn">Kamalavikāsinī</term>
                             <term type="definition">“Possessor of lotus blossoms,” epithet of
@@ -2874,10 +2874,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-251">
+                        <gloss type="person" xml:id="UT22084-089-001-251">
                             <term>Karṇapiśācī</term>
                             <term xml:lang="Bo-Ltn">sha za rna sgrogs </term>
-                            <term xml:lang="bo">ཤ་ཟ་རྣ་སྒྲོགས</term>
+                            <term xml:lang="bo">ཤ་ཟ་རྣ་སྒྲོགས།</term>
                             <term xml:lang="Sa-Ltn">Karṇapiśācī</term>
                             <term type="definition">“Demoness of the Ear,” female spirit who reveals
                                 hidden facts or the future by whispering them into one’s ear; very
@@ -2885,7 +2885,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-252">
+                        <gloss type="person" xml:id="UT22084-089-001-252">
                             <term>Kelimālin</term>
                             <term xml:lang="Sa-Ltn">Kelimālin</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -2893,24 +2893,24 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-253">
+                        <gloss type="person" xml:id="UT22084-089-001-253">
                             <term>Keśinī</term>
                             <term xml:lang="Bo-Ltn">skra can ma </term>
-                            <term xml:lang="bo">སྐྲ་ཅན་མ</term>
+                            <term xml:lang="bo">སྐྲ་ཅན་མ།</term>
                             <term xml:lang="Sa-Ltn">Keśinī</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Siddhaikavīra; also of Arapacana.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-254">
+                        <gloss type="person" xml:id="UT22084-089-001-254">
                             <term>Kubera</term>
                             <term xml:lang="Sa-Ltn">Kubera</term>
                             <term type="definition">God of wealth.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-255">
+                        <gloss type="person" xml:id="UT22084-089-001-255">
                             <term>Youthful One</term>
                             <term xml:lang="Sa-Ltn">Kumāra</term>
                             <term type="definition">In the SEV, deity invoked in a divination and
@@ -2918,7 +2918,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-256">
+                        <gloss type="person" xml:id="UT22084-089-001-256">
                             <term>Kurukullā</term>
                             <term xml:lang="Sa-Ltn">Kurukullā</term>
                             <term type="definition">Goddess invoked in the rites of
@@ -2926,7 +2926,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-257">
+                        <gloss type="person" xml:id="UT22084-089-001-257">
                             <term>Lakṣmī</term>
                             <term xml:lang="Sa-Ltn">Lakṣmī</term>
                             <term type="definition">Goddess of fortune, here invoked to obtain
@@ -2934,7 +2934,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-258">
+                        <gloss type="person" xml:id="UT22084-089-001-258">
                             <term>Lavaṇāmbha</term>
                             <term xml:lang="Sa-Ltn">Lavaṇāmbha</term>
                             <term type="definition">“Salty water,” epithet of Avalokiteśvara;
@@ -2942,26 +2942,26 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-259">
+                        <gloss type="person" xml:id="UT22084-089-001-259">
                             <term>Locanā</term>
                             <term xml:lang="Bo-Ltn">sangs rgyas spyan </term>
-                            <term xml:lang="bo">སངས་རྒྱས་སྤྱན</term>
+                            <term xml:lang="bo">སངས་རྒྱས་སྤྱན།</term>
                             <term xml:lang="Sa-Ltn">Locanā</term>
                             <term type="definition">Goddess invoked in divination and
                                 soothsaying.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-260">
+                        <gloss type="person" xml:id="UT22084-089-001-260">
                             <term>Mahālakṣmī</term>
                             <term xml:lang="Bo-Ltn">dpal chen po </term>
-                            <term xml:lang="bo">དཔལ་ཆེན་པོ</term>
+                            <term xml:lang="bo">དཔལ་ཆེན་པོ།</term>
                             <term xml:lang="Sa-Ltn">Mahālakṣmī</term>
                             <term type="definition">One of the names of Lakṣmī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-261">
+                        <gloss type="person" xml:id="UT22084-089-001-261">
                             <term>Mahāmāyāṅgā</term>
                             <term xml:lang="Sa-Ltn">Mahāmāyāṅgā</term>
                             <term type="definition">“One having the body of great illusion,” epithet
@@ -2969,10 +2969,10 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-262">
+                        <gloss type="person" xml:id="UT22084-089-001-262">
                             <term>Mahāsarasvatī</term>
                             <term xml:lang="Bo-Ltn">ngag gi dbang phyug ma chen mo </term>
-                            <term xml:lang="bo">ངག་གི་དབང་ཕྱུག་མ་ཆེན་མོ</term>
+                            <term xml:lang="bo">ངག་གི་དབང་ཕྱུག་མ་ཆེན་མོ།</term>
                             <term xml:lang="Sa-Ltn">Mahāsarasvatī</term>
                             <term type="definition">Goddess of learning; in the SEV she is
                                 associated with Tārā; she is also one the four retinue goddesses of
@@ -2980,17 +2980,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-263">
+                        <gloss type="person" xml:id="UT22084-089-001-263">
                             <term>Mahāśrī</term>
                             <term xml:lang="Bo-Ltn">dpal chen mo </term>
-                            <term xml:lang="bo">དཔལ་ཆེན་མོ</term>
+                            <term xml:lang="bo">དཔལ་ཆེན་མོ།</term>
                             <term xml:lang="Sa-Ltn">Mahāśrī</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Siddhaikavīra.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-264">
+                        <gloss type="person" xml:id="UT22084-089-001-264">
                             <term>Mahāśvetā</term>
                             <term xml:lang="Sa-Ltn">Mahāśvetā</term>
                             <term type="definition">“Great White Goddess,” epithet of
@@ -2998,14 +2998,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-265">
+                        <gloss type="person" xml:id="UT22084-089-001-265">
                             <term>Mahāvidyā</term>
                             <term xml:lang="Sa-Ltn">Mahāvidyā</term>
                             <term type="definition">“Great Knowledge,” epithet of Calā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-266">
+                        <gloss type="person" xml:id="UT22084-089-001-266">
                             <term>Maṇibhadra</term>
                             <term xml:lang="Sa-Ltn">Maṇibhadra</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -3013,52 +3013,52 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-267">
+                        <gloss type="person" xml:id="UT22084-089-001-267">
                             <term>Mañjughoṣa</term>
                             <term xml:lang="Sa-Ltn">Mañjughoṣa</term>
                             <term type="definition">Emanation of Mañjuśrī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-268">
+                        <gloss type="person" xml:id="UT22084-089-001-268">
                             <term>Mañjuśrī</term>
                             <term xml:lang="Bo-Ltn">’jam dpal </term>
-                            <term xml:lang="bo">འཇམ་དཔལ</term>
+                            <term xml:lang="bo">འཇམ་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">Mañjuśrī</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-269">
+                        <gloss type="person" xml:id="UT22084-089-001-269">
                             <term>Mañjuvajra</term>
                             <term xml:lang="Bo-Ltn">’jam pa’i rdo rje </term>
-                            <term xml:lang="bo">འཇམ་པའི་རྡོ་རྗེ</term>
+                            <term xml:lang="bo">འཇམ་པའི་རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">Mañjuvajra</term>
                             <term type="definition">Emanation of Mañjuśrī; the deity delivering the
                                 SEV.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-270">
+                        <gloss type="person" xml:id="UT22084-089-001-270">
                             <term>Mati</term>
                             <term xml:lang="Bo-Ltn">blo ma </term>
-                            <term xml:lang="bo">བློ་མ</term>
+                            <term xml:lang="bo">བློ་མ།</term>
                             <term xml:lang="Sa-Ltn">Mati</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Mahāsarasvatī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-271">
+                        <gloss type="person" xml:id="UT22084-089-001-271">
                             <term>Medhā</term>
                             <term xml:lang="Bo-Ltn">yid gzhungs ma </term>
-                            <term xml:lang="bo">ཡིད་གཞུངས་མ</term>
+                            <term xml:lang="bo">ཡིད་གཞུངས་མ།</term>
                             <term xml:lang="Sa-Ltn">Medhā</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Mahāsarasvatī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-272">
+                        <gloss type="person" xml:id="UT22084-089-001-272">
                             <term>Megholka</term>
                             <term xml:lang="Sa-Ltn">Megholka</term>
                             <term type="definition">God of lightning (Indra?) invoked to obtain
@@ -3066,7 +3066,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-273">
+                        <gloss type="person" xml:id="UT22084-089-001-273">
                             <term>Mocanī</term>
                             <term xml:lang="Sa-Ltn">Mocanī</term>
                             <term type="definition">“Releaser,” epithet of a goddess (Tārā?) invoked
@@ -3074,7 +3074,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-274">
+                        <gloss type="person" xml:id="UT22084-089-001-274">
                             <term>Mohā</term>
                             <term xml:lang="Sa-Ltn">Mohā</term>
                             <term type="definition">Deity invoked to make a person lovable; also to
@@ -3082,7 +3082,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-275">
+                        <gloss type="person" xml:id="UT22084-089-001-275">
                             <term>Mohanī</term>
                             <term xml:lang="Sa-Ltn">Mohanī</term>
                             <term type="definition">“Deluder.” This seems to be an epithet of
@@ -3090,7 +3090,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-276">
+                        <gloss type="person" xml:id="UT22084-089-001-276">
                             <term>Mokṣaṇī</term>
                             <term xml:lang="Sa-Ltn">Mokṣaṇī</term>
                             <term type="definition">“Reliever,” epithet of a goddess (Tārā?) invoked
@@ -3098,7 +3098,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-277">
+                        <gloss type="person" xml:id="UT22084-089-001-277">
                             <term>Mucilī</term>
                             <term xml:lang="Sa-Ltn">Mucilī</term>
                             <term type="definition">Goddess who reveals hidden facts in one’s sleep;
@@ -3106,7 +3106,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-278">
+                        <gloss type="person" xml:id="UT22084-089-001-278">
                             <term>Muṇḍā</term>
                             <term xml:lang="Sa-Ltn">Muṇḍā</term>
                             <term type="definition">Female spirit invoked in divination and
@@ -3114,17 +3114,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-279">
+                        <gloss type="person" xml:id="UT22084-089-001-279">
                             <term>Nandinī</term>
                             <term xml:lang="Bo-Ltn">dga’ byed ma </term>
-                            <term xml:lang="bo">དགའ་བྱེད་མ</term>
+                            <term xml:lang="bo">དགའ་བྱེད་མ།</term>
                             <term xml:lang="Sa-Ltn">Nandinī</term>
                             <term type="definition">Goddess invoked to obtain power, riches, and
                                 splendor.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-280">
+                        <gloss type="person" xml:id="UT22084-089-001-280">
                             <term>Niculā</term>
                             <term xml:lang="Sa-Ltn">Niculā</term>
                             <term type="definition">Goddess invoked to protect one from
@@ -3132,7 +3132,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-281">
+                        <gloss type="person" xml:id="UT22084-089-001-281">
                             <term>Pādacalanā</term>
                             <term xml:lang="Sa-Ltn">Pādacalanā</term>
                             <term type="definition">This appears to be a goddess invoked to protect
@@ -3140,7 +3140,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-282">
+                        <gloss type="person" xml:id="UT22084-089-001-282">
                             <term>Padmā</term>
                             <term xml:lang="Sa-Ltn">Padmā</term>
                             <term type="definition">Goddess invoked to cure diseases of the eyes,
@@ -3148,7 +3148,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-283">
+                        <gloss type="person" xml:id="UT22084-089-001-283">
                             <term>Parṇaśabarī</term>
                             <term xml:lang="Sa-Ltn">Parṇaśabarī</term>
                             <term type="definition">Female piśāca invoked to protect people and
@@ -3156,17 +3156,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-284">
+                        <gloss type="person" xml:id="UT22084-089-001-284">
                             <term>Prajñā</term>
                             <term xml:lang="Bo-Ltn">shes rab ma </term>
-                            <term xml:lang="bo">ཤེས་རབ་མ</term>
+                            <term xml:lang="bo">ཤེས་རབ་མ།</term>
                             <term xml:lang="Sa-Ltn">Prajñā</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Mahāsarasvatī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-285">
+                        <gloss type="person" xml:id="UT22084-089-001-285">
                             <term>Prajvala</term>
                             <term xml:lang="Sa-Ltn">Prajvala</term>
                             <term type="definition">“Blazing Light,” epithet of Avalokiteśvara when
@@ -3174,7 +3174,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-286">
+                        <gloss type="person" xml:id="UT22084-089-001-286">
                             <term>Pūrṇabhadra</term>
                             <term xml:lang="Sa-Ltn">Pūrṇabhadra</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -3182,7 +3182,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-287">
+                        <gloss type="person" xml:id="UT22084-089-001-287">
                             <term>Rakṣaṇī</term>
                             <term xml:lang="Sa-Ltn">Rakṣaṇī</term>
                             <term type="definition">“Protector.” This seems to be an epithet of
@@ -3190,27 +3190,27 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-288">
+                        <gloss type="person" xml:id="UT22084-089-001-288">
                             <term>Sarasvatī</term>
                             <term xml:lang="Bo-Ltn">dbyangs can </term>
-                            <term xml:lang="bo">དབྱངས་ཅན</term>
+                            <term xml:lang="bo">དབྱངས་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Sarasvatī</term>
                             <term type="definition">Goddess of learning; one of the eight great
                                 yakṣiṇīs who form the retinue of Vasudharā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-289">
+                        <gloss type="person" xml:id="UT22084-089-001-289">
                             <term>Satyavādinī</term>
                             <term xml:lang="Sa-Ltn">Satyavādinī</term>
                             <term type="definition">“Speaker of Truth,” epithet of Calā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-290">
+                        <gloss type="person" xml:id="UT22084-089-001-290">
                             <term>Siddhaikavīra</term>
                             <term xml:lang="Bo-Ltn">dpa’ bo gcig pu grub pa </term>
-                            <term xml:lang="bo">དཔའ་བོ་གཅིག་པུ་གྲུབ་པ</term>
+                            <term xml:lang="bo">དཔའ་བོ་གཅིག་པུ་གྲུབ་པ།</term>
                             <term xml:lang="Sa-Ltn">Siddhaikavīra</term>
                             <term type="definition">Emanation of Mañjuśrī; the title deity of the
                                 SEV. He is visualized in the rituals of the 41st and 46th mantras of
@@ -3218,7 +3218,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-291">
+                        <gloss type="person" xml:id="UT22084-089-001-291">
                             <term>Siddhalocanā</term>
                             <term xml:lang="Sa-Ltn">Siddhalocanā</term>
                             <term type="definition">“Endowed with Supernatural Vision,” epithet of
@@ -3226,24 +3226,24 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-292">
+                        <gloss type="person" xml:id="UT22084-089-001-292">
                             <term>Smṛti</term>
                             <term xml:lang="Bo-Ltn">dran pa ma </term>
-                            <term xml:lang="bo">དྲན་པ་མ</term>
+                            <term xml:lang="bo">དྲན་པ་མ།</term>
                             <term xml:lang="Sa-Ltn">Smṛti</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Mahāsarasvatī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-293">
+                        <gloss type="person" xml:id="UT22084-089-001-293">
                             <term>Śravaṇa­piśācī</term>
                             <term xml:lang="Sa-Ltn">Śravaṇa­piśācinī</term>
                             <term type="definition">“Demoness of the Ear,” epithet of Muṇḍā.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-294">
+                        <gloss type="person" xml:id="UT22084-089-001-294">
                             <term>Śrīvasu</term>
                             <term xml:lang="Sa-Ltn">Śrīvasu</term>
                             <term type="definition">One of the four retinue goddesses of
@@ -3251,7 +3251,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-295">
+                        <gloss type="person" xml:id="UT22084-089-001-295">
                             <term>Stambhanī</term>
                             <term xml:lang="Sa-Ltn">Stambhanī</term>
                             <term type="definition">“Immobilizer.” This seems to be an epithet of
@@ -3259,7 +3259,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-296">
+                        <gloss type="person" xml:id="UT22084-089-001-296">
                             <term>Subhadrā</term>
                             <term xml:lang="Sa-Ltn">Subhadrā</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -3267,7 +3267,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-297">
+                        <gloss type="person" xml:id="UT22084-089-001-297">
                             <term>Sukhendra</term>
                             <term xml:lang="Sa-Ltn">Sukhendra</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -3275,7 +3275,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-298">
+                        <gloss type="person" xml:id="UT22084-089-001-298">
                             <term>Svapnavilokinī</term>
                             <term xml:lang="Sa-Ltn">Svapnavilokinī</term>
                             <term type="definition">“One Who Can See Dreams,” epithet of
@@ -3283,15 +3283,15 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-299">
+                        <gloss type="person" xml:id="UT22084-089-001-299">
                             <term>Tārā</term>
                             <term xml:lang="Bo-Ltn">sgrol ma </term>
-                            <term xml:lang="bo">སྒྲོལ་མ</term>
+                            <term xml:lang="bo">སྒྲོལ་མ།</term>
                             <term xml:lang="Sa-Ltn">Tārā</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-300">
+                        <gloss type="person" xml:id="UT22084-089-001-300">
                             <term>Tāraṇī</term>
                             <term xml:lang="Sa-Ltn">Tāraṇī</term>
                             <term type="definition">“Savioress,” epithet of a goddess (Tārā?)
@@ -3299,17 +3299,17 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-301">
+                        <gloss type="person" xml:id="UT22084-089-001-301">
                             <term>Upakeśinī</term>
                             <term xml:lang="Bo-Ltn">nye ba’i skra can ma </term>
-                            <term xml:lang="bo">ཉེ་བའི་སྐྲ་ཅན་མ</term>
+                            <term xml:lang="bo">ཉེ་བའི་སྐྲ་ཅན་མ།</term>
                             <term xml:lang="Sa-Ltn">Upakeśinī</term>
                             <term type="definition">One of the four retinue goddesses of
                                 Siddhaikavīra; also of Arapacana.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-302">
+                        <gloss type="person" xml:id="UT22084-089-001-302">
                             <term>Ūrṇāmaṇi</term>
                             <term xml:lang="Sa-Ltn">Ūrṇāmaṇi</term>
                             <term type="definition">“One With the Jewel of Ūrṇā,” deity invoked to
@@ -3317,7 +3317,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-303">
+                        <gloss type="person" xml:id="UT22084-089-001-303">
                             <term>Vāgīśvara</term>
                             <term xml:lang="Bo-Ltn">gsung gi dbang phyug </term>
                             <term xml:lang="bo">གསུང་གི་དབང་ཕྱུག</term>
@@ -3326,14 +3326,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-304">
+                        <gloss type="person" xml:id="UT22084-089-001-304">
                             <term>Vāgvādinī</term>
                             <term xml:lang="Sa-Ltn">Vāgvādinī</term>
                             <term type="definition">Epithet of Sarasvatī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-305">
+                        <gloss type="person" xml:id="UT22084-089-001-305">
                             <term>Vaiśravaṇa</term>
                             <term xml:lang="Sa-Ltn">Vaiśravaṇa</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -3341,7 +3341,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-306">
+                        <gloss type="person" xml:id="UT22084-089-001-306">
                             <term>Vajradhara</term>
                             <term xml:lang="Sa-Ltn">Vajradhara</term>
                             <term type="definition">One of the sambhogakāya deities; the bodhisattva
@@ -3349,14 +3349,14 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-307">
+                        <gloss type="person" xml:id="UT22084-089-001-307">
                             <term>Vajratīkṣṇa</term>
                             <term xml:lang="Sa-Ltn">Vajratīkṣṇa</term>
                             <term type="definition">“Diamond-sharp,” epithet of Mañjuśrī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-308">
+                        <gloss type="person" xml:id="UT22084-089-001-308">
                             <term>Speech</term>
                             <term xml:lang="Sa-Ltn">Vāk</term>
                             <term type="definition">Speech personified; one of the names of
@@ -3364,7 +3364,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-309">
+                        <gloss type="person" xml:id="UT22084-089-001-309">
                             <term>Vākya</term>
                             <term xml:lang="Sa-Ltn">Vākya</term>
                             <term type="definition">Epithet of Mañjuśrī used in his heart mantra,
@@ -3372,7 +3372,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-310">
+                        <gloss type="person" xml:id="UT22084-089-001-310">
                             <term>Varadā</term>
                             <term xml:lang="Sa-Ltn">Varadā</term>
                             <term type="definition">“Boon-giver,” this seems to be an epithet of
@@ -3380,7 +3380,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-311">
+                        <gloss type="person" xml:id="UT22084-089-001-311">
                             <term>Vasudattā</term>
                             <term xml:lang="Sa-Ltn">Vasudattā</term>
                             <term type="definition">One of the eight great yakṣiṇīs who form the
@@ -3388,7 +3388,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-312">
+                        <gloss type="person" xml:id="UT22084-089-001-312">
                             <term>Vasudharā</term>
                             <term xml:lang="Sa-Ltn">Vasudharā</term>
                             <term type="definition">Goddess of riches, Earth personified; invoked
@@ -3397,7 +3397,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-313">
+                        <gloss type="person" xml:id="UT22084-089-001-313">
                             <term>Vasumatiśrī</term>
                             <term xml:lang="Sa-Ltn">Vasumatiśrī</term>
                             <term type="definition">One of the four retinue goddesses of
@@ -3405,7 +3405,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-314">
+                        <gloss type="person" xml:id="UT22084-089-001-314">
                             <term>Vasumukhī</term>
                             <term xml:lang="Sa-Ltn">Vasumukhī</term>
                             <term type="definition">One of the four retinue goddesses of
@@ -3413,7 +3413,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-315">
+                        <gloss type="person" xml:id="UT22084-089-001-315">
                             <term>Vasuśrī</term>
                             <term xml:lang="Sa-Ltn">Vasuśrī</term>
                             <term type="definition">One of the four retinue goddesses of
@@ -3421,7 +3421,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-316">
+                        <gloss type="person" xml:id="UT22084-089-001-316">
                             <term>Vicitra­kuṇḍalin</term>
                             <term xml:lang="Sa-Ltn">Vicitra­kuṇḍalin</term>
                             <term type="definition">One of the eight great yakṣas who form the
@@ -3429,46 +3429,46 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-317">
+                        <gloss type="person" xml:id="UT22084-089-001-317">
                             <term>Vijayā</term>
                             <term xml:lang="Sa-Ltn">Vijayā</term>
                             <term type="definition">One of the “four sisters of victory.”</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-318">
+                        <gloss type="person" xml:id="UT22084-089-001-318">
                             <term>Vimalacandra</term>
                             <term xml:lang="Bo-Ltn">dri ma med pa’i zla ba </term>
-                            <term xml:lang="bo">དྲི་མ་མེད་པའི་ཟླ་བ</term>
+                            <term xml:lang="bo">དྲི་མ་མེད་པའི་ཟླ་བ།</term>
                             <term xml:lang="Sa-Ltn">Vimalacandra</term>
                             <term type="definition">God invoked in divination and soothsaying,
                                 possibly associated with Kubera, or an epithet of Kubera.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-319">
+                        <gloss type="person" xml:id="UT22084-089-001-319">
                             <term>Yamāntaka</term>
                             <term xml:lang="Bo-Ltn">gshin rje mthar byed </term>
-                            <term xml:lang="bo">གཤིན་རྗེ་མཐར་བྱེད</term>
+                            <term xml:lang="bo">གཤིན་རྗེ་མཐར་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">Yamāntaka</term>
                             <term type="definition">Deity invoked to summon and subdue
                                 Karṇapiśācī.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-320">
+                        <gloss type="person" xml:id="UT22084-089-001-320">
                             <term>Géwai Lodrö</term>
                             <term xml:lang="Bo-Ltn">dge ba’i blo gros </term>
-                            <term xml:lang="bo">དགེ་བའི་བློ་གྲོས</term>
+                            <term xml:lang="bo">དགེ་བའི་བློ་གྲོས།</term>
                             <term type="definition">One of the three translators responsible for the
                                 canonical translation of the SEV.</term>
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="person" priority="0" xml:id="UT22084-089-001-321">
+                        <gloss type="person" xml:id="UT22084-089-001-321">
                             <term>Tsultrim Gyalwa</term>
                             <term xml:lang="Bo-Ltn">tshul khrims rgyal ba </term>
-                            <term xml:lang="bo">ཚུལ་ཁྲིམས་རྒྱལ་བ</term>
+                            <term xml:lang="bo">ཚུལ་ཁྲིམས་རྒྱལ་བ།</term>
                             <term type="definition">One of the three translators responsible for the
                                 canonical translation of the SEV.</term>
                         </gloss>

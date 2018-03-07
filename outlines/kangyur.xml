@@ -799,15 +799,16 @@
                     <outline:title encoding="native" lang="english">The Perfection of Wisdom in Ten
                         Thousand Lines</outline:title>
                     <outline:title encoding="native" lang="sanskrit">daśasāhasrikāprajñāpāramitā</outline:title>
-                    <outline:description type="status">inProcess</outline:description>
-                    <outline:description type="icon">mogol/05_icon.jpg</outline:description>
+                    <outline:description type="status">completed</outline:description>
+                    <outline:description type="completionDate">2018-02-16</outline:description>
+                    <outline:description type="text">UT22084-031-002</outline:description>
                     <outline:description type="summary">While dwelling at Vulture Peak near
-                        Rājagṛha, the Buddha sets in motion the most extensive of all sūtras—the
-                        &lt;i&gt;Prajñāpāramitā&lt;/i&gt;. Committed to writing around the start of
+                        Rājagṛha, the Buddha sets in motion the sūtras that are the most extensive of all—the
+                        sūtras on the Prajñāpāramitā, or “Transcendent Perfection of Wisdom.” Committed to writing around the start of
                         the first millennium, these sūtras were expanded and contracted in the
                         centuries that followed, eventually amounting to twenty-three volumes in the
-                        Tibetan Kangyur. Among them, &lt;i&gt;The Transcendent Perfection of Wisdom
-                        in Ten Thousand Lines&lt;/i&gt; is a compact and coherent restatement of the
+                        Tibetan Kangyur. Among them, “The Transcendent Perfection of Wisdom
+                        in Ten Thousand Lines” is a compact and coherent restatement of the
                         longer versions, uniquely extant in Tibetan translation, without specific
                         commentaries, and rarely studied. While the structure generally follows that
                         of the longer versions, chapters 1–2 conveniently summarize all three
@@ -4652,8 +4653,8 @@
                     <outline:title encoding="native" lang="english" type="bibliographicalTitle">The
                         King of Samādhi</outline:title>
                     <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">samādhirāja</outline:title>
-                    <outline:description type="status">inProcess</outline:description>
-                    <outline:description type="icon">mogol/10_icon.jpg</outline:description>
+                    <outline:description type="status">completed</outline:description>
+                    <outline:description type="text">UT22084-055-001</outline:description>
                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11706" type="text" webAccess="abstractOnly">
@@ -5148,13 +5149,12 @@
             </outline:node>
             <outline:node RID="O1JC114941JC11734" type="text" webAccess="abstractOnly">
                 <outline:title>dkon mchog ta la la'i gzungs/</outline:title>
-                <outline:title encoding="native" lang="english">Incantation of the Precious
-                    Torch</outline:title>
+                <outline:title encoding="native" lang="english">The Dhāraṇi of the Jewel Torch</outline:title>
                 <outline:title encoding="native" lang="sanskrit">ratnolkādhāraṇīsūtra</outline:title>
                 <outline:title type="titlePageTitle">'phags pa dkon mchog ta la la'i gzungs zhes bya
                     ba theg pa chen po'i mdo</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">āryaratnolkānāma­dhāraṇī­mahāyānasūtra</outline:title>
-                <outline:title type="otherTitle">dkon mchog sgron me</outline:title>
+                <outline:title type="otherTitle">dkon mchog sgron me’i mdo</outline:title>
                 <outline:location page="69" side="148v" type="page" vol="57" work="W22084"/>
                 <outline:location page="165" side="215v" type="page" vol="57" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol.57,
@@ -7131,8 +7131,7 @@
             </outline:node>
             <outline:node RID="O1JC114941JC11845" type="text" webAccess="abstractOnly">
                 <outline:title>sA lu'i ljang pa'i mdo/</outline:title>
-                <outline:title encoding="native" lang="english">The Sūtra on Rice
-                    Sprouts</outline:title>
+                <outline:title encoding="native" lang="english">The Rice Seedling Sūtra</outline:title>
                 <outline:title encoding="native" lang="sanskrit">śālistambhasūtra</outline:title>
                 <outline:title type="titlePageTitle">'phags pa sA lu'i ljang pa zhes bya ba theg pa
                     chen po'i mdo</outline:title>
@@ -7148,9 +7147,15 @@
                 <outline:description type="stog number">191</outline:description>
                 <outline:description type="location">snar thang 195</outline:description>
                 <outline:description type="sde dge number">210</outline:description>
-                <outline:node RID="O1JC114941JC116671JC216661JC216681JC216691JC216701JC216711JC216721JC216731JC216741JC21675" type="translation">
-                    <outline:description type="status">inProcess</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:description type="status">completed</outline:description>
                     <outline:description type="text">UT22084-062-010</outline:description>                    
+                    <outline:description type="summary">In this sūtra, at the request of venerable Śāriputra, the bodhisattva 
+                        mahāsattva Maitreya elucidates a very brief teaching on dependent arising that the Buddha had given 
+                        earlier that day while gazing at a rice seedling. The text discusses outer and inner causation and 
+                        its conditions, describes in detail the twelvefold cycle by which inner dependent arising gives rise 
+                        to successive lives, and explains how understanding the very nature of that process can lead to freedom 
+                        from it.</outline:description>
                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11846" type="text" webAccess="abstractOnly">
@@ -9124,9 +9129,14 @@
                     <outline:title encoding="native" lang="english">The Threefold
                         Training</outline:title>
                     <outline:title encoding="native" lang="sanskrit">Śikṣātraya</outline:title>
-                    <outline:description type="status">inProcess</outline:description>
-                    <outline:description type="icon">mogol/10_icon.jpg</outline:description>
-                </outline:node>
+                    <outline:description type="status">completed</outline:description>
+                    <outline:description type="text">UT22084-068-016</outline:description>
+                    <outline:description type="summary"> In this very short sūtra, the Buddha Śākyamuni briefly introduces 
+                        the three elements or stages of the path, widely known as “the three trainings,” one by one in a 
+                        specific order: discipline, meditative concentration, and wisdom. He teaches that training progressively 
+                        in them constitutes the gradual path to awakening.
+                    </outline:description>
+                  </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11945" type="text" webAccess="abstractOnly">
                 <outline:title>sku gsum pa'i mdo/</outline:title>
@@ -10205,6 +10215,9 @@
                 <outline:description type="stog number">57</outline:description>
                 <outline:description type="location">snar thang 313</outline:description>
                 <outline:description type="sde dge number">328</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:description type="status">inProcess</outline:description>
+                </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC12007" type="text" webAccess="abstractOnly">
                 <outline:title type="titlePageTitle">lha'i mdo/</outline:title>
@@ -10395,16 +10408,22 @@
                 <outline:description type="sde dge number">337</outline:description>
                 <outline:description type="contents">NB This is not the same text as D
                     31</outline:description>
-                <outline:node RID="O1JC114941JC12018" type="translation">
+                <outline:node RID="" type="translation">
                     <outline:title encoding="extendedWylie" lang="tibetan">chos 'khor
                         mdo/</outline:title>
                     <outline:title encoding="native" lang="english">The Sūtra of the Wheel of
                         Dharma</outline:title>
                     <outline:title encoding="native" lang="sanskrit">dharmacakrasūtra</outline:title>
-                    <outline:description type="status">inProcess</outline:description>
+                    <outline:description type="status">completed</outline:description>
                     <outline:description type="icon">mogol/10_icon.jpg</outline:description>
                     <outline:description type="text">UT22084-072-037</outline:description>
-                 </outline:node>
+                    <outline:description type="summary">The Sūtra of the Wheel of Dharma contains the Buddha’s teaching 
+                        to his five former spiritual companions on the four truths that he had discovered as part of his 
+                        awakening: (1) suffering, (2) the origin of suffering, (3) the cessation of suffering, and 
+                        (4) the path leading to the cessation of suffering. According to all the Buddhist traditions, 
+                        this is the first teaching the Buddha gave to explain his awakened insight to others.
+                    </outline:description>
+                </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC12019" type="text" webAccess="abstractOnly">
                 <outline:title>las rnam 'byed/</outline:title>
@@ -15770,7 +15789,7 @@
                 </outline:node>
                 <outline:node RID="O1JC114941JC12245" type="text" webAccess="abstractOnly">
                     <outline:title>ye shes ta la la'i gzungs/</outline:title>
-                    <outline:title encoding="native" lang="english">The Incantation, Torch of
+                    <outline:title encoding="native" lang="english">The Dhāraṇi of the Torch of
                         Gnosis</outline:title>
                     <outline:title encoding="native" lang="sanskrit">jñānolkadhāraṇī</outline:title>
                     <outline:title type="titlePageTitle">'phags pa ye shes ta la la zhes bya ba'i
@@ -16533,7 +16552,10 @@
                     <outline:description type="sde dge number">552</outline:description>
                     <outline:description type="toh">555</outline:description>
                     <outline:description type="location">snar thang</outline:description>
-                </outline:node>
+                    <outline:node RID="" type="translation">
+                        <outline:description type="status">inProcess</outline:description>
+                        </outline:node>
+                  </outline:node>
                 <outline:node RID="O1JC114941JC12283" type="text" webAccess="abstractOnly">
                     <outline:title>gser 'od mdo sde'i dbang po'i rgyal po'i mdo/</outline:title>
                     <outline:title encoding="native" lang="english">The Sovereign Lord of Sūtras,
@@ -16555,6 +16577,9 @@
                     <outline:description type="sde dge number">553</outline:description>
                     <outline:description type="toh">556</outline:description>
                     <outline:description type="location">snar thang</outline:description>
+                    <outline:node RID="" type="translation">
+                        <outline:description type="status">inProcess</outline:description>
+                    </outline:node>
                 </outline:node>
                 <outline:node RID="O1JC114941JC12285" type="text" webAccess="abstractOnly">
                     <outline:title>gser 'od dam pa mdo sde'i dbang po'i rgyal po'i
@@ -16562,7 +16587,7 @@
                     <outline:title encoding="native" lang="english">The Sovereign Lord of Sūtras,
                         The Sublime Golden Light</outline:title>
                     <outline:title encoding="native" lang="sanskrit">suvarṇaprabhāsottama­sūtrendrarājasūtra</outline:title>
-                    <outline:title type="titlePageTitle">'phags pa gser 'do dam pa mdo sde'i dbang
+                    <outline:title type="titlePageTitle">'phags pa gser 'od dam pa mdo sde'i dbang
                         po'i rgyal po zhes bya ba theg pa chen po'i mdo/</outline:title>
                     <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">āryasuvarṇaprabhāsottama­sūtrendrarājanāma­mahāyānasūtra</outline:title>
                     <outline:location page="4" side="131v" type="page" vol="90" work="W22084"/>
@@ -16575,6 +16600,9 @@
                     <outline:description type="sde dge number">554</outline:description>
                     <outline:description type="toh">557</outline:description>
                     <outline:description type="location">snar thang</outline:description>
+                    <outline:node RID="" type="translation">
+                        <outline:description type="status">inProcess</outline:description>
+                    </outline:node>
                 </outline:node>
                 <outline:node RID="O1JC114941JC12286" type="text">
                     <outline:title>stong chen mo rab tu 'joms pa'i mdo/</outline:title>
@@ -22290,7 +22318,7 @@
                 <outline:title encoding="extendedWylie" lang="tibetan" type="titlePageTitle">chos
                     thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal
                     po/</outline:title>
-                <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">sarvadharmamahāsa·πÅdibodhicitta­kulayarāja</outline:title>
+                <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">sarvadharmamahāśantibodhicitta­kulayarāja</outline:title>
                 <outline:location page="4" vol="97" work="W22084"/>
                 <outline:location page="173" vol="97" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol. 97,
@@ -22304,6 +22332,9 @@
                 <outline:description type="sde dge number">827</outline:description>
                 <outline:description encoding="native" lang="english" type="toh">828</outline:description>
                 <outline:description type="location">snar thang</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:description type="status">inProcess</outline:description>
+                </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC12577" type="text" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">kun 'dus rig pa'i mdo/ \(mdo dgongs pa 'dus pa/\)</outline:title>
@@ -23155,13 +23186,13 @@
             </outline:node>
             <outline:node RID="O1JC114941JC12608" type="text" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">dkon mchog ta la la'i gzungs/</outline:title>
-                <outline:title encoding="native" lang="english">Incantation of the Precious
-                    Torch</outline:title>
+                <outline:title encoding="native" lang="english">The Dhāraṇi of the Jewel Torch</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">ratnolkadhāraṇīsūtra</outline:title>
                 <outline:title encoding="extendedWylie" lang="tibetan" type="titlePageTitle">'phags
                     pa dkon mchog ta la la'i gzungs zhes bya ba theg pa chen po'i
                     mdo/</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">āryaratnolkanāma­dhāraṇī­mahāyānasūtra</outline:title>
+                <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">dkon mchog sgron me’i mdo</outline:title>
                 <outline:location page="8" vol="100" work="W22084"/>
                 <outline:location page="110" vol="100" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol.100,ff.
@@ -23183,7 +23214,7 @@
             </outline:node>
             <outline:node RID="O1JC114941JC12609" type="text" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">ye shes ta la la'i gzungs/</outline:title>
-                <outline:title encoding="native" lang="english">The Incantation, Torch of
+                <outline:title encoding="native" lang="english">The Dhāraṇi of the Torch of
                     Gnosis</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">jñānolkadhāraṇī</outline:title>
                 <outline:title encoding="extendedWylie" lang="tibetan" type="titlePageTitle">'phags
@@ -23403,7 +23434,7 @@
                     pa</outline:description>
                 <outline:description type="stog number"/>
                 <outline:description type="sde dge number">861</outline:description>
-                <outline:description encoding="native" lang="english" type="toh">655 (10) /
+                <outline:description encoding="native" lang="english" type="toh">855 (10) /
                     515</outline:description>
                 <outline:description type="location">snar thang</outline:description>
                 <outline:node RID="" type="translation">

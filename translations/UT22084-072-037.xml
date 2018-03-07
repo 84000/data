@@ -39,11 +39,11 @@
          <sourceDesc>
             <bibl>
                <ref>Toh 337</ref>
-               <biblScope>Degé Kangyur, vol. 72, folios 275a-277a</biblScope>
+               <biblScope>Degé Kangyur, vol. 72, folios 275.a-277.a</biblScope>
             </bibl>
          </sourceDesc>
          <notesStmt>
-            <note type="lastUpdated">Last updated at 10/01/2018 at 16:07:16 by admin</note>
+            <note type="lastUpdated">Last updated at 14/02/2018 at 15:44:52 by admin</note>
          </notesStmt>
       </fileDesc>
    </teiHeader>
@@ -396,7 +396,7 @@
                <bibl xml:id="UT22084-072-037-54">Buswell, Robert E. and Donald S. Lopez Jr.
                      <title xml:lang="en">The Princeton Dictionary of Buddhism</title>. Princeton:
                   Princeton University Press, 2013.</bibl>
-               <bibl xml:id="UT22084-072-037-62">Dharmachakra Translation Committee.
+               <bibl xml:id="UT22084-072-037-107">Dharmachakra Translation Committee.
                   <title xml:lang="en">The Play in Full</title>. (<title xml:lang="en">Lalitavistara</title>). 84000:Translating the Words of the Buddha, 2013. See <ref target="http://read.84000.co/translation/UT22084-046-001.html">The Play in Full</ref>.</bibl>
                <bibl xml:id="UT22084-072-037-57">Gnoli, Raniero. <title xml:lang="en">The
                   Gilgit manuscript of the Saṅghabhedavastu: Being the 17th and last section of
@@ -424,177 +424,177 @@
          <div type="glossary">
             <list>
                <item>
-                  <gloss type="term" priority="0" xml:id="UT22084-072-037-62">
+                  <gloss type="term" xml:id="UT22084-072-037-62">
                      <term>yakṣa</term>
                      <term xml:lang="Bo-Ltn">gnod sbyin </term>
-                     <term xml:lang="bo">གནོད་སྦྱིན་</term>
-                     <term xml:lang="Sa-Ltn">yakṣa</term>
+                     <term xml:lang="bo">གནོད་སྦྱིན།</term>
+                            <term xml:lang="Sa-Ltn">yakṣa</term>
                      <term type="definition">A class of semidivine beings said to dwell in the
                         north, under the jurisdiction of the Great King Vaiśravaṇa, otherwise known
                         as Kubera.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="term" priority="0" xml:id="UT22084-072-037-63">
+                  <gloss type="term" xml:id="UT22084-072-037-63">
                      <term>demigods</term>
                      <term xml:lang="Bo-Ltn">lha ma yin </term>
-                     <term xml:lang="bo">ལྷ་མ་ཡིན་</term>
-                     <term xml:lang="Sa-Ltn">asura</term>
+                     <term xml:lang="bo">ལྷ་མ་ཡིན།</term>
+                            <term xml:lang="Sa-Ltn">asura</term>
                      <term type="definition">The traditional adversaries of the devas (gods) who are
                         frequently portrayed in Brahmanical mythology as having a disruptive
                         effect on cosmological and social harmony.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="term" priority="0" xml:id="UT22084-072-037-64">
+                  <gloss type="term" xml:id="UT22084-072-037-64">
                      <term>truth of noble beings</term>
                      <term xml:lang="Bo-Ltn">’phags pa’i bden pa </term>
-                     <term xml:lang="bo">འཕགས་པའི་བདེན་པ་</term>
-                     <term xml:lang="Sa-Ltn">āryasatya</term>
+                     <term xml:lang="bo">འཕགས་པའི་བདེན་པ།</term>
+                            <term xml:lang="Sa-Ltn">āryasatya</term>
                      <term type="definition">The four truths that the Buddha realized: suffering,
                         origin, cessation, and path. They are named “truths of noble beings” since
                         only “noble beings” with knowledge of reality can understand them.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="term" priority="0" xml:id="UT22084-072-037-106">
+                  <gloss type="term" xml:id="UT22084-072-037-106">
                      <term>truths of the noble ones</term>
                      <term xml:lang="Bo-Ltn">’phags pa’i bden pa </term>
-                     <term xml:lang="bo">འཕགས་པའི་བདེན་པ་</term>
-                     <term xml:lang="Sa-Ltn">āryasatya</term>
+                     <term xml:lang="bo">འཕགས་པའི་བདེན་པ།</term>
+                            <term xml:lang="Sa-Ltn">āryasatya</term>
                      <term type="definition">The four truths that the Buddha realized: suffering,
                         origin, cessation, and path. They are named “truths of noble beings” since
                         only “noble beings” with knowledge of reality can understand them.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="person" priority="1" xml:id="UT22084-072-037-65">
+                  <gloss type="person" xml:id="UT22084-072-037-65">
                      <term>Brahmā</term>
                      <term xml:lang="Bo-Ltn">tsangs pa </term>
-                     <term xml:lang="bo">ཙངས་པ་</term>
-                     <term xml:lang="Sa-Ltn">Brahmā</term>
+                     <term xml:lang="bo">ཙངས་པ།</term>
+                            <term xml:lang="Sa-Ltn">Brahmā</term>
                      <term type="definition">A high ranking deity, presiding over a divine world
                         where other beings consider him the creator; he is also considered to be the
                         “Lord of the Sahā-world (our universe).”</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="person" priority="0" xml:id="UT22084-072-037-66">
+                  <gloss type="person" xml:id="UT22084-072-037-66">
                      <term>Kauṇḍinya</term>
                      <term xml:lang="Bo-Ltn">kauN Di nya </term>
-                     <term xml:lang="bo">ཀཽཎ་ཌི་ཉ་</term>
-                     <term xml:lang="Sa-Ltn">Kauṇḍinya</term>
+                     <term xml:lang="bo">ཀཽཎ་ཌི་ཉ།</term>
+                            <term xml:lang="Sa-Ltn">Kauṇḍinya</term>
                      <term type="definition">One of the five former spiritual friends with whom
                         Gautama had practiced meditation before his awakening.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="person" priority="0" xml:id="UT22084-072-037-67">
+                  <gloss type="person" xml:id="UT22084-072-037-67">
                      <term>Ājñātakauṇḍinya</term>
                      <term xml:lang="Bo-Ltn">kun shes kauN Di nya </term>
-                     <term xml:lang="bo">ཀུན་ཤེས་ཀཽཎ་ཌི་ཉ་</term>
-                     <term xml:lang="Sa-Ltn">Ājñātakauṇḍinya</term>
+                     <term xml:lang="bo">ཀུན་ཤེས་ཀཽཎ་ཌི་ཉ།</term>
+                            <term xml:lang="Sa-Ltn">Ājñātakauṇḍinya</term>
                      <term type="definition">Another name for Kauṇḍinya. As he was the first to
                         understand the Buddha's teaching on the four truths, he received the name
                         Ājñātakauṇḍinya (Kauṇḍinya who understood).</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-68">
+                  <gloss type="place" xml:id="UT22084-072-037-68">
                      <term>Deer Park </term>
                      <term xml:lang="Bo-Ltn">ri dags kyi nags </term>
-                     <term xml:lang="bo">རི་དགས་ཀྱི་ནགས་</term>
-                     <term xml:lang="Sa-Ltn">mṛgadāva</term>
+                     <term xml:lang="bo">རི་དགས་ཀྱི་ནགས།</term>
+                            <term xml:lang="Sa-Ltn">mṛgadāva</term>
                      <term type="definition">The forest, located outside of Varanasi, where the
                         Buddha first taught the Dharma.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-69">
+                  <gloss type="place" xml:id="UT22084-072-037-69">
                      <term>Ṛṣivadana</term>
                      <term xml:lang="Bo-Ltn">drang srong smra ba </term>
-                     <term xml:lang="bo">དྲང་སྲོང་སྨྲ་བ་</term>
-                     <term xml:lang="Sa-Ltn">ṛṣivadana</term>
+                     <term xml:lang="bo">དྲང་སྲོང་སྨྲ་བ།</term>
+                            <term xml:lang="Sa-Ltn">ṛṣivadana</term>
                      <term type="definition">A sacred area located outside of Varanasi where many
                         sages are said to have practiced in the past.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-70">
+                  <gloss type="place" xml:id="UT22084-072-037-70">
                      <term>Vārāṇasī</term>
                      <term xml:lang="Bo-Ltn">bA rA Na sI </term>
-                     <term xml:lang="bo">བཱ་རཱ་ཎ་སཱི་</term>
-                     <term xml:lang="Sa-Ltn">Vārāṇasī</term>
+                     <term xml:lang="bo">བཱ་རཱ་ཎ་སཱི།</term>
+                            <term xml:lang="Sa-Ltn">Vārāṇasī</term>
                      <term type="definition">City in North India where the Buddha first taught the
                         Dharma</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-71">
+                  <gloss type="place" xml:id="UT22084-072-037-71">
                      <term>Heaven Free from Strife</term>
                      <term xml:lang="Bo-Ltn">’thab bral </term>
-                     <term xml:lang="bo">འཐབ་བྲལ་</term>
-                     <term xml:lang="Sa-Ltn">Yāmā</term>
+                     <term xml:lang="bo">འཐབ་བྲལ།</term>
+                            <term xml:lang="Sa-Ltn">Yāmā</term>
                      <term type="definition">The third lowest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-72">
+                  <gloss type="place" xml:id="UT22084-072-037-72">
                      <term>Heaven of Delighting in Emanations</term>
                      <term xml:lang="Bo-Ltn">’phrul dga’ </term>
-                     <term xml:lang="bo">འཕྲུལ་དགའ་</term>
-                     <term xml:lang="Sa-Ltn">Nirmāṇarati </term>
+                     <term xml:lang="bo">འཕྲུལ་དགའ།</term>
+                            <term xml:lang="Sa-Ltn">Nirmāṇarati </term>
                      <term type="definition">The second highest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-73">
+                  <gloss type="place" xml:id="UT22084-072-037-73">
                      <term>Heaven of Joy</term>
                      <term xml:lang="Bo-Ltn">dga’ ldan </term>
-                     <term xml:lang="bo">དགའ་ལྡན་</term>
-                     <term xml:lang="Sa-Ltn">Tuṣita</term>
+                     <term xml:lang="bo">དགའ་ལྡན།</term>
+                            <term xml:lang="Sa-Ltn">Tuṣita</term>
                      <term type="definition">The third highest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-74">
+                  <gloss type="place" xml:id="UT22084-072-037-74">
                      <term>Heaven of Making Use of Others’ Emanations</term>
                      <term xml:lang="Bo-Ltn">gzhan ’phrul dbang byed pa </term>
-                     <term xml:lang="bo">གཞན་འཕྲུལ་དབང་བྱེད་པ་</term>
-                     <term xml:lang="Sa-Ltn">Paranirmitavaśavartin </term>
+                     <term xml:lang="bo">གཞན་འཕྲུལ་དབང་བྱེད་པ།</term>
+                            <term xml:lang="Sa-Ltn">Paranirmitavaśavartin </term>
                      <term type="definition">The highest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-75">
+                  <gloss type="place" xml:id="UT22084-072-037-75">
                      <term>Heaven of the Four Great Kings</term>
                      <term xml:lang="Bo-Ltn">rgyal chen bzhi’i ris </term>
-                     <term xml:lang="bo">རྒྱལ་ཆེན་བཞིའི་རིས་</term>
-                     <term xml:lang="Sa-Ltn">Caturmahārājika</term>
+                     <term xml:lang="bo">རྒྱལ་ཆེན་བཞིའི་རིས།</term>
+                            <term xml:lang="Sa-Ltn">Caturmahārājika</term>
                      <term type="definition">The lowest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="0" xml:id="UT22084-072-037-76">
+                  <gloss type="place" xml:id="UT22084-072-037-76">
                      <term>Heaven of the Thirty-Three</term>
                      <term xml:lang="Bo-Ltn">sum cu rtsa gsum </term>
-                     <term xml:lang="bo">སུམ་ཅུ་རྩ་གསུམ་</term>
-                     <term xml:lang="Sa-Ltn">Trāyastriṃśa </term>
+                     <term xml:lang="bo">སུམ་ཅུ་རྩ་གསུམ།</term>
+                            <term xml:lang="Sa-Ltn">Trāyastriṃśa </term>
                      <term type="definition">The second lowest of the six heavens of the desire
                         realm.</term>
                   </gloss>
                </item>
                <item>
-                  <gloss type="place" priority="2" xml:id="UT22084-072-037-77">
+                  <gloss type="place" xml:id="UT22084-072-037-77">
                      <term>Brahmā realm</term>
                      <term xml:lang="Bo-Ltn">tshangs ris </term>
-                     <term xml:lang="bo">ཚངས་རིས་</term>
-                     <term xml:lang="Sa-Ltn">brahmakāyika</term>
+                     <term xml:lang="bo">ཚངས་རིས།</term>
+                            <term xml:lang="Sa-Ltn">brahmakāyika</term>
                      <term type="definition">The lowest heaven of the form realm.</term>
                   </gloss>
                </item>
