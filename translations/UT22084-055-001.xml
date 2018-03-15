@@ -18,7 +18,7 @@
                 <author role="translatorEng">Peter Alan Roberts</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.01 <date>2018</date>
+                <edition>v 1.02 <date>2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:30 by admin</note>
+                <note type="lastUpdated">Last updated at 14/03/2018 at 22:49:32 by konchog</note>
             </notesStmt>
             <!--<notesStmt>
                 <note type="lastUpdated">Last updated at 06/01/2018 at 14:00:24 by celso</note>
@@ -160,7 +160,7 @@
                             (1853–1931) was an Indian Sanskrit scholar and historian who visited Nepal several times, also
                             collecting and publishing manuscripts. Both scholars were associated with the Asiatic Society in
                             Kolkata. The Sanskrit edition of the sūtra published by Dutt (as one of a series centered on the
-                            Gilgit manuscripts, see bibliography) is not only based on the Gilgit manuscript, but also represents
+                            Gilgit manuscripts; see bibliography) is not only based on the Gilgit manuscript, but also represents
                             the Hodgson and Shastri manuscripts, which Dutt refers to, respectively, as manuscripts A and
                             B.</note>
                     </p>
@@ -256,7 +256,7 @@
                                 <foreign xml:lang="Bo-Ltn" type="quote">nga ’das lo ni nyis stong na / gdong dmar yul du bstan pa
                                 ’byung / spyan ras gzigs kyi gdul byar ’gyur / de yi bstan pa’i snyigs ma la / byang chub sems
                                 dpa’ seng ge’i sgra / karma pa zhes ba ba ’byung / ting ’dzin dbang thob ’gro ba ’dul / mthong
-                                thos dran regs bde la bkod</foreign> (Rinchen Palzang, p 650).</note> Among the other reasons why
+                                thos dran regs bde la bkod</foreign> (Rinchen Palzang, p. 650).</note> Among the other reasons why
                         the sūtra is revered in the Kagyu tradition, the monastic lineage of which was founded by Gampopa, is
                         perhaps that Gampopa’s Kadampa teacher Potowa is said to have identified him as the rebirth of
                         Candraprabha, the interlocutor of the <title xml:lang="en">King of Samādhis</title>. Gampopa used the name
@@ -920,16 +920,16 @@
                             minds,<note place="end" xml:id="UT22084-055-001-108" index="27"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">anupamacitta</foreign>. The Tibetan has <foreign xml:lang="Bo-Ltn" type="term">dpe med sems dpa’</foreign>, whereas one would expect <foreign xml:lang="Bo-Ltn" type="term">dpe med sems pa</foreign>. The <title xml:lang="en">Sūtra of the Samādhi of the Seal
                                 of the Wisdom of the Tathāgatas</title> (see bibliography) refers to this group as <foreign xml:lang="Bo-Ltn">sems dpa’ dpe med pa</foreign>, naming two of them: Pramodyarāja (<foreign xml:lang="Bo-Ltn">mchog tu dga’ ba’i rgyal po</foreign>) and Mañjuśrī (Degé Kangyur, vol. 55,
                             F.248.a). The <title xml:lang="en">Sūtra of Possessing the Roots of Goodness</title> (see
-                            bibliography) refers to byang chub sems dpa’ dpe med pa sems pa (“bodhisattvas with incomparable
+                            bibliography) refers to <foreign xml:lang="Bo-Ltn">byang chub sems dpa’ dpe med pa sems pa</foreign> (“bodhisattvas with incomparable
                             minds”), with Bhadrapāla being the one that is named (Degé Kangyur, vol. 48, F.48.a). Bhadrapāla is
                             also listed as one of a group of five hundred bodhisattvas in that sūtra (F.22.b).</note> such as
                         Mañjuśrī, and the sixteen good beings,<note place="end" xml:id="UT22084-055-001-109" index="28"> This is
-                            referencing a group of beings that is listed in the <title xml:lang="en">White Lotus of the Dharma
+                            referencing a group of beings that is listed in the <title xml:lang="en">White Lotus of the Good Dharma
                                 Sūtra</title> (Degé Kangyur, vol. 67, 2b). In that sūtra Bhadrapāla is also listed as one of a
                             group of fifty bodhisattvas (F.142.b).</note> such as Bhadrapāla,<note place="end" xml:id="UT22084-055-001-110" index="29"> A bodhisattva who appears prominently in certain sūtras, such
                             as <title xml:lang="en">The Samādhi of the Presence of the Buddhas,</title> and perhaps also the
-                            merchant of that name who is the principal interlocutor in the Sūtra of the Questions of Bhadrapāla
-                            the Merchant (see bibliography).</note> and the Four Mahārājas and the other Cāturmahā­rāja­kāyika
+                            merchant of that name who is the principal interlocutor in the <title xml:lang="en">Sūtra of the Questions of Bhadrapāla
+                            the Merchant</title> (see bibliography).</note> and the Four Mahārājas and the other Cāturmahā­rāja­kāyika
                         devas, and so on<note place="end" xml:id="UT22084-055-001-111" index="30"> This refers to the standard
                             list of god realms beginning with the lowest, that of the Four Mahārājas.</note> up until Brahmā and
                         the other Brahmakāyika devas. In addition there were also devas, nāgas, yakṣas, gandharvas, asuras,
@@ -1089,7 +1089,7 @@
                     <p tid="103">The Bhagavān said to the youth Candraprabha, “Young man, a bodhisattva mahāsattva will attain all
                         those qualities and quickly attain the highest, complete enlightenment of perfect buddhahood if he has one
                             quality.<note place="end" xml:id="UT22084-055-001-154" index="52"> Different words are translated as
-                                <distinct>quality</distinct> and <distinct>qualities</distinct> here differ: the one
+                                <distinct>quality</distinct> and <distinct>qualities</distinct> here: the one
                                 <distinct>quality</distinct> is the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">dharma</foreign> (Tibetan <foreign xml:lang="Bo-Ltn" type="term">chos</foreign>), which has a
                             wide range of other meanings, while for <distinct>qualities</distinct> the word is the more specific
                                 <foreign xml:lang="Sa-Ltn" type="term">guṇa</foreign> (Tibetan <foreign xml:lang="Bo-Ltn" type="term">yon tan</foreign>).</note> What is that one quality? Young man, it is a bodhisattva
@@ -2008,7 +2008,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-429"/>
                     <p tid="223">“The Tathāgata is the natural result of merit. He is the inevitable result of roots of merit. He
                         is adorned by patience. He is the manifestation<note place="end" xml:id="UT22084-055-001-430" index="207">
-                            From Sanskrit <foreign xml:lang="Sa-Ltn" type="term">āgama</foreign>. Tibetan: <foreign xml:lang="Bo-Ltn" type="term">gzhi</foreign> (“basis”), but the commentary defines it as “a direct
+                            From the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">āgama</foreign>. Tibetan: <foreign xml:lang="Bo-Ltn" type="term">gzhi</foreign> (“basis”), but the commentary defines it as “a direct
                             perception by those who are worthy.”</note> of a treasure of merit. He is beautified by the excellent
                         primary signs of a great being. He has the blossomed<note place="end" xml:id="UT22084-055-001-431" index="208"> According to the Tibetan. “Blossomed” does not appear in the Sanskrit. The Chinese is
                             similar to the Tibetan interpretation, but uses the verb “attain” <foreign xml:lang="zh" type="term">得諸相花</foreign> (<foreign xml:lang="Zh-Ltn" type="term">de zhu xiang hua</foreign>). </note>
@@ -2029,7 +2029,7 @@
                             torment.<note place="end" xml:id="UT22084-055-001-436" index="213"> Sanskrit literally, “burning”
                                 (<foreign xml:lang="Sa-Ltn" type="term">paridāha</foreign>).</note>
                         <ref cRef="F.10.b"/> He is released from craving.<note place="end" xml:id="UT22084-055-001-437" index="214"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">tṛṣṇa</foreign> and the
-                            Yonglé and Peking <foreign xml:lang="Bo-Ltn" type="term">sred pa</foreign>. The <title xml:lang="Bo-Ltn">Degé</title> has <foreign xml:lang="Bo-Ltn" type="term">srid pa</foreign>
+                            Yonglé and Peking <foreign xml:lang="Bo-Ltn" type="term">sred pa</foreign>. The Degé has <foreign xml:lang="Bo-Ltn" type="term">srid pa</foreign>
                             (“becoming”) in error for <foreign xml:lang="Bo-Ltn" type="term">sred pa</foreign>. <foreign xml:lang="Bo-Ltn" type="term">Sred pa</foreign> is also confirmed by the commentary. The Chinese
                             seems to have combined this with the preceding quality into one <foreign xml:lang="zh" type="term">盡諸渴愛</foreign> (<foreign xml:lang="Zh-Ltn" type="term">jin zhu ke ai</foreign>): literally, “the
                             exhaustion of all thirsts (<foreign xml:lang="zh" type="term">渴</foreign>, <foreign xml:lang="Zh-Ltn" type="term">ke</foreign>, derived from “burning”) and cravings (<foreign xml:lang="zh" type="term">愛</foreign>, <foreign xml:lang="Zh-Ltn" type="term">ai</foreign>),” which can be understood as
@@ -2037,8 +2037,8 @@
                         established in the wisdom of the buddha bhagavāns of the past, future, and present. He does not remain in
                         nirvāṇa. He resides at the summit of existence. He is on the level of seeing all beings. Young man, those
                         are the buddha qualities of a tathāgata. <note place="end" xml:id="UT22084-055-001-438" index="215"> This
-                            long passage, starting from “The Bhāgavan is thus…” <ptr target="#UT22084-055-001-427"/><!--3.3-->
-                            forms the text of the sūtra <title xml:lang="en">Remembering the Buddha</title> (Toh 279, <title xml:lang="Sa-Ltn">Buddhanusmṛti</title>). Although composed of groups of epithets many of which
+                            long passage, starting from “The Bhāgavan is thus…” (<ptr target="#UT22084-055-001-427"/><!--3.3-->)
+                            forms the text of the sūtra <title xml:lang="en">Remembering the Buddha</title> (Toh 279, <title xml:lang="Sa-Ltn">Buddhanusmṛti</title>). Although composed of groups of epithets, many of which
                             are found elsewhere (particularly in the Vinaya texts), the passage as a whole is only found in the
                             Kangyur in these two places, and the King of Samādhis is therefore presumably the source of the
                             shorter text. See also <!--I.15-->
@@ -2199,7 +2199,7 @@
                         <l>One would not be able to conclude reciting</l>
                         <l>The description of its benefits even in as many eons</l>
                         <l>As there are grains of sand in the Ganges.<note place="end" xml:id="UT22084-055-001-472" index="230">
-                                At this point in the Gilgit, Sanskrit, and Chinese, (but not in the Tibetan, Hodgson, or Shastri)
+                                At this point in the Gilgit, Sanskrit, and Chinese (but not in the Tibetan, Hodgson, or Shastri),
                                 there is a prose section where the Buddha tells Candraprabha that a bodhisattva should preserve
                                 and promulgate this teaching.</note> {17} </l>
                     </lg>
@@ -2285,7 +2285,7 @@
                     <lg tid="252">
                         <l>“In such a way, in future times </l>
                         <l>There will be those who have no good conduct,<note place="end" xml:id="UT22084-055-001-488" index="236"> According to the Sanskrit and Tibetan. Chinese: “There will be bhikṣus with inappropriate
-                                conduct,” <foreign xml:lang="zh" type="quote">不應式比丘</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">bu ying shi bi qiu</foreign>)</note>
+                                conduct,” <foreign xml:lang="zh" type="quote">不應式比丘</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">bu ying shi bi qiu</foreign>).</note>
                         </l>
                         <l>Yet they who do not engage in it</l>
                         <l>Will make their living by praising it. {27}</l>
@@ -2294,7 +2294,7 @@
                     <lg tid="253">
                         <l>“In that way, in future times </l>
                         <l>There will be those who have no samādhi,<note place="end" xml:id="UT22084-055-001-490" index="237">
-                                According to the Sanskrit and Tibetan. Chinese: “There will be bhikṣus ...”</note>
+                                According to the Sanskrit and Tibetan. Chinese: “There will be bhikṣus...”</note>
                         </l>
                         <l>Yet they who do not engage in it </l>
                         <l>Will make their living by praising it. {28}</l>
@@ -2303,7 +2303,7 @@
                     <lg tid="254">
                         <l>“In that way, in future times </l>
                         <l>There will be those who have no wisdom,<note place="end" xml:id="UT22084-055-001-492" index="238">
-                                According to the Sanskrit and Tibetan. Chinese: “There will be bhikṣus ...”</note>
+                                According to the Sanskrit and Tibetan. Chinese: “There will be bhikṣus...”</note>
                         </l>
                         <l>Yet they who do not engage in it</l>
                         <l>Will make their living by praising it.<note place="end" xml:id="UT22084-055-001-493" index="239">
@@ -2392,7 +2392,7 @@
                         <l>Became holders of the samādhi.</l>
                         <l>The youth was their leader<note place="end" xml:id="UT22084-055-001-511" index="247"> According to the
                                 Sanskrit <foreign xml:lang="Sa-Ltn" type="term">pūrvamgama</foreign> (“going first”), which is
-                                usually translated as ’<foreign xml:lang="Bo-Ltn" type="term">’dren pa</foreign> (“leader”). The
+                                usually translated as <foreign xml:lang="Bo-Ltn" type="term">’dren pa</foreign> (“leader”). The
                                 Chinese also has <foreign xml:lang="zh" type="term">上首</foreign> (<foreign xml:lang="Zh-Ltn" type="term">shang shou</foreign>, “leader”).</note>
                         </l>
                         <l>In this vast holding of the supreme sūtra. {39}</l>
@@ -2457,11 +2457,11 @@
                                 <foreign xml:lang="Bo-Ltn" type="term">skye ba</foreign>, and the Chinese. The Degé has <foreign xml:lang="Bo-Ltn" type="term">skye bo</foreign> (“beings”), which occurs later in this list as the
                             translation of <foreign xml:lang="Sa-Ltn" type="term">pṛthagjaneṣu</foreign>. The commentary defines
                             it as “not creating the causes of continuing in saṃsāra.”</note> [17] It is not accumulating karma.
-                        [18] It is not paying attention to the internal āyatanas.<note place="end" xml:id="UT22084-055-001-534" index="261"> According to the Tibetan and Chinese. The Vaidya Sanskrit adds <foreign xml:lang="Sa-Ltn" type="term">karmaṇām</foreign>, “the activities of the internal <foreign xml:lang="Sa-Ltn" type="term">āyatanas</foreign>” (not italicized in the text).</note> [19] It is not engaging with
+                        [18] It is not paying attention to the internal āyatanas.<note place="end" xml:id="UT22084-055-001-534" index="261"> According to the Tibetan and Chinese. The Vaidya Sanskrit adds <foreign xml:lang="Sa-Ltn" type="term">karmaṇām</foreign>, “the activities of the internal āyatanas.”</note> [19] It is not engaging with
                         the external āyatanas. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-535"/>
                     <p tid="274">“[20] It is not praising oneself. [21] It is not criticizing others. [22] It is having no
-                        attachment to family. [23] It is not placing one’s trust in ordinary people. <note place="end" xml:id="UT22084-055-001-536" index="262"> [23] is not present in Chinese.</note>
+                        attachment to family. [23] It is not placing one’s trust in ordinary people. <note place="end" xml:id="UT22084-055-001-536" index="262"> [23] is not present in the Chinese.</note>
                     </p>
                     <p tid="275">“[24] It is the natural result of good conduct. <ref cRef="F.13.a"/> [25] It is that which is
                         difficult to approach. [26] It is great majesty.<note place="end" xml:id="UT22084-055-001-538" index="263"> According to Tibetan <foreign xml:lang="Bo-Ltn" type="term">gzi chen po</foreign> and Matsunami. The
@@ -2475,7 +2475,7 @@
                                 shi</foreign>) from the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">kalyāṇa-mitra</foreign>.</note> [34] It is guarding secret mantras. </p>
                     <p tid="277">“[35] It is being nonviolent.<note place="end" xml:id="UT22084-055-001-542" index="265">
                             According to the Sanskrit. In the Tibetan, this has been conjoined with “not harming those with good
-                            conduct.” The Chinese has combined (30), (31), and (35) into one, <foreign xml:lang="zh" type="term">無怒恚心</foreign> (<foreign xml:lang="Zh-Ltn" type="term">wu nu hui xin</foreign>), and added
+                            conduct.” The Chinese has combined [30], [31], and [35] into one, <foreign xml:lang="zh" type="term">無怒恚心</foreign> (<foreign xml:lang="Zh-Ltn" type="term">wu nu hui xin</foreign>), and added
                             “abandoning crude and malicious speech” <foreign xml:lang="zh" type="term">捨麁惡言</foreign> (<foreign xml:lang="Zh-Ltn" type="term">she cu er yan</foreign>) and “helping and protecting others”
                                 <foreign xml:lang="zh" type="term">救護於彼</foreign> (<foreign xml:lang="Zh-Ltn" type="term">jiu hu
                                 yu bi</foreign>).</note> [36] It is not being harmful to those with good conduct. [37] It is
@@ -2546,7 +2546,7 @@
                                 arises in your mind because of food, you should meditate on the impurity of food. If you strive
                                 for accomplishment with boundless effort and meditate deeply on this, you will attain samādhi.”
                                     <foreign xml:lang="zh" type="quote">若為食起嫉妬心, 當觀食已無有淨, 用功無量乃得成, 若深觀此能得定</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ruo wei shi qi ji du xin, dang guan shi yi wu you jing, yong
-                                    gong wu liang nai de cheng, ruo shen guan ci neng de ding</foreign>) </note> to those who
+                                    gong wu liang nai de cheng, ruo shen guan ci neng de ding</foreign>). </note> to those who
                             become envious of wealth<note place="end" xml:id="UT22084-055-001-557" index="271"> According to the
                                 BHS <foreign xml:lang="Sa-Ltn" type="term">arthi</foreign>. Absent from the Tibetan, but added
                                 here for clarity.</note>
@@ -2699,8 +2699,8 @@
                         <l>But if you do not practice it well</l>
                         <l>You will be like a sick man holding a bag<note place="end" xml:id="UT22084-055-001-585" index="281">
                                 According to most Kangyurs <foreign xml:lang="Bo-Ltn" type="term">rkyal pa</foreign> and the
-                                Sanskrit <foreign xml:lang="Sa-Ltn" type="term">vastra</foreign>. The <title xml:lang="Bo-Ltn">Degé</title> has the scribal corruption <foreign xml:lang="Bo-Ltn" type="term">rgyal
-                                    ba</foreign>. Chinese: “excellent medicines” <foreign xml:lang="zh" type="term">良妙藥</foreign>
+                                Sanskrit <foreign xml:lang="Sa-Ltn" type="term">vastra</foreign>. The Degé has the scribal corruption <foreign xml:lang="Bo-Ltn" type="term">rgyal
+                                    ba</foreign>. Chinese: “excellent medicines,” <foreign xml:lang="zh" type="term">良妙藥</foreign>
                                     (<foreign xml:lang="Zh-Ltn" type="term">liang miao yao</foreign>).</note> of medicine—</l>
                         <l>That alone will not cure his illness.<note place="end" xml:id="UT22084-055-001-586" index="282">
                                 According to the Tibetan, Vaidya, Sanskrit, and Chinese. The Matsunami edition appears to be quite
@@ -2715,7 +2715,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-588"/>
                     <trailer tid="3266">Conclusion of the fourth chapter, “Samādhi.”<note place="end" xml:id="UT22084-055-001-589" index="283"> According to the Tibetan. The title of this chapter in the Sanskrit is <title xml:lang="Sa-Ltn">Buddhānusmṛti</title> (“Remembering the Buddha,” or “Mindfulness of the
-                            Buddha”). This is the end of of Fascicle One in the Chinese.</note>
+                            Buddha”). This is the end of fascicle 1 in the Chinese.</note>
                     </trailer>
                 </div>
                 <div type="chapter">
@@ -2791,7 +2791,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-607"/>
                     <p tid="321">“ ‘Why is that? It is because in their future lives their happiness will be from these offerings
                         of worldly material things. The realms of the higher existences are the goal of these beings. They are
-                        concerned with this life. They are concerned with their <note place="end" xml:id="UT22084-055-001-608" index="287"> According to the Sanskrit. The Tibetan in the <title xml:lang="Bo-Ltn">Degé</title> has
+                        concerned with this life. They are concerned with their <note place="end" xml:id="UT22084-055-001-608" index="287"> According to the Sanskrit. The Tibetan in the Degé has
                             the negative: “they are not concerned with their next life.” Chinese: “They are merely concerned with
                             this life and their next life.”</note> next life. They do not accumulate<note place="end" xml:id="UT22084-055-001-609" index="288"> Chinese: “They do not emphasize the accumulation …” </note>
                         roots of merit for the final ultimate goal.’<note place="end" xml:id="UT22084-055-001-610" index="289">
@@ -3711,7 +3711,7 @@
                         humans, a buddha, and a bhagavān.</p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-765"/>
                     <p tid="449">“Young man, what do you think? Why was that tathāgata named Abhāva­samudgata?<note place="end" xml:id="UT22084-055-001-766" index="317"> The name means “arising from nonexistence,” <foreign xml:lang="zh">無所有起</foreign> (<foreign xml:lang="Zh-Ltn">wu suo you qi</foreign>) in
-                            Chinese.</note>
+                            the Chinese.</note>
                     </p>
                     <p tid="450">“Young man, as soon as he was born he rose in the air up to the height of seven palm trees, took
                         seven steps, and said these words: ‘All phenomena have arisen from nonexistence. From nonexistence have
@@ -4765,7 +4765,7 @@
                                 <foreign xml:lang="Sa-Ltn" type="term">jālaka</foreign> does mean “lattice-window.”</note> and the
                         crescent moons,<note place="end" xml:id="UT22084-055-001-986" index="407"> Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">ardhacandra</foreign>. Tibetan: <foreign xml:lang="Bo-Ltn" type="term">zla ba kham pa</foreign>. This appears to have been a prominent part of a building’s
                             design.</note> and perfumed them with sandalwood. In that way he adorned the city of Rājagṛha with
-                        countless displays <ref cRef="F.31.b"/> andadorned his own house,too, with a variety of many adornments.
+                        countless displays <ref cRef="F.31.b"/> and adorned his own house, too, with a variety of many adornments.
                         He hung it with many precious strings of beads. He adorned it with the raiment of the Tuṣita deities and
                         also beautified the grounds. He had many kinds of garlands and wreaths put up as adornments. He arranged a
                         hundred thousand precious seats. In order to make offerings to the Bhagavān he placed in their center a
@@ -4907,7 +4907,7 @@
                         <l>“Arise Candraprabha, son of the jinas!</l>
                         <l>Arise, you who are joyful in generosity, you supreme being!</l>
                         <l>Arise, you who have compassion and firm conduct!</l>
-                        <l>Let us to the meal!<note place="end" xml:id="UT22084-055-001-1011" index="413"> According to most
+                        <l>Let us go to the meal!<note place="end" xml:id="UT22084-055-001-1011" index="413"> According to most
                                 Kangyurs: <foreign xml:lang="Bo-Ltn" type="term">zan</foreign>. <title xml:lang="Bo-Ltn">Degé</title>: <foreign xml:lang="Bo-Ltn" type="term">bran</foreign>.</note> Let us
                                 proceed<note place="end" xml:id="UT22084-055-001-1012" index="414"> According to the Narthang,
                                 Cone, and Degé: <foreign type="term" xml:lang="Bo-Ltn">’dong</foreign>. <title xml:lang="Bo-Ltn">Pedurma</title>: <foreign xml:lang="Bo-Ltn" type="term">’dod</foreign>.</note> to your home.”
@@ -5116,7 +5116,7 @@
                     <lg tid="616">
                         <l>Scattered excellent flowers and supreme incense.<note place="end" xml:id="UT22084-055-001-1069" index="452"> The Tibetan concludes here. The Sanskrit has the final line of that verse being the
                                 first of a four-line verse: “Scattered excellent flowers and supreme incense, / And an abundant
-                                variety of sandalwoods. / They circumambulated the Instructor, / and bowed down to the enlightened
+                                variety of sandalwoods. / They circumambulated the Instructor, / And bowed down to the enlightened
                                 one.”</note> {xliv} </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1070"/>
@@ -5494,7 +5494,7 @@
                         <l>Some stood, holding excellent flowers,</l>
                         <l>Their bodies perfectly beautified by their raiment.</l>
                         <l>They held various flowers and wreaths of silk</l>
-                        <l>That they cast in the direction of the Jina with great power.<note place="end" xml:id="UT22084-055-001-1139" index="474"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">mahānubhāva</foreign> and most Kangyurs. The <title xml:lang="Bo-Ltn">Degé</title>
+                        <l>That they cast in the direction of the Jina with great power.<note place="end" xml:id="UT22084-055-001-1139" index="474"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">mahānubhāva</foreign> and most Kangyurs. The Degé
                                 has <foreign xml:lang="Bo-Ltn" type="term">thub chen</foreign> (“great <foreign xml:lang="Sa-Ltn" type="term">muni </foreign>/ sage”). The Chinese has <foreign xml:lang="zh" type="term">大比丘眾</foreign> (<foreign xml:lang="Zh-Ltn" type="term">da bi qiu zhong</foreign>), from the
                                 Sanskrit <foreign xml:lang="Sa-Ltn" type="term">bhikṣu-saṃgha</foreign>.</note> {46} </l>
                     </lg>
@@ -5710,7 +5710,7 @@
                         <l>The nāga king Elapatra</l>
                         <l>Came weeping, encircled by a hundred nāgas.</l>
                         <l>He remembered the supreme sage Jina Kāśyapa</l>
-                        <l>And saw what an an unfavorable rebirth he himself had obtained. {69} </l>
+                        <l>And saw what an unfavorable rebirth he himself had obtained. {69} </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1181"/>
                     <lg tid="691">
@@ -6432,7 +6432,7 @@
                         <l>“Because he knows the subtle nature of phenomena</l>
                         <l>He is always attractive and charming </l>
                         <l>To devas, humans, nāgas,<note place="end" xml:id="UT22084-055-001-1306" index="523"> Unusually here
-                                    <foreign xml:lang="Sa-Ltn" type="term">nāga</foreign> has been translated not just as <foreign xml:lang="Bo-Ltn" type="term">klu</foreign> but as <foreign xml:lang="Bo-Ltn" type="term">klu-’brug</foreign>, adding the syllable for “dragon.” Chinese: “dragon.”</note> and
+                                    <foreign xml:lang="Sa-Ltn" type="term">nāga</foreign> has been translated not just as <foreign xml:lang="Bo-Ltn" type="term">klu</foreign> but as <foreign xml:lang="Bo-Ltn" type="term">klu ’brug</foreign>, adding the syllable for “dragon.” Chinese: “dragon.”</note> and
                             rākṣasas,</l>
                         <l>Asuras, mahoragas, and kinnaras. {51}</l>
                     </lg>
@@ -6515,7 +6515,7 @@
                         <l>‘All will enter my Sukhāvatī,</l>
                         <l>And go to Abhirati and see Buddha Akṣobhya.’<note place="end" xml:id="UT22084-055-001-1321" index="528"> According to the Sanskrit. The order of the lines in the Tibetan translation is rather awkward,
                                 and it appears that the second and third lines have changed place. Rearranged they would be:
-                                “Similarly Buddha Amitāyus also / has taught many kinds of benefits: / ‘All who wish (<foreign xml:lang="Bo-Ltn" type="term">’dod</foreign>) for my Sukhāvatī / Will go to Abhirati and see
+                                “Similarly Buddha Amitāyus also / Has taught many kinds of benefits: / ‘All who wish (<foreign xml:lang="Bo-Ltn" type="term">’dod</foreign>) for my Sukhāvatī / Will go to Abhirati and see
                                 Buddha Akṣobhya.’ The Chinese does not include the name “Abhirati.” </note> {61} <ref cRef="F.43.a"/>
                         </l>
                     </lg>
@@ -6562,12 +6562,12 @@
                         teach that which is erroneous, and does not say that which is anything other than true. <ref cRef="F.43.b"/> His conduct is in line with what he teaches. He has no attachment to the three realms. He has
                         transcended the three realms. He has transcended the level of desire, the level of form, the level of
                         formlessness, the level of the kleśas, the level of names, and the level of language. He is skilled in the
-                        way of letters and words. He knows freedom from letters.<note place="end" xml:id="UT22084-055-001-1331" index="533"> According to the BHS Sanskrit and the Chinese. The Tibetan has either translated from a
+                        way of letters and words. He knows freedom from letters.<note place="end" xml:id="UT22084-055-001-1331" index="533"> According to the BHS and the Chinese. The Tibetan has either translated from a
                             corruption in a manuscript from <foreign xml:lang="Sa-Ltn" type="term">akṣara-vibhāvita-jñāna</foreign> to <foreign xml:lang="Sa-Ltn" type="term">akṣaya-vibhāvita-jñāna</foreign> (“letters” being changed into “indestructible, unending”) or
-                            chosen <foreign xml:lang="Sa-Ltn" type="term">akṣara</foreign>’s alternative meaning “imperishable.”
+                            chosen <foreign xml:lang="Sa-Ltn" type="term">akṣara</foreign>’s alternative meaning, “imperishable.”
                             The BHS meaning of <foreign xml:lang="Sa-Ltn" type="term">vibhāva</foreign> can be “to be free of.”
                             However, <foreign xml:lang="Sa-Ltn" type="term">vibhāva</foreign> can be translated into Tibetan as
-                            “meditation” as well as “non-existing,” and so on. Therefore the Tibetan has “He meditates on unending
+                            “meditation” as well as “non-existing,” and so on. Therefore the Tibetan has, “He meditates on unending
                             wisdom,” which does not appear to fit the context.</note> He has mastered the inexpressible Dharma. He
                         knows letters. He is skilled in letters. He is skilled in the knowledge of the categories of letters and
                         words. He is skilled in the knowledge of the detailed categories of letters and words. He is skilled in
@@ -6706,7 +6706,7 @@
                     <lg tid="815">
                         <l>“He has forsaken the self, but not the conduct<note place="end" xml:id="UT22084-055-001-1360" index="544"> According to the Tibetan, presumably translating from <foreign xml:lang="Sa-Ltn" type="term">śīlaṃ</foreign>, though the Sanskrit has <foreign xml:lang="Sa-Ltn" type="term">śikṣāṃ</foreign> (“learning,” “study”).</note>
                         </l>
-                        <l>Or listening to the teaching of the one with ten strengths.<note place="end" xml:id="UT22084-055-001-1361" index="545"> The Chinese: “He would rather forsake his own life than
+                        <l>Or listening to the teaching of the one with ten strengths.<note place="end" xml:id="UT22084-055-001-1361" index="545"> Chinese: “He would rather forsake his own life than
                                 violate the teaching of the tathāgatas.”</note>
                             <ref cRef="F.44.b"/>
                         </l>
@@ -6779,7 +6779,7 @@
                         <l>“The level of unequaled samādhi<note place="end" xml:id="UT22084-055-001-1374" index="548"> In the
                                 Chinese, this line uses an unusual expression in conjunction with equality: <foreign xml:lang="zh" type="quote">平等非嶮地</foreign> (<foreign xml:lang="Zh-Ltn" type="term">ping deng fei xian
                                     di</foreign>). <foreign xml:lang="zh" type="term">平等</foreign> (<foreign xml:lang="Zh-Ltn" type="term">ping deng</foreign>) is “equality,” <foreign xml:lang="zh" type="term">非</foreign>
-                                    (<foreign xml:lang="Zh-Ltn" type="term">fei</foreign>) “not,”<foreign xml:lang="zh" type="term">嶮地</foreign> (<foreign xml:lang="Zh-Ltn" type="term">xian</foreign>) is the same
+                                    (<foreign xml:lang="Zh-Ltn" type="term">fei</foreign>) “not,” <foreign xml:lang="zh" type="term">嶮地</foreign> (<foreign xml:lang="Zh-Ltn" type="term">xian</foreign>) is the same
                                 as <foreign xml:lang="zh" type="term">險 </foreign>and means “steep, lofty, precipitous,” and
                                     <foreign xml:lang="zh" type="term">地</foreign> (<foreign xml:lang="Zh-Ltn" type="term">di</foreign>) is “land, level, bhūmi.” The term <foreign xml:lang="Sa-Ltn" type="term">samādhi</foreign> does not appear.</note>
                         </l>
@@ -6842,12 +6842,12 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1383"/>
                     <lg tid="833">
-                        <l>“Saying ‘I am not meditating’ is called pride.<note place="end" xml:id="UT22084-055-001-1384" index="550"> According to the Tibetan. Sanskrit, and Chinese: “grasping.”</note>
+                        <l>“Saying ‘I am not meditating’ is called pride.<note place="end" xml:id="UT22084-055-001-1384" index="550"> According to the Tibetan. Sanskrit and Chinese: “grasping.”</note>
                         </l>
-                        <l>‘I am meditating’ is a second kind of pride.<note place="end" xml:id="UT22084-055-001-1385" index="551"> According to the Tibetan. Sanskrit, and Chinese: “grasping.”</note>
+                        <l>‘I am meditating’ is a second kind of pride.<note place="end" xml:id="UT22084-055-001-1385" index="551"> According to the Tibetan. Sanskrit and Chinese: “grasping.”</note>
                         </l>
                         <l>Practicing for enlightenment without pride,<note place="end" xml:id="UT22084-055-001-1386" index="552">
-                                According to the Tibetan. Sanskrit, and Chinese: “without attachment.”</note>
+                                According to the Tibetan. Sanskrit and Chinese: “without attachment.”</note>
                         </l>
                         <l>And attaining<note place="end" xml:id="UT22084-055-001-1387" index="553"> According to the Sanskrit
                                     <foreign xml:lang="Sa-Ltn" type="term">spṛśi</foreign>. Tibetan: <foreign xml:lang="Bo-Ltn" type="term">dran pa</foreign>, translated from a corruption of <foreign xml:lang="Sa-Ltn" type="term">spṛśi</foreign> to <foreign xml:lang="Sa-Ltn" type="term">smrti</foreign>
@@ -6929,7 +6929,7 @@
                         <l>“He constantly sees in those realms</l>
                         <l>The perfect buddhas, the guides of the world.</l>
                         <l>He listens there to the Dharma</l>
-                        <l>That is taught in the realms of the buddhas.<note place="end" xml:id="UT22084-055-001-1404" index="560"> According to the Sanskrit and the Kangyurs that have the genitive <foreign xml:lang="Bo-Ltn" type="term">gi</foreign>. The <title xml:lang="Bo-Ltn">Degé</title> has the instrumental
+                        <l>That is taught in the realms of the buddhas.<note place="end" xml:id="UT22084-055-001-1404" index="560"> According to the Sanskrit and the Kangyurs that have the genitive <foreign xml:lang="Bo-Ltn" type="term">gi</foreign>. The Degé has the instrumental
                                     <foreign xml:lang="Bo-Ltn" type="term">gis</foreign>.</note> {19}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1405"/>
@@ -7019,7 +7019,7 @@
                                 actually <foreign xml:lang="Sa-Ltn" type="term">alakṣaṇam</foreign>.</note>
                         </l>
                         <l>It is difficult<note place="end" xml:id="UT22084-055-001-1419" index="564"> According to the Sanskrit
-                                and most Kangyurs. The <title xml:lang="Bo-Ltn">Degé</title> has <foreign xml:lang="Bo-Ltn" type="term">dga’</foreign> (“joy”).</note> to know through language<note place="end" xml:id="UT22084-055-001-1420" index="565"> The Chinese appears to mean, “through language only
+                                and most Kangyurs. The Degé has <foreign xml:lang="Bo-Ltn" type="term">dga’</foreign> (“joy”).</note> to know through language<note place="end" xml:id="UT22084-055-001-1420" index="565"> The Chinese appears to mean, “through language only
                                 knowledge is gained.”</note>
                         </l>
                         <l>And therefore it is called samādhi. {30}</l>
@@ -7037,7 +7037,7 @@
                         <l>Is in the nature of all phenomena. </l>
                         <l>The perfect buddhas, having trained in it,</l>
                         <l>Have reached the perfection of qualities.<note place="end" xml:id="UT22084-055-001-1423" index="566">
-                                <title xml:lang="Bo-Ltn">Dpe bsdur ma</title> and Degé has erroneously repeated the first two
+                                The Degé has erroneously repeated the first two
                                 lines of the last verse at the beginning of this penultimate verse, making it into six
                                 lines.</note> {32}</l>
                     </lg>
@@ -7060,7 +7060,7 @@
                         <l>That is nonconceptual and effortless.” {34}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1427"/>
-                    <trailer tid="3275">Conclusion of the thirteenth chapter, “The Teaching of the Samādhi.”<ref cRef="B5" type="bampo"/>
+                    <trailer tid="3275">Conclusion of the thirteenth chapter, “The Teaching of the Samādhi.” <ref cRef="B5" type="bampo"/>
                     </trailer>
                 </div>
                 <div type="chapter">
@@ -7298,8 +7298,7 @@
                                     <foreign xml:lang="Sa-Ltn" type="term">kalaviṅka</foreign>, translated into Tibetan here as
                                 “cuckoo,” even though earlier they were listed separately where <foreign xml:lang="Sa-Ltn" type="term">kalaviṅka</foreign> was simply transliterated. The Chinese transliterates as
                                     <foreign xml:lang="zh" type="term">迦陵頻伽</foreign>. The avadavat was unknown in Tibet while the
-                                cuckoo was very familiar. However, the avadavat is a bird known for its beautiful song in north
-                                India.</note> and flocks of birds<note place="end" xml:id="UT22084-055-001-1469" index="576"> The
+                                cuckoo was very familiar. However, the avadavat is a bird known in North India for its beautiful song.</note> and flocks of birds<note place="end" xml:id="UT22084-055-001-1469" index="576"> The
                                 Sanskrit is literally “twice born,” referring to first the egg being laid and then the
                                 hatching.</note> with beautiful songs, </l>
                         <l>With their beautiful songs that are pleasing to everyone—</l>
@@ -7448,7 +7447,7 @@
                         <l>Which is not the level of the Bhagavān’s śrāvakas.</l>
                         <l>You who has pure wisdom beyond examples, wise one, </l>
                         <l>Tell<note place="end" xml:id="UT22084-055-001-1502" index="594"> According to the Tibetan and close to
-                                the version in Dutt’s ‘manuscript A’ (the Shastri manuscript). Chinese: “requests the Buddha to be
+                            the version in Dutt’s “manuscript A” (the Shastri manuscript). Chinese: “requests the Buddha to be
                                 compassionate.”</note> us the entire reason, Jina, why you smiled.<note place="end" xml:id="UT22084-055-001-1503" index="595"> The Chinese has an extra verse here, requesting a
                                 prophecy, which does not appear in the Tibetan or the Sanskrit.</note> {43}</l>
                     </lg>
@@ -7524,7 +7523,7 @@
                     <lg tid="917">
                         <l>“The sound of bherī drums,<note place="end" xml:id="UT22084-055-001-1518" index="601"> According to the
                                 Sanskrit. The Tibetan has <foreign xml:lang="Bo-Ltn" type="term">rnga</foreign> (“drums”) and the
-                                Chinese also just “drums.”</note> conches, and gongs,<note place="end" xml:id="UT22084-055-001-1519" index="602"> According to the Tibetan <foreign xml:lang="Bo-Ltn" type="term">mkhar rnga</foreign>. Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">tunava</foreign> (“flutes”). Chinese: <foreign xml:lang="zh" type="term">鐃</foreign>, similar
+                                Chinese also just has “drums.”</note> conches, and gongs,<note place="end" xml:id="UT22084-055-001-1519" index="602"> According to the Tibetan <foreign xml:lang="Bo-Ltn" type="term">mkhar rnga</foreign>. Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">tunava</foreign> (“flutes”). Chinese: <foreign xml:lang="zh" type="term">鐃</foreign>, similar
                                 to “cymbals.”</note>
                         </l>
                         <l>Of quintillions of instruments has resounded.</l>
@@ -7563,14 +7562,14 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-1525"/>
                     <lg tid="921">
                         <l>“Those with the ten strengths in the past,</l>
-                        <l>The sugatas of the present and the future.</l>
-                        <l>And you, supreme among men, know all,</l>
+                        <l>The sugatas of the present and the future,</l>
+                        <l>And you, supreme among men, know all.</l>
                         <l>Therefore for the benefit of beings I ask this question. {56}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1526"/>
                     <lg tid="922">
                         <l>“You know the thoughts in the minds of beings</l>
-                        <l>And all beings’ infinite ways of conduct:</l>
+                        <l>And all beings’ infinite ways of conduct;</l>
                         <l>You know the aspirations that humans have. </l>
                         <l>Therefore I ask this question to you, supreme among men. {57}</l>
                     </lg>
@@ -7879,7 +7878,7 @@
                         <l>Has praised the Buddha with unequaled joy.</l>
                         <l>He described the unique superior qualities of the buddhas.</l>
                         <l>All the time he is reciting their praises.<note place="end" xml:id="UT22084-055-001-1575" index="612">
-                                The Chinese has 47 consecutive verses; the first 16 verses are in chapter 15 of the
+                                The Chinese has 47 consecutive verses: the first 16 verses are in chapter 15 of the
                                 Tibetan-Sanskrit version and the remaining 31 verses are in chapter 16.</note> {1}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1576"/>
@@ -7932,7 +7931,7 @@
                         <l>“Eight hundred million devas and nāgas, </l>
                         <l>And seven hundred billion yakṣas,</l>
                         <l>In future times will be zealous</l>
-                        <l>And make offerings to the supreme of humans. {8}</l>
+                        <l>And make offerings to the supreme among humans. {8}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1584"/>
                     <lg tid="971">
@@ -8089,7 +8088,7 @@
                         <l>Tolerate the bad things the foolish will say</l>
                         <l>And keep and recite<note place="end" xml:id="UT22084-055-001-1611" index="620"> According to the
                                 Sanskrit, the Tibetan <foreign xml:lang="Bo-Ltn" type="term">klag</foreign>, and the Chinese.
-                                    <title xml:lang="Bo-Ltn">Degé</title>: <foreign xml:lang="Bo-Ltn" type="term">lhogs</foreign>.</note> this samādhi. {7}</l>
+                                    Degé: <foreign xml:lang="Bo-Ltn" type="term">lhogs</foreign>.</note> this samādhi. {7}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1612"/>
                     <lg tid="992">
@@ -8098,8 +8097,8 @@
                                 commentary (<foreign xml:lang="Bo-Ltn" type="term">’dod pa can</foreign>) and the Sanskrit
                                     <foreign xml:lang="Sa-Ltn" type="term">lubdha</foreign>, which can also mean “confused,” hence
                                 the Tibetan translation <foreign xml:lang="Bo-Ltn" type="term">brkam</foreign>
-                                (“scattered”).</note> malicious, and without restraint.<note place="end" xml:id="UT22084-055-001-1614" index="622"> Chinese: <foreign xml:lang="zh" type="term">放逸</foreign> (careless), <foreign xml:lang="zh" type="term">毀禁</foreign> (do not follow
-                                precepts), and <foreign xml:lang="zh" type="term">多慳吝</foreign> (covetous).</note>
+                            (“scattered”).</note> malicious, and without restraint.<note place="end" xml:id="UT22084-055-001-1614" index="622"> Chinese: <foreign xml:lang="zh" type="term">放逸</foreign> (“careless”), <foreign xml:lang="zh" type="term">毀禁</foreign> (“do not follow
+                                precepts”), and <foreign xml:lang="zh" type="term">多慳吝</foreign> (“covetous”).</note>
                         </l>
                         <l>They will enjoy bad actions and be attached to alms bowls and robes,</l>
                         <l>And they will reject completely this samādhi. {8} <ref cRef="F.53.a"/>
@@ -8197,7 +8196,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1633"/>
                     <lg tid="1004">
-                        <l>“It will be hard to find among a hundred, a thousand,<note place="end" xml:id="UT22084-055-001-1634" index="630"> According to the Tibetan. In the Sanskrit and Chinese could mean “among a hundred
+                        <l>“It will be hard to find among a hundred, a thousand,<note place="end" xml:id="UT22084-055-001-1634" index="630"> According to the Tibetan. In the Sanskrit and Chinese it could mean “among a hundred
                                 thousand.”</note>
                         </l>
                         <l>One who has the power of patience.</l>
@@ -8209,7 +8208,7 @@
                         <l>“They will say the words, ‘I am a bodhisattva,’ </l>
                         <l>And those words will spread in every direction.</l>
                         <l>They will become conceited<note place="end" xml:id="UT22084-055-001-1636" index="631"> According to the
-                                Tibetan. The Sanskrit has “They become intoxicated.”</note> through their arrogant, false
+                                Tibetan. The Sanskrit has, “They become intoxicated.”</note> through their arrogant, false
                                 words,<note place="end" xml:id="UT22084-055-001-1637" index="632"> Chinese: <foreign xml:lang="zh" type="quote">若得虛名自欣慶</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ruo de xu ming zi xin
                                     qing</foreign>), “if they gain false reputation and become overjoyed.”</note>
                         </l>
@@ -8531,7 +8530,7 @@
                     <lg tid="1052">
                         <l>“After Brahmeśvara there was a buddha,</l>
                         <l>A jina who was named Agnīśvara.<note place="end" xml:id="UT22084-055-001-1709" index="656"> According
-                                to the Sanskrit and most Kangyurs. The <title xml:lang="Bo-Ltn">Degé</title> has <foreign xml:lang="Bo-Ltn" type="term">mi</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">me</foreign>.</note>
+                                to the Sanskrit and most Kangyurs. The Degé has <foreign xml:lang="Bo-Ltn" type="term">mi</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">me</foreign>.</note>
                         </l>
                         <l>Agnīśvara, highest of humans,</l>
                         <l>Had a lifespan of seventy-six thousand years. {6}</l>
@@ -8648,7 +8647,7 @@
                     <lg tid="1067">
                         <l>“Gambhīraghoṣa and Śiridhāraṇa,</l>
                         <l>Viśuddha­ghoṣeśvara, Śuddhaghoṣa,<note place="end" xml:id="UT22084-055-001-1731" index="663"> According
-                                to the Sanskrit. The Tibetan has <foreign xml:lang="Sa-Ltn">Brahmaghoṣa</foreign> (<foreign xml:lang="Bo-Ltn">tshangs pa’i dbyangs</foreign>).</note>
+                                to the Sanskrit. The Tibetan has Brahmaghoṣa (<foreign xml:lang="Bo-Ltn">tshangs pa’i dbyangs</foreign>).</note>
                         </l>
                         <l>Anantaghoṣa, Suvimuktaghoṣa, </l>
                         <l>Mārabala<note place="end" xml:id="UT22084-055-001-1732" index="664"> According to the Tibetan. The
@@ -8677,9 +8676,9 @@
                                 this verse repeats the names from the preceding verse, and there may have been a corruption. It is
                                 possible that they were meant to be variations of the same compounds but with a group beginning
                                 with Dānta, followed by a group beginning with Śānta. This would give: “Dāntottara, Dānta,
-                                Sudāntacitta, / Sudānta, Dāntendriya, Dāntamānasa / Dāntottara, Dāntaśirin, Pradānta, /
-                                Dāntīyapāraṃgata and Dāntaśūra, [23] Śantottara, Śānta, Suśāntacitta,/ Suśānta, Śāntendriya,
-                                Śāntamānasa / Śāntottara, Śānta­śriya­jvalanta, / Śāntapraśānteśvara, Śāntiśūra. [24]”</note>
+                                Sudāntacitta, / Sudānta, Dāntendriya, Dāntamānasa, / Dāntottara, Dāntaśirin, Pradānta, /
+                                Dāntīyapāraṃgata and Dāntaśūra, [23] Śantottara, Śānta, Suśāntacitta, / Suśānta, Śāntendriya,
+                                Śāntamānasa, / Śāntottara, Śānta­śriya­jvalanta, / Śāntapraśānteśvara, Śāntiśūra. [24]”</note>
                             {24}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1737"/>
@@ -8906,7 +8905,7 @@
                         <l>And steadfastly wandered in this way for eight years.</l>
                         <l>While remaining<note place="end" xml:id="UT22084-055-001-1772" index="671"> According to the BHS
                                     <foreign xml:lang="Sa-Ltn" type="term">vasthitu</foreign>. The Tibetan apparently translates
-                                as “being upright, standing” (<foreign xml:lang="Bo-Ltn" type="term">’greng</foreign>)</note> in
+                                as “being upright, standing” (<foreign xml:lang="Bo-Ltn" type="term">’greng</foreign>).</note> in
                             wandering his life came to an end. {53}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1773"/>
@@ -9213,7 +9212,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-1825"/>
                     <lg tid="1139">
                         <l>“ ‘When seeing the poor, bringing them wealth;</l>
-                        <l>When seeing those with bad conduct, feeling compassion. </l>
+                        <l>When seeing those with bad conduct, feeling compassion; </l>
                         <l>Always teaching those things that are beneficial:</l>
                         <l>That is the nature of the Jina’s teaching. {92}</l>
                     </lg>
@@ -9590,7 +9589,7 @@
                         <l>To senior, middle, and junior bhikṣus.</l>
                         <l>With that respect my renown increased,</l>
                         <l>As did my merit, fame, and qualities.<note place="end" xml:id="UT22084-055-001-1891" index="704">In
-                                Chinese this verse is preceded by an additional verse not found in the Sanskrit or Tibetan.</note>
+                                the Chinese this verse is preceded by an additional verse not found in the Sanskrit or Tibetan.</note>
                             {138}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1892"/>
@@ -10113,7 +10112,7 @@
                     <lg tid="1257">
                         <l>The young man stood up, weeping,</l>
                         <l>And at that time spoke to the Jina.</l>
-                        <l>This heart-born son of the Buddha, </l>
+                        <l>This heart-born son of the Buddha </l>
                         <l>Roared thus this lion’s roar: {34} <ref cRef="F.66.b"/>
                         </l>
                     </lg>
@@ -10140,10 +10139,10 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1984"/>
                     <lg tid="1261">
-                        <l>“The Buddha, who was the color of gold,</l>
+                        <l>The Buddha, who was the color of gold,</l>
                         <l>Placed his hand upon Candraprabha’s head.</l>
                         <l>The Tathāgata, who had a gentle voice,</l>
-                        <l>The Teacher, then said to him,” {38}</l>
+                        <l>The Teacher, then said to him, {38}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-1985"/>
                     <lg tid="1262">
@@ -10279,7 +10278,7 @@
                         <l>To all those who are standing before me.</l>
                         <l>I bestow this enlightenment gained<note place="end" xml:id="UT22084-055-001-2010" index="731">
                                 According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">sparśita</foreign> (“reached”).
-                                The Tibetan has <foreign xml:lang="Bo-Ltn" type="term">thob</foreign> corrupted to <foreign xml:lang="Bo-Ltn" type="term">thos</foreign> (heard).</note> with difficulty.” {56}</l>
+                            The Tibetan has <foreign xml:lang="Bo-Ltn" type="term">thob</foreign> corrupted to <foreign xml:lang="Bo-Ltn" type="term">thos</foreign> (“heard”).</note> with difficulty.” {56}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2011"/>
                     <trailer tid="3280">Conclusion of the eighteenth chapter, “The Entrustment of the Samādhi.”</trailer>
@@ -10312,7 +10311,7 @@
                         inconceivable Dharma of the Buddha, he will become wise in asking questions about the inconceivable Dharma
                         of the Buddha, and will not be fearful, will not be terrified, and will not be gripped by terror on
                         hearing the inconceivable Dharma of the Buddha.”<note place="end" xml:id="UT22084-055-001-2015" index="732"> The passage from this point on until “the gandharva Pañcaśikha” (<ptr target="#UT22084-055-001-2026"/><!--19.9-->) is present in the Tibetan, Shastri, and Hodgson; it
-                            is briefly referenced in the commentary; but it is absent in the Gilgit.</note>
+                            is briefly referenced in the commentary, but it is absent in the Gilgit.</note>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2016"/>
                     <p tid="1283">“After the youth Candraprabha had been taught by the Bhagavān these words on accomplishing the
@@ -10701,7 +10700,7 @@
                                 Gilgit manuscript.</note> {12} </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2094"/>
-                    <trailer tid="3282">Conclusion of the twentieth chapter, “Indra­ketu­dhvaja­rāja.”<ref cRef="F.71.b"/>
+                    <trailer tid="3282">Conclusion of the twentieth chapter, “Indra­ketu­dhvaja­rāja.” <ref cRef="F.71.b"/>
                         <ref cRef="B7" type="bampo"/>
                     </trailer>
                 </div>
@@ -11143,7 +11142,7 @@
                     <p tid="1386">“It is calmness, the absence of anguish.<note place="end" xml:id="UT22084-055-001-2192" index="805"> According to the Sanskrit and the commentary. The Tibetan in the Kangyur translates as
                             “there is calmness because of the absence of anguish” because they are corollaries. The same words
                             could mean “There is coolness, the absence of fever.” The commentary states:
-                                “<distinct>anguish</distinct> or <distinct>fever</distinct> means the <foreign xml:lang="Sa-Ltn" type="term">kleśas</foreign>.” The Chinese <foreign xml:lang="zh" type="quote">以清涼離惱熱故</foreign>
+                                “<distinct>anguish</distinct> or <distinct>fever</distinct> means the <foreign xml:lang="Sa-Ltn" type="term">kleśas</foreign>.” The Chinese has <foreign xml:lang="zh" type="quote">以清涼離惱熱故</foreign>
                                 (<foreign xml:lang="Zh-Ltn" type="quote">yi qing liang li nao re gu</foreign>), in which <foreign xml:lang="zh" type="term">清涼</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">qing
                                 liang</foreign>) literally means “coolness” but can be understood as “calmness.” <foreign xml:lang="zh" type="term">惱熱</foreign> (<foreign xml:lang="Zh-Ltn" type="term">nao re</foreign>)
                             literally means “the fever of agitated mind,” but can also mean “anguish” and “kleśas.”</note> It is
@@ -11382,7 +11381,7 @@
                     <lg tid="1418">
                         <l>“One may ask how many particles there are, </l>
                         <l>But one can never find the end.</l>
-                        <l>Even if,with the tip of a hair, one could measure out </l>
+                        <l>Even if, with the tip of a hair, one could measure out </l>
                         <l>How much water there is in an ocean,<note place="end" xml:id="UT22084-055-001-2236" index="817"> The
                                 Dutt divides up the verses unevenly.</note> {26–27} </l>
                     </lg>
@@ -11421,11 +11420,11 @@
                                 The Hodgson has only <foreign xml:lang="Sa-Ltn" type="term">caiva</foreign>, without any
                                 negation.</note> through<note place="end" xml:id="UT22084-055-001-2243" index="820"> According to
                                 the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">niittakarmanā</foreign>, which is in the
-                                instrumental, but the Tibetan has <foreign xml:lang="Bo-Ltn" type="term">dang</foreign> (and)
-                                instead of <foreign xml:lang="Bo-Ltn" type="term">kyis</foreign> (through).</note> attributes and
+                                    instrumental, but the Tibetan has <foreign xml:lang="Bo-Ltn" type="term">dang</foreign> (“and”)
+                                    instead of <foreign xml:lang="Bo-Ltn" type="term">kyis</foreign> (“through”).</note> attributes and
                             actions </l>
                         <l>Know the appearance of these kinds</l>
-                        <l>Of qualities<note place="end" xml:id="UT22084-055-001-2244" index="821"> Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">varṇa</foreign>. Translated into Tibetan as <foreign xml:lang="Bo-Ltn" type="term">kha mdog</foreign> (color).</note> of a buddha,</l>
+                        <l>Of qualities<note place="end" xml:id="UT22084-055-001-2244" index="821"> Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">varṇa</foreign>. Translated into Tibetan as <foreign xml:lang="Bo-Ltn" type="term">kha mdog</foreign> (“color”).</note> of a buddha,</l>
                         <l>And that is my distinctive characteristic. {30}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2245"/>
@@ -11446,8 +11445,8 @@
                     <lg tid="1425">
                         <l>“The mind is incapable of conceiving</l>
                         <l>The bodies of the buddhas.</l>
-                        <l>“One cannot, therefore, obtain </l>
-                        <l>The measure of such a body.” {33}</l>
+                        <l>One cannot, therefore, obtain </l>
+                        <l>The measure of such a body. {33}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2248"/>
                     <lg tid="1426">
@@ -11493,9 +11492,9 @@
                         <l>Inconceivable lords of worlds.” {39}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2255"/>
-                    <trailer tid="3285">Conclusion of the twenty-third chapter, “The Teaching on the Tathāgata’s Body.”<note place="end" xml:id="UT22084-055-001-2256" index="823"> End of fifth fascicle and beginning of the
-                            sixth in the Song, Yuan, Min, Gong, and Sheng editions, but in the Taisho edition the fifth fascicle
-                                ocontinues.<foreign xml:lang="zh" type="quote"> 卷第五終【宋】【元】【明】【宮】【聖】本</foreign>.</note>
+                    <trailer tid="3285">Conclusion of the twenty-third chapter, “The Teaching on the Tathāgata’s Body.”<note place="end" xml:id="UT22084-055-001-2256" index="823"> End of the fascicle 5 and beginning of fascicle
+                            6 in the Song, Yuan, Min, Gong, and Sheng editions, but in the Taisho edition fascicle 5
+                                continues.<foreign xml:lang="zh" type="quote"> 卷第五終【宋】【元】【明】【宮】【聖】本</foreign>.</note>
                     </trailer>
                 </div>
                 <div type="chapter">
@@ -11513,12 +11512,12 @@
                     <p tid="1434">“Young man, what is the discernment of phenomena? </p>
                     <p tid="1435">“Young man, however many words there can be for forms, the tathāgata has that many appellations
                         for them.<note place="end" xml:id="UT22084-055-001-2260" index="824"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">varṇavyāhāra</foreign> and the <title xml:lang="Sa-Ltn">Mahāvyutpatti</title>’s translation of <foreign xml:lang="Sa-Ltn" type="term">varṇa</foreign> and
-                                <foreign xml:lang="Sa-Ltn" type="term">vyāhāra</foreign> as <foreign xml:lang="Bo-Ltn" type="term">brjod pa</foreign>. The Tibetan in both the sūtra and commentary is <foreign xml:lang="Bo-Ltn" type="term">bsngags brjod pa</foreign> (“expression of praise”), which does not fit the context
+                                <foreign xml:lang="Sa-Ltn" type="term">vyāhāra</foreign> as <foreign xml:lang="Bo-Ltn" type="term">brjod pa</foreign>. The Tibetan in both the sūtra and the commentary is <foreign xml:lang="Bo-Ltn" type="term">bsngags brjod pa</foreign> (“expression of praise”), which does not fit the context
                             here, and may be a scribal corruption of <foreign xml:lang="Bo-Ltn" type="term">ngag brjod
                                 pa</foreign>.</note> It is the same for sensation, identification, mentation; and, young man, for
                         consciousnesses. Young man, in that way there are infinite, endless, inconceivably numerous<note place="end" xml:id="UT22084-055-001-2261" index="825"> The text has just “inconceivable,” which is
                             used numerous times in this chapter, but with the meaning of an inconceivable number, rather than one
-                            of the inconceivability of the words expressed.”</note> words for forms, and the tathāgata, too has
+                            of the inconceivability of the words expressed.</note> words for forms, and the tathāgata, too has
                         inconceivably numerous appellations for them. It is the same for sensation, identification, mentation,
                         and, young man, for consciousnesses: there are infinite, endless, inconceivably numerous words for them,
                         and the tathāgata, too has inconceivably numerous appellations for them.<note place="end" xml:id="UT22084-055-001-2262" index="826"> This first part of the chapter up to this point does not
@@ -12147,7 +12146,7 @@
                     <lg tid="1532">
                         <l>“Whoever casts off all conceptual identification</l>
                         <l>Brings to an end the identification of existence.</l>
-                        <l>Whoever has a conceptual identification of words,</l>
+                        <l>Whoever has a conceptual identification of words</l>
                         <l>Will never be able to see the Teacher. {12}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2388"/>
@@ -12356,7 +12355,7 @@
                         <l>Their confusion would still be vast.</l>
                         <l>They do no more than make</l>
                         <l>Promises to be bodhisattvas.<note place="end" xml:id="UT22084-055-001-2427" index="870"> The Chinese of
-                                this verse is different: “If I were to talk for an eon / About the various faults of those / who
+                                this verse is different: “If I were to talk for an eon / About the various faults of those / Who
                                 claim to be bodhisattvas, / I could mention only a fraction. <foreign xml:lang="zh" type="quote">我若一劫中, 說彼諸過失, 自謂菩薩者, 但能說小分</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ruo wo yi jie
                                     zhong, shuo bi zhu guo shi, zi wei pu sa zhe, dan neng shuo xiao fen</foreign>).</note>
                             {36}</l>
@@ -12368,7 +12367,7 @@
                         <l>You should not in the future</l>
                         <l>Be associated<note place="end" xml:id="UT22084-055-001-2429" index="871"> According to the Sanskrit
                                     <foreign xml:lang="Sa-Ltn" type="term">saṃstava</foreign>, the Lithang, Narthang, and Cone
-                                Kangyurs, and the Chinese. The <title xml:lang="Bo-Ltn">Degé</title> has <foreign xml:lang="Bo-Ltn" type="term">ston</foreign> (“teach”) instead of <foreign xml:lang="Bo-Ltn" type="term">sten</foreign>.</note> with them. {37}</l>
+                                Kangyurs, and the Chinese. The Degé has <foreign xml:lang="Bo-Ltn" type="term">ston</foreign> (“teach”) instead of <foreign xml:lang="Bo-Ltn" type="term">sten</foreign>.</note> with them. {37}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2430"/>
                     <lg tid="1558">
@@ -12848,7 +12847,7 @@
                             translates this sentence as “He will perfect wisdom of all kinds.” <foreign xml:lang="zh" type="quote">滿足一切智</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">man zu yi qie zhi</foreign>).</note>
                         himself to wisdom and perfects it; [2] he follows the example of the buddhas; [3] he does not criticize
                         the wise; [4] he does not waver from his vows; [5] he maintains his practice; [6] he turns away<note place="end" xml:id="UT22084-055-001-2515" index="890"> According to the Sanskrit, the commentary, and
-                            most Kangyurs, except for the <title xml:lang="Bo-Ltn">Degé</title> which has has <foreign xml:lang="Bo-Ltn" type="term">’byor pa</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">’byol ba</foreign>. Chinese: “He abandons all concern about life and death.” <foreign xml:lang="zh" type="quote">棄捨生死</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">qi she sheng
+                            most Kangyurs, except for the Degé which has has <foreign xml:lang="Bo-Ltn" type="term">’byor pa</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">’byol ba</foreign>. Chinese: “He abandons all concern about life and death.” <foreign xml:lang="zh" type="quote">棄捨生死</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">qi she sheng
                                 si</foreign>). </note> from saṃsāra; [7] he is led to attain nirvāṇa;<note place="end" xml:id="UT22084-055-001-2516" index="891"> Tibetan: <foreign xml:lang="Bo-Ltn" type="term">thob par
                                 byed pa</foreign> (“cause to obtain”). Sanskrit: <foreign xml:lang="Sa-Ltn" type="term">arpayati</foreign> (see <title xml:lang="Sa-Ltn"> Mahāvyutpatti</title> 7428). Chinese: “He longs
                             for the joy of nirvāṇa,” <foreign xml:lang="zh" type="quote">慕樂涅槃</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">mu le nie pan</foreign>).</note> [8] he lives without faults
@@ -12987,7 +12986,7 @@
                     <lg tid="1646">
                         <l>“It is difficult to approach his level.<note place="end" xml:id="UT22084-055-001-2546" index="899">
                                 Chinese: “his attainments are difficult to surpass.” See note <!--896-->
-                                <ptr target="#UT22084-055-001-2540"/>
+                                <ptr target="#UT22084-055-001-2540"/>.
                             </note>
                         </l>
                         <l>He is without idleness.<note place="end" xml:id="UT22084-055-001-2547" index="900"> Gilgit and Chinese:
@@ -13029,9 +13028,9 @@
                         <l>The days and the nights</l>
                         <l>Pass fruitfully for him.<note place="end" xml:id="UT22084-055-001-2557" index="907"> At this point,
                                 Dutt has a second half-verse that is said to be reconstructed from the Tibetan and absent in the
-                                Sanskrit (although these lines are not present in the <title xml:lang="Bo-Ltn">Degé</title>, their
+                                Sanskrit (although these lines are not present in the Degé, their
                                 absence is not noted in the <title xml:lang="Bo-Ltn">Pedurma</title>, and they are not present in
-                                the Stok Palace): “When it comes time to die, / it is similarly fruitful for him.” The commentary
+                                the Stok Palace): “When it comes time to die, / It is similarly fruitful for him.” The commentary
                                 does not gloss any of these verses. Here, the Chinese has: “In this way, after hearing the Dharma
                                 / He develops the Dharma he has heard. / He remembers it constantly, / Day and night, without
                                 intermission.”</note>
@@ -13079,7 +13078,7 @@
                             states that this refers to “the levels, the six perfections, and so forth.” The Chinese has “engages
                             in the field of loving kindness,” <foreign xml:lang="zh" type="quote">行慈境界</foreign>.</note> [3] he
                         lives free from anguish; [4] his sensory faculties are protected;<note place="end" xml:id="UT22084-055-001-2565" index="909"> According to the commentary, this means that in a state of
-                            meditation the senses are disengaged from their objects. Chinese has “protected,” <foreign xml:lang="zh" type="term">守護</foreign> (<foreign xml:lang="Zh-Ltn" type="term">shou
+                            meditation the senses are disengaged from their objects. The Chinese has “protected,” <foreign xml:lang="zh" type="term">守護</foreign> (<foreign xml:lang="Zh-Ltn" type="term">shou
                             hu</foreign>).</note> [5] he experiences pleasure;<note place="end" xml:id="UT22084-055-001-2566" index="910"> Chinese: “bliss without food.” “Without food” is a synonym for the meditative
                             state.</note> [6] he is separated from desire; [7] he has insatiability for meditation; [8] he is free
                         from the domain of <term>Māra</term>; [9] he is established in the domain of the Buddha; and [10] he
@@ -13161,8 +13160,8 @@
                         illumination regarding all engagement with the composite;<note place="end" xml:id="UT22084-055-001-2581" index="914"> The commentary explains that involvement with the composite is like darkness and the
                             bodhisattva’s wisdom is like a light that eliminates that darkness. The Chinese here has: <foreign xml:lang="zh" type="quote">能達生死海底</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">neng da sheng
                                 si hai</foreign>), literally, “he has reached the bottom of the ocean of life and death,” which
-                            means, “he knows the depth of the ocean of saṃsāra” or “he transcends saṃsāra.”</note> [9] with vast
-                        great compassion for all, and without any aspiration for the level of the śrāvakas or
+                            means, “he knows the depth of the ocean of saṃsāra” or “he transcends saṃsāra.”</note> [9] he engages in vast
+                        great compassion for all beings, and has no aspiration for the level of the śrāvakas or
                             pratyekabuddhas;<note place="end" xml:id="UT22084-055-001-2582" index="915"> These two qualities are
                             the ninth and tenth benefits in the Chinese.</note>
                         <ref cRef="F.91.a"/> and [10] he enters into the dhyānas, samādhis, and samāpattis of the buddhas.<note place="end" xml:id="UT22084-055-001-2583" index="916"> This does not appear in the Chinese.</note>
@@ -13269,7 +13268,7 @@
                         <l>He rejects the kleśas</l>
                         <l>And follows<note place="end" xml:id="UT22084-055-001-2608" index="925"> According to the Sanskrit
                                     <foreign xml:lang="Sa-Ltn" type="term">pratiṣthate</foreign> (“to be upon”) and the Yonglé and
-                                Peking Kangyur <foreign xml:lang="Bo-Ltn" type="term">sten</foreign> (“to rely upon”). The <title xml:lang="Bo-Ltn">Degé</title> has <foreign xml:lang="Sa-Ltn" type="term">ston</foreign>
+                                Peking Kangyur <foreign xml:lang="Bo-Ltn" type="term">sten</foreign> (“to rely upon”). The Degé has <foreign xml:lang="Sa-Ltn" type="term">ston</foreign>
                                 (“teach”).</note> the path of purification. {35}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2609"/>
@@ -13345,48 +13344,48 @@
                         </l>
                         <l>He is always on the Bodhimaṇḍa,<note place="end" xml:id="UT22084-055-001-2623" index="929"> According
                                 to the Tibetan. The Sanskrit <foreign xml:lang="Sa-Ltn" type="quote">bodhimaṇḍaṃ
-                                    samārūḍha</foreign> means “He has taken his seat upon the Bodhimaṇḍa.”</note>
+                                    samārūḍha</foreign> means, “He has taken his seat upon the Bodhimaṇḍa.”</note>
                         </l>
                         <l>Which is the result of giving the Dharma. {43}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2624"/>
                     <lg tid="1694">
-                        <l>He gives away all material things.</l>
+                        <l>“He gives away all material things.</l>
                         <l>He follows the king of the Dharma. </l>
                         <l>For he who has overcome the kleśas,</l>
                         <l>Enlightenment is not hard to attain. {44}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2625"/>
                     <lg tid="1695">
-                        <l>With a loving mind he gives</l>
+                        <l>“With a loving mind he gives</l>
                         <l>His portion to all beings.</l>
                         <l>He is someone who has no envy,</l>
                         <l>And he has a happiness higher than that of humans. {45}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2626"/>
                     <lg tid="1696">
-                        <l>He is a learned man who rejects what should not be done.</l>
+                        <l>“He is a learned man who rejects what should not be done.</l>
                         <l>He is a wise man who is always doing what should be done.</l>
                         <l>He always follows the Dharma of great beings.</l>
                         <l>He is a learned man who always gives the gift of the Dharma. {46}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2627"/>
                     <lg tid="1697">
-                        <l>His realm is one that is always pure.</l>
+                        <l>“His realm is one that is always pure.</l>
                         <l>He increases those qualities that are aspects of enlightenment.</l>
                         <l>He is always close to the Bodhimaṇḍa.</l>
                         <l>Those are the benefits of giving the Dharma. {47}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2628"/>
                     <lg tid="1698">
-                        <l>He has no kleśas, and gives material things away.</l>
+                        <l>“He has no kleśas, and gives material things away.</l>
                         <l>He knows the characteristics of things.</l>
                         <l>He is liberated from all attachment.</l>
                         <l>He never has any impediments. {48}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2629"/>
                     <lg tid="1699">
-                        <l>He has a wise man’s mind. </l>
+                        <l>“He has a wise man’s mind. </l>
                         <l>He wishes for all beings to be happy. </l>
                         <l>He has a loving mind free of envy,</l>
                         <l>And in this life his happiness is not little. {49}</l>
@@ -13445,7 +13444,7 @@
                                 path rather than a superior being.</note> who is without defilement.<note place="end" xml:id="UT22084-055-001-2646" index="940"> The Chinese has a different version of the second half
                                 of the verse: “He will not be born in lower realms, <foreign xml:lang="zh" type="quote">不生惡道中
                                     </foreign>(<foreign xml:lang="Zh-Ltn" type="quote">bu sheng yu er dao zhong</foreign>) / And
-                                will always remain within noble families<foreign xml:lang="zh" type="quote">常安住聖種</foreign>
+                                will always remain within noble families <foreign xml:lang="zh" type="quote">常安住聖種</foreign>
                                     (<foreign xml:lang="Zh-Ltn" type="quote">chang an zhu sheng zhong</foreign>).”</note> {52}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2647"/>
@@ -13667,7 +13666,7 @@
                         with households without aversion or attachment;<note place="end" xml:id="UT22084-055-001-2688" index="951"> According to the commentary, this is referring to “households from which he receives food on his
                             alms rounds, maintaining equanimity or impartiality toward them all.” Chinese: “he is devoid of
                             attachment and aversion.” </note> [9] he gives the Dharma without expectation of a reward;<note place="end" xml:id="UT22084-055-001-2689" index="952"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">nirāmiṣa</foreign> and the commentary. The Tibetan translates
-                            vaguely as <foreign xml:lang="Bo-Ltn" type="term">zang zing</foreign> (material goods). <foreign xml:lang="Sa-Ltn" type="term">Āmiṣa</foreign> can mean gifts in general and also specifically
+                                vaguely as <foreign xml:lang="Bo-Ltn" type="term">zang zing</foreign> (“material goods”). <foreign xml:lang="Sa-Ltn" type="term">Āmiṣa</foreign> can mean gifts in general and also specifically
                             food. The Chinese integrates this into the previous point. Chinese: “He teaches the Dharma without
                             expectation of food.”</note> and [10] the Dharma he teaches while remaining in the austerity of the
                         disciplines of mendicancy will be remembered. </p>
@@ -13898,7 +13897,7 @@
                         </l>
                         <l>Like illusions, the same as lightning in the sky;</l>
                         <l>Like the moon on water, the same as a mirage.<note place="end" xml:id="UT22084-055-001-2738" index="965"> At this point in the Shastri manuscript there is a verse that begins, “The three
-                                realms are like a dream …” which is absent in the Gilgit, Chinese, Tibetan, and the Hodgson
+                                realms are like a dream…” which is absent in the Gilgit, Chinese, Tibetan, and the Hodgson
                                 manuscript, and yet is quoted by Candrakīrti in the seventh century.</note> {14}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2739"/>
@@ -14132,11 +14131,11 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-2781"/>
                     <lg tid="1801">
-                        <l>“They become angry with anyone </l>
+                        <l>“They will become angry with anyone </l>
                         <l>Who they hear teaching bodhisattva conduct.</l>
                         <l>When they hear something that is stupid<note place="end" xml:id="UT22084-055-001-2782" index="980">
                                 According to the Sanskrit. The Tibetan has translated as <foreign xml:lang="Bo-Ltn" type="term">mkhas pa</foreign> (“wise”).</note> and mistaken </l>
-                        <l>They repeat those blameworthy words a hundred times.<note place="end" xml:id="UT22084-055-001-2783" index="981"> Chinese: “When they see a Dharma teacher make a small mistake, / They would
+                        <l>They will repeat those blameworthy words a hundred times.<note place="end" xml:id="UT22084-055-001-2783" index="981"> Chinese: “When they see a Dharma teacher make a small mistake, / They would
                                 exaggerate it and add hundreds or thousands more to it.” <foreign xml:lang="zh" type="quote">若見法師少過失，增長加說百千種</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ruo jian fa shi shao guo
                                     shi, zeng zhang jia shuo bai qian zhong</foreign>).</note> {43}</l>
                     </lg>
@@ -14472,7 +14471,7 @@
                                 Sanskrit, in which, in all manuscripts, there is the adjective <foreign xml:lang="Sa-Ltn" type="term">maitraka</foreign>. The commentary glosses this as meaning Maitreya after he has
                                 attained buddhahood. The Tibetan <foreign xml:lang="Bo-Ltn">rgyal ba byams pa grags pa mtha’
                                     yas</foreign> could be translated as “infinitely famous Jina Maitreya,” and possibly, “the
-                                Jina with infinitely famous kindness.”</note> who has infinite fame,<note place="end" xml:id="UT22084-055-001-2845" index="1000"> “infinite fame” does not appear in the Chinese.</note>
+                                Jina with infinitely famous kindness.”</note> who has infinite fame,<note place="end" xml:id="UT22084-055-001-2845" index="1000"> “Infinite fame” does not appear in the Chinese.</note>
                         </l>
                         <l>He will accomplish many benefits for beings. {82}</l>
                     </lg>
@@ -14488,7 +14487,7 @@
                         <l>“The man who possesses this samādhi</l>
                         <l>Will receive the offerings of devas,</l>
                         <l>Will be continually revered by humans,<note place="end" xml:id="UT22084-055-001-2848" index="1001">
-                                According to the Tibetan, presumably translating from <foreign xml:lang="Sa-Ltn" type="term">manuja</foreign> and the Chinese <foreign xml:lang="zh" type="term">人 </foreign>. The
+                                According to the Tibetan, presumably translating from <foreign xml:lang="Sa-Ltn" type="term">manuja</foreign> and the Chinese <foreign xml:lang="zh" type="term">人</foreign>. The
                                 Sanskrit has <foreign xml:lang="Sa-Ltn" type="term">maruta</foreign>, which is a synonym for “the
                                 devas.”</note>
                         </l>
@@ -14707,7 +14706,7 @@
                     <lg tid="1874">
                         <l>“The man who possesses this supreme samādhi,</l>
                         <l>With peaceful conduct and a peaceful<note place="end" xml:id="UT22084-055-001-2886" index="1011">
-                                According to the Tibetan, presumably from <foreign xml:lang="Sa-Ltn" type="term">supraśāntamana</foreign>. The Sanskrit has <foreign xml:lang="Sa-Ltn" type="term">suviśuddhamana</foreign> (a pure mind).</note> mind</l>
+                            According to the Tibetan, presumably from <foreign xml:lang="Sa-Ltn" type="term">supraśāntamana</foreign>. The Sanskrit has <foreign xml:lang="Sa-Ltn" type="term">suviśuddhamana</foreign> (“a pure mind”).</note> mind</l>
                         <l>Will be an illumination for beings</l>
                         <l>Wherever that holder of the Dharma goes.<note place="end" xml:id="UT22084-055-001-2887" index="1012">
                                 According to the Sanskrit, which has the singular, while the Tibetan has the plural. This verse
@@ -14982,7 +14981,7 @@
                         <l>Has the strength of being established in the strength of patience.<note place="end" xml:id="UT22084-055-001-2955" index="1048"> Chinese: “The strength of his patience is as vast as
                                 Mt. Meru.”</note>
                         </l>
-                        <l>Not seeing a thing that is tolerated, he is perfectly at peace.<note place="end" xml:id="UT22084-055-001-2956" index="1049"> The Degé and other Kangyurs of the <title xml:lang="Bo-Ltn">tshal pa</title> group have the verb of this sentence as <foreign xml:lang="Bo-Ltn" type="quote">mi gtong</foreign>, (“not letting go”), which would not make
+                        <l>Not seeing a thing that is tolerated, he is perfectly at peace.<note place="end" xml:id="UT22084-055-001-2956" index="1049"> The Degé and other Kangyurs of the <title xml:lang="Bo-Ltn">tshal pa</title> group have the verb of this sentence as <foreign xml:lang="Bo-Ltn" type="quote">mi gtong</foreign> (“not letting go”), which would not make
                                 much sense. The Stok Palace Kangyur has <foreign xml:lang="Bo-Ltn" type="quote">mi
                                     mthong</foreign> (“not seeing”), closer to the sense of the Sanskrit and the
                                 commentary.</note>
@@ -14993,7 +14992,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-2958"/>
                     <lg tid="1907">
                         <l>“The one who knows the peace that is the nature of phenomena, </l>
-                        <l>Never has in mind the idea ‘I am cutting through things;’</l>
+                        <l>Never has in mind the idea ‘I am cutting through things’;</l>
                         <l>For him all things are nonexistent, always empty,</l>
                         <l>And he has eliminated every single conceptual identification. {10}</l>
                     </lg>
@@ -15194,7 +15193,7 @@
                         aggregate of the insight of the wisdom of liberation.<note place="end" xml:id="UT22084-055-001-2992" index="1059"> The five “aggregates” mentioned here are the “five undefiled aggregates” (Tibetan
                                 <foreign xml:lang="Bo-Ltn" type="term">zag med kyi phung po lnga</foreign>, known in Sanskrit
                             according to <title xml:lang="Sa-Ltn">Mahāvyutpatti</title> 103 as the “five aggregates of those equal
-                            to the unequalled ones” <foreign xml:lang="Sa-Ltn" type="term">asamasama­pañca­skandhaḥ</foreign>).
+                            to the unequaled ones,” <foreign xml:lang="Sa-Ltn" type="term">asamasama­pañca­skandhaḥ</foreign>).
                             See glossary under “aggregate of conduct.” The Gilgit manuscript adds here “insight into the empty
                             nature of all phenomena,” which is absent in the later Sanskrit manuscripts and the Tibetan.</note>
                     </p>
@@ -15434,7 +15433,7 @@
                         <l>Of phenomena to be like reflections,<note place="end" xml:id="UT22084-055-001-3033" index="1067">
                                 According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">pratibhāsa</foreign>, the
                                 commentary, and the Chinese. The Tibetan here has <foreign xml:lang="Bo-Ltn" type="term">mig
-                                    yor</foreign> (mirages or optical illusions, as defined by the <title xml:lang="Bo-Ltn">tshig
+                                    yor</foreign> (“mirages” or “optical illusions,” as defined by the <title xml:lang="Bo-Ltn">tshig
                                     mdzod chen mo</title>), another meaning of <foreign xml:lang="Sa-Ltn" type="term">pratibhāsa,</foreign> and the <title xml:lang="Sa-Ltn">Mahāvyupatti</title> gives <foreign xml:lang="Bo-Ltn" type="term">mig yor</foreign> as the equivalent, while <foreign xml:lang="Bo-Ltn" type="term">gzugs brnyan</foreign> (“reflection”) is given as the equivalent
                                 of <foreign xml:lang="Sa-Ltn" type="term">pratibimba</foreign>. <foreign xml:lang="Sa-Ltn" type="term">Pratibhāsa</foreign> and <foreign xml:lang="Sa-Ltn" type="term">pratibimba</foreign> both appear in the same list of types of illusory appearances, where
                                     <foreign xml:lang="Sa-Ltn" type="term">pratibhāsa</foreign> evidently does not mean
@@ -15950,7 +15949,7 @@
                                 Tibetan, the Hodgson manuscript, the Vaidya edition, and the Chinese. The Gilgit and Shastri
                                 manuscript do not have the negative <foreign xml:lang="Sa-Ltn" type="term">na</foreign> but have
                                     <foreign xml:lang="Sa-Ltn" type="term">ca</foreign> (“and”) instead.</note> conceptions.<note place="end" xml:id="UT22084-055-001-3118" index="1088"> Chinese: <foreign xml:lang="zh" type="quote">不寂者是想</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">bu ji zhe shi
-                                    xiang</foreign>), “Conceptions are detachment;” <foreign xml:lang="zh" type="quote">寂滅者是智</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ji mie zhe shi zhi</foreign>),
+                                    xiang</foreign>), “Conceptions are detachment”; <foreign xml:lang="zh" type="quote">寂滅者是智</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ji mie zhe shi zhi</foreign>),
                                 “Detachment is wisdom.” <foreign xml:lang="zh" type="quote">若知想自性</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ruo zhi xiang zi xing</foreign>), “If one knows the nature of
                                 conception,” <foreign xml:lang="zh" type="quote">便離於諸想</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">bian li yu zhu xiang</foreign>), “Then he is free from conceptions.” </note>
                             {93}</l>
@@ -16052,7 +16051,7 @@
                         <l>“When someone has the thought of a name,</l>
                         <l>In that cessation there is no wisdom.<note place="end" xml:id="UT22084-055-001-3133" index="1089">
                                 Chinese: <foreign xml:lang="zh" type="quote">名心盡法者</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">ming xin jin fa zhe</foreign>), “[though] the name and thought of cessation
-                                exist,” <foreign xml:lang="zh" type="quote">盡中本無智</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">jin zhong ben wu zhi</foreign>) “there is no wisdom in [that] cessation.”</note>
+                                exist,” <foreign xml:lang="zh" type="quote">盡中本無智</foreign> (<foreign xml:lang="Zh-Ltn" type="quote">jin zhong ben wu zhi</foreign>), “there is no wisdom in [that] cessation.”</note>
                         </l>
                         <l>There is no cessation in the knowledge of a word—<note place="end" xml:id="UT22084-055-001-3134" index="1090"> According to the Tibetan <foreign xml:lang="Bo-Ltn" type="term">sgra shes
                                     pa</foreign>. The Sanskrit and Chinese have “knowledge of a level” (<foreign xml:lang="Sa-Ltn" type="term">bhūmi</foreign>; <foreign xml:lang="zh" type="term">地</foreign>).</note>
@@ -16099,7 +16098,7 @@
                         <l>“There is no one whomsoever</l>
                         <l>Who can connect with this nonexistence.</l>
                         <l>The connection with this nonexistence</l>
-                        <l>Results in a teaching that is one of conventions.<note place="end" xml:id="UT22084-055-001-3141" index="1091"> According to the Tibetan and the Hodgson manuscript, which has <foreign xml:lang="Sa-Ltn" type="term">saṃvṛti</foreign> (conventional or relative). According to the
+                        <l>Results in a teaching that is one of conventions.<note place="end" xml:id="UT22084-055-001-3141" index="1091"> According to the Tibetan and the Hodgson manuscript, which has <foreign xml:lang="Sa-Ltn" type="term">saṃvṛti</foreign> (“conventional” or “relative”). According to the
                                 Gilgit and Shastri, it is <foreign xml:lang="Sa-Ltn" type="term">nirvṛti</foreign>
                                 (extinction).</note> {113}</l>
                     </lg>
@@ -16296,7 +16295,7 @@
                     <lg tid="2076">
                         <l>“They will not have any doubt at all,</l>
                         <l>Not even an atom of doubt.</l>
-                        <l>As they have eliminated every atom of doubt,<note place="end" xml:id="UT22084-055-001-3170" index="1093"> This line is missing in the <title xml:lang="Bo-Ltn">Degé</title>. The Chinese has
+                        <l>As they have eliminated every atom of doubt,<note place="end" xml:id="UT22084-055-001-3170" index="1093"> This line is missing in the Degé. The Chinese has
                                 “having faith in the teaching of the Buddha,” <foreign xml:lang="zh" type="quote">於佛語決定</foreign>
                                     (<foreign xml:lang="Zh-Ltn" type="quote">yu fo yu jue ding</foreign>).</note>
                         </l>
@@ -16344,7 +16343,7 @@
                     <lg tid="2082">
                         <l>“And in the presence of the buddhas<note place="end" xml:id="UT22084-055-001-3178" index="1095">
                                 According to the Tibetan and the later Sanskrit manuscripts. The Gilgit has, “They roar the lion’s
-                                roar / the inconceivable roar of the buddhas.”</note>
+                                roar, / The inconceivable roar of the buddhas.”</note>
                         </l>
                         <l>They will always roar the lion’s roar</l>
                         <l>With an endless confidence of speech,</l>
@@ -16547,8 +16546,8 @@
                     <lg tid="2109">
                         <l>“Having attained this peace, this stainless samādhi,</l>
                         <l>Such a person will be one who always has a retinue.</l>
-                        <l>He will not cause division, but always keeps harmonious unity</l>
-                        <l>And practices the supreme, highest, peaceful bodhisattva conduct. {173}</l>
+                        <l>He will not cause division, but will always keep harmonious unity</l>
+                        <l>And practice the supreme, highest, peaceful bodhisattva conduct. {173}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3210"/>
                     <lg tid="2110">
@@ -16932,8 +16931,8 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-3276"/>
                     <lg tid="2158">
                         <l>“When conceptions of women have ceased,</l>
-                        <l>He sits at the bodhimaṇḍa. </l>
-                        <l>Once he has sat at the bodhimaṇḍa</l>
+                        <l>He sits at the Bodhimaṇḍa. </l>
+                        <l>Once he has sat at the Bodhimaṇḍa</l>
                         <l>The conceptions of <term>Māra</term> cease. {216}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3277"/>
@@ -16951,7 +16950,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3280"/>
                     <lg tid="2160">
-                        <l>“Once he is seated upon the bodhimaṇḍa,</l>
+                        <l>“Once he is seated upon the Bodhimaṇḍa,</l>
                         <l>All his conceptions are eliminated.</l>
                         <l>Once all his conceptionss are eliminated </l>
                         <l>This entire world is shaken. {218}</l>
@@ -17034,13 +17033,13 @@
                         <l>“Knowing the characteristic of the true Dharma,</l>
                         <l>He gazes upon all the realms.</l>
                         <l>Having gazed upon all the realms,</l>
-                        <l>He seats himself at the bodhimaṇḍa.<note place="end" xml:id="UT22084-055-001-3294" index="1124">
+                        <l>He seats himself at the Bodhimaṇḍa.<note place="end" xml:id="UT22084-055-001-3294" index="1124">
                                 According to the Tibetan, and the Hodgson and Shastri manuscripts. This verse does not appear in
                                 the Gilgit manuscript or the Chinese.</note> {i}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3295"/>
                     <lg tid="2170">
-                        <l>“Having sat at the bodhimaṇḍa,</l>
+                        <l>“Having sat at the Bodhimaṇḍa,</l>
                         <l>There is the sound of the lion’s roar,</l>
                         <l>Which thus resounds throughout </l>
                         <l>Countless, innumerable millions of realms. {227}</l>
@@ -17055,7 +17054,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-3297"/>
                     <lg tid="2172">
                         <l>“Having reached the highest enlightenment,</l>
-                        <l>He rises from the bodhimaṇḍa.</l>
+                        <l>He rises from the Bodhimaṇḍa.</l>
                         <l>He guides the countless, innumerable beings</l>
                         <l>Who are to be guided. {229}</l>
                     </lg>
@@ -17281,7 +17280,7 @@
                                 leaves are the part of the lotus that is usually described in this way, and <foreign xml:lang="Sa-Ltn" type="term">pañjara</foreign> may be an early corruption in the text,
                                 perhaps of <foreign xml:lang="Sa-Ltn" type="term">palāśa</foreign>.</note> of crystal,</l>
                         <l>They have stamens of emerald,<note place="end" xml:id="UT22084-055-001-3342" index="1146"> Sanskrit:
-                                    <foreign xml:lang="Sa-Ltn" type="term">girigarbha</foreign>, (mountain essence). Tibetan:
+                            <foreign xml:lang="Sa-Ltn" type="term">girigarbha</foreign>, (“mountain essence”). Tibetan:
                                     <foreign xml:lang="Bo-Ltn" type="term">dpal gyi snying po can</foreign> (“glorious essence”).
                                 The Hodgson has <foreign xml:lang="Sa-Ltn" type="term">sirigarbha</foreign>, which is a
                                 corruption. The Tibetan appears to have translated from <foreign xml:lang="Sa-Ltn" type="term">śrīgarbha</foreign>. This appears to be a synonym for <foreign xml:lang="Sa-Ltn" type="term">aśmagarbha</foreign> (“stone-essence”), which is an emerald. The commentary repeats <foreign xml:lang="Bo-Ltn" type="term">’dab ma</foreign>, though this can mean “leaves” as well as
@@ -17544,7 +17543,7 @@
                         <l>They have been entrusted by ten billion buddhas. {280}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3388"/>
-                    <trailer tid="3295">Conclusion of the thirty-third chapter, “The Benefits of Possessing the Sūtra.”<ref cRef="B11" type="bampo"/>
+                    <trailer tid="3295">Conclusion of the thirty-third chapter, “The Benefits of Possessing the Sūtra.” <ref cRef="B11" type="bampo"/>
                     </trailer>
                 </div>
                 <div type="chapter">
@@ -17552,7 +17551,7 @@
                     <head type="chapterTitle">Kṣemadatta</head>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3389"/>
                     <p tid="2229"> Then the Bhagavān said to the youth Candraprabha,<note place="end" xml:id="UT22084-055-001-3390" index="1160"> In the Gilgit manuscript, the prose is absent from this
-                            point until “Young man, in the past…” <ptr target="#UT22084-055-001-3397"/><!--[34.7]-->
+                            point until “Young man, in the past…” (<ptr target="#UT22084-055-001-3397"/><!--[34.7]-->).
                         </note> “Young man, the bodhisattva mahāsattva who wishes for this samādhi, and wishes to attain quickly
                         the highest, complete enlightenment of perfect buddhahood, should abide in the absence of attributes and
                         be dedicated to making vast offerings to a present tathāgata or to the stūpa of a tathāgata who has passed
@@ -17959,7 +17958,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-3462"/>
                     <lg tid="2289">
                         <l>“This realm became adorned</l>
-                        <l>By a display of every kind of jewels. </l>
+                        <l>By a display of every kind of jewel. </l>
                         <l>Jewels and pearls were spread out</l>
                         <l>As an offering to Kṣemadatta. {36}</l>
                     </lg>
@@ -18099,7 +18098,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-3496"/>
                     <p tid="2312">“That dharmabhāṇaka bhikṣu was wise in the behavior,<note place="end" xml:id="UT22084-055-001-3497" index="1184"> According to the BHS (<foreign xml:lang="Sa-Ltn" type="term">īrya</foreign>), the commentary (<foreign xml:lang="Bo-Ltn" type="term">spyod
                                 lam</foreign>), and the Chinese <foreign xml:lang="zh" type="term">威儀</foreign>. In the Tibetan of
-                            the sūtra it is translated as <foreign xml:lang="Bo-Ltn" type="term">g.yo ba</foreign>. (“movement,”
+                            the sūtra it is translated as <foreign xml:lang="Bo-Ltn" type="term">g.yo ba</foreign> (“movement,”
                             “wandering”), which is one meaning of <foreign xml:lang="Sa-Ltn" type="term">īrya</foreign> but does
                             not fit the context well. </note> conduct, aspirations, natures, and propensities of beings. He knew
                         the extent of the powers, strengths, and diligence of beings. He was wise in natures and
@@ -18108,7 +18107,7 @@
                             Tibetan version of the sūtra and the commentary.</note> He was wise in implying the truth. He was also
                         wise in giving answers without implied meaning. He had profound eloquence and was wise in the ways of
                         guiding all beings. He spoke sincerely.<note place="end" xml:id="UT22084-055-001-3499" index="1186">
-                            Tibetan <foreign xml:lang="Bo-Ltn" type="term">gsong por smra</foreign>. The BHS has <foreign xml:lang="Sa-Ltn" type="term">pūrvabhilāpī</foreign> (“respectfully”). In Sanskrit this is
+                            Tibetan: <foreign xml:lang="Bo-Ltn" type="term">gsong por smra</foreign>. The BHS has <foreign xml:lang="Sa-Ltn" type="term">pūrvabhilāpī</foreign> (“respectfully”). In Sanskrit this is
                             followed by, “He had a smiling face,” which is absent in the Tibetan but incorporated to make a single
                             sentence in the Chinese.</note> His face was free of frowns. <ref cRef="F.122.a"/> He remained in a
                         state of greatness of mind. He was dedicated to great compassion. He could not be defeated by any
@@ -18384,7 +18383,7 @@
                         <l>“ ‘Just as the fragrant aroma of the incense </l>
                         <l>Of yellow sandalwood and red sandalwood<note place="end" xml:id="UT22084-055-001-3544" index="1190">
                                 According to the Tibetan, which specifies “red sandalwood” for <foreign xml:lang="Sa-Ltn" type="term">candana</foreign>, and translates <foreign xml:lang="Sa-Ltn" type="term">kālānusārī</foreign> literally as <foreign xml:lang="Bo-Ltn" type="term">’dus</foreign>
-                                <foreign xml:lang="Bo-Ltn" type="term">brang</foreign> (“following time”). Chinese has simply
+                                <foreign xml:lang="Bo-Ltn" type="term">brang</foreign> (“following time”). The Chinese has simply
                                 “sandalwood.”</note>
                         </l>
                         <l>Spreads throughout the ten directions,</l>
@@ -18470,7 +18469,7 @@
                         <l>“When all those supreme humans</l>
                         <l>Had passed into nirvāṇa</l>
                         <l>As bodhisattvas,<note place="end" xml:id="UT22084-055-001-3558" index="1192">The BHS <foreign xml:lang="Sa-Ltn" type="term">sugatāna putrakāḥ</foreign> appears to be specifically male as
-                                “sons of the <foreign xml:lang="Sa-Ltn" type="term">sugatas</foreign>,” although <foreign xml:lang="Sa-Ltn" type="term">putra</foreign> can be taken in the more general sense of
+                                “sons of the sugatas,” although <foreign xml:lang="Sa-Ltn" type="term">putra</foreign> can be taken in the more general sense of
                                 “child.” The Tibetan translates as <foreign xml:lang="Bo-Ltn" type="term">byang chub sems
                                     mo</foreign>, specifically meaning a female bodhisattva, which accords with the use of the
                                 female personal pronoun, but although the female pronoun is used she is also described as having
@@ -18821,7 +18820,7 @@
                         <l>Some held him by his feet, </l>
                         <l>Weeping with compassion and shedding tears.</l>
                         <l>‘Wise one with great realization, do not leave! </l>
-                        <l>Look,at how beautiful are this charming forest’s trees,</l>
+                        <l>Look at how beautiful are this charming forest’s trees,</l>
                         <l>With their sweet and fragrant aromas.<note place="end" xml:id="UT22084-055-001-3626" index="1214">
                                 According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">gandha</foreign> and the Chinese.
                                 However, the Tibetan has <foreign xml:lang="Bo-Ltn" type="term">sgra</foreign> (“sound”) instead,
@@ -19335,7 +19334,7 @@
                     <lg tid="2480">
                         <l>“ ‘In the same way, this bhikṣu has fallen to the earth </l>
                         <l>With a body beautified by the supreme signs.</l>
-                        <l>With an evil intention, I have, reduced to pieces</l>
+                        <l>With an evil intention, I have reduced to pieces</l>
                         <l>Supuṣpacandra, who was faultless and blameless.<note place="end" xml:id="UT22084-055-001-3721" index="1240"> According to the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">adoṣaduṣṭa</foreign>, and in accordance with the commentary. The Tibetan has <foreign xml:lang="Bo-Ltn" type="term">zhe sdang gtum med pa</foreign> (“neither anger nor wrath”),
                                 translating in accordance with the BHS meaning of the phrase, which does not seem to fit the
                                 context here. There is a different verse here in the Chinese.</note> {49}</l>
@@ -19512,7 +19511,7 @@
                         <l>Gold, silver, crystal, and coral.</l>
                         <l>They give away wives,<note place="end" xml:id="UT22084-055-001-3749" index="1248"> According to the
                                 commentary and the Sanskrit. The Kangyur has <foreign xml:lang="Bo-Ltn" type="term">gnas</foreign>
-                                (places), probably being translated from a scribal corruption of <foreign xml:lang="Sa-Ltn" type="term">bhārya</foreign>.</note> sons, daughters,</l>
+                            (“places”), probably being translated from a scribal corruption of <foreign xml:lang="Sa-Ltn" type="term">bhārya</foreign>.</note> sons, daughters,</l>
                         <l>And their own heads, and are established in enlightenment. {68}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3750"/>
@@ -19956,7 +19955,7 @@
                     <lg tid="2556">
                         <l>“ ‘You did not listen to that saṅgha of bhikṣus.</l>
                         <l>Why, venerable one, did you come to the town?</l>
-                        <l>Whatever be the reason might be that you came,</l>
+                        <l>Whatever the reason might be that you came,</l>
                         <l>You should accomplish it, O lamp for the world! {ii}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3824"/>
@@ -20003,7 +20002,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-3832"/>
                     <lg tid="2562">
                         <l>“ ‘That which I, terrified, request of you,</l>
-                        <l>It is a request that is worthy to be fulfilled.<note place="end" xml:id="UT22084-055-001-3833" index="1271"> The <title xml:lang="Bo-Ltn">Degé</title> here has <foreign xml:lang="Bo-Ltn" type="term">bde</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">de</foreign>, as
+                        <l>It is a request that is worthy to be fulfilled.<note place="end" xml:id="UT22084-055-001-3833" index="1271"> The Degé here has <foreign xml:lang="Bo-Ltn" type="term">bde</foreign> in error for <foreign xml:lang="Bo-Ltn" type="term">de</foreign>, as
                                 in the Yonglé and Peking Kangyurs.</note>
                         </l>
                         <l>Puṣpacandra, I pray you free me from fear</l>
@@ -20013,7 +20012,7 @@
                     <lg tid="2563">
                         <l>“ ‘Dharmabhāṇaka who is liberated from anger,</l>
                         <l>Lord of beings, bestow this favor on me.</l>
-                        <l>Today, bestow this one favor on me;</l>
+                        <l>Today, bestow this one favor on me:</l>
                         <l>I pray that you arise, shining like the sun. {ix}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3835"/>
@@ -20184,7 +20183,7 @@
                         <l>“ ‘Oh! Oh! You are the supreme lamp of wisdom </l>
                         <l>That illuminates the entire world.</l>
                         <l>Oh! Oh! You are dedicated to the benefit of beings;</l>
-                        <l>You are the guide with the strength of compassion.<note place="end" xml:id="UT22084-055-001-3866" index="1283"> The <title xml:lang="Bo-Ltn">Degé</title> edition has <foreign xml:lang="Bo-Ltn" type="term">bcu</foreign> (“ten”) in error for <foreign xml:lang="Bo-Ltn" type="term">dang</foreign>, which is in most Kangyurs. The Tibetan appears to have translated from a
+                        <l>You are the guide with the strength of compassion.<note place="end" xml:id="UT22084-055-001-3866" index="1283"> The Degé has <foreign xml:lang="Bo-Ltn" type="term">bcu</foreign> (“ten”) in error for <foreign xml:lang="Bo-Ltn" type="term">dang</foreign>, which is in most Kangyurs. The Tibetan appears to have translated from a
                                 manuscript with <foreign xml:lang="Sa-Ltn" type="term">bala</foreign> (“strength”), while present
                                 manuscripts have <foreign xml:lang="Sa-Ltn" type="term">vara</foreign> (“supreme”).</note>
                         </l>
@@ -20241,7 +20240,7 @@
                         <l>And you bestow the medicine that is the good Dharma.</l>
                         <l>Oh! Oh! When you see beings who are sick,</l>
                         <l>Afflicted with all kinds of illnesses,</l>
-                        <l>Oh! Oh! Arise quickly and give them</l>
+                        <l>Oh! oh! arise quickly and give them</l>
                         <l>The medicine of the Dharma.<note place="end" xml:id="UT22084-055-001-3874" index="1287"> These lines
                                 are actually from verse xxi, but in the Tibetan and in this translation have been moved forward to
                                 make the passage more readable in these languages.</note> {xx}</l>
@@ -20265,7 +20264,7 @@
                         <l>All the world’s creepers of doubt.</l>
                         <l>Oh! Oh! You who are excellently learned,</l>
                         <l>Stainless, a holder of the Dharma, a supreme human,</l>
-                        <l>Oh! Oh! Be seated in the midst of your assembly</l>
+                        <l>Oh! oh! be seated in the midst of your assembly</l>
                         <l>And, wise one, recite thousands of millions of stainless sūtras. {xxii}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3877"/>
@@ -20382,10 +20381,10 @@
                         <l>Daughters, wives, prominent citizens,</l>
                         <l>Ministers, head merchants,</l>
                         <l>Heads of guilds, and many kṣatriyas:</l>
-                        <l>“Quickly make a bier with a casket</l>
+                        <l>Quickly make a bier with a casket</l>
                         <l>Of agarwood, sandalwood, cherry wood,</l>
                         <l>And whatever is splendid, aromatic, and beautiful,</l>
-                        <l>For the cremation of this bhikṣu.”<note place="end" xml:id="UT22084-055-001-3899" index="1302"> This is
+                        <l>For the cremation of this bhikṣu.’<note place="end" xml:id="UT22084-055-001-3899" index="1302"> This is
                                 followed by two additional verses in the Chinese.</note> {109}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3900"/>
@@ -20648,7 +20647,7 @@
                                 Sanskrit and the commentary. The sūtra translation has “below them.” The Chinese has
                                 “comparable.”</note> to him,</l>
                         <l>Or who is his equal in the accumulation of merit </l>
-                        <l>And unrivalled, inconceivable wisdom. {11}</l>
+                        <l>And unrivaled, inconceivable wisdom. {11}</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-001-3947"/>
                     <lg tid="2627">
@@ -20957,7 +20956,7 @@
                         <l>“They are tamed and are tamers of untamed beings.<note place="end" xml:id="UT22084-055-001-3994" index="1327"> According to the Tibetan, presumably translating from a Sanskrit text that read
                                     <foreign xml:lang="Sa-Ltn" type="term">adānta</foreign> instead of the extant Sanskrit text’s
                                     <foreign xml:lang="Sa-Ltn" type="term">sudānta</foreign>, according to which this line would
-                                be translated as “They are tamed, perfectly tamed, and tamers of beings,” </note>
+                                be translated as “They are tamed, perfectly tamed, and tamers of beings.” </note>
                         </l>
                         <l>They are constantly in the state of being tamed.</l>
                         <l>They are tamed and follow those who are perfectly tamed.<note place="end" xml:id="UT22084-055-001-3995" index="1328"> According to the Tibetan and the Hodgson. The Gilgit and the Shastri have, “pacified
@@ -21208,7 +21207,7 @@
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-4030"/>
                     <lg tid="2690">
-                        <l>“Young man, listen to me as I tell you,</l>
+                        <l>“Young man, listen to me as I tell you</l>
                         <l>How I practiced for thousands of eons.</l>
                         <l>Seeking this sublime, excellent samādhi,</l>
                         <l>I made offerings to hundreds of thousands of buddhas. {1}</l>
@@ -21300,7 +21299,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-4044"/>
                     <lg tid="2702">
                         <l>“The thousands of bhikṣus were pleased,</l>
-                        <l>As were the devas, humans, asuras, and yakṣas, wondering</l>
+                        <l>As were the devas, humans, asuras, and yakṣas, wondering,</l>
                         <l>‘The Jina to whom these offerings were made, will he give a prophecy?</l>
                         <l>Will this lord of humans teach the Dharma?’ {13}</l>
                     </lg>
@@ -21404,7 +21403,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-001-4063"/>
                     <lg tid="2716">
                         <l>“ ‘All phenomena have no characteristics, are devoid of characteristics; </l>
-                        <l>They all have no characterstics, and are pure of characteristics.</l>
+                        <l>They all have no characteristics, and are pure of characteristics.</l>
                         <l>They are always empty, and they are as pure as space.</l>
                         <l>In brief, they cannot be enumerated. {27}</l>
                     </lg>
@@ -21650,7 +21649,7 @@
                     <lg tid="2749">
                         <l>“Those who had faith and trust in the Lord of sages,</l>
                         <l>Those who delighted in emptiness and peace,</l>
-                        <l>They cried out ‘Ala la!’<note place="end" xml:id="UT22084-055-001-4101" index="1352"> In the Sanskrit,
+                        <l>They cried out ‘A la la!’<note place="end" xml:id="UT22084-055-001-4101" index="1352"> In the Sanskrit,
                                 this interjection translated into Tibetan as <foreign xml:lang="Bo-Ltn">a la la</foreign> is
                                 actually <foreign xml:lang="Sa-Ltn">hūṃ</foreign>. <foreign xml:lang="Sa-Ltn">Hūṃ</foreign>,
                                 though presently associated with seed-syllables and mantras in tantric practice, in this context
@@ -22046,7 +22045,7 @@
                         celibacy, lying, slandering, harsh speech, idle talk, avarice, malice, and wrong views; desists from fraud
                         in weights, fraud in measures, and fraud in wealth;<note place="end" xml:id="UT22084-055-001-4171" index="1366"> According to the commentary, which gives gold as an example. The Sanskrit <foreign xml:lang="Sa-Ltn" type="term">kāṃsya</foreign>, which the Tibetan translates as <foreign xml:lang="Bo-Ltn" type="term">nor</foreign> (“wealth”), means brass or bell metal, so that the
                             phrase <foreign xml:lang="Sa-Ltn" type="term">kāṃsya-kūṭa</foreign> could literally mean
-                            “brass-fraud.” Edgerton (p.175) defines the BHS equivalent <foreign xml:lang="Sa-Ltn" type="term">kāṃsa-kūṭa</foreign> as meaning someone who substitutes brass for gold.</note> desists from
+                            “brass-fraud.” Edgerton (p. 175) defines the BHS equivalent <foreign xml:lang="Sa-Ltn" type="term">kāṃsa-kūṭa</foreign> as meaning someone who substitutes brass for gold.</note> desists from
                             capturing,<note place="end" xml:id="UT22084-055-001-4172" index="1367"> According to the commentary.
                             The Sanskrit <foreign xml:lang="Sa-Ltn" type="term">karṣaṇa</foreign> (which could be translated as
                             “dragging”) the Tibetan translates as <foreign xml:lang="Bo-Ltn" type="term">gzung</foreign> or
@@ -22060,7 +22059,7 @@
                         arms; and desists from wicked habits of body, speech, or mind so that, like palm trees that have had their
                         tops cut off, they will not arise again in the future. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-4177"/>
-                    <p tid="2806">“Therefore, young man, understand this teaching in the following way: <ref cRef="F.152.a"/>
+                    <p tid="2806">“Therefore, young man, understand this teaching in the following way. <ref cRef="F.152.a"/>
                         Young man, in the past, innumerable, vast, immeasurable, inconceivable, unfathomable countless eons ago,
                         at that time and in those days, there appeared in the world the the Bhagavān, the tathāgata, the arhat,
                         the perfectly enlightened Buddha Jñānaprabhāsa, who was perfect in wisdom and conduct, a sugata, a knower
@@ -22253,7 +22252,7 @@
                                 instead of the usual translation for the Sanskrit <foreign xml:lang="Sa-Ltn" type="term">upakleśa
                                 </foreign> as <foreign xml:lang="zh" type="term">隨煩惱</foreign> (<foreign xml:lang="Zh-Ltn" type="term">sui fan nao</foreign>), the Chinese puts another word, “gathering after kleśa,”
                                     <foreign xml:lang="zh" type="term">煩惱聚</foreign> (<foreign xml:lang="Zh-Ltn" type="term">fan
-                                    nao ju</foreign>), which can mean all aspects of <foreign xml:lang="Sa-Ltn" type="term">kleśa</foreign>, and will include both major and minor aspects <foreign xml:lang="zh" type="term">遠離一切煩惱聚</foreign> (<foreign xml:lang="Zh-Ltn" type="term">yuan li yi qie fa nao
+                                    nao ju</foreign>), which can mean all aspects of <foreign xml:lang="Sa-Ltn" type="term">kleśa</foreign>, and will include both major and minor aspects: <foreign xml:lang="zh" type="term">遠離一切煩惱聚</foreign> (<foreign xml:lang="Zh-Ltn" type="term">yuan li yi qie fa nao
                                     ju</foreign>).</note>
                         </l>
                         <l>And thus is trained in the restraint of the body. {24}</l>
@@ -22561,8 +22560,8 @@
                         and whether they go to the higher realms or the lower realms. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-4263"/>
                     <p tid="2878">“Young man, the bodhisattva mahāsattva who has completely pure physical conduct in one instant
-                        of wisdom accurately knows, hears, sees, and understands everything that is is to be known, to be seen, to
-                        be heard, to be realized, and to be manifested.”<note place="end" xml:id="UT22084-055-001-4264" index="1386"> In the Chinese, in place of this paragraph there is a long prose passage on knowing all
+                        of wisdom accurately knows, hears, sees, and understands everything that is to be known, to
+                        be heard, to be seen, to be realized, and to be manifested.”<note place="end" xml:id="UT22084-055-001-4264" index="1386"> In the Chinese, in place of this paragraph there is a long prose passage on knowing all
                             views in one instant.</note>
                     </p>
                     <p tid="2879">Thereupon the Bhagavān recited these verses:</p>
@@ -23309,7 +23308,7 @@
                         phenomena.</p>
                     <milestone unit="chunk" xml:id="UT22084-055-001-4456"/>
                     <p tid="3040">“What is the knowledge of distinguishing between the words for phenomena?<note place="end" xml:id="UT22084-055-001-4457" index="1417"> According to the Tibetan of chapter 1, the commentary, and
-                            the Sanskrit. In the Tibetan translation of chapter 40, the word “<distinct>words”</distinct> is
+                            the Sanskrit. In the Tibetan translation of chapter 40, the word “words” is
                             omitted. Chinese: <foreign xml:lang="zh" type="term">句義</foreign> (<foreign xml:lang="Zh-Ltn" type="term">ju yi</foreign>), “verses and meanings,” “meaning of verses.”</note> It is the
                         accomplishment of the differentiation of all phenomena.</p>
                     <p tid="3041">“What is skill in the presentation of the words for phenomena?<note place="end" xml:id="UT22084-055-001-4459" index="1418"> The commentary gives as an example “the sixteen
@@ -23756,7 +23755,7 @@
                             Tibetan of chapter 1 better fit the definition of this term as given in chapter 40, which includes the
                             word <foreign xml:lang="Sa-Ltn" type="term">āharaṇa</foreign>. However, the commentary differs in its
                             definition, specifying that it cannot be undermined by māras or tīrthikas. Chinese: <foreign xml:lang="zh" type="quote">獲得一切智智</foreign>, “attainment of the wisdom that accomplishes all
-                            wisdom”; the word “wisdom,”<foreign xml:lang="zh" type="term">智</foreign> appears twice consecutively
+                            wisdom”; the word “wisdom,” <foreign xml:lang="zh" type="term">智</foreign>, appears twice consecutively
                             in chapter 40. In chapter 1, it is <foreign xml:lang="zh" type="term">引導一切智</foreign>, where the word
                             “wisdom” appears only once, “[the wisdom] that brings all wisdom.”</note> Because it eliminates all
                         bad qualities, accomplishes all good qualities, <ref cRef="F.168.b"/> and brings liberation to all
@@ -23969,38 +23968,38 @@
                     <head>Abbreviations</head>
                     <item xml:id="UT22084-055-001-4730">
                         <abbr>BHS</abbr>
-                        <expan>Buddhist Hybrid Sanskrit</expan>
+                        <expan>Buddhist Hybrid Sanskrit.</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4731">
                         <abbr>Chinese</abbr>
-                        <expan>6th century Chinese translation by Narendrayaśas (see Introduction, <ptr target="#UT22084-055-001-11"/><!--i.7-->)</expan>
+                        <expan>Sixth century Chinese translation by Narendrayaśas (see introduction, <ptr target="#UT22084-055-001-11"/><!--i.7-->).</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4732">
                         <abbr>Commentary</abbr>
-                        <expan>Mañjuśrīkīrti (see bibliography) </expan>
+                        <expan>Mañjuśrīkīrti (see bibliography). </expan>
                     </item>
                     <item xml:id="UT22084-055-001-4733">
                         <abbr>Gilgit</abbr>
-                        <expan>6-7th century Sanskrit manuscript (see Introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
+                        <expan>Sixth to seventh century Sanskrit manuscript (see introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
                             and bibliography under Dutt).</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4734">
                         <abbr>Hodgson</abbr>
-                        <expan>Later Nepalese Sanskrit manuscript (see Introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
+                        <expan>Later Nepalese Sanskrit manuscript (see introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
                             and bibliography under Dutt).</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4735">
                         <abbr>Matsunami</abbr>
-                        <expan>Matsunami’s Sanskrit edition (see bibliography)</expan>
+                        <expan>Matsunami’s Sanskrit edition (see bibliography).</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4736">
                         <abbr>Shastri</abbr>
-                        <expan>Later Nepalese Sanskrit manuscript (see Introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
-                            and bibliography under Dutt)</expan>
+                        <expan>Later Nepalese Sanskrit manuscript (see introduction <ptr target="#UT22084-055-001-13"/><!--i.9-->
+                            and bibliography under Dutt).</expan>
                     </item>
                     <item xml:id="UT22084-055-001-4737">
                         <abbr>Vaidya</abbr>
-                        <expan>Vaidya’s Sanskrit edition (see bibliography)</expan>
+                        <expan>Vaidya’s Sanskrit edition (see bibliography).</expan>
                     </item>
                 </list>
             </div>
@@ -24164,13 +24163,13 @@
                     <head type="section">Non-canonical Tibetan Sources</head>
                     <bibl xml:id="UT22084-055-001-4777">Gampopa (sgam po pa bsod nams rin chen). <title xml:lang="Bo-Ltn">dam chos
                             yid bzhin nor bu thar pa rin po che’i rgyan</title>. Kathmandu: Gam-po-pa Library, 2003.</bibl>
-                    <bibl xml:id="UT22084-055-001-4778">Tsong kha pa. <title xml:lang="Bo-Ltn">Lam rim chen mo</title>. In <title xml:lang="Bo-Ltn">rje tsong kha pa chen po’i gsung ’bum</title> vol. 8, Zi ling: mtsho sngon mi rigs
-                        dpe skrun khang, 1999.</bibl>
                     <bibl xml:id="UT22084-055-001-4779">Pad dkar bZang po. <title xml:lang="Bo-Ltn">bstan pa spyi’i rgyas byed las
                             mdo sde spyi’i rnam bzhag bka’ bsdu ba bzhi pa zhes bya ba’i bstan bcos</title>. Beijing: mi rigs dpe
                         skrun khang, 2006.</bibl>
                     <bibl xml:id="UT22084-055-001-4780">Rinchen Palzang (rin chen dpal bzang). <title xml:lang="Bo-Ltn">mtshur phu
                             dgon gyi dkar chag kun gsal me long</title>. Beijing: mi rigs dpe skrun khang, 1995.</bibl>
+                    <bibl xml:id="UT22084-055-001-4778">Tsong kha pa. <title xml:lang="Bo-Ltn">Lam rim chen mo</title>. In <title xml:lang="Bo-Ltn">rje tsong kha pa chen po’i gsung ’bum</title> vol. 8, Zi ling: mtsho sngon mi rigs
+                        dpe skrun khang, 1999.</bibl>
                 </div>
                 <div type="section">
                     <head type="section">Western Publications</head>
