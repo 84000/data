@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:14:51 by admin</note>
+                <note type="lastUpdated">Last updated at 20/03/2018 at 17:20:56 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -124,7 +124,7 @@
                         mere absence of obstruction, it is also counted as one of the three unconditioned dharmas or phenomena in
                         this world, the other two being the two types of cessation.<note place="end" index="2" xml:id="UT22084-066-018-274">
                             <abbr>LVP</abbr> (1923), p 7-8. </note> In the Pāli <title xml:lang="pi">Mahāparinibbānasutta</title>,
-                        space is presented as the actual foundation for all other elements of existence.<note place="end" index="3" xml:id="UT22084-066-018-275">See <ref target="http://www.accesstoinsight.org/­tipitaka/­dn/­dn.16.1-6.vaji.html">www.accesstoinsight.org</ref>.</note> We can understand, therefore, the prominent position that
+                        space is presented as the actual foundation for all other elements of existence.<note place="end" index="3" xml:id="UT22084-066-018-275">See <ref target="https://www.accesstoinsight.org/ati/tipitaka/dn/dn.16.1-6.vaji.html">www.accesstoinsight.org</ref>.</note> We can understand, therefore, the prominent position that
                         space holds among the elements of existence, and it is an equally prominent position that the bodhisattva
                         Ākāśagarbha holds among his peers, his presence outshining everything else in the world, everything except
                         the buddhas themselves. Just as space is the unlimited capacity to accommodate the entirety of phenomenal
@@ -1434,7 +1434,8 @@
                 </div>
                 <div type="colophon">
                     <milestone unit="chunk" xml:id="UT22084-066-018-132"/>
-                    <p tid="171">This completes <title xml:lang="en">The Noble Mahāyāna Ākāśagarbha Sūtra</title>.</p>
+                    <p tid="171">This completes the Noble Mahāyāna <title xml:lang="en">Ākāśagarbha Sūtra.</title>
+                    </p>
                     <p tid="172">Edited, translated, and established by the Indian abbot Śākyaprabha and the monk
                         Ratnarakṣita.</p>
                 </div>
@@ -1572,7 +1573,7 @@
                             <term xml:lang="Bo-Ltn">skye mched </term>
                             <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
-                            <term type="definition">The twelve bases of perception are divided into two groups, consisting of six
+                            <term type="definition">The twelve <term type="ignore">bases of perception</term> are divided into two groups, consisting of six
                                 inner and six outer bases. These are six sense faculties and six outer corresponding objects.
                                 Together they are the causes for the production of the six sense consciousnesses.</term>
                         </gloss>
@@ -1642,7 +1643,7 @@
                             <term xml:lang="Bo-Ltn">tshangs par spyod pa </term>
                             <term xml:lang="bo">ཚངས་པར་སྤྱོད་པ།</term>
                             <term xml:lang="Sa-Ltn">brahmacarya</term>
-                            <term type="definition">The chaste life of the monastics.</term>
+                            <term type="definition">The <term type="ignore">chaste life</term> of the monastics.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1751,7 +1752,7 @@
                             <term xml:lang="bo">རྟག་པའི་ལྟ་བ།</term>
                             <term xml:lang="Sa-Ltn">śāśvatadṛṣṭi</term>
                             <term type="definition">The first of two extreme views which keep one deluded with regard to reality.
-                                Eternalism is the view that clings to some eternal, truly existent essence called ‘self,’ based on
+                                <term type="ignore">Eternalism</term> is the view that clings to some eternal, truly existent essence called ‘self,’ based on
                                 the experience of a collection of, in fact, transitory phenomena.</term>
                         </gloss>
                     </item>
@@ -1863,7 +1864,7 @@
                             <term xml:lang="bo">ས།</term>
                             <term xml:lang="Sa-Ltn">bhūmi</term>
                             <term type="definition">The path of a bodhisattva is divided into ten stages of spiritual attainment
-                                called grounds. The eleventh ground corresponds to complete enlightenment.</term>
+                                called <term type="ignore">grounds</term>. The eleventh <term type="ignore">ground</term> corresponds to complete enlightenment.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1873,6 +1874,7 @@
                             <term xml:lang="bo">དྲང་སྲོང་།</term>
                             <term xml:lang="Sa-Ltn">ṛṣi</term>
                             <term type="definition">A seer or hermit who has attained certain spiritual powers.</term>
+<term type="alternative">hermits</term>
                         </gloss>
                     </item>
                     <item>
@@ -1894,7 +1896,7 @@
                             <term xml:lang="bo">མིའམ་ཅི།</term>
                             <term xml:lang="Sa-Ltn">kiṃnara</term>
                             <term type="definition">Mythical being with a horse’s head and a human body (or vice versa); literally
-                                “man or what?” Along with the gandharvas, kiṃnaras are celebrated as celestial musicians.</term>
+                                “man or what?” Along with the gandharvas, <term type="ignore">kiṃnaras</term> are celebrated as celestial musicians.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1903,7 +1905,9 @@
                             <term xml:lang="Bo-Ltn">rgyang grags </term>
                             <term xml:lang="bo">རྒྱང་གྲགས།</term>
                             <term xml:lang="Sa-Ltn">krośa</term>
-                            <term type="definition">A measure of distance corresponding to one calling-distance. Four <foreign xml:lang="Sa-Ltn" type="term">krośa</foreign> equal one yojana.</term>
+                            <term type="definition">A measure of distance corresponding to one calling-distance. Four <foreign xml:lang="Sa-Ltn" type="term">
+                                    <term type="ignore">krośa</term>
+                                </foreign> equal one yojana.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1999,7 +2003,7 @@
                             <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
                             <term type="definition">Class of beings believed to have a snake body. There are both powerful and
-                                powerless types of nāgas.</term>
+                                powerless types of <term type="ignore">nāgas</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2009,7 +2013,7 @@
                             <term xml:lang="bo">ཆད་པའི་ལྟ་བ།</term>
                             <term xml:lang="Sa-Ltn">ucchedadṛṣṭi</term>
                             <term type="definition">The second of two extreme views that keep one deluded with regard to reality.
-                                Nihilism is a view equally based on clinging to a truly existent self. It is the belief that once
+                                <term type="ignore">Nihilism</term> is a view equally based on clinging to a truly existent self. It is the belief that once
                                 this self ends with death, everything associated with it ends. It therefore rejects rebirth and
                                 the law of karma, or cause and effect.</term>
                         </gloss>
@@ -2099,10 +2103,12 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-066-018-212">
                             <term>seven precious materials</term>
-                            <term xml:lang="Bo-Ltn">rin chen sna bdun __,__rin po che sna bdun </term>
-                            <term xml:lang="bo">རིན་ཆེན་སྣ་བདུན་ , རིན་པོ་ཆེ་སྣ་བདུན།</term>
+                            <term xml:lang="Bo-Ltn">rin chen sna bdun </term>
+                            <term xml:lang="bo">རིན་ཆེན་སྣ་བདུན།</term>
+                            <term xml:lang="Bo-Ltn">rin po che sna bdun </term>
+                            <term xml:lang="bo">རིན་པོ་ཆེ་སྣ་བདུན།</term>
                             <term xml:lang="Sa-Ltn">saptaratna</term>
-                            <term type="definition">The list of seven precious materials vary. Either they are: gold, silver,
+                            <term type="definition">The list of <term type="ignore">seven precious materials</term> vary. Either they are: gold, silver,
                                 turquoise, coral, pearl, emerald, and sapphire; or else they are: ruby, sapphire, beryl, emerald,
                                 diamond, pearls, and coral.</term>
                         </gloss>
@@ -2152,9 +2158,12 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-066-018-217">
                             <term>suchness</term>
-                            <term xml:lang="Bo-Ltn">de bzhin nyid __,__de kho na nyid/ </term>
-                            <term xml:lang="bo">དེ་བཞིན་ཉིད་ , དེ་ཁོ་ན་ཉིད།</term>
-                            <term xml:lang="Sa-Ltn">tathatā, tattvatā</term>
+                            <term xml:lang="Bo-Ltn">de bzhin nyid </term>
+                            <term xml:lang="bo">དེ་བཞིན་ཉིད།</term>
+                            <term xml:lang="Bo-Ltn">de kho na nyid </term>
+                            <term xml:lang="bo">དེ་ཁོ་ན་ཉིད།</term>
+                            <term xml:lang="Sa-Ltn">tathatā</term>
+                            <term xml:lang="Sa-Ltn">tattvatā</term>
                             <term type="definition">The ultimate nature of things, or the way things are in reality, as opposed to
                                 the way they appear to non-enlightened beings.</term>
                         </gloss>
@@ -2294,7 +2303,7 @@
                             <term xml:lang="bo">རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">vajra</term>
                             <term type="definition">The term stands for indestructibility and perfect stability. According to
-                                Indian mythology, the vajra is the all-powerful god Indra’s weapon, likened to a thunderbolt,
+                                Indian mythology, the <term type="ignore">vajra</term> is the all-powerful god Indra’s weapon, likened to a thunderbolt,
                                 which made him invincible. It also relates to the diamond which is the hardest physical
                                 material.</term>
                         </gloss>
@@ -2381,9 +2390,10 @@
                             <term xml:lang="Bo-Ltn">skya rengs </term>
                             <term xml:lang="bo">སྐྱ་རེངས།</term>
                             <term xml:lang="Sa-Ltn">Aruṇa</term>
-                            <term type="definition">Aruṇa is the deity of the dawn in Indian mythology, personified as the sun’s
+                            <term type="definition">
+                                <term type="ignore">Aruṇa</term> is the deity of the dawn in Indian mythology, personified as the sun’s
                                 charioteer, and the name refers to the morning star Venus, according to de Visser (1931), p 24, n
-                                1. In this context, Aruṇa functions as a messenger for Ākāśagarbha.</term>
+                                1. In this context, <term type="ignore">Aruṇa</term> functions as a messenger for Ākāśagarbha.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2613,7 +2623,7 @@
                             <term>Yeshé Dé</term>
                             <term xml:lang="Bo-Ltn">ye shes sde </term>
                             <term xml:lang="bo">ཡེ་ཤེས་སྡེ།</term>
-                            <term type="definition">The monk Yeshé Dé, a prolific translator of sūtras.</term>
+                            <term type="definition">The monk <term type="ignore">Yeshé Dé</term>, a prolific translator of sūtras.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2642,7 +2652,7 @@
                             <term xml:lang="Bo-Ltn">gang ga </term>
                             <term xml:lang="bo">གང་ག</term>
                             <term xml:lang="Sa-Ltn">gaṅgā</term>
-                            <term type="definition">The river Ganges.</term>
+                            <term type="definition">The sacred river of North India.</term>
                         </gloss>
                     </item>
                     <item>

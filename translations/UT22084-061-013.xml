@@ -39,19 +39,19 @@
                 <date>2011</date>
             </publicationStmt>
             <sourceDesc>
-                <bibl key="193">
+                <bibl key="toh193">
                     <ref>Toh 193</ref>
                     <biblScope>Degé Kangyur, vol. 61 (mdo sde, tsa), folios 246.a–250.b</biblScope>
                     <author role="translatorTib">Unknown</author>
                 </bibl>
-                <bibl key="739">
+                <bibl key="toh739">
                     <ref>Toh 739</ref>
                     <biblScope>Degé Kangyur, vol. 94 (rgyud ’bum, tsha), folios 230.a–234.b</biblScope>
                     <author role="translatorTib">Unknown</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:13:56 by admin</note>
+                <note type="lastUpdated">Last updated at 20/03/2018 at 06:39:23 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -140,14 +140,14 @@
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-094-016-7"/>
                     <p tid="9">
-                        <ref cRef="F.246.a" key="193"/>
-                        <ref cRef="F.230.a" key="739"/>
+                        <ref cRef="F.246.a" key="toh193"/>
+                        <ref cRef="F.230.a" key="toh739"/>
                         <!--<modularPassage type="homage">--> Homage to all buddhas and bodhisattvas.<!--</modularPassage>-->
                     </p>
                     <lb/>
                     <p tid="10">
-                        <ref cRef="F.246.b" key="193"/>
-                        <ref cRef="F.230.b" key="739"/>Thus did I hear at one time. The Bhagavān was dwelling in Sukhāvatī
+                        <ref cRef="F.246.b" key="toh193"/>
+                        <ref cRef="F.230.b" key="toh739"/>Thus did I hear at one time. The Bhagavān was dwelling in Sukhāvatī
                         together with the great saṅgha of bodhisattvas, amongst them the following bodhisattva mahāsattvas of the
                         excellent eon:<note place="end" index="3" xml:id="UT22084-061-013-3">“Of the excellent eon” (<foreign type="term" xml:lang="Bo-Ltn">bskal pa bzang po’i</foreign> = <foreign type="term" xml:lang="Sa-Ltn">bhadra­kalpika</foreign>) missing in Skt.</note> Bodhisattva Mahāsattva Ārya
                         Avalokiteśvara, Bodhisattva Mahāsattva Mahā­sthāma­prāpta, Bodhisattva Mahāsattva
@@ -163,8 +163,8 @@
                         mahāsattvas who were dwelling in Sukhāvati and remained at one side.<note place="end" index="4" xml:id="UT22084-061-013-4">Skt. “Śrī Mahādevī also went toward the Bhagavān. Having circumambulated
                             one hundred thousand times at the Bhagavān’s feet she also paid homage to all the bodhisattva
                             mahāsattvas...”</note>
-                        <ref cRef="F.247.a" key="193"/>
-                        <ref cRef="F.231.a" key="739"/>
+                        <ref cRef="F.247.a" key="toh193"/>
+                        <ref cRef="F.231.a" key="toh739"/>
                     </p>
                     <p tid="12">The Bhagavān was adorned with many hundreds of thousands of merits and surrounded by as many as
                         ten million tathāgatas. As Indra, Brahmā and the guardians of the world all offered their praises and
@@ -189,8 +189,8 @@
                     <p tid="15">Then Bodhisattva Mahāsattva Ārya Avalokiteśvara asked the Bhagavān, “Bhagavān, where did Śrī
                         Mahādevī generate her roots of virtue?”</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-12"/>
-                    <p tid="16">The Bhagavān replied, “Śrī Mahādevī <ref cRef="F.247.b" key="193"/>
-                        <ref cRef="F.231.b" key="739"/> generated roots of virtue in the presence of tathāgatas as numerous as the
+                    <p tid="16">The Bhagavān replied, “Śrī Mahādevī <ref cRef="F.247.b" key="toh193"/>
+                        <ref cRef="F.231.b" key="toh739"/> generated roots of virtue in the presence of tathāgatas as numerous as the
                         grains of sand of the River Ganges. O Avalokiteśvara, previously, in the past in a world system called
                         Ratna­saṃbhavā, the tathāgata called
                         Ratna­kusuma­guṇa­sāgara­vaiḍūrya­kanaka­giri­suvarṇa­kāṃcana­prabhāsa­śrī came forth into the world. Śrī
@@ -212,8 +212,8 @@
                         <l>Homage to Tathāgata Candana­kusuma­tejo­nakṣatra­prabhāsa­śrī.</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-14"/>
                         <l>Homage to Tathāgata Samantāvabhāsa­vijita­saṃgrāma­śrī.</l>
-                        <l>Homage to Tathāgata Guṇa­samudrāvabhāsa­maṇḍala­śrī. <ref cRef="F.248.a" key="193"/>
-                            <ref cRef="F.232.a" key="739"/>
+                        <l>Homage to Tathāgata Guṇa­samudrāvabhāsa­maṇḍala­śrī. <ref cRef="F.248.a" key="toh193"/>
+                            <ref cRef="F.232.a" key="toh739"/>
                         </l>
                         <l>Homage to Tathāgata Dhārma­vikurvaṇa­dhvaja­vega­śrī.</l>
                         <l>Homage to Tathāgata Jyotiḥsaumya­gandhāvabhāsa­śrī.</l>
@@ -238,8 +238,8 @@
                         <l>Homage to Tathāgata Gandha­pradīpa­śrī.</l>
                         <l>Homage to Tathāgata Sāgara­garbha­saṃbhava­śrī.</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-19"/>
-                        <l>Homage to Tathāgata Nirmita­megha­garjanayaśaḥ­śrī. <ref cRef="F.248.b" key="193"/>
-                            <ref cRef="F.232.b" key="739"/>
+                        <l>Homage to Tathāgata Nirmita­megha­garjanayaśaḥ­śrī. <ref cRef="F.248.b" key="toh193"/>
+                            <ref cRef="F.232.b" key="toh739"/>
                         </l>
                         <l>Homage to Tathāgata Sarva­dharma­prabhāsa­vyūha­śrī.</l>
                         <l>Homage to Tathāgata Druma­rāja­vivardhita­śrī.</l>
@@ -265,8 +265,8 @@
                         be adorned with various sorts of divine jewels. This very tathāgata will spread light in that world
                         system, and those bodhisattvas dwelling there in that world will spontaneously become radiant and have
                         immeasurable life spans. The word <foreign type="term" xml:lang="Sa-Ltn">buddha­dharma­saṅgha</foreign>
-                        <ref cRef="F.249.a" key="193"/> will also come down from the sky, and the bodhisattvas who will be born in
-                        that buddha field will all be born from the centers of lotuses.’ <ref cRef="F.233.a" key="739"/>
+                        <ref cRef="F.249.a" key="toh193"/> will also come down from the sky, and the bodhisattvas who will be born in
+                        that buddha field will all be born from the centers of lotuses.’ <ref cRef="F.233.a" key="toh739"/>
                     </p>
                     <p tid="20">“What is the twelve-line praise with one hundred and eight names that is renowned as being
                             stainless?<note place="end" index="11" xml:id="UT22084-061-013-11">Skt. <foreign type="term" xml:lang="Sa-Ltn">dvādaśa­daṇdakaṃ</foreign> ... <foreign type="term" xml:lang="Sa-Ltn">stotram</foreign>, but Tib. has the puzzling <foreign xml:lang="Bo-Ltn">stod pa brgyad cu gnyis
@@ -347,12 +347,12 @@
                         <l> Śvetā (Fair One),</l>
                         <l> Mahāśvetā (Great Fair One),</l>
                         <l> Śvetabhujā (She who has Fair Arms),</l>
-                        <l> Sarva­maṅgala­dhāriṇī (She who Possesses All Auspiciousness),<ref cRef="F.249.b" key="193"/>
+                        <l> Sarva­maṅgala­dhāriṇī (She who Possesses All Auspiciousness),<ref cRef="F.249.b" key="toh193"/>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-35"/>
                         <l> Sarva­puṇyopacitāṅgī (She whose Body Consists of All Collections of Merit), </l>
                         <l> Dākṣāyaṇī (Daughter of Dakṣa<note place="end" index="20" xml:id="UT22084-061-013-20">A Hindu creator
-                                god. His daughter is the consort of Śiva.</note>), <ref cRef="F.233.b" key="739"/>
+                                god. His daughter is the consort of Śiva.</note>), <ref cRef="F.233.b" key="toh739"/>
                         </l>
                         <l> Śata­sahasra­bhujā (She who has One Hundred Thousand Arms),</l>
                         <l> Śata­sahasra­nayanā (She who has One Hundred Thousand Eyes),</l>
@@ -453,7 +453,7 @@
                                     cad kyi dpal</foreign>, “Glory of All Abodes of the Gods and All Gods, Glory of All
                                 Incantations and What is Incanted, All Fire Offerings and What is Offered and All
                                 Auspiciousness.”</note>
-                            <ref cRef="F.250.a" key="193"/>
+                            <ref cRef="F.250.a" key="toh193"/>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-49"/>
                         <l> Pramoda­bhāgya­lolā (She who Longs for Delight and Happiness),</l>
@@ -466,7 +466,7 @@
                         <l> Sarva­kiṃnara­sarvāsuryottama­śrī (Glory that is the First of All Kiṃnaras and of All Asuras),<note place="end" index="36" xml:id="UT22084-061-013-36">The Skt. edition has <foreign type="term" xml:lang="Sa-Ltn">sarva­kiṃnara­sarva­sūryottama­śrī</foreign>, “Glory that is the First of
                                 All Kiṃnaras and All the Sun,” but in the Tib. (see glossary entry) <foreign type="term" xml:lang="Bo-Ltn">lha ma yin mo</foreign> suggests that the spelling <foreign type="term" xml:lang="Sa-Ltn">°sarvāsurya°</foreign> here is more likely to be correct in the
                                 context.</note>
-                            <ref cRef="F.234.a" key="739"/>
+                            <ref cRef="F.234.a" key="toh739"/>
                         </l>
                         <l> Nir­avadya­sthāna­vāsinī (She who Stays Irreproachable),</l>
                         <l> Rūpavatī (Beautiful One),</l>
@@ -502,12 +502,12 @@
                                 byed pa</foreign>, “make non-existent,” “eliminate;” Skt. <foreign type="term" xml:lang="Bo-Ltn">praśamanakarāṇi</foreign>, “make calm,” “pacify.”</note> all inauspiciousness, and accumulate all
                         glories, happiness and good fortunes—and who is going to retain and recite<note place="end" index="41" xml:id="UT22084-061-013-41">Skt. omits “and recite.”</note> these names of the tathāgatas, should rise
                         in the morning, clean up, and, having offered flowers and incense to all the buddhas, also offer
-                        sandalwood incense to Śrī Mahādevī. <ref cRef="F.250.b" key="193"/>Then, when he recites these names, all
+                        sandalwood incense to Śrī Mahādevī. <ref cRef="F.250.b" key="toh193"/>Then, when he recites these names, all
                         glory, all happiness and joys will be obtained. The gods will all guard, protect and preserve<note place="end" index="42" xml:id="UT22084-061-013-42">Skt. <foreign type="term" xml:lang="Sa-Ltn">guptiṃ
                                 kariṣyanti</foreign>, while Tib. has <foreign type="term" xml:lang="Bo-Ltn">sbed par byed
                                 pa</foreign>, “conceal.”</note> him, and all of his purposes will be fulfilled.”</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-54"/>
-                    <p tid="25">When the Bhagavān had thus spoken, the fearless bodhisattva Avalokiteśvara, <ref cRef="F.234.b" key="739"/> Śrī Mahādevī<note place="end" index="43" xml:id="UT22084-061-013-43">Tib. has <foreign xml:lang="Bo-Ltn">lha mo chen mo dpal de</foreign>, “that Śrī Mahādevī,” while Skt. has <foreign type="term" xml:lang="Sa-Ltn">sā</foreign>, “she.” </note>, the entire retinue, and the world,
+                    <p tid="25">When the Bhagavān had thus spoken, the fearless bodhisattva Avalokiteśvara, <ref cRef="F.234.b" key="toh739"/> Śrī Mahādevī<note place="end" index="43" xml:id="UT22084-061-013-43">Tib. has <foreign xml:lang="Bo-Ltn">lha mo chen mo dpal de</foreign>, “that Śrī Mahādevī,” while Skt. has <foreign type="term" xml:lang="Sa-Ltn">sā</foreign>, “she.” </note>, the entire retinue, and the world,
                         including gods, humans, asuras, and gandharvas, rejoiced and [678] praised the words of the Bhagavān.</p>
                 </div>
                 <div type="colophon">
@@ -652,7 +652,8 @@
                             <term xml:lang="Bo-Ltn">klu </term>
                             <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
-                            <term type="definition">Nāgas are serpent-like animals who live (invisibly) in the human realm and
+                            <term type="definition">
+                                <term type="ignore">Nāgas</term> are serpent-like animals who live (invisibly) in the human realm and
                                 have an ambivalent status, on occasion positive but also frequently harmful.</term>
                         </gloss>
                     </item>
@@ -662,7 +663,8 @@
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
                             <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
-                            <term type="definition">Yakṣas are a class of beings who assail and cause harm to humans. One of the
+                            <term type="definition">
+                                <term type="ignore">Yakṣas</term> are a class of beings who assail and cause harm to humans. One of the
                                 eight classes of spirits.</term>
                         </gloss>
                     </item>
@@ -721,7 +723,7 @@
                             <term xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
                             <term xml:lang="Sa-Ltn">pāramitā</term>
                             <term type="definition">Also translated as “transcendences.” The term is used to define the actions of
-                                a bodhisattva. The six perfections are: generosity, discipline, patience, diligence, concentration
+                                a bodhisattva. The six <term type="ignore">perfections</term> are: generosity, discipline, patience, diligence, concentration
                                 and wisdom.</term>
                         </gloss>
                     </item>
@@ -749,8 +751,9 @@
                             <term xml:lang="Bo-Ltn">nyan thos </term>
                             <term xml:lang="bo">ཉན་ཐོས།</term>
                             <term xml:lang="Sa-Ltn">śrāvaka</term>
+                            <term xml:lang="Sa-Ltn">āryaśrāvaka</term>
                             <term type="definition">The disciples of the Buddha who followed the Lesser Vehicle (Hīnayāna). A
-                                śrāvaka is explained as someone who hears the teachings and then proclaims them to others.</term>
+                                <term type="ignore">śrāvaka</term> is explained as someone who hears the teachings and then proclaims them to others.</term>
                             <term type="alternative">Āryaśrāvaka</term>
                         </gloss>
                     </item>
@@ -761,7 +764,7 @@
                             <term xml:lang="bo">རང་སངས་རྒྱས།</term>
                             <term xml:lang="Sa-Ltn">pratyekabuddha</term>
                             <term type="definition">The disciples of the Buddha who followed the Lesser Vehicle (Hīnayāna). The
-                                term “pratyekabuddha” means that they “on their own” became “buddhas.”</term>
+                                term “<term type="ignore">pratyekabuddha</term>” means that they “on their own” became “buddhas.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -1549,8 +1552,10 @@
                     <item>
                         <gloss xml:id="UT22084-094-016-177" type="person">
                             <term>Vimala­nirmala­kara­śrī</term>
-                            <term xml:lang="Bo-Ltn">dri ma med pa __,__ dri ma med par byed pa’i dpal </term>
-                            <term xml:lang="bo">དྲི་མ་མེད་པ་ , དྲི་མ་མེད་པར་བྱེད་པའི་དཔལ།</term>
+                            <term xml:lang="Bo-Ltn">dri ma med pa</term>
+                            <term xml:lang="bo">དྲི་མ་མེད་པ།</term>
+                            <term xml:lang="Bo-Ltn">dri ma med par byed pa’i dpal </term>
+                            <term xml:lang="bo">དྲི་མ་མེད་པར་བྱེད་པའི་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">Vimala­nirmala­kara­śrī</term>
                         </gloss>
                     </item>
@@ -2090,7 +2095,8 @@
                             <term>Sarva­pṛthivī­śrī</term>
                             <term xml:lang="Bo-Ltn">sa thams cad dang rgyal po thams cad kyi dpal </term>
                             <term xml:lang="bo">ས་ཐམས་ཅད་དང་རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</term>
-                            <term xml:lang="Sa-Ltn">Sarva­pṛthivī­śrī, Sarva­rāja­śrī</term>
+                            <term xml:lang="Sa-Ltn">Sarva­pṛthivī­śrī </term>
+                            <term xml:lang="Sa-Ltn">Sarva­rāja­śrī </term>
                         </gloss>
                     </item>
                     <item>

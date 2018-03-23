@@ -40,7 +40,7 @@
             </bibl>
          </sourceDesc>
          <notesStmt>
-            <note type="lastUpdated">Last updated at 07/03/2018 at 11:15:43 by admin</note>
+            <note type="lastUpdated">Last updated at 21/03/2018 at 16:04:53 by andre</note>
          </notesStmt>
       </fileDesc>
    </teiHeader>
@@ -424,7 +424,7 @@
                      <term xml:lang="bo">ཀུན་ཤེས་ཀཽཎ་ཌི་ཉ།</term>
                      <term xml:lang="Sa-Ltn">Ājñātakauṇḍinya</term>
                      <term type="definition">Another name for Kauṇḍinya. As he was the first to understand the Buddha's teaching
-                        on the four truths, he received the name Ājñātakauṇḍinya (Kauṇḍinya who understood).</term>
+                        on the four truths, he received the name <term type="ignore">Ājñātakauṇḍinya</term> (Kauṇḍinya who understood).</term>
                   </gloss>
                </item>
                <item>
@@ -443,7 +443,7 @@
                      <term xml:lang="Bo-Ltn">drang srong smra ba </term>
                      <term xml:lang="bo">དྲང་སྲོང་སྨྲ་བ།</term>
                      <term xml:lang="Sa-Ltn">ṛṣivadana</term>
-                     <term type="definition">A sacred area located outside of Varanasi where many sages are said to have practiced
+                     <term type="definition">A sacred area located outside of Vārāṇasī where many sages are said to have practiced
                         in the past.</term>
                   </gloss>
                </item>

@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:34 by admin</note>
+                <note type="lastUpdated">Last updated at 18/03/2018 at 11:32:13 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -357,7 +357,7 @@
                             <term xml:lang="Bo-Ltn">zag pa dang bcas pa </term>
                             <term xml:lang="bo">ཟག་པ་དང་བཅས་པ།</term>
                             <term xml:lang="Sa-Ltn">sāsrava</term>
-                            <term type="definition">The phenomena of saṃsāra. Contaminated phenomena are those influenced by the
+                            <term type="definition">The phenomena of saṃsāra. <term type="ignore">Contaminated phenomena</term> are those influenced by the
                                 defilements (<foreign type="term" xml:lang="Sa-Ltn">kleśa</foreign>, <foreign type="term" xml:lang="Bo-Ltn">nyon mongs</foreign>) and karma. Thus, e.g., even virtues that are under the
                                 influence of defilements like ignorance are categorized as contaminated in this way.</term>
                         </gloss>
@@ -391,7 +391,8 @@
                             <term>peaceful</term>
                             <term xml:lang="Bo-Ltn">zhi ba </term>
                             <term xml:lang="bo">ཞི་བ།</term>
-                            <term xml:lang="Sa-Ltn">śānta/śānti</term>
+                            <term xml:lang="Sa-Ltn">śānta</term>
+                            <term xml:lang="Sa-Ltn">śānti</term>
                             <term type="alternative" xml:lang="en">peace</term>
                         </gloss>
                     </item>
@@ -415,7 +416,7 @@
                             <term xml:lang="Sa-Ltn">caturmudrā</term>
                             <term type="definition">A synonym for the “four aphorisms of the Dharma,” q.v. Often seen in Tibetan
                                 in the expanded form <foreign type="term" xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya
-                                    bzhi</foreign> (“the four seals of the [Buddha’s] teaching”), the nearest Sanskrit equivalent
+                                    bzhi</foreign> (“the <term type="ignore">four seals</term> of the [Buddha’s] teaching”), the nearest Sanskrit equivalent
                                 being <foreign type="term" xml:lang="Sa-Ltn">dṛṣṭi­nimitta­mudrā</foreign> (“the seals that are
                                 the marks of the [Buddhist] view”).</term>
                         </gloss>

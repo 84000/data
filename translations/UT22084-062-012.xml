@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:43 by admin</note>
+                <note type="lastUpdated">Last updated at 20/03/2018 at 15:50:14 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -332,7 +332,7 @@
                             <term xml:lang="bo">གསུམ་ཅུ་རྩ་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">Trāyastriṃśāḥ</term>
                             <term type="definition">Name of a class of gods in the desire realm. There is also an associated
-                                heavenly realm, the Realm of the Thirty-Three Gods, which is named after these.</term>
+                                heavenly realm, the Realm of the <term type="ignore">Thirty-Three Gods</term>, which is named after these.</term>
                         </gloss>
                     </item>
                     <item>
@@ -352,7 +352,8 @@
                             <term xml:lang="Bo-Ltn">dri za </term>
                             <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
-                            <term type="definition">Gandharvas, lit. “smell-eaters.” A class of deities known for being skilled
+                            <term type="definition">
+                                <term type="ignore">Gandharvas</term>, lit. “smell-eaters.” A class of deities known for being skilled
                                 musicians. Also the name of spirits in the bardo state.</term>
                         </gloss>
                     </item>
@@ -381,7 +382,7 @@
                             <term xml:lang="Bo-Ltn">dge slong </term>
                             <term xml:lang="bo">དགེ་སློང་།</term>
                             <term xml:lang="Sa-Ltn">bhikṣu</term>
-                            <term type="definition">Fully ordained Buddhist monk.</term>
+                            <term type="definition">Fully ordained Buddhist <term type="ignore">monk</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -390,7 +391,7 @@
                             <term xml:lang="Bo-Ltn">dge slong ma </term>
                             <term xml:lang="bo">དགེ་སློང་མ།</term>
                             <term xml:lang="Sa-Ltn">bhikṣuṇī</term>
-                            <term type="definition">Fully ordained Buddhist nun.</term>
+                            <term type="definition">Fully ordained Buddhist <term type="ignore">nun</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -418,7 +419,9 @@
                             <term xml:lang="bo">ཆོས་ཀྱི་དབྱིངས།</term>
                             <term xml:lang="Sa-Ltn">dharmadhātu</term>
                             <term type="definition">In combination with <foreign xml:lang="Sa-Ltn" type="term">pratītya­samutpāda</foreign> (in this text <foreign>rten cing ’brel bar ’byung ba chos kyi
-                                    dbyings</foreign>), the term <foreign xml:lang="Sa-Ltn" type="term">dharmadhātu</foreign> can
+                                    dbyings</foreign>), the term <foreign xml:lang="Sa-Ltn" type="term">
+                                    <term type="ignore">dharmadhātu</term>
+                                </foreign> can
                                 refer to a type of Buddhist relic which is said to embody the essence of the Buddhist
                                 doctrine.</term>
                         </gloss>
@@ -429,7 +432,8 @@
                             <term xml:lang="Bo-Ltn">chos sku </term>
                             <term xml:lang="bo">ཆོས་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmakāya</term>
-                            <term type="definition">Dharmakāya or “body of dharma” refers to the Buddha’s realization of
+                            <term type="definition">
+                                <term type="ignore">Dharmakāya</term> or “body of dharma” refers to the Buddha’s realization of
                                 reality.</term>
                         </gloss>
                     </item>
@@ -517,8 +521,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-062-012-53">
                             <term>Vajrapāṇi</term>
-                            <term xml:lang="Bo-Ltn">phyag na rdo rje__,__lag na rdo rje </term>
-                            <term xml:lang="bo">ཕྱག་ན་རྡོ་རྗེ་ , ལག་ན་རྡོ་རྗེ།</term>
+                            <term xml:lang="Bo-Ltn">phyag na rdo rje </term>
+                            <term xml:lang="bo">ཕྱག་ན་རྡོ་རྗེ།</term>
+                            <term xml:lang="Bo-Ltn">lag na rdo rje </term>
+                            <term xml:lang="bo">ལག་ན་རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">Vajrapāṇi</term>
                             <term type="definition">First appeared in Buddhist literature as the yakṣa bodyguard of the Buddha,
                                 ready at times to shatter a person’s head into a hundred pieces with his vajra if he speaks
@@ -593,7 +599,7 @@
                             <term xml:lang="Bo-Ltn">ri rab </term>
                             <term xml:lang="bo">རི་རབ།</term>
                             <term xml:lang="Sa-Ltn">Meru; Sumeru</term>
-                            <term type="definition">According to the ancient Indian cosmological system, Mount Meru is a mountain
+                            <term type="definition">According to the ancient Indian cosmological system, <term type="ignore">Mount Meru</term> is a mountain
                                 which forms the centre of the universe.</term>
                         </gloss>
                     </item>

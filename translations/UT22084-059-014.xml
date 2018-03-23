@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:13:07 by admin</note>
+                <note type="lastUpdated">Last updated at 18/03/2018 at 11:51:05 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -443,7 +443,7 @@
                             <term xml:lang="Bo-Ltn">khams gsum </term>
                             <term xml:lang="bo">ཁམས་གསུམ།</term>
                             <term xml:lang="Sa-Ltn">tridhātu</term>
-                            <term type="definition">The three realms are the desire realm (<foreign type="term" xml:lang="Sa-Ltn">kāmadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’dod khams</foreign>), form realm
+                            <term type="definition">The <term type="ignore">three realms</term> are the desire realm (<foreign type="term" xml:lang="Sa-Ltn">kāmadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’dod khams</foreign>), form realm
                                     (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gzugs khams</foreign>) and the formless realm (<foreign type="term" xml:lang="Sa-Ltn">ārūpyadhātu</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gzugs med
                                     khams</foreign>), i.e., the three worlds that make up saṃsāra. The first is composed of the
                                 six sorts of beings (gods, demigods, humans, animals, hungry ghosts and hell beings), whereas the
@@ -465,8 +465,9 @@
                             <term>cause</term>
                             <term xml:lang="Bo-Ltn">rgyu </term>
                             <term xml:lang="bo">རྒྱུ།</term>
-                            <term xml:lang="Sa-Ltn">kāraņa, hetu</term>
-                            <term type="definition">The primary cause.</term>
+                            <term xml:lang="Sa-Ltn">kāraņa</term>
+                            <term xml:lang="Sa-Ltn">hetu</term>
+                            <term type="definition">The primary <term type="ignore">cause</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -503,7 +504,7 @@
                             <term xml:lang="Bo-Ltn">mngon par ’du byed </term>
                             <term xml:lang="bo">མངོན་པར་འདུ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">abhisaṃskāra</term>
-                            <term type="definition">The term is used in this text in the same way as <foreign type="term" xml:lang="Sa-Ltn">saṃskāra</foreign> (<term>formative factors</term>, q.v. second
+                            <term type="definition">The term is used in this text in the same way as <foreign type="term" xml:lang="Sa-Ltn">saṃskāra</foreign> (<term type="ignore">formative factors</term>, q.v. second
                                 entry).</term>
                         </gloss>
                     </item>
@@ -570,7 +571,7 @@
                             <term xml:lang="Bo-Ltn">skye mched </term>
                             <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
-                            <term type="definition">There are twelve bases of cognition in all: the five physical sense organs
+                            <term type="definition">There are twelve <term type="ignore">bases of cognition</term> in all: the five physical sense organs
                                 plus the mind and their respective six sorts of objects. The six inner bases from eye to mind are
                                 what apprehend; and the six outer bases from form to mental objects are the objects that are
                                 apprehended.</term>
@@ -595,7 +596,7 @@
                             <term xml:lang="Sa-Ltn">manovijñāna</term>
                             <term type="definition">The Abhidharma speaks of five consciousnesses that grasp physical objects
                                 (form, sound, smells, tastes, bodily sensations) and are correlated with their respective physical
-                                sense faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dbang po</foreign>), i.e. the eye, ear, etc. The mental consciousness, on
+                                sense faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dbang po</foreign>), i.e. the eye, ear, etc. The <term type="ignore">mental consciousness</term>, on
                                 the other hand, is said to have as its faculty simply the mind (<foreign type="term" xml:lang="Sa-Ltn">manas</foreign>, <foreign type="term" xml:lang="Bo-Ltn">yid</foreign>). It
                                 grasps all that exists, including what is presented by the physical consciousnesses as well as
                                 mental and abstract objects. These six consciousnesses, added to the twelve bases of cognition,
@@ -608,7 +609,7 @@
                             <term xml:lang="Bo-Ltn">dri za </term>
                             <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
-                            <term type="definition">Lit. “smell eater.” Gandharvas are a class of spirits and minor gods (<foreign type="term" xml:lang="Sa-Ltn">deva</foreign>) in both Hindu and Buddhist cosmologies. They are
+                            <term type="definition">Lit. “smell eater.” <term type="ignore">Gandharvas</term> are a class of spirits and minor gods (<foreign type="term" xml:lang="Sa-Ltn">deva</foreign>) in both Hindu and Buddhist cosmologies. They are
                                 supposedly messengers, singers and skilled musicians and dancers. Often closely associated with
                                 various nature-spirits (<foreign type="term" xml:lang="Sa-Ltn">yakṣa</foreign>), they are on
                                 occasion depicted as disturbing to monks practicing meditation.</term>
@@ -692,7 +693,8 @@
                             <term>Bhagavān</term>
                             <term xml:lang="Bo-Ltn">bcom ldan ’das </term>
                             <term xml:lang="bo">བཅོམ་ལྡན་འདས།</term>
-                            <term xml:lang="Sa-Ltn">bhagavat, bhagavān</term>
+                            <term xml:lang="Sa-Ltn">bhagavat</term>
+                            <term xml:lang="Sa-Ltn">bhagavān</term>
                             <term type="definition">“Illustrious One,” an epithet of the Buddha.</term>
                         </gloss>
                     </item>
@@ -713,7 +715,7 @@
                             <term xml:lang="Sa-Ltn">Krakucchanda</term>
                             <term type="definition">The first buddha of our eon; the fifth buddha of the “seven generations of
                                 buddhas” (<foreign type="term" xml:lang="Bo-Ltn">sangs rgyas rab bdun</foreign>). Also found as
-                                Kakutsanda, Kakutsunda, etc. See Edgerton (1985), s.v. Krakucchanda, for the various
+                                Kakutsanda, Kakutsunda, etc. See Edgerton (1985), s.v. <term type="ignore">Krakucchanda</term>, for the various
                                 spellings.</term>
                         </gloss>
                     </item>
@@ -759,12 +761,13 @@
                             <term>Vṛji</term>
                             <term xml:lang="Bo-Ltn">bri dzi na </term>
                             <term xml:lang="bo">བྲི་ཛི་ན།</term>
-                            <term xml:lang="Sa-Ltn">Vṛji, Vaji</term>
-                            <term type="definition">The land and people of Vṛji or Vaji (Pāli Vajji), a country situated on the
+                            <term xml:lang="Sa-Ltn">Vṛji</term>
+                            <term xml:lang="Sa-Ltn">Vaji</term>
+                            <term type="definition">The land and people of <term type="ignore">Vṛji</term> or Vaji (Pāli <foreign xml:lang="pi">Vajji</foreign>), a country situated on the
                                 north eastern Gangetic plain, and one of the 16 mahājanapada of Ancient India. It was run by a
-                                confederacy of eight or nine clans, including the Vṛji, Licchavi, and Videha, who sent
-                                representatives to an administrative council led by an elected ruler. Its capital was Vaiśalī. See
-                                Edgerton, s.v. Vṛji and Vaji.</term>
+                                confederacy of eight or nine clans, including the <term type="ignore">Vṛji</term>, Licchavi, and Videha, who sent
+                                representatives to an administrative council led by an elected ruler. Its capital was Vaiśālī. See
+                                Edgerton, s.v. <term type="ignore">Vṛji</term> and Vaji.</term>
                         </gloss>
                     </item>
                     <item>

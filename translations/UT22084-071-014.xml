@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:15:24 by admin</note>
+                <note type="lastUpdated">Last updated at 12/03/2018 at 18:49:32 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -220,7 +220,7 @@
                             of who the Tibetan translators were, but the Degé catalogue (<title xml:lang="Bo-Ltn">dkar
                                 chag</title>, vol. 103, lak+Sh+mI, F.134.a.7) states that the text was translated by the Paṇḍita
                             Dharmākara and the Lotsāwa Zangkyong (<foreign xml:lang="Bo-Ltn">bzang skyong</foreign>). See
-                            Introduction, i.5.</note>
+                                Introduction, <ptr target="#UT22084-071-014-7"/>.</note>
                     </p>
                 </div>
             </div>
@@ -310,7 +310,7 @@
                             <term xml:lang="Bo-Ltn">rton pa bzhi </term>
                             <term xml:lang="bo">རྟོན་པ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">pratisaraṇa</term>
-                            <term type="definition">See note 1.</term>
+                            <term type="definition">See note <ptr target="#UT22084-071-014-34"/>.</term>
                         </gloss>
                     </item>
                     <item>

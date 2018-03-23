@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:13:45 by admin</note>
+                <note type="lastUpdated">Last updated at 19/03/2018 at 13:04:09 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1229,7 +1229,8 @@
                             <term>Blessed One</term>
                             <term xml:lang="Bo-Ltn">bcom ldan ’das </term>
                             <term xml:lang="bo">བཅོམ་ལྡན་འདས།</term>
-                            <term xml:lang="Sa-Ltn">bhagavān, bhagavat</term>
+                            <term xml:lang="Sa-Ltn">bhagavān</term>
+                            <term xml:lang="Sa-Ltn">bhagavat</term>
                         </gloss>
                     </item>
                     <item>
@@ -1280,11 +1281,11 @@
                             <term xml:lang="Bo-Ltn">mi ’jigs pa </term>
                             <term xml:lang="bo">མི་འཇིགས་པ།</term>
                             <term xml:lang="Sa-Ltn">vaiśāradya</term>
-                            <term type="definition">The four kinds of assurance of a tathāgata (<foreign type="term" xml:lang="Sa-Ltn">catur­vaiśāraya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">mi ’jigs
-                                    pa bzhi</foreign>) are: 1) assurance concerning complete awakening (<foreign type="term" xml:lang="Sa-Ltn">abhi­sambodhi­vaiśāradya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">thams cad mkhyen pa la mi ’jigs pa</foreign>); 2) assurance concerning the destruction of the
-                                impurities (<foreign type="term" xml:lang="Sa-Ltn">āsravakṣaya­vaiśāradya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">zag pa zad pa mkhyen pa la mi ’jigs pa</foreign>); 3) assurance
+                            <term type="definition">The four kinds of <term type="ignore">assurance</term> of a tathāgata (<foreign type="term" xml:lang="Sa-Ltn">catur­vaiśāraya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">mi ’jigs
+                                    pa bzhi</foreign>) are: 1) <term type="ignore">assurance</term> concerning complete awakening (<foreign type="term" xml:lang="Sa-Ltn">abhi­sambodhi­vaiśāradya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">thams cad mkhyen pa la mi ’jigs pa</foreign>); 2) <term type="ignore">assurance</term> concerning the destruction of the
+                                impurities (<foreign type="term" xml:lang="Sa-Ltn">āsravakṣaya­vaiśāradya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">zag pa zad pa mkhyen pa la mi ’jigs pa</foreign>); 3) <term type="ignore">assurance</term>
                                 concerning harmful things (<foreign type="term" xml:lang="Sa-Ltn">antarāyika­dharma­vaiśāradya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">bar du gcod
-                                    pa’i chos la mi ’jigs pa</foreign>); 4) assurance concerning the path that leads to
+                                    pa’i chos la mi ’jigs pa</foreign>); 4) <term type="ignore">assurance</term> concerning the path that leads to
                                 emancipation (<foreign type="term" xml:lang="Sa-Ltn">nairyāṇika­pratipad­vaiśāradya</foreign>,
                                     <foreign type="term" xml:lang="Bo-Ltn">thob par ’gyur bar nges par ’byung ba’i lam la mi ’jigs
                                     pa</foreign>). (See Rahula 2001: 230, in which they are called “perfect
@@ -1386,7 +1387,7 @@
                             <term xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa </term>
                             <term xml:lang="bo">རྫུ་འཕྲུལ་གྱི་རྐང་པ།</term>
                             <term xml:lang="Sa-Ltn">ṛddhipādā</term>
-                            <term type="definition">The four bases of supernatural powers (<foreign type="term" xml:lang="Sa-Ltn">ṛddhipāda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa
+                            <term type="definition">The four <term type="ignore">bases of supernatural powers</term> (<foreign type="term" xml:lang="Sa-Ltn">ṛddhipāda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">rdzu ’phrul gyi rkang pa
                                     bzhi</foreign>i) are: 1) concentration through will (<foreign type="term" xml:lang="Sa-Ltn">chanda</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’dun pa</foreign>); 2) concentration
                                 through vigor (<foreign type="term" xml:lang="Sa-Ltn">vīrya</foreign>, <foreign type="term" xml:lang="Bo-Ltn">brtson ’grus</foreign>); 3) concentration through the mind (<foreign type="term" xml:lang="Sa-Ltn">citta</foreign>, <foreign type="term" xml:lang="Bo-Ltn">bsam
                                     pa</foreign>); 4) concentration through investigation (<foreign type="term" xml:lang="Sa-Ltn">mīmāṃsā</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dpyod pa</foreign>). See Rahula
@@ -1399,21 +1400,21 @@
                             <term xml:lang="Bo-Ltn">stobs </term>
                             <term xml:lang="bo">སྟོབས།</term>
                             <term xml:lang="Sa-Ltn">bala</term>
-                            <term type="definition">The ten powers (<foreign type="term" xml:lang="Sa-Ltn">daśabala</foreign>,
-                                    <foreign type="term" xml:lang="Bo-Ltn">stobs bcu</foreign>) of the Tathāgata are 1) the power
+                            <term type="definition">The ten <term type="ignore">powers</term> (<foreign type="term" xml:lang="Sa-Ltn">daśabala</foreign>,
+                                    <foreign type="term" xml:lang="Bo-Ltn">stobs bcu</foreign>) of the Tathāgata are 1) the <term type="ignore">power</term>
                                 of knowledge of what is possible and what is not possible (<foreign type="term" xml:lang="Sa-Ltn">sthānāsthāna­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">gnas dang gnas ma
-                                    yin pa mkhyen pa’i stobs</foreign>); 2) the power of knowledge of the individual results of
-                                actions (<foreign type="term" xml:lang="Sa-Ltn">karmasvaka­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">las kyi rnam smin mkhyen pa’i stobs</foreign>); 3) the power of
-                                knowledge of different practices leading to various destinies (<foreign type="term" xml:lang="Sa-Ltn">sarvatra­gāminī­prati­pajjñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">thams cad du ’gro ba’i lam mkhyen pa’i stobs</foreign>); 4) the power of
-                                knowledge of the different dispositions and tendencies of different beings (<foreign type="term" xml:lang="Sa-Ltn">aneka­dhātu­nānā­dhātu­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">khams sna tshogs mkhyen pa’i stobs</foreign>); 5) the power of knowledge of
+                                    yin pa mkhyen pa’i stobs</foreign>); 2) the <term type="ignore">power</term> of knowledge of the individual results of
+                                actions (<foreign type="term" xml:lang="Sa-Ltn">karmasvaka­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">las kyi rnam smin mkhyen pa’i stobs</foreign>); 3) the <term type="ignore">power</term> of
+                                knowledge of different practices leading to various destinies (<foreign type="term" xml:lang="Sa-Ltn">sarvatra­gāminī­prati­pajjñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">thams cad du ’gro ba’i lam mkhyen pa’i stobs</foreign>); 4) the <term type="ignore">power</term> of
+                                knowledge of the different dispositions and tendencies of different beings (<foreign type="term" xml:lang="Sa-Ltn">aneka­dhātu­nānā­dhātu­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">khams sna tshogs mkhyen pa’i stobs</foreign>); 5) the <term type="ignore">power</term> of knowledge of
                                 the different aspirations of beings (<foreign type="term" xml:lang="Sa-Ltn">nānādhi­mukti­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">mos pa sna tshogs
-                                    mkhyen pa’i stobs</foreign>); 6) the power of knowledge of the different degrees of
+                                    mkhyen pa’i stobs</foreign>); 6) the <term type="ignore">power</term> of knowledge of the different degrees of
                                 development of the faculties and inclinations of beings (<foreign type="term" xml:lang="Sa-Ltn">indriya­parāparya­jñānabala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">dbang po mchog
-                                    dang mchog ma yin pa mkhyen pa’i stobs</foreign>); 7) the power of knowledge of the
+                                    dang mchog ma yin pa mkhyen pa’i stobs</foreign>); 7) the <term type="ignore">power</term> of knowledge of the
                                 absorptions, deliverances, concentrations, and attainments (<foreign type="term" xml:lang="Sa-Ltn">dhyāna­vimokṣa­samādhi­samāpatti­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">bsam gtan dang rnam thar dang ting nge ’dzin dang snyoms par ’jug pa thams cad mkhyen pa’i
-                                    stobs</foreign>); 8) the power of knowledge of previous lives (<foreign type="term" xml:lang="Sa-Ltn">pūrva­nivāsa­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">sngon gyi gnas rjes su dran pa mkhyen pa’i stobs</foreign>); 9) the power of knowledge of the
+                                    stobs</foreign>); 8) the <term type="ignore">power</term> of knowledge of previous lives (<foreign type="term" xml:lang="Sa-Ltn">pūrva­nivāsa­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">sngon gyi gnas rjes su dran pa mkhyen pa’i stobs</foreign>); 9) the <term type="ignore">power</term> of knowledge of the
                                 deaths and births of beings according to their actions (<foreign type="term" xml:lang="Sa-Ltn">cyutyu­papāda­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">’chi ’pho bo dang
-                                    skye ba mkhyen pa’i stobs</foreign>); and 10) the power of knowledge of the destruction of the
+                                    skye ba mkhyen pa’i stobs</foreign>); and 10) the <term type="ignore">power</term> of knowledge of the destruction of the
                                 impurities (<foreign type="term" xml:lang="Sa-Ltn">āsravakṣaya­jñāna­bala</foreign>, <foreign type="term" xml:lang="Bo-Ltn">zag pa zad pa mkhyen pa’i stobs</foreign>). (Rahula 2001:
                                 229–230, n118).</term>
                         </gloss>
@@ -1456,13 +1457,13 @@
                             <term xml:lang="Bo-Ltn">rdzu ’phrul </term>
                             <term xml:lang="bo">རྫུ་འཕྲུལ།</term>
                             <term xml:lang="Sa-Ltn">ṛddhi</term>
-                            <term type="definition">The supernatural powers of a śrāvaka correspond to the first <foreign type="term" xml:lang="Sa-Ltn">abhijnā</foreign>: “Being one he becomes many, being many he
+                            <term type="definition">The <term type="ignore">supernatural powers</term> of a śrāvaka correspond to the first <foreign type="term" xml:lang="Sa-Ltn">abhijnā</foreign>: “Being one he becomes many, being many he
                                 becomes one; he becomes visible, invisible; goes through walls, ramparts and mountains without
                                 being impeded, just as through air; he immerses himself in the earth and emerges from it as if in
                                 water; he goes on water without breaking through it, as if on [solid] earth; he travels through
                                 the air crosslegged like a winged bird; he takes in his hands and touches the moon and the sun,
                                 those two wonderful, mighty beings, and with his body he extends his power as far as the Brahma
-                                world” (Lamotte 2003: 20). The great supernatural powers (<foreign type="term" xml:lang="Sa-Ltn">mahāṛddhi</foreign>) of bodhisattvas are: “causing trembling, blazing, illuminating,
+                                world” (Lamotte 2003: 20). The great <term type="ignore">supernatural powers</term> (<foreign type="term" xml:lang="Sa-Ltn">mahāṛddhi</foreign>) of bodhisattvas are: “causing trembling, blazing, illuminating,
                                 rendering invisible, transforming, coming and going across obstacles, reducing or enlarging
                                 worlds, inserting any matter into one’s own body, assuming the aspects of those one frequents,
                                 appearing and disappearing, submitting everyone to one’s will, dominating the supernormal power of
@@ -1532,7 +1533,7 @@
                             <term xml:lang="Bo-Ltn">mtshams med pa lnga </term>
                             <term xml:lang="bo">མཚམས་མེད་པ་ལྔ།</term>
                             <term xml:lang="Sa-Ltn">pañcānantarya­karman</term>
-                            <term type="definition">The five actions with immediate results are: killing one’s mother, killing
+                            <term type="definition">The <term type="ignore">five actions with immediate results</term> are: killing one’s mother, killing
                                 one’s father, killing an arhat, intentionally wounding a buddha, and creating a schism in the
                                 Saṅgha.</term>
                         </gloss>
@@ -1778,8 +1779,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-061-006-191">
                             <term>Vajrapāṇi</term>
-                            <term xml:lang="Bo-Ltn">lag na rdo rje, phyag na rdo rje </term>
-                            <term xml:lang="bo">ལག་ན་རྡོ་རྗེ,་ཕྱག་ན་རྡོ་རྗེ།</term>
+                            <term xml:lang="Bo-Ltn">lag na rdo rje </term>
+                            <term xml:lang="bo">ལག་ན་རྡོ་རྗེ།</term>
+                            <term xml:lang="Bo-Ltn">phyag na rdo rje </term>
+                            <term xml:lang="bo">ཕྱག་ན་རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">vajrapāṇi</term>
                         </gloss>
                     </item>

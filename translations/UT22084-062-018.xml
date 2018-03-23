@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:14:38 by admin</note>
+                <note type="lastUpdated">Last updated at 20/03/2018 at 16:00:08 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1097,8 +1097,11 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-062-018-125">
                             <term>construct</term>
-                            <term xml:lang="Bo-Ltn">brtag __,__rtog </term>
-                            <term xml:lang="bo">བརྟག་ , རྟོག</term>
+                            <term xml:lang="Bo-Ltn">brtag </term>
+                            <term xml:lang="bo">བརྟག</term>
+                            <term xml:lang="Bo-Ltn">rtog </term>
+                            <term xml:lang="bo">རྟོག</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1121,7 +1124,8 @@
                             <term>essenceless</term>
                             <term xml:lang="Bo-Ltn">ngo bo med pa </term>
                             <term xml:lang="bo">ངོ་བོ་མེད་པ།</term>
-                            <term xml:lang="Sa-Ltn">niḥsvabhāva, asvabhāva</term>
+                            <term xml:lang="Sa-Ltn">niḥsvabhāva</term>
+                            <term xml:lang="Sa-Ltn">asvabhāva</term>
                         </gloss>
                     </item>
                     <item>
@@ -1262,8 +1266,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-062-018-144">
                             <term>Lhasa Kangyur</term>
-                            <term xml:lang="Bo-Ltn">lha sa __,__zhol </term>
-                            <term xml:lang="bo">ལྷ་ས་ , ཞོལ།</term>
+                            <term xml:lang="Bo-Ltn">lha sa</term>
+                            <term xml:lang="bo">ལྷ་ས།</term>
+                            <term xml:lang="Bo-Ltn">zhol </term>
+                            <term xml:lang="bo">ཞོལ།</term>
                             <term type="definition">A xylograph Kangyur printed in 1934. Based mainly on the Narthang (<foreign xml:lang="Bo-Ltn">snar thang</foreign>) Kangyur but with some texts following the Degé
                                 Kangyur, it is among several Kangyurs of “mixed” lineage, including elements from the Thempangma
                                     (<foreign xml:lang="Bo-Ltn">them spangs ma</foreign>) in addition to the predominating Tshalpa

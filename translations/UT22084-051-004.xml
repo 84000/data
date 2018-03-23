@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:11:41 by admin</note>
+                <note type="lastUpdated">Last updated at 17/03/2018 at 10:50:37 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -128,7 +128,8 @@
                     <milestone unit="chunk" xml:id="UT22084-051-004-7"/>
                     <p tid="10">Avalokiteśvara is noticeable by his absence in early sūtras where Mañjuśrī figures prominently. In
                         the <title xml:lang="Sa-Ltn">Sukhāvatīvyūha</title> or <title xml:lang="en">The Display of the Pure Land
-                            of Sukhāvatī</title>,<note place="end" index="3" xml:id="UT22084-051-004-501">Toh 115, see Sakya
+                            of Sukhāvatī</title>,<note place="end" index="3" xml:id="UT22084-051-004-501">
+                            <ref target="http://read.84000.co/translation/UT22084-051-003.html">Toh 115</ref>, see Sakya
                             Pandita Translation Group (2012).</note> which describes the realm of Amitāyus, the buddha who later
                         became known by the name Amitābha, Avalokiteśvara has yet to appear. He makes his first prominent
                         appearance in the longer <title xml:lang="Sa-Ltn">Sukhāvatīvyūha</title>
@@ -408,7 +409,8 @@
                         rākṣasī wife speaking in her sleep, as she is the only other person in the room and is the merchant’s
                         paramour. This entailed interpolating the word <emph>sleeping</emph> into the translation. However, the
                         result makes little narrative sense, whereas the unlikely meaning of lamp, which we therefore preferred
-                        (see 2.7), does make narrative sense.</p>
+                        (see <!--2.7-->
+                        <ptr target="#UT22084-051-004-143"/>), does make narrative sense.</p>
                 </div>
                 <div type="section">
                     <head type="section">The translation into English</head>
@@ -1310,7 +1312,7 @@
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-051-004-70"/>
                     <p tid="138">“In a later time, there appeared in this world the tathāgata, the arhat, the samyaksaṃbuddha, the
-                        one with wisdom and conduct,<note place="end" index="93" xml:id="UT22084-051-004-591">See note 91.</note>
+                        one with wisdom and conduct,<note place="end" index="93" xml:id="UT22084-051-004-591">See <ptr target="#UT22084-051-004-589"/><!--note 91-->.</note>
                         the sugata, the knower of the world, the unsurpassable guide who tamed beings, the teacher of gods and
                         humans, the buddha, the bhagavat Śikhin. </p>
                     <p tid="139">“At that time, Sarva­nīvaraṇa­viṣkambhin, I was Bodhisattva Dānaśūra, and I heard from him the
@@ -2136,7 +2138,7 @@
                     <p tid="341">“One night as I was lying in bed, I was astonished to see that the lamp was laughing. I had never
                         seen or heard before of a burning, laughing lamp.<note place="end" index="185" xml:id="UT22084-051-004-683">According to the Sanskrit. The Tibetan translation, not comprehending the
                             unusual word used for <emph>lamp</emph> in the Sanskrit, assumes it is the sleeping woman who is
-                            laughing (see Introduction, I.30).</note> I asked it, ‘Why are you laughing?’</p>
+                            laughing (see Introduction, <ptr target="#UT22084-051-004-32"/>).</note> I asked it, ‘Why are you laughing?’</p>
                     <p tid="342">“It answered, ‘This is one of the rākṣasīs who live on Siṃhala Island. She is going to kill
                         you.’</p>
                     <p tid="343">“I asked it, ‘How do you know she is a rākṣasī?’</p>
@@ -3720,8 +3722,7 @@
                             <term xml:lang="Bo-Ltn">lha ma yin </term>
                             <term xml:lang="bo">ལྷ་མ་ཡིན།</term>
                             <term xml:lang="Sa-Ltn">asura</term>
-                            <term type="definition">The asuras are the enemies of the devas, fighting with them for
-                                supremacy.</term>
+                            <term type="definition">The <term type="ignore">asuras</term> are the enemies of the devas, fighting with them for supremacy.</term>
                         </gloss>
                     </item>
                     <item>
@@ -3842,8 +3843,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-051-004-325">
                             <term>dharmakāya</term>
-                            <term xml:lang="Bo-Ltn">chos kyi sku ___,___chos sku </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ་ , ཆོས་སྐུ།</term>
+                            <term xml:lang="Bo-Ltn">chos kyi sku </term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་སྐུ།</term>
+                            <term xml:lang="Bo-Ltn">chos sku </term>
+                            <term xml:lang="bo">ཆོས་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmakāya</term>
                             <term type="definition">In distinction to the rūpakāya, or form body of a buddha, this is the eternal
                                 imperceptible realization of a buddha. In origin it was a term for the presence of the Dharma, and
@@ -4094,7 +4097,8 @@
                             <term>mahāvidyā</term>
                             <term xml:lang="Bo-Ltn">rig pa chen po </term>
                             <term xml:lang="bo">རིག་པ་ཆེན་པོ།</term>
-                            <term xml:lang="Sa-Ltn">mahāvidyā, vidyāmantra</term>
+                            <term xml:lang="Sa-Ltn">mahāvidyā</term>
+                            <term xml:lang="Sa-Ltn">vidyāmantra</term>
                             <term type="definition">Vidyā is synonymous with mantra. Although grammatically it is a female word,
                                 the Tibetan has it translated as a male noun.</term>
                         </gloss>
@@ -4237,7 +4241,7 @@
                             <term xml:lang="Sa-Ltn">ṣaḍakṣarī mahāvidyā</term>
                             <term type="definition">
                                 <foreign xml:lang="Sa-Ltn">Oṁ maṇi padme hūṁ</foreign>. This appears to be a vocative call to
-                                Avalokiteśvara under the name of Maṇipadma (see Introduction, I.21). Ṣadakṣarī (q.v.) is also the
+                                Avalokiteśvara under the name of Maṇipadma (see Introduction, <ptr target="#UT22084-051-004-23"/>). Ṣadakṣarī (q.v.) is also the
                                 name of the four-armed goddess who personifies the mantra.</term>
                         </gloss>
                     </item>
@@ -4253,6 +4257,15 @@
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-051-004-365">
+                            <term>six-syllable vidyāmantra</term>
+                            <term xml:lang="Bo-Ltn">yi ge drug pa’i rig sngags </term>
+                            <term xml:lang="bo">ཡི་གེ་དྲུག་པའི་རིག་སྔགས།</term>
+                            <term xml:lang="Sa-Ltn">[No Sanskrit]</term>
+                            <term type="definition">See “six-syllable mahāvidyā.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-051-004-999">
                             <term>six-syllable vidyāmantra</term>
                             <term xml:lang="Bo-Ltn">yi ge drug pa’i rig sngags </term>
                             <term xml:lang="bo">ཡི་གེ་དྲུག་པའི་རིག་སྔགས།</term>
@@ -4315,9 +4328,17 @@
                             <term xml:lang="Bo-Ltn">phung po </term>
                             <term xml:lang="bo">ཕུང་པོ།</term>
                             <term xml:lang="Sa-Ltn">skandha</term>
+                            <term type="definition">See “aggregates.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-051-004-870">
+                            <term>aggregate</term>
+                            <term xml:lang="Bo-Ltn">phung po </term>
+                            <term xml:lang="bo">ཕུང་པོ།</term>
+                            <term xml:lang="Sa-Ltn">skandha</term>
                             <term type="definition">The constituents that make up a being’s existence: form, sensations,
                                 identifications, mental activities, and consciousnesses.</term>
-                            <term type="alternative" xml:lang="en">aggregates</term>
                         </gloss>
                     </item>
                     <item>
@@ -4436,7 +4457,7 @@
                             <term xml:lang="Bo-Ltn">rdo rje </term>
                             <term xml:lang="bo">རྡོ་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">vajra</term>
-                            <term type="definition">The word vajra refers to the “thunderbolt,” the indestructible and
+                            <term type="definition">The word <term type="ignore">vajra</term> refers to the “thunderbolt,” the indestructible and
                                 irresistible weapon that first appears in Indian literature in the hand of the Vedic deity Indra.
                                 As a symbol of indestructibility and great power it is used in the <title xml:lang="en">Kāraṇḍavyūha</title> to describe the qualities of the <foreign type="mantra" xml:lang="Sa-Ltn">maṇi</foreign> mantra.</term>
                         </gloss>
@@ -4574,9 +4595,10 @@
                             <term xml:lang="Bo-Ltn">mgon med pa la zas sbyin pa </term>
                             <term xml:lang="bo">མགོན་མེད་པ་ལ་ཟས་སྦྱིན་པ།</term>
                             <term xml:lang="Sa-Ltn">Anāthapiṇḍada</term>
-                            <term type="definition">Anāthapiṇḍada was a wealthy merchant in the town of Śrāvastī, who became a
+                            <term type="definition">
+                                <term type="ignore">Anāthapiṇḍada</term> was a wealthy merchant in the town of Śrāvastī, who became a
                                 patron of Buddha Śākyamuni. He bought the Jeta Park there to be the Buddha’s first monastery. He
-                                is better known in the West by the alternative Pāli form Anāthapiṇḍika.</term>
+                                is better known in the West by the alternative Pāli form <term type="ignore">Anāthapiṇḍika</term>.</term>
                             <term type="alternative" xml:lang="Sa-Ltn">Anāthapiṇḍika</term>
                         </gloss>
                     </item>
@@ -4603,12 +4625,13 @@
                             <term xml:lang="Bo-Ltn">gtor ma </term>
                             <term xml:lang="bo">གཏོར་མ།</term>
                             <term xml:lang="Sa-Ltn">Bali</term>
-                            <term type="definition">Bali wrested control of the world from the devas, establishing a period of
+                            <term type="definition">
+                                <term type="ignore">Bali</term> wrested control of the world from the devas, establishing a period of
                                 peace and prosperity with no caste distinction. Indra requested Viṣṇu to use his wiles so that the
                                 devas could gain the world back from him. He appeared as a dwarf asking for two steps of ground,
-                                was offered three, and then traversed the world in two steps. Bali, keeping faithful to his
+                                was offered three, and then traversed the world in two steps. <term type="ignore">Bali</term>, keeping faithful to his
                                 promise, accepted the banishment of the asuras into the underworld. A great festival is held in
-                                Bali’s honor annually in South India. In the <title xml:lang="en">Kāraṇḍavyūha</title>, he abuses
+                                <term type="ignore">Bali</term>’s honor annually in South India. In the <title xml:lang="en">Kāraṇḍavyūha</title>, he abuses
                                 his power by imprisoning the <foreign type="term" xml:lang="Sa-Ltn">kṣatriyas</foreign>, so that
                                 Viṣṇu has cause to banish him to the underworld.</term>
                         </gloss>
@@ -4642,8 +4665,7 @@
                             <term xml:lang="Bo-Ltn">zla ba </term>
                             <term xml:lang="bo">ཟླ་བ།</term>
                             <term xml:lang="Sa-Ltn">Candra</term>
-                            <term type="definition">The deity of the moon, as well as the moon itself. In the <title xml:lang="en">Kāraṇḍavyūha</title>, when Avalokiteśvara emanates Candra, it is the deity that is
-                                meant.</term>
+                            <term type="definition">The deity of the moon, as well as the moon itself. In the <title xml:lang="en">Kāraṇḍavyūha</title>, when Avalokiteśvara emanates <term type="ignore">Candra</term>, it is the deity that is meant.</term>
                         </gloss>
                     </item>
                     <item>
@@ -4685,7 +4707,7 @@
                             <term xml:lang="Bo-Ltn">dbang po </term>
                             <term xml:lang="bo">དབང་པོ།</term>
                             <term xml:lang="Sa-Ltn">Indra</term>
-                            <term type="definition">The lord of the devas, the principal deity in the Vedas. Indra and Brahmā were
+                            <term type="definition">The lord of the devas, the principal deity in the Vedas. <term type="ignore">Indra</term> and Brahmā were
                                 the two most important deities in the Buddha’s lifetime, and were later eclipsed by the increasing
                                 importance of Śiva and Viṣṇu.</term>
                         </gloss>
@@ -4723,7 +4745,7 @@
                                 significant in ancient India and are described in the <title xml:lang="Sa-Ltn">Mahābhārata</title>
                                 as having taken part in the Kurukṣetra war on the side of the Kurus against the Paṇḍavas. The
                                 Purāṇic literature generally describes them in a negative light, as barbarians. They are often
-                                mentioned in Buddhist literature and presently maintain Khasa culture in Himachal Pradesh.</term>
+                                mentioned in Buddhist literature and presently maintain <term type="ignore">Khasa</term> culture in Himachal Pradesh.</term>
                         </gloss>
                     </item>
                     <item>
@@ -4785,9 +4807,9 @@
                             <term xml:lang="Sa-Ltn">Pāṇḍava</term>
                             <term type="definition">Five brothers who were the sons of Paṇḍu. The most famous was Arjuna (of
                                     <title xml:lang="Sa-Ltn">Bhagavadgīta</title> fame); the other four were Yudhiṣṭhira, Nakula,
-                                Sahadeva, and Bhīmasena. The story of the Pāṇḍava brothers and their battle with their cousins,
+                                Sahadeva, and Bhīmasena. The story of the <term type="ignore">Pāṇḍava</term> brothers and their battle with their cousins,
                                 the Kauravas, is the subject of the <title xml:lang="Sa-Ltn">Mahābhārata</title>, India’s greatest
-                                epic. In the sūtra, Bali imprisons the Pāṇḍavas and Kauravas together.</term>
+                                epic. In the sūtra, Bali imprisons the <term type="ignore">Pāṇḍavas</term> and Kauravas together.</term>
                         </gloss>
                     </item>
                     <item>
@@ -4840,13 +4862,15 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-051-004-419">
                             <term>Śatamukha</term>
-                            <term xml:lang="Bo-Ltn">kha brgya pa, bzhin brgya pa </term>
-                            <term xml:lang="bo">ཁ་བརྒྱ་པ,་བཞིན་བརྒྱ་པ།</term>
+                            <term xml:lang="Bo-Ltn">kha brgya pa </term>
+                            <term xml:lang="bo">ཁ་བརྒྱ་པ།</term>
+                            <term xml:lang="Bo-Ltn">bzhin brgya pa </term>
+                            <term xml:lang="bo">བཞིན་བརྒྱ་པ།</term>
                             <term xml:lang="Sa-Ltn">Śatamukha</term>
                             <term type="definition">The sūtra contains the only known reference to a nāga king and kiṃnara king
                                 who both have this name in Sanskrit. The nāga’s name was translated into Tibetan as “hundred
                                 mouths” (<foreign xml:lang="Bo-Ltn">kha brgya pa</foreign>), and the kiṃnara as “hundred faces”
-                                    (<foreign xml:lang="Bo-Ltn">bzhin brgya pa</foreign>). Other deities with the name Śatamukha
+                                    (<foreign xml:lang="Bo-Ltn">bzhin brgya pa</foreign>). Other deities with the name <term type="ignore">Śatamukha</term>
                                 appear in Indian literature.</term>
                         </gloss>
                     </item>
@@ -4868,7 +4892,9 @@
                             <term xml:lang="Sa-Ltn">Śakra</term>
                             <term type="definition">More commonly known in the West as Indra, the deity who is called “lord of the
                                 devas” and dwells on the summit of Mount Sumeru and wields the thunderbolt. The Tibetan
-                                translation is based on an etymology that <foreign type="term" xml:lang="Sa-Ltn">śakra</foreign>
+                                translation is based on an etymology that <foreign type="term" xml:lang="Sa-Ltn">
+                                    <term type="ignore">śakra</term>
+                                </foreign>
                                 is an abbreviation of <foreign type="term" xml:lang="Sa-Ltn">śata-kratu</foreign>, “one who has
                                 performed a hundred sacrifices.” The highest vedic sacrifice was the horse sacrifice and there is
                                 a tradition that he became the lord of the gods through performing them.</term>
@@ -4924,9 +4950,8 @@
                             <term xml:lang="Bo-Ltn">pa bsangs </term>
                             <term xml:lang="bo">པ་བསངས།</term>
                             <term xml:lang="Sa-Ltn">Śukra</term>
-                            <term type="definition">Śukra is both the planet Venus and the guru of the asuras. In the Vaiśnavite
-                                literature, he loses an eye from his encounter with the dwarf incarnation of Viṣṇu. The Sanskrit
-                                also means “bright.”</term>
+                            <term type="definition">
+                                <term type="ignore">Śukra</term> is both the planet Venus and the guru of the asuras. In the Vaiśnavite literature, he loses an eye from his encounter with the dwarf incarnation of Viṣṇu. The Sanskrit also means “bright.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -4946,7 +4971,8 @@
                             <term xml:lang="Bo-Ltn">lha mo u ma </term>
                             <term xml:lang="bo">ལྷ་མོ་ཨུ་མ།</term>
                             <term xml:lang="Sa-Ltn">Umādevī</term>
-                            <term type="definition">Umādevī is also known as Pārvatī. The name is of obscure origin, but can mean
+                            <term type="definition">
+                                <term type="ignore">Umādevī</term> is also known as Pārvatī. The name is of obscure origin, but can mean
                                 “splendor,” “tranquility,” or “light.” She is the consort of Śiva, also known as Maheśvara, and
                                 believed to be the rebirth of Sīta, his previous consort.</term>
                         </gloss>
@@ -4982,7 +5008,7 @@
                             <term xml:lang="Bo-Ltn">chu yi lha </term>
                             <term xml:lang="bo">ཆུ་ཡི་ལྷ།</term>
                             <term xml:lang="Sa-Ltn">Varuṇa</term>
-                            <term type="definition">In the Vedas, Varuṇa is an important deity and in particular the deity of the
+                            <term type="definition">In the Vedas, <term type="ignore">Varuṇa</term> is an important deity and in particular the deity of the
                                 sky, but in later Indian tradition only of the water and the underworld. The Tibetan does not
                                 attempt to translate his name but instead says “god of water.” The Sanskrit name has ancient
                                 pre-Sanskrit origins, and as he was originally the god of the sky is related to the root <foreign xml:lang="Sa-Ltn">vṛ</foreign>, meaning “enveloping” or “covering.” He has the same ancient
@@ -5095,8 +5121,10 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-051-004-442">
                             <term>Avīci</term>
-                            <term xml:lang="Bo-Ltn">bstir med ___,___mnar med </term>
-                            <term xml:lang="bo">བསྟིར་མེད་ , མནར་མེད།</term>
+                            <term xml:lang="Bo-Ltn">bstir med </term>
+                            <term xml:lang="bo">བསྟིར་མེད།</term>
+                            <term xml:lang="Bo-Ltn">mnar med </term>
+                            <term xml:lang="bo">མནར་མེད།</term>
                             <term xml:lang="Sa-Ltn">Avīci</term>
                             <term type="definition">The lowest hell, translated in two different ways within the sūtra and in the
                                 Mahāvyutpatti concordance, although <foreign type="term" xml:lang="Bo-Ltn">mnar med</foreign>
@@ -5127,7 +5155,7 @@
                             <term xml:lang="Bo-Ltn">zla ba’i gling </term>
                             <term xml:lang="bo">ཟླ་བའི་གླིང་།</term>
                             <term xml:lang="Sa-Ltn">Candradvīpa</term>
-                            <term type="definition">A well-known site of pilgrimage in Bengal. Candradvīpa was a prosperous
+                            <term type="definition">A well-known site of pilgrimage in Bengal. <term type="ignore">Candradvīpa</term> was a prosperous
                                 kingdom with Buddhist sites, located on what is now the south coast of Bangladesh, centered on the
                                 Barisal district.</term>
                         </gloss>
@@ -5195,7 +5223,7 @@
                             <term xml:lang="bo">ཛམ་བུ་ལིང་།</term>
                             <term xml:lang="Sa-Ltn">Jambudvīpa</term>
                             <term type="definition">The name of the southern continent in Buddhist cosmology, which can mean the
-                                known world of humans or more specifically the Indian subcontinent. In the <title xml:lang="en">Kāraṇḍavyūha</title>, Sri Laṅka is described as being separate from Jambudvīpa. A gigantic
+                                known world of humans or more specifically the Indian subcontinent. In the <title xml:lang="en">Kāraṇḍavyūha</title>, Sri Laṅka is described as being separate from <term type="ignore">Jambudvīpa</term>. A gigantic
                                 miraculous rose-apple tree at the source of the great Indian rivers is said to give the continent
                                 its name.</term>
                         </gloss>
@@ -5350,7 +5378,7 @@
                             <term xml:lang="Sa-Ltn">Ratnadvīpa</term>
                             <term type="definition">The <title xml:lang="en">Kāraṇḍavyūha</title> in the Vaidya edition references
                                 a group of islands, the distinction between singular and plural being lost in the Tibetan.
-                                Ratnadvīpa was one of the ancient names of Laṅka, as it was a rich source of jewels. In this same
+                                <term type="ignore">Ratnadvīpa</term> was one of the ancient names of Laṅka, as it was a rich source of jewels. In this same
                                 passage, however, Laṅka is identified as the land of the <foreign type="term" xml:lang="Sa-Ltn">rākṣasīs</foreign>. The theme of an ocean island rich in jewels appears frequently in
                                 Buddhist narratives.</term>
                         </gloss>
@@ -5419,7 +5447,7 @@
                             <term xml:lang="bo">སིང་གྷ་ལ།</term>
                             <term xml:lang="Sa-Ltn">Siṃhala</term>
                             <term type="definition">Sri Laṅka, formerly Ceylon. The Rāmāyaṇa epic specified that Laṅka is
-                                inhabited by <foreign type="term" xml:lang="Sa-Ltn">rākṣasas</foreign>. Siṃhala was the name by
+                                inhabited by <foreign type="term" xml:lang="Sa-Ltn">rākṣasas</foreign>. <term type="ignore">Siṃhala</term> was the name by
                                 which Laṅka was referred to in the Mahābhārata. The indigenous Buddhist population and their
                                 language is still called Singhalese.</term>
                         </gloss>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:/C:/Users/Celso/Desktop/ODDandSchema/GeneralSchemaForODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,360 +32,9 @@
           instructions for markup editors. All of these sections are accessible through links in the
           table of contents.</p>
       </div>
-      <div>
-        <head>Checklist for 84000 TEI Markup Editors</head>
-        <div>
-          <head>1. Enter the Word DOC into the Template</head>
-          <p>(If this hasn't already been done by the copy editors. However, if you receive a text
-            form the copy editors, it is important to check their work and make sure the text has
-            been placed properly into the template.)</p>
-          <list>
-            <item>In general you can follow the instructions written into the template.</item>
-            <item>Paste the text into all the appropriate sections using the "Heading 1,2" styles to
-              outline the text. Make sure that the style “Heading 3” or higher isn’t used anywhere
-              in the document, as that information will be lost in the conversion process. Any
-              headings for third level subsections (or more) written by the translator should be set
-              to the “Normal” style in the style set. </item>
-            <item>Apply all the various styles to the italics in the text</item>
-            <item>Apply the "verse style" to verses and format the verses (change the display
-              settings to show paragraph marks and line breaks so you can see more clearly if they
-              are formatted correctly).</item>
-          </list>
-        </div>
-        <div>
-          <head>2. Transform the New DOC To TEI-XML</head>
-          <list>
-            <item>At some point we will develop a script to do this, but until then</item>
-            <item>Use oxgarage at: <ref target="http://www.tei-c.org/oxgarage/">http://www.tei-c.org/oxgarage/</ref> using this platform change “Microsoft Word
-              .docx” to “TEI P5 XML Document” </item>
-            <item>Download and open the XML in oXygen and use the .xslt style sheet to transform the
-              XML document. to do this:<list>
-                <item>A. Click on “Configure Transformation Scenarios” (it should be a wrench with a
-                  red arrow on the oXygen ribbon.</item>
-                <item>B. Select “New” &gt; “XML transformation with XSLT”</item>
-                <item>C. For the XSL URL: click on the drop down menu next to the folder and select
-                  “Browse Data Source Explorer”</item>
-                <item>D. Select 84000 Collaborations &gt; apps &gt; 84000-reading-room-collab &gt;
-                  data &gt; xslt &gt; oxGto84000.xsl</item>
-                <item>E. For the “Transformer:” select “Saxon-PE 9.6.0.7” from the drop down
-                  menu.</item>
-                <item>F. Click on the “Output” tab and check the box that says “Open in
-                  Editor”</item>
-                <item>G. Click okay, and then select “apply associated” (the transformation scenario
-                  you just made should be ticked under “projects”)</item>
-              </list>
-            </item>
-            <item>This should create a file that is closer to what we want. However, the
-                <gi>teiHeader</gi> will definitely need some reworking. If any further "<gi>hi</gi>"
-              tags or other tags need to be changed through out the individually the refactoring
-              tool is very helpful for this (Tools &gt; XML Refactoring...)</item>
-          </list>
-        </div>
-        <div>
-          <head>3. Edit the XML</head>
-          <list>
-            <item>Save the XML to the 84000 collaboration database and begin editing the XML so that
-              it may be displayed on the web page.</item>
-            <item>In general, while going through the text, it is important to refer back to the
-              .docx you received from the copy editor. If the document has an unusually formatted
-              outline, some portions of text may be lost in the XSLT conversion. A good way to check
-              this is open the original .docx and look at the outline of the text (On PC go to
-              “View” and check the box that says “Show Navigation Pane”; on Mac go to “View” &gt;
-              “Sidebar” &gt; “Document Map Pane”; this might be different for other versions of
-              Word). For example if there are any third level headers or extra divisions in the
-              summary or acknowledgements these sections may disappear. It is particularly good to
-              check the front material, and the bibliography for anything unusual.</item>
-            <item>Make sure all the elements are nested properly (It should give you errors if they
-              are not)</item>
-            <item>Look for all "<gi>hi</gi>" and remover or change them appropriately</item>
-            <item>Look for any weird tags that shouldn't be there like "type="endnote text"" or any
-              other relics from the oxgarage/script conversion</item>
-            <item>Look for any mistakes: typos, mislabled tags, etc...</item>
-            <item>Using a previously edited TEI document as a model, make sure everything is
-              formatted in the same way.</item>
-            <item>Add the appropriate "type" attributes to all the <gi>div</gi> elements (use a
-              previously edited TEI doc as a model)</item>
-            <item>Add milestones (<ref target="#Appendix2">See the instructions in the
-                appendix</ref>) </item>
-            <item>Note that all "xml:id" attributes, "tid" attributes in the <gi>p</gi> elements,
-              and "index" attributes in the <gi>note</gi> elements will be added automatically when
-              you upload the XML, so you don't need to worry about adding these.</item>
-            <item>
-              <gi>note</gi>s cannot be in left headers or titles, move these notes into an
-              appropriate place within the text itself.</item>
-            <item>Apply the Schema which should be in “84000 Collaboration &gt; apps &gt;
-              84000-reading-room-collab &gt; data &gt; schema &gt; 1.0 &gt; tei.rng” . You will see
-              any schema errors as red bars on the right column in the oXygen window. Note that the
-              schema isn’t perfect yet so some errors might not really be errors and some errors
-              might be missing, however the schema is the best way to see if the XML is going to
-              work correctly in the parser. If later on you have trouble saving to the database or
-              you can save to the database but the web page will not display the text, then checking
-              for schema errors in oXygen is the best way to start. If it says that there is an
-              error in a place where you don’t think there is really an error but you need to text
-              the XML for web display, you can comment out that section with comment tags:<lb/>
-              &lt;!-- --&gt;(or highlight and press Ctrl-Shift “,”) then you can will be able to
-              temporarily block all the seeming schema errors to help identify the problem. </item>
-          </list>
-        </div>
-        <div>
-          <head>4. Transform and Edit the Glossary</head>
-          <list>
-            <item>Transform the xlsx file with the “convert-glossary-from-tei.py” python
-              script.</item>
-            <item>Note, you might not be familiar with python script, python can be a bit finicky so
-              go ahead and give it a try, but Celso and Mike can do these transformations later if
-              you can’t get python running on your computer or if the script isn’t working properly.
-              I couldn’t get the right version of python to run on my PC, but I did get it to run on
-              my Mac. If you are able to get it on PC please add those instructions and update this
-              checklist:</item>
-            <item>
-              <label>Running Python on Mac:</label>
-              <list>
-                <item>1. Download and install the latest version of Python 3. I believe the script
-                  we use won’t work in Python 2. I use the mac version 3.6.3</item>
-                <item>2. Now that you have python installed, create a folder on your desk top and
-                  name it “convert” This will be the folder inside of which all your conversions
-                  will occur. You will need to have Celso or Mike email the python script to you.
-                  The script is a file labeled “convert-glossary-from-tei.py”. Put this file in the
-                  “convert” folder you just created.</item>
-                <item>3. First we need to convert the .xlsx file into an .xml file using oxgarage.
-                  We can do this the same way we converted the .docx file earlier: convert from
-                  spreadsheet &gt; .xlsx to “TEI P5 XML Document” (Note, I’ve tried this with .xls
-                  spreadsheets and it hasn’t worked, if this happens try saving the .xls as a .xlsx
-                  with Excel and trying again. Also sometimes the Oxgarage will stop working and
-                  then suddenly a week lately it will work again. Sorry, I know this is frustrating,
-                  contact Celso or Mike if you are running into this hurdle.)</item>
-                <item>4. Now take the .xml file converted from oxgarage and place it in the
-                  “convert” folder on your desk top. Change the name of this .xml file to
-                  “input.xml”</item>
-                <item>5. Now we can run the script. The easiest way on the mac is to open an
-                  application called IDLE, which comes with the python download. It should be in the
-                  main Python folder after you install it.</item>
-                <item>6. Open IDLE and go to “file &gt; open” and open the
-                  “convert-glossary-from-tei.py” file. This should open up a new window which will
-                  show the script as a bunch of code. From this new window go to “Run &gt; Run
-                  Module”. This will run the script and create the converted file in the folder you
-                  made with the name “output.xml”</item>
-                <item>7. The script is finicky and often times it won’t work. Sometimes is will
-                  break halfway through and the file will be incomplete. If you get an error message
-                  open up the “input.xml” file with oxygen or any text editor. The most likely
-                  problem is that there is an empty row in the spreadsheet that is causing the
-                  script to break. For instance you will see in the text rows labeled as &lt;row
-                  n="1"&gt; followed by a bunch of &lt;cells&gt; and then &lt;row n=”2”&gt; and so
-                  forth. Most of the &lt;cells&gt; had the data from the .xslx file, but see if you
-                  can find where the &lt;row&gt; is suddenly followed by a bunch of empty unused
-                  cells. Delete those empty cells (just for that row) and try running the script
-                  again. If it still isn’t working you can try sending it to me (Celso) and I can
-                  try to find out why it isn’t working.</item>
-              </list>
-            </item>
-            <item>
-              <hi rend="bold">Continuing with step 4. Transforming and Editing the Glossary:</hi> If
-              you get the script to work, or have someone else convert it for you, you can then
-              paste it into the XML text you are working on. Use another already published TEI file
-              as a model.</item>
-            <item>Edit the glossary. Note that when you save the file to the database it will add
-              various attributes like the “xml:id”, and “priority”, so you don’t need to worry about
-              adding these.</item>
-            <item>Check for errors and make sure the tags are nested properly. Use previously edited
-              84000 TEI XMLs as a model. You might want to save it first, so it automatically adds
-              all the attributes and so forth.</item>
-          </list>
-        </div>
-        <div>
-          <head>5. Add Optional Soft-Hyphens to Sanskrit Chains</head>
-          <p>Note that only editors with a basic understanding of spelling and sandhi rules of
-            Sanskrit should proceed with this step. You don't need to be an expert in Sanskrit, as
-            most words can be looked up in online references, however, for this step editors will
-            need to have a clear grasp on how the sandhi rules in Sanskrit work. If not please
-            request that another editor with this skill to complete this task.</p>
-          <list>
-            <item>Look for long Sanskrit chains, and add optional soft-hyphens at points where there
-              are chains that are 15+ characters long. (Note: you should have some familiarity with
-              Sanskrit to do this task, if not please ask another editor to do this part) Optional
-              soft-hyphens are created with the character code: <egXML xmlns="http://www.tei-c.org/ns/Examples">&amp;#173;</egXML>Note after you save the
-              XML these will look like regular hyphens, but if you move the blinking cursor to the
-              space just before the hyphen you will notice there is a different character code
-              displayed at the bottom of the oXygen screen.</item>
-            <item>The long Sanskrit chains can be found easily by going to Window &gt; Show View
-              &gt; XPath/XQuery Builder, then in the XPath/XQuery Builder window type the following
-              code and press the red play button:<code>//*[string-length(string()) &gt; 14 and
-                @xml:lang ='Sa-Ltn']</code> You can save this query for later by clicking on the
-              star and choosing "add to favourites."</item>
-            <item>Be careful when adding the soft hyphens as they should only be placed at certain
-              points in the words where they do not interfere with the Sanskrit rules of sandhi.
-              When adding the soft hyphens please follow the following guidelines:</item>
-            <item>
-              <label>Guidelines for adding Soft-Hyphens to Sanskrit</label>
-              <list>
-                <item>
-                  <p>1. As we are not using full justification anyway, (a) most Sanskrit words don’t
-                    need hyphenation unless they are longer than 5 or 6 syllables, but (b) may be
-                    necessary for shorter words especially in text titles on the title page. I
-                    therefore tend to place soft hyphens in all of the text titles, in verse
-                    passages, in the bibliography entries, and in notes and glossary entries (which
-                    require shorter lines in general).</p>
-                </item>
-                <item>
-                  <p>2. Place a soft hyphen (a) only between the words of a compound; (b) even then
-                    only when there are no changes brought about by sandhi (because putting a hyphen
-                    would logically mean undoing the sandhi, and the hyphens we’re talking about may
-                    or may not appear; and (c) avoiding confusing remnants.</p>
-                  <p>A couple of examples:</p>
-                  <p>Ratnagotravibhāgottaratantraśāstra would be
-                    Ratna-gotra-vibhāgottara-tantra-śāstra. If we divided the 5-syllable sequence in
-                    the middle, that would have to undo the sandhi and become -vibhāga-uttara- which
-                    only works in the presence of a hard hyphen. Theoretically we could put a hyphen
-                    at vi-bhāga, but that would risk leaving us with -gotravi- , which would be
-                    potentially confusing to read.</p>
-                  <p>The maximum we could hyphenate antānantaḍṛṣṭivāsanābhisaṃdhisamuccedaka would
-                    be antānanta-ḍṛṣṭi-vāsanābhi-saṃdhi-sam-ucchedaka, because antānanta and
-                    vāsanābhi-saṃdhi would become anta-ananta and vāsana-abhi-saṃdhi. In a case like
-                    that, I would also prefer to avoid ending up with
-                    antānantaḍṛṣṭivāsanābhi-saṃdhisamuccedaka, because the abhi- really belongs with
-                    the saṃdhi; it’s a possible break but is confusing to read.</p>
-                </item>
-                <item>One resource that is helpful for determining the breaks in Sanskrit chains in
-                  the online <ref target="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.html">Cologne Sanskrit Dictionary</ref>. This one is really helpful because it has a
-                  drop down menu of similarly spelled words when you hit the enter key, however, I
-                  think this only works when you use the <ref target="https://en.wikipedia.org/wiki/Harvard-Kyoto">Kyoto-Harvard
-                    Transliteration scheme</ref> "KH". I don't know you might try the other ones but
-                  I found that this is the only one that gave the drop down list for me. Than when
-                  you find a big word in the dictionary in the definition entry you will see *
-                  whenever there is sandhi, though this isn't 100% reliable, sometimes it is missing
-                  for some reason, so be careful if the spelling looks weird.</item>
-                <item>In certain cases there may be long 15+ Sanskrit chains that cannot be broken
-                  due to the sandhi, or long Sanskrit compounds whose pieces cannot be easily
-                  determined with online resources. If this is the case make a list of problematic
-                  instances to note to the leading editors, also check these instances to see if the
-                  pose any major difficultly for the web display. These instances are rare, but they
-                  do come up now and then.</item>
-                <item>It is acceptable to add an optional hyphen at the end of "mahā-" as in
-                  "mahā-yāna" even though technically the long ā would be lost as this is a well
-                  known word and unlikely to be misread.</item>
-                <item>Note that when you add the optional hyphens to a glossary item where the
-                  translation uses the Sanskrit (This will mainly be in the “Persons” and “Places”
-                  section of the glossary) the hyphens will have to match all those instances within
-                  the body of the text or they will not link to the glossary term, so it is best to
-                  start from the glossary and work your way backwards. For all of these person and
-                  place terms do a search and replace so that the hyphens match in all the instances
-                  of that term (be cautious when doing large search-and-replaces that you don’t make
-                  any unintended changes)</item>
-              </list>
-            </item>
-          </list>
-        </div>
-        <div>
-          <head>6. Add Links For In-Text References</head>
-          <p>When ever we have internal citations like this we should use the <gi>ptr</gi> element
-            to make a link in the text. For example, if you go to the <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#n.5">Vimalakirti Sutra</ref> and look at note 5. It says:</p>
-          <q>
-            <p>"See <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#UT22084-060-005-1">2.3.</ref> It is especially appropriate, in the light of the early tantric
-              tradition, for Vimalakīrti, as a layman, to be an adept."</p>
-          </q>
-          <p>The "2.3." links to that milestone. If you look at this note in the XML it says:</p>
-          <egXML xmlns="http://www.tei-c.org/ns/Examples">See <ptr target="#UT22084-060-005-1"/><!--2.3-->. It is especially in the light of the early tantric tradition, for
-            Vimalakīrti, as layman, to be an adept.</egXML>
-          <p>The "<gi>ptr</gi>" element creates the link and you will have to find the "xml:id"
-            value for that milestone and enter it in as the value for the "target" attribute. If you
-            look at our XML for 10,000 right now in the database, notice that all the xml:id's were
-            put in automatically when I uploaded it yesterday. You don't put the actual milestone
-            number, because the parser will automatically put the milestone number in the link. That
-            way if the milestones get shifted later on, we won't have to update it again.</p>
-          <p>Notice there is a comment "&lt;!--2.3--&gt;" after the tag in the Vimalakirti note.
-            This is a comment just to keep track of where the pointer links to according to the
-            milestone numbers in the web display.</p>
-          <p>Make these links for all page references (these should be highlighted by the copy
-            editors, but if they aren't try to clarify what milestone they are intended to link to,
-            and link to and mark up the pointers appropriately.</p>
-          <p>References to notes, e.g., "see note 5" should be linked to the "xml:id" of the
-            appropriate note as well. Often the notes will be changed causing the whole numbering to
-            shift slightly, so you will likely need to search and clarify which is the correct note
-            to link to (usually it will only be shifted a few numbers up or down so if it says "see
-            note 5", then it will likely be int the 3-7 range for instance). If you are not sure
-            where the references is referring to, or there is some ambiguity, then make a note about
-            this for the leading editors</p>
-          <p>Occasionally there will be citations to external 84000 texts, that have been
-            highlighted by the copy editors to link. This can be done so, not by using the
-              <gi>ptr</gi> element, which is only used for in-text citations; but it is done with
-            the <gi>ref</gi> element with the web address as the value of the <att>target</att>
-            attribute. For example see this reference in the King of Samadhis Sutra (Toh. 127):</p>
-          <egXML xmlns="http://www.tei-c.org/ns/Examples">
-            <note place="end" xml:id="UT22084-055-001-1485" index="586"> Unidentified Indian musical
-              instrument. It appears in two lists of instruments in the <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> (see <title xml:lang="en">The Play in Full</title>
-              <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-973">15.39</ref><!--toh. 95--> and <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-1001">15.67</ref><!--toh. 95-->) with a stringed instrument preceding and following it,
-              but some recent Tibetan-English dictionaries have “cymbals.”</note>
-          </egXML>
-          <p>This will link the milestone references "15.39" to that corresponding passage in The
-            Play in Full (Toh. 95).</p>
-        </div>
-        <div>
-          <head>7. Upload the XML and See How it Looks on the Web Page</head>
-          <list>
-            <item>Go through the text again looking at the web display making sure everything looks
-              okay.</item>
-            <item>It is helpful at this point to put the web page in “editor mode” all this does is
-              underline all the linked glossary terms for you. Otherwise in the regular display it
-              underlines them but then they will disappear after a few seconds, which will be
-              frustrating when your are checking the links. To put it in editor mode just add the
-              following text to the end of the URL web address: <code>?view-mode=editor</code>
-            </item>
-            <item>At this point you should check to see that the glossary is linking to the right
-              terms. Particularly in the summary and introduction there may be many instances of a
-              word linking to the glossary when it shouldn’t, for example in the phrase “in terms
-              of…” the word “term” might link to the glossary for the technical meaning of “term” or
-              in the phrase “with respect to…” the word “respect” might link to “respect” as in
-              devotion (these are just some examples). To fix these instances you should use the add
-              the <att>mode</att> to the <gi>gloss</gi> element in the glossary. If you change it to
-              mode="match" (this is the default mode, by the way) you will be able to block strings
-              in the text you don't want to link by marking them with the tag <tag>term
-                type="ignore"</tag> If you change it to mode="marked", it will only link with
-              strings in the text that are tagged within the <gi>term</gi> element (you will need to
-              mark each instance of the term individually in this case). In rare cases you might
-              need to use both modes. For example in Toh. 127 there are two gloss entries for the
-              term "conceptualization", and there are some instances of this word that should link
-              to the first gloss, some that link to the second, and some that link to neither. In
-              this case the first gloss it set to mode="marked" and the second has the default
-              mode="match", then terms that should link to the first are marked with the
-                <gi>term</gi> element, the ones that should link to the second are left untagged,
-              and the terms that should link to neither are marked <tag>term
-              type="ignore"</tag>.</item>
-            <item>
-              <ref target="#Appendix1">For further details about the glossary see Appendix A</ref>
-            </item>
-          </list>
-        </div>
-        <div>
-          <head>8. Final Details</head>
-          <p>A few final things to look out for while going through your final run of the text:</p>
-          <list>
-            <item>extra blank spaces.</item>
-            <item>double check links and make sure they go to the right places.</item>
-            <item>make sure links aren't missing, sometimes if the little "#" is missing or
-              misplaced in the "target" attribute in the <gi>ptr</gi>s then the reference want
-              appear at all and you will see text like "(see above, .)" without anything coming
-              after them.</item>
-            <item>do a search for comment tags we may have left in by accident in the XML, you can
-              do a quick search for "&lt;!--"</item>
-            <item>double check for any “<gi>hi</gi>” tags. They may be italics that were missed when
-              the text was entered into the template, so you may need to change them to
-                <gi>title</gi> or <gi>foreign</gi>, be sure to check back with the original .docx if
-              this looks like the case.</item>
-            <item>any formatting or anything else that just looks wrong or awkward.</item>
-            <item>if there are any grammar or editing errors that you think may have been missed in
-              the copy-edit phase, be sure to make notes of them to send to the leading editor in an
-              email at the end.</item>
-            <item>As you work on the text, make a running list of any problems or issues that you
-              cannot fix yourself and make this into a final list of questions/issues to send to the
-              leading editor. There are often a lot of things that come up, so is good to make a
-              final list so the leading editor can look through them more systematically in one
-              email.</item>
-          </list>
-        </div>
-      </div>
     </front>
     <body>
-      <schemaSpec ident="eightyFour" docLang="en" prefix="tei_" xml:lang="en">
+      <schemaSpec ident="NewODD" docLang="en" xml:lang="en">
         <moduleRef key="core" include="abbr author bibl biblScope date distinct emph expan foreign gloss graphic head item l label lb lg list milestone name note p ptr publisher q ref term title"/>
         <moduleRef key="tei" except=""/>
         <moduleRef key="header" include="availability edition editionStmt fileDesc idno licence notesStmt publicationStmt sourceDesc teiHeader titleStmt"/>
@@ -416,16 +65,23 @@
                 <valItem ident="en"/>
                 <valItem ident="bo"/>
                 <valItem ident="zh"/>
+                <valItem ident="ja"/>
                 <valItem ident="pi"/>
                 <valItem ident="la"/>
                 <valItem ident="de"/>
                 <valItem ident="el"/>
                 <valItem ident="fr"/>
+                <valItem ident="it"/>  
               </valList>
             </attDef>
           </attList>
         </classSpec>
-        <classSpec type="atts" ident="att.global.rendition" mode="delete"/>
+        <classSpec type="atts" ident="att.global.rendition" mode="change">
+          <attList>
+            <attDef ident="style" mode="delete"/>
+            <attDef ident="rendition" mode="delete"/>
+          </attList>
+        </classSpec>
         <classSpec type="atts" ident="att.global.responsibility" mode="delete"/>
         <classSpec type="atts" ident="att.global.source" mode="delete"/>
         <classSpec type="atts" ident="att.global.linking" mode="delete"/>
@@ -453,6 +109,257 @@
           </attList>
         </classSpec>
         <classSpec type="atts" ident="att.written" mode="delete"/>
+        <macroSpec ident="paragraph" mode="add">
+          <content>
+            <rng:element name="p">
+              <rng:attribute name="tid">
+                <rng:data type="integer"/>
+              </rng:attribute>
+              <rng:oneOrMore>
+                <rng:choice>
+                  <rng:text/>
+                  <rng:zeroOrMore>
+                    <rng:ref name="title"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="ptr"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="note"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="foreign"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="ref"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:element name="emph">
+                      <rng:data type="string"/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="distinct"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="q"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lb"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:element name="term">
+                      <rng:optional>
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>ignore</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                      </rng:optional>
+                      <rng:oneOrMore>
+                        <rng:choice>
+                          <rng:zeroOrMore>
+                            <rng:ref name="foreign"/>
+                          </rng:zeroOrMore>
+                          <rng:text/>
+                        </rng:choice>
+                      </rng:oneOrMore>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                </rng:choice>
+              </rng:oneOrMore>
+            </rng:element>
+          </content>
+        </macroSpec>
+        <macroSpec ident="translation-chapter" mode="add">
+          <content>
+            <rng:element name="div">
+              <rng:attribute name="type">
+                <rng:choice>
+                  <rng:value>chapter</rng:value>
+                </rng:choice>
+              </rng:attribute>
+              <!-- chapter number -->
+              <rng:element name="head">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>chapter</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:oneOrMore>
+                <rng:choice>
+                  <!-- chapter title -->
+                  <rng:element name="head">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>chapterTitle</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:text/>
+                  </rng:element>
+                  <!-- section title -->
+                  <rng:element name="head">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>section</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:text/>
+                  </rng:element>
+                  <rng:zeroOrMore>
+                    <rng:ref name="milestone"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="paragraph"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="ab"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="q"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lb"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lg"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="list"/>
+                  </rng:zeroOrMore>
+                  <rng:optional>
+                    <rng:ref name="trailer"/>
+                  </rng:optional>
+                  <rng:zeroOrMore>
+                    <rng:element name="label">
+                      <rng:data type="string"/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                </rng:choice>
+              </rng:oneOrMore>
+            </rng:element>
+          </content>
+        </macroSpec>
+        <macroSpec ident="translation-section" mode="add">
+          <content>
+            <rng:element name="div">
+              <rng:attribute name="type">
+                <rng:choice>
+                  <rng:value>section</rng:value>
+                </rng:choice>
+              </rng:attribute>
+              <rng:oneOrMore>
+                <rng:choice>
+                  <rng:zeroOrMore>
+                    <rng:element name="head">
+                      <rng:optional>
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>section</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                      </rng:optional>
+                      <rng:text/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="milestone"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="paragraph"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="ab"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="q"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lb"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lg"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="list"/>
+                  </rng:zeroOrMore>
+                  <rng:optional>
+                    <rng:ref name="trailer"/>
+                  </rng:optional>
+                  <rng:zeroOrMore>
+                    <rng:element name="label">
+                      <rng:data type="string"/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                  <!-- translation-subsection (trying to do this by just haveing the translation-section reference itself
+                                   creates an infinite recursion error in the Roma (tei-c.org/Roma/) generated documentation 
+                                   so it is needed to restate each level of sub-sectionings to get Roma documentation.)-->
+                  <rng:zeroOrMore>
+                    <rng:ref name="translation-subsection"/>
+                  </rng:zeroOrMore>
+                </rng:choice>
+              </rng:oneOrMore>
+            </rng:element>
+          </content>
+        </macroSpec>
+        <macroSpec ident="translation-subsection" mode="add">
+          <content>
+            <rng:element name="div">
+              <rng:attribute name="type">
+                <rng:choice>
+                  <rng:value>section</rng:value>
+                </rng:choice>
+              </rng:attribute>
+              <rng:oneOrMore>
+                <rng:choice>
+                  <rng:zeroOrMore>
+                    <rng:element name="head">
+                      <rng:optional>
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>section</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                      </rng:optional>
+                      <rng:text/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="milestone"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="paragraph"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="ab"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="q"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lb"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="lg"/>
+                  </rng:zeroOrMore>
+                  <rng:zeroOrMore>
+                    <rng:ref name="list"/>
+                  </rng:zeroOrMore>
+                  <rng:optional>
+                    <rng:ref name="trailer"/>
+                  </rng:optional>
+                  <rng:zeroOrMore>
+                    <rng:element name="label">
+                      <rng:data type="string"/>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                </rng:choice>
+              </rng:oneOrMore>
+            </rng:element>
+          </content>
+        </macroSpec>
         <elementSpec ident="TEI" module="textstructure" mode="change">
           <classes mode="change">
             <memberOf key="att.global" mode="delete"/>
@@ -518,18 +425,16 @@
           <attList>
             <attDef ident="type"/>
             <attDef ident="tid" usage="req">
-              <desc>Numbers paragraph and line groups in a particular text. Also applicable to the 
-              <gi>ab</gi> element.</desc>
+              <desc>Numbers paragraph and line groups in a particular text. Also applicable to the
+                  <gi>ab</gi> element.</desc>
             </attDef>
           </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <ab type="mantra" tid="65">
-                <foreign xml:lang="Sa-Ltn" type="mantra">tadyathā vīmude vītide
-                  picarite pigarite karaṭi karavīra swāri madhura­ghoṣe śatahanita
-                  bhaṣitaghe akke nakke vika ḍitā vikuṭite viraje
-                  vighaṣṭavāte</foreign> |
-              </ab>
+                <foreign xml:lang="Sa-Ltn" type="mantra">tadyathā vīmude vītide picarite pigarite
+                  karaṭi karavīra swāri madhura­ghoṣe śatahanita bhaṣitaghe akke nakke vika ḍitā
+                  vikuṭite viraje vighaṣṭavāte</foreign> | </ab>
             </egXML>
           </exemplum>
           <remarks>
@@ -636,6 +541,9 @@
             <memberOf key="att.global" mode="delete"/>
             <memberOf key="model.biblPart" mode="delete"/>
           </classes>
+          <content>
+            <elementRef key="licence"/>
+          </content>
           <attList>
             <attDef ident="status" mode="delete"/>
           </attList>
@@ -669,7 +577,379 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="div" minOccurs="1" maxOccurs="unbounded"/>
+            <!-- notes -->
+            <rng:oneOrMore>
+              <rng:choice>
+                <rng:optional>
+                  <rng:element name="div">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>notes</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:optional>
+                      <rng:element name="head">
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>notes</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                        <rng:text/>
+                      </rng:element>
+                    </rng:optional>
+                    <!-- abbreviations -->
+                    <rng:optional>
+                      <!-- Should this be optional? -->
+                      <rng:element name="list">
+                        <rng:optional>
+                          <rng:attribute name="type">
+                            <rng:choice>
+                              <rng:value>abbreviations</rng:value>
+                            </rng:choice>
+                          </rng:attribute>
+                        </rng:optional>
+                        <rng:optional>
+                          <rng:element name="head">
+                            <rng:data type="string"/>
+                          </rng:element>
+                        </rng:optional>
+                        <rng:oneOrMore>
+                          <!-- item -->
+                          <rng:element name="item">
+                            <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
+                              <rng:data type="ID"/>
+                            </rng:attribute>
+                            <rng:text/>
+                            <!-- abbr -->
+                            <rng:optional>
+                              <rng:element name="abbr">
+                                <rng:data type="string"/>
+                              </rng:element>
+                            </rng:optional>
+                            <!-- expan -->
+                            <rng:optional>
+                              <rng:element name="expan">
+                                <rng:oneOrMore>
+                                  <rng:choice>
+                                    <rng:zeroOrMore>
+                                      <rng:ref name="foreign"/>
+                                    </rng:zeroOrMore>
+                                    <rng:zeroOrMore>
+                                      <rng:ref name="title"/>
+                                    </rng:zeroOrMore>
+                                    <rng:zeroOrMore>
+                                      <rng:ref name="ptr"/>
+                                    </rng:zeroOrMore>
+                                    <rng:text/>
+                                  </rng:choice>
+                                </rng:oneOrMore>
+                              </rng:element>
+                            </rng:optional>
+                          </rng:element>
+                        </rng:oneOrMore>
+                      </rng:element>
+                    </rng:optional>
+                  </rng:element>
+                </rng:optional>
+                <!-- bibliography -->
+                <rng:element name="div">
+                  <rng:attribute name="type">
+                    <rng:choice>
+                      <rng:value>listBibl</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <!-- head -->
+                  <rng:optional>
+                    <!-- Should this be optional? -->
+                    <rng:element name="head">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>listBibl</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                      <rng:text/>
+                    </rng:element>
+                  </rng:optional>
+                  <!-- bibliography section -->
+                  <rng:zeroOrMore>
+                    <rng:element name="div">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>section</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                      <rng:oneOrMore>
+                        <rng:choice>
+                          <rng:optional>
+                            <rng:element name="head">
+                              <rng:optional>
+                                <rng:attribute name="type">
+                                  <rng:choice>
+                                    <rng:value>section</rng:value>
+                                  </rng:choice>
+                                </rng:attribute>
+                              </rng:optional>
+                              <rng:text/>
+                            </rng:element>
+                          </rng:optional>
+                          <rng:zeroOrMore>
+                            <rng:ref name="p"/>
+                          </rng:zeroOrMore>                          
+                          <rng:zeroOrMore>
+                            <rng:ref name="lb"/>
+                          </rng:zeroOrMore>
+                          <rng:zeroOrMore>
+                            <rng:element name="bibl">
+                              <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
+                                <rng:data type="ID"/>
+                              </rng:attribute>
+                              <rng:oneOrMore>
+                                <rng:choice>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="title"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="foreign"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="lb"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="ptr"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="ref"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:element name="author">
+                                      <rng:data type="string"/>
+                                    </rng:element>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:element name="date">
+                                      <rng:data type="string"/>
+                                    </rng:element>
+                                  </rng:zeroOrMore>
+                                  <rng:text/>
+                                </rng:choice>
+                              </rng:oneOrMore>
+                            </rng:element>
+                          </rng:zeroOrMore>
+                          <!-- bibliography sub-section (trying to do this with a macroSpec creates an infinite recursion error in
+                                  the Roma (tei-c.org/Roma/) generated documentation so it is needed to restate each level of 
+                                  sub-sectionings to get Roma documentation.) -->
+                          <rng:zeroOrMore>
+                            <rng:element name="div">
+                              <rng:attribute name="type">
+                                <rng:choice>
+                                  <rng:value>section</rng:value>
+                                </rng:choice>
+                              </rng:attribute>
+                              <rng:oneOrMore>
+                                <rng:choice>
+                                  <rng:optional>
+                                    <rng:element name="head">
+                                      <rng:optional>
+                                        <rng:attribute name="type">
+                                          <rng:choice>
+                                            <rng:value>section</rng:value>
+                                          </rng:choice>
+                                        </rng:attribute>
+                                      </rng:optional>
+                                      <rng:text/>
+                                    </rng:element>
+                                  </rng:optional>
+                                  <rng:zeroOrMore>
+                                    <rng:ref name="lb"/>
+                                  </rng:zeroOrMore>
+                                  <rng:zeroOrMore>
+                                    <rng:element name="bibl">
+                                      <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
+                                        <rng:data type="ID"/>
+                                      </rng:attribute>
+                                      <rng:oneOrMore>
+                                        <rng:choice>
+                                          <rng:zeroOrMore>
+                                            <rng:ref name="title"/>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:ref name="foreign"/>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:ref name="lb"/>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:ref name="ptr"/>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:ref name="ref"/>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:element name="author">
+                                              <rng:data type="string"/>
+                                            </rng:element>
+                                          </rng:zeroOrMore>
+                                          <rng:zeroOrMore>
+                                            <rng:element name="date">
+                                              <rng:data type="string"/>
+                                            </rng:element>
+                                          </rng:zeroOrMore>
+                                          <rng:text/>
+                                        </rng:choice>
+                                      </rng:oneOrMore>
+                                    </rng:element>
+                                  </rng:zeroOrMore>
+                                </rng:choice>
+                              </rng:oneOrMore>
+                            </rng:element>
+                          </rng:zeroOrMore>
+                        </rng:choice>
+                      </rng:oneOrMore>
+                    </rng:element>
+                  </rng:zeroOrMore>
+                </rng:element>
+                <!-- glossary -->
+                <rng:element name="div">
+                  <rng:attribute name="type">
+                    <rng:choice>
+                      <rng:value>glossary</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <rng:optional>
+                    <rng:element name="head">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>glossary</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                    </rng:element>
+                  </rng:optional>
+                  <!-- list -->
+                  <rng:optional>
+                    <!-- Should this be optional? -->
+                    <rng:element name="list">
+                      <rng:oneOrMore>
+                        <rng:element name="item">
+                          <rng:optional>
+                            <rng:element name="gloss">
+                              <rng:attribute name="id" ns="http://www.w3.org/XML/1998/namespace">
+                                <rng:data type="ID"/>
+                              </rng:attribute>
+                              <rng:attribute name="type">
+                                <rng:choice>
+                                  <rng:value>term</rng:value>
+                                  <rng:value>person</rng:value>
+                                  <rng:value>place</rng:value>
+                                  <rng:value>text</rng:value>
+                                </rng:choice>
+                              </rng:attribute>
+                              <rng:optional>
+                                <rng:attribute name="mode">
+                                  <rng:choice>
+                                    <rng:value>marked</rng:value>
+                                    <rng:value>match</rng:value>
+                                  </rng:choice>
+                                </rng:attribute>
+                              </rng:optional>
+                              <!-- term -->
+                              <rng:oneOrMore>
+                                <rng:element name="term">
+                                  <rng:oneOrMore>
+                                    <rng:choice>
+                                      <rng:text/>
+                                      <rng:zeroOrMore>
+                                        <rng:ref name="term"/>
+                                      </rng:zeroOrMore>
+                                      <rng:zeroOrMore>
+                                        <rng:ref name="foreign"/>
+                                      </rng:zeroOrMore>
+                                      <rng:zeroOrMore>
+                                        <rng:ref name="title"/>
+                                      </rng:zeroOrMore>
+                                      <rng:zeroOrMore>
+                                        <rng:element name="emph">
+                                          <rng:data type="string"/>
+                                        </rng:element>
+                                      </rng:zeroOrMore>
+                                      <rng:zeroOrMore>
+                                        <rng:ref name="ptr"/>
+                                      </rng:zeroOrMore>
+                                    </rng:choice>
+                                  </rng:oneOrMore>
+                                  <rng:optional>
+                                    <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                                      <rng:choice>
+                                        <rng:value type="language">en</rng:value>
+                                        <rng:value type="language">Bo-Ltn</rng:value>
+                                        <rng:value type="language">bo</rng:value>
+                                        <rng:value type="language">Sa-Ltn</rng:value>
+                                        <rng:value type="language">la</rng:value>
+                                        <rng:value type="language">pi</rng:value>
+                                        <rng:value type="language">zh</rng:value>
+                                        <rng:value type="language">fr</rng:value>
+                                        <rng:value type="language">de</rng:value>
+                                        <rng:value type="language">ja</rng:value>
+                                        <rng:value type="language">it</rng:value>
+                                        <rng:value type="language">Zh-Ltn</rng:value>
+                                        <rng:value type="language">el</rng:value>
+                                        <rng:value type="language">th</rng:value>
+                                      </rng:choice>
+                                    </rng:attribute>
+                                  </rng:optional>
+                                  <rng:optional>
+                                    <rng:attribute name="type">
+                                      <rng:choice>
+                                        <rng:value>definition</rng:value>
+                                        <rng:value>alternative</rng:value>
+                                      </rng:choice>
+                                    </rng:attribute>
+                                  </rng:optional>
+                                </rng:element>
+                              </rng:oneOrMore>
+                            </rng:element>
+                          </rng:optional>
+                        </rng:element>
+                      </rng:oneOrMore>
+                      <rng:optional>
+                        <rng:attribute name="type"/>
+                      </rng:optional>
+                    </rng:element>
+                  </rng:optional>
+                </rng:element>
+                <!-- appendix -->
+                <rng:optional>
+                  <rng:element name="div">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>appendix</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:optional>
+                      <rng:element name="head">
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>appendix</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                        <rng:text/>
+                      </rng:element>
+                      <rng:element name="head">
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>titleMain</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                        <rng:text/>
+                      </rng:element>
+                    </rng:optional>
+                    <rng:ref name="translation-section"/>
+                    <rng:oneOrMore>
+                      <rng:ref name="translation-chapter"/>
+                    </rng:oneOrMore>
+                  </rng:element>
+                </rng:optional>
+              </rng:choice>
+            </rng:oneOrMore>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -733,6 +1013,7 @@
         <elementSpec ident="bibl" module="core" mode="change">
           <classes mode="change">
             <memberOf key="att.typed" mode="delete"/>
+            <memberOf key="att.global.rendition" mode="delete"/>
           </classes>
           <attList>
             <attDef ident="xml:lang" mode="delete"/>
@@ -776,7 +1057,101 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="div" minOccurs="1" maxOccurs="unbounded"/>
+            <rng:element name="body">
+              <!-- translation -->
+              <rng:element name="div">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>translation</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:element name="head">
+                  <rng:attribute name="type">
+                    <rng:choice>
+                      <rng:value>translation</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <rng:text/>
+                </rng:element>
+                <rng:optional>
+                  <rng:element name="head">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>titleHon</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:text/>
+                  </rng:element>
+                </rng:optional>
+                <rng:element name="head">
+                  <rng:attribute name="type">
+                    <rng:choice>
+                      <rng:value>titleMain</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <rng:text/>
+                </rng:element>
+                <rng:zeroOrMore>
+                  <rng:ref name="translation-section"/>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                  <rng:ref name="translation-chapter"/>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                  <rng:element name="div">
+                    <rng:attribute name="type">
+                      <rng:choice>
+                        <rng:value>colophon</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:oneOrMore>
+                      <rng:choice>
+                        <rng:optional>
+                          <rng:element name="head">
+                            <rng:attribute name="type">
+                              <rng:choice>
+                                <rng:value>colophon</rng:value>
+                              </rng:choice>
+                            </rng:attribute>
+                            <rng:text/>
+                          </rng:element>
+                        </rng:optional>
+                        <rng:zeroOrMore>
+                          <rng:ref name="milestone"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="paragraph"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="ab"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="q"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="lg"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="trailer"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:ref name="list"/>
+                        </rng:zeroOrMore>
+                        <rng:zeroOrMore>
+                          <rng:element name="label">
+                            <rng:data type="string"/>
+                          </rng:element>
+                        </rng:zeroOrMore>
+                        <!-- sections -->
+                        <rng:zeroOrMore>
+                          <rng:ref name="translation-section"/>
+                        </rng:zeroOrMore>
+                      </rng:choice>
+                    </rng:oneOrMore>
+                  </rng:element>
+                </rng:zeroOrMore>
+              </rng:element>
+            </rng:element>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -831,7 +1206,10 @@
             <memberOf key="att.typed" mode="delete"/>
           </classes>
           <content>
-            <textNode/>
+            <rng:data type="integer">
+              <rng:param name="minInclusive">2010</rng:param>
+              <rng:param name="maxInclusive">2020</rng:param>
+            </rng:data>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -878,7 +1256,11 @@
             <textNode/>
           </content>
           <attList>
-            <attDef ident="type" mode="delete"/>
+            <attDef ident="type" mode="change">
+              <valList type="closed">
+                <valItem ident="term"/>
+              </valList>
+            </attDef>
             <attDef ident="time" mode="delete"/>
             <attDef ident="space" mode="delete"/>
             <attDef ident="social" mode="delete"/>
@@ -1010,7 +1392,16 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="edition"/>
+            <rng:element name="edition">
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:text/>
+                  <rng:element name="date">
+                    <rng:text/>
+                  </rng:element>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </rng:element>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -1159,9 +1550,12 @@
           </remarks>
         </elementSpec>
         <elementSpec ident="foreign" module="core" mode="change">
+          <classes mode="change">
+            <memberOf key="att.global.rendition" mode="delete"/>
+          </classes>
           <attList>
             <attDef ident="xml:id" mode="delete"/>
-            <attDef ident="xml:lang" mode="change" usage="req"/>
+            <attDef ident="xml:lang" mode="change" usage="opt"/>
             <attDef ident="type" mode="add">
               <desc>Identifies a word or phrase as belonging to some language other than that of the
                 surrounding text. Denotes also that the word or phrase in question will appear in
@@ -1233,7 +1627,145 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="div" minOccurs="1" maxOccurs="unbounded"/>
+            <rng:group>
+              <rng:element name="div">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>summary</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:oneOrMore>
+                  <rng:choice>
+                    <rng:element name="head">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>summary</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                      <rng:text/>
+                    </rng:element>
+                    <rng:zeroOrMore>
+                      <rng:ref name="milestone"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="paragraph"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="lg"/>
+                    </rng:zeroOrMore>
+                  </rng:choice>
+                </rng:oneOrMore>
+              </rng:element>
+              <!-- acknowledgment -->
+              <rng:element name="div">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>acknowledgment</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:oneOrMore>
+                  <rng:choice>
+                    <rng:element name="head">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>acknowledgment</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                      <rng:text/>
+                    </rng:element>
+                    <rng:zeroOrMore>
+                      <rng:ref name="milestone"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="paragraph"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="lg"/>
+                    </rng:zeroOrMore>
+                  </rng:choice>
+                </rng:oneOrMore>
+              </rng:element>
+              <!-- introduction -->
+              <rng:element name="div">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>introduction</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:oneOrMore>
+                  <rng:choice>
+                    <rng:element name="head">
+                      <rng:attribute name="type">
+                        <rng:choice>
+                          <rng:value>introduction</rng:value>
+                        </rng:choice>
+                      </rng:attribute>
+                      <rng:text/>
+                    </rng:element>
+                    <rng:zeroOrMore>
+                      <rng:ref name="milestone"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="paragraph"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="ptr"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="ab"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="lg"/>
+                    </rng:zeroOrMore>
+                    <rng:zeroOrMore>
+                      <rng:ref name="lb"/>
+                    </rng:zeroOrMore>
+                    <!-- sections -->
+                    <rng:zeroOrMore>
+                      <rng:element name="div">
+                        <rng:attribute name="type">
+                          <rng:choice>
+                            <rng:value>section</rng:value>
+                          </rng:choice>
+                        </rng:attribute>
+                        <rng:oneOrMore>
+                          <rng:choice>
+                            <rng:optional>
+                              <rng:element name="head">
+                                <rng:attribute name="type">
+                                  <rng:choice>
+                                    <rng:value>section</rng:value>
+                                  </rng:choice>
+                                </rng:attribute>
+                                <rng:text/>
+                              </rng:element>
+                            </rng:optional>
+                            <rng:zeroOrMore>
+                              <rng:ref name="milestone"/>
+                            </rng:zeroOrMore>
+                            <rng:zeroOrMore>
+                              <rng:ref name="paragraph"/>
+                            </rng:zeroOrMore>
+                            <rng:zeroOrMore>
+                              <rng:ref name="ab"/>
+                            </rng:zeroOrMore>
+                            <rng:zeroOrMore>
+                              <rng:ref name="q"/>
+                            </rng:zeroOrMore>
+                            <rng:zeroOrMore>
+                              <rng:ref name="lb"/>
+                            </rng:zeroOrMore>
+                            <rng:zeroOrMore>
+                              <rng:ref name="list"/>
+                            </rng:zeroOrMore>
+                          </rng:choice>
+                        </rng:oneOrMore>
+                      </rng:element>
+                    </rng:zeroOrMore>
+                  </rng:choice>
+                </rng:oneOrMore>
+              </rng:element>
+            </rng:group>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -1283,6 +1815,7 @@
         </elementSpec>
         <elementSpec ident="gloss" module="core" mode="change">
           <classes mode="change">
+            <memberOf key="att.global.rendition" mode="delete"/>
             <memberOf key="att.translatable" mode="delete"/>
             <memberOf key="att.pointing" mode="delete"/>
             <memberOf key="att.cReferencing" mode="delete"/>
@@ -1389,6 +1922,7 @@
               <valList type="closed" mode="replace">
                 <valItem ident="summary"/>
                 <valItem ident="introduction"/>
+                <valItem ident="appendix"/>
                 <valItem ident="acknowledgment"/>
                 <valItem ident="translation"/>
                 <valItem ident="titleHon"/>
@@ -1400,6 +1934,7 @@
                 <valItem ident="chapterTitle"/>
               </valList>
             </attDef>
+            <attDef ident="tid" mode="add" usage="opt"/>
           </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -1440,6 +1975,9 @@
           </remarks>
         </elementSpec>
         <elementSpec ident="idno" module="header" mode="change">
+          <classes mode="change">
+            <memberOf key="att.global.rendition" mode="delete"/>
+          </classes>
           <content>
             <empty/>
           </content>
@@ -1469,8 +2007,20 @@
           </remarks>
         </elementSpec>
         <elementSpec ident="item" module="core" mode="change">
+          <classes mode="change">
+            <memberOf key="att.global.rendition" mode="delete"/>
+          </classes>
           <attList>
             <attDef ident="xml:lang" mode="delete"/>
+            <attDef ident="n" mode="add" usage="opt">
+              <desc>Used to number the items in an outline. This should follow arabic numbers with
+                periods separating subsections as in: "1.1" "1.2.1" etc. </desc>
+            </attDef>
+            <attDef ident="style" mode="add" usage="opt">
+              <valList type="closed">
+                <valItem ident="bullet l3"/>
+              </valList>
+            </attDef>
           </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -1704,7 +2254,8 @@
           </remarks>
         </elementSpec>
         <elementSpec ident="license" module="header" mode="change">
-          <classes mode="change">
+          <classes>
+            <memberOf key="att.global.rendition" mode="delete"/>
             <memberOf key="att.global" mode="delete"/>
             <memberOf key="att.pointing" mode="delete"/>
           </classes>
@@ -1748,6 +2299,15 @@
               <valList type="closed">
                 <valItem ident="glossary"/>
                 <valItem ident="abbreviations"/>
+              </valList>
+            </attDef>
+            <attDef ident="rend" mode="add" usage="opt">
+              <desc>Describes how the list is to be rendered in the web display. This can be used
+                for instance, to create a bulleted list that will be rendred in the 84000 reading
+                room.</desc>
+              <valList type="closed">
+                <valItem ident="bulleted"/>
+                <valItem ident="numbered"/>
               </valList>
             </attDef>
           </attList>
@@ -1856,6 +2416,11 @@
             <attDef ident="index" mode="add" usage="opt">
               <desc>Gives the number of the note.</desc>
             </attDef>
+            <attDef ident="type" mode="change">
+              <valList type="closed">
+                <valItem ident="lastUpdated"/>
+              </valList>
+            </attDef>
           </attList>
           <exemplum>
             <p>All of the <gi>note</gi>s in the front matter and body of text require the following
@@ -1948,7 +2513,7 @@
             <memberOf key="att.cReferencing" mode="delete"/>
           </classes>
           <content>
-            <empty/>
+            <textNode/>
           </content>
           <attList>
             <attDef ident="target" mode="change" usage="req"/>
@@ -2015,8 +2580,24 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="name"/>
-            <textNode/>
+            <rng:oneOrMore>
+              <rng:choice>
+                <rng:text/>
+                <rng:optional>
+                  <rng:element name="name">
+                    <rng:text/>
+                  </rng:element>
+                </rng:optional>
+                <rng:zeroOrMore>
+                  <rng:ref name="lb"/>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
+                  <rng:element name="emph">
+                    <rng:data type="string"/>
+                  </rng:element>
+                </rng:zeroOrMore>
+              </rng:choice>
+            </rng:oneOrMore>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -2033,7 +2614,8 @@
           </remarks>
         </elementSpec>
         <elementSpec ident="q" module="core" mode="change">
-          <desc>contains material which is distinguished from the surrounding text as a block quote</desc>
+          <desc>contains material which is distinguished from the surrounding text as a block
+            quote</desc>
           <classes mode="change">
             <memberOf key="att.global" mode="delete"/>
             <memberOf key="att.global.rendition" mode="delete"/>
@@ -2051,35 +2633,34 @@
             <attDef ident="type" mode="delete"/>
           </attList>
           <exemplum>
-            <p>For example, in The Play in Full, Toh 95, a two paragraphs from the body of the text 
-            are quoted in the introduction. Here they are placed within a <gi>q</gi> element to set 
-            them apart as a block quote.</p>
+            <p>For example, in The Play in Full, Toh 95, a two paragraphs from the body of the text
+              are quoted in the introduction. Here they are placed within a <gi>q</gi> element to
+              set them apart as a block quote.</p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <q>
                 <p tid="9"> “Blessed One, there is an extensive collection of discourses on the
-                  Dharma that bears the name <title xml:lang="Sa-Ltn">Lalitavistara</title> (<title xml:lang="en">The Play in
-                    Full</title>). This teaching illuminates the basic virtues of the
-                  bodhisattvas, showing how the Bodhisattva descended from the sublime
-                  palace in the Heaven of Joy, intentionally entered the womb, and
-                  sojourned in the womb. It shows the power of the place where he was born
-                  to a noble family, and how he surpassed others through all the superior
-                  special qualities that he demonstrated through his actions as a youth.
-                  It shows his many unique qualities, such as his skills in arts, crafts,
-                  writing, arithmetic, calculations, astrology, fencing, archery, feats of
-                  physical strength, and wrestling, demonstrating his superiority to all
-                  others in these areas. It shows how he enjoyed his retinue of consorts
-                  and the pleasures of his kingdom. </p>
-                <p tid="10"> “This teaching proclaims how he attained the result brought about by the
-                  concordant cause of all the bodhisattva activities, showing how he
-                  manifested as a bodhisattva and destroyed the legions of Māra. It
-                  explains the ten powers, the fourfold fearlessness, and the other
-                  innumerable qualities of a thus-gone one, and presents the infinite
-                  teachings taught by the thus-gone ones of times past.” </p>
+                  Dharma that bears the name <title xml:lang="Sa-Ltn">Lalitavistara</title> (<title xml:lang="en">The Play in Full</title>). This teaching illuminates the basic
+                  virtues of the bodhisattvas, showing how the Bodhisattva descended from the
+                  sublime palace in the Heaven of Joy, intentionally entered the womb, and sojourned
+                  in the womb. It shows the power of the place where he was born to a noble family,
+                  and how he surpassed others through all the superior special qualities that he
+                  demonstrated through his actions as a youth. It shows his many unique qualities,
+                  such as his skills in arts, crafts, writing, arithmetic, calculations, astrology,
+                  fencing, archery, feats of physical strength, and wrestling, demonstrating his
+                  superiority to all others in these areas. It shows how he enjoyed his retinue of
+                  consorts and the pleasures of his kingdom. </p>
+                <p tid="10"> “This teaching proclaims how he attained the result brought about by
+                  the concordant cause of all the bodhisattva activities, showing how he manifested
+                  as a bodhisattva and destroyed the legions of Māra. It explains the ten powers,
+                  the fourfold fearlessness, and the other innumerable qualities of a thus-gone one,
+                  and presents the infinite teachings taught by the thus-gone ones of times past.”
+                </p>
               </q>
             </egXML>
           </exemplum>
           <remarks>
-            <p>84000 decuments uses the <gi>q</gi> element to set off a section of text to appear as a block quote in the web display.</p>
+            <p>84000 decuments uses the <gi>q</gi> element to set off a section of text to appear as
+              a block quote in the web display.</p>
           </remarks>
         </elementSpec>
         <elementSpec ident="ref" module="core" mode="change">
@@ -2091,7 +2672,17 @@
               <desc>Identifies the type of a reference</desc>
               <valList type="closed" mode="replace">
                 <valItem ident="bampo"/>
+                <valItem ident="sanskrit"/>
+                <valItem ident="url"/>
               </valList>
+            </attDef>
+            <attDef ident="key" mode="add" usage="opt">
+              <desc>Identifies the Toh. number of the text to which a folio reference is linked to.
+                This is used for texts for which there are multiple copies found in the Kangyur.
+                Usually, if the texts are identicle but have different folio numbers, we will just
+                use one TEI file for both texts, but the web display will show the appropriate folio
+                references according to key attribute found within the <gi>ref</gi> element. For
+                example see Toh. 193 (UT2204-061-013).</desc>
             </attDef>
           </attList>
           <exemplum>
@@ -2147,7 +2738,47 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <elementRef key="bibl"/>
+            <rng:oneOrMore>
+              <rng:element name="bibl">
+                <rng:element name="ref">
+                  <rng:data type="string"/>
+                </rng:element>
+                <rng:text/>
+                <rng:element name="biblScope">
+                  <rng:zeroOrMore>
+                    <rng:choice>
+                      <rng:text/>
+                      <rng:ref name="lb"/>
+                    </rng:choice>
+                  </rng:zeroOrMore>
+                </rng:element>
+                <rng:optional>
+                  <rng:element name="series">
+                    <rng:data type="string"/>
+                  </rng:element>
+                </rng:optional>
+                <rng:optional>
+                  <rng:attribute name="key">
+                    <rng:data type="integer"/>
+                  </rng:attribute>
+                </rng:optional>
+                <rng:optional>
+                  <rng:element name="citedRange">
+                    <rng:data type="string"/>
+                  </rng:element>
+                </rng:optional>
+                <rng:zeroOrMore>
+                  <rng:element name="author">
+                    <rng:attribute name="role">
+                      <rng:choice>
+                        <rng:value>translatorTib</rng:value>
+                      </rng:choice>
+                    </rng:attribute>
+                    <rng:text/>
+                  </rng:element>
+                </rng:zeroOrMore>
+              </rng:element>
+            </rng:oneOrMore>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -2286,7 +2917,7 @@
               of the text or elsewhere, in order to alter the way strings for that term will be
               linked in the web display. For example, a string of text can bypass being linked if it
               is placed within a <tag>term type="ignore"</tag> as like the following example. For
-              more details on how the glossary functions on the web page see Appendix A.</p>
+              more details on how the glossary functions on the web page see <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">Appendix B</ref>.</p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">Indeed he is a Dharma king who <term type="ignore">guides</term> according to the Dharma.</egXML>
           </exemplum>
           <remarks>
@@ -2303,7 +2934,7 @@
               the term within the text that should be linked to this gloss, they are listed last
               with type="alternative". This will also link instances of this alternative string
               throughout the text to this glossary entry. All of this can be seen in the following
-              example. For further notes about the glossary see Appendix A.</p>
+              example. For further notes about the glossary see <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">Appendix B</ref>.</p>
           </remarks>
         </elementSpec>
         <elementSpec ident="text" module="textstructure" mode="change">
@@ -2351,8 +2982,8 @@
               </valList>
             </attDef>
             <attDef ident="xml:id" mode="delete"/>
-            <attDef ident="level" mode="delete"/>
-            <attDef ident="xml:lang" mode="change" usage="req"/>
+            <attDef ident="level" mode="change" usage="opt"/>
+            <attDef ident="xml:lang" mode="change" usage="opt"/>
           </attList>
           <exemplum>
             <p>Below is an example from the <gi>titleStmt</gi> in the teiHeader in Toh 127:</p>
@@ -2399,10 +3030,121 @@
             <memberOf key="att.global" mode="delete"/>
           </classes>
           <content>
-            <sequence>
-              <elementRef key="title" maxOccurs="7" minOccurs="7"/>
-              <elementRef key="author" minOccurs="1" maxOccurs="unbounded"/>
-            </sequence>
+            <rng:group>
+              <!-- titles -->
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>mainTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">bo</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>mainTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">en</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>mainTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">Sa-Ltn</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <!-- long titles -->
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>longTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">bo</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>longTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">Bo-Ltn</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>longTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">en</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <rng:element name="title">
+                <rng:attribute name="type">
+                  <rng:choice>
+                    <rng:value>longTitle</rng:value>
+                  </rng:choice>
+                </rng:attribute>
+                <rng:attribute name="lang" ns="http://www.w3.org/XML/1998/namespace">
+                  <rng:value type="language">Sa-Ltn</rng:value>
+                </rng:attribute>
+                <rng:text/>
+              </rng:element>
+              <!-- authors -->
+              <rng:oneOrMore>
+                <rng:element name="author">
+                  <rng:attribute name="role">
+                    <rng:choice>
+                      <rng:value>translatorMain</rng:value>
+                      <rng:value>translatorEng</rng:value>
+                      <rng:value>translator</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <rng:zeroOrMore>
+                    <rng:choice>
+                      <rng:text/>
+                      <rng:ref name="lb"/>
+                    </rng:choice>
+                  </rng:zeroOrMore>
+                </rng:element>
+              </rng:oneOrMore>
+              <!-- editors -->
+              <rng:zeroOrMore>
+                <rng:element name="editor">
+                  <rng:attribute name="role">
+                    <rng:choice>
+                      <rng:value>editorEng</rng:value>
+                    </rng:choice>
+                  </rng:attribute>
+                  <rng:zeroOrMore>
+                    <rng:choice>
+                      <rng:text/>
+                      <rng:ref name="lb"/>
+                    </rng:choice>
+                  </rng:zeroOrMore>
+                </rng:element>
+              </rng:zeroOrMore>
+            </rng:group>
           </content>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -2500,6 +3242,360 @@
       </schemaSpec>
     </body>
     <back>
+      <div>
+        <head>Checklist for 84000 TEI Markup Editors</head>
+        <div>
+          <head>Enter the Word DOC into the Template</head>
+          <p>(If this hasn't already been done by the copy editors. However, if you receive a text
+            form the copy editors, it is important to check their work and make sure the text has
+            been placed properly into the template.)</p>
+          <list>
+            <item>In general you can follow the instructions written into the template.</item>
+            <item>Paste the text into all the appropriate sections using the "Heading 1,2" styles to
+              outline the text. Make sure that the style “Heading 3” or higher isn’t used anywhere
+              in the document, as that information will be lost in the conversion process. Any
+              headings for third level subsections (or more) written by the translator should be set
+              to the “Normal” style in the style set. </item>
+            <item>Apply all the various styles to the italics in the text</item>
+            <item>Apply the "verse style" to verses and format the verses (change the display
+              settings to show paragraph marks and line breaks so you can see more clearly if they
+              are formatted correctly).</item>
+          </list>
+        </div>
+        <div>
+          <head>Transform the New DOC To TEI-XML</head>
+          <list>
+            <item>At some point we will develop a script to do this, but until then</item>
+            <item>Use oxgarage at: <ref target="http://www.tei-c.org/oxgarage/">http://www.tei-c.org/oxgarage/</ref> using this platform change “Microsoft Word
+              .docx” to “TEI P5 XML Document” </item>
+            <item>Download and open the XML in oXygen and use the .xslt style sheet to transform the
+              XML document. to do this:<list>
+                <item>A. Click on “Configure Transformation Scenarios” (it should be a wrench with a
+                  red arrow on the oXygen ribbon.</item>
+                <item>B. Select “New” &gt; “XML transformation with XSLT”</item>
+                <item>C. For the XSL URL: click on the drop down menu next to the folder and select
+                  “Browse Data Source Explorer”</item>
+                <item>D. Select 84000 Collaborations &gt; apps &gt; 84000-reading-room-collab &gt;
+                  data &gt; xslt &gt; oxGto84000.xsl</item>
+                <item>E. For the “Transformer:” select “Saxon-PE 9.6.0.7” from the drop down
+                  menu.</item>
+                <item>F. Click on the “Output” tab and check the box that says “Open in
+                  Editor”</item>
+                <item>G. Click okay, and then select “apply associated” (the transformation scenario
+                  you just made should be ticked under “projects”)</item>
+              </list>
+            </item>
+            <item>This should create a file that is closer to what we want. However, the
+                <gi>teiHeader</gi> will definitely need some reworking. If any further "<gi>hi</gi>"
+              tags or other tags need to be changed through out the individually the refactoring
+              tool is very helpful for this (Tools &gt; XML Refactoring...)</item>
+          </list>
+        </div>
+        <div>
+          <head>Edit the XML</head>
+          <list>
+            <item>Save the XML to the 84000 collaboration database and begin editing the XML so that
+              it may be displayed on the web page.</item>
+            <item>In general, while going through the text, it is important to refer back to the
+              .docx you received from the copy editor. If the document has an unusually formatted
+              outline, some portions of text may be lost in the XSLT conversion. A good way to check
+              this is open the original .docx and look at the outline of the text (On PC go to
+              “View” and check the box that says “Show Navigation Pane”; on Mac go to “View” &gt;
+              “Sidebar” &gt; “Document Map Pane”; this might be different for other versions of
+              Word). For example if there are any third level headers or extra divisions in the
+              summary or acknowledgements these sections may disappear. It is particularly good to
+              check the front material, and the bibliography for anything unusual.</item>
+            <item>Make sure all the elements are nested properly (It should give you errors if they
+              are not)</item>
+            <item>Look for all "<gi>hi</gi>" and remover or change them appropriately</item>
+            <item>Look for any weird tags that shouldn't be there like "type="endnote text"" or any
+              other relics from the oxgarage/script conversion</item>
+            <item>Look for any mistakes: typos, mislabled tags, etc...</item>
+            <item>Using a previously edited TEI document as a model, make sure everything is
+              formatted in the same way.</item>
+            <item>Add the appropriate "type" attributes to all the <gi>div</gi> elements (use a
+              previously edited TEI doc as a model)</item>
+            <item>Milestones should be generated automatically by the script before every <gi>p</gi>
+              element and <gi>lg</gi> element; however, we don't use milestones as uniformly as
+              this, and some of the milestones will need to be taken out (<ref target="NewODD_doc-2.html#index.xml-back.1_div.2"> for instructions on how to do
+                this see appendix C</ref>). </item>
+            <item>Note that all "xml:id" attributes, "tid" attributes in the <gi>p</gi> elements,
+              and "index" attributes in the <gi>note</gi> elements will be added automatically when
+              you upload the XML, so you don't need to worry about adding these.</item>
+            <item>
+              <gi>note</gi>s cannot be in left headers or titles, move these notes into an
+              appropriate place within the text itself.</item>
+            <item>Apply the Schema which should be in “84000 Collaboration &gt; apps &gt;
+              84000-reading-room-collab &gt; data &gt; schema &gt; 1.0 &gt; tei.rng” . You will see
+              any schema errors as red bars on the right column in the oXygen window. Note that the
+              schema isn’t perfect yet so some errors might not really be errors and some errors
+              might be missing, however the schema is the best way to see if the XML is going to
+              work correctly in the parser. If later on you have trouble saving to the database or
+              you can save to the database but the web page will not display the text, then checking
+              for schema errors in oXygen is the best way to start. If it says that there is an
+              error in a place where you don’t think there is really an error but you need to text
+              the XML for web display, you can comment out that section with comment tags:<lb/>
+              &lt;!-- --&gt;(or highlight and press Ctrl-Shift “,”) then you can will be able to
+              temporarily block all the seeming schema errors to help identify the problem. </item>
+          </list>
+        </div>
+        <div>
+          <head>Transform and Edit the Glossary</head>
+          <list>
+            <item>Transform the xlsx file with the “convert-glossary-from-tei.py” python
+              script.</item>
+            <item>Note, you might not be familiar with python script, python can be a bit finicky so
+              go ahead and give it a try, but Celso and Mike can do these transformations later if
+              you can’t get python running on your computer or if the script isn’t working properly.
+              I couldn’t get the right version of python to run on my PC, but I did get it to run on
+              my Mac. If you are able to get it on PC please add those instructions and update this
+              checklist:</item>
+            <item>
+              <label>Running Python on Mac:</label>
+              <list>
+                <item>1. Download and install the latest version of Python 3. I believe the script
+                  we use won’t work in Python 2. I use the mac version 3.6.3</item>
+                <item>2. Now that you have python installed, create a folder on your desk top and
+                  name it “convert” This will be the folder inside of which all your conversions
+                  will occur. You will need to have Celso or Mike email the python script to you.
+                  The script is a file labeled “convert-glossary-from-tei.py”. Put this file in the
+                  “convert” folder you just created.</item>
+                <item>3. First we need to convert the .xlsx file into an .xml file using oxgarage.
+                  We can do this the same way we converted the .docx file earlier: convert from
+                  spreadsheet &gt; .xlsx to “TEI P5 XML Document” (Note, I’ve tried this with .xls
+                  spreadsheets and it hasn’t worked, if this happens try saving the .xls as a .xlsx
+                  with Excel and trying again. Also sometimes the Oxgarage will stop working and
+                  then suddenly a week lately it will work again. Sorry, I know this is frustrating,
+                  contact Celso or Mike if you are running into this hurdle.)</item>
+                <item>4. Now take the .xml file converted from oxgarage and place it in the
+                  “convert” folder on your desk top. Change the name of this .xml file to
+                  “input.xml”</item>
+                <item>5. Now we can run the script. The easiest way on the mac is to open an
+                  application called IDLE, which comes with the python download. It should be in the
+                  main Python folder after you install it.</item>
+                <item>6. Open IDLE and go to “file &gt; open” and open the
+                  “convert-glossary-from-tei.py” file. This should open up a new window which will
+                  show the script as a bunch of code. From this new window go to “Run &gt; Run
+                  Module”. This will run the script and create the converted file in the folder you
+                  made with the name “output.xml”</item>
+                <item>7. The script is finicky and often times it won’t work. Sometimes is will
+                  break halfway through and the file will be incomplete. If you get an error message
+                  open up the “input.xml” file with oxygen or any text editor. The most likely
+                  problem is that there is an empty row in the spreadsheet that is causing the
+                  script to break. For instance you will see in the text rows labeled as &lt;row
+                  n="1"&gt; followed by a bunch of &lt;cells&gt; and then &lt;row n=”2”&gt; and so
+                  forth. Most of the &lt;cells&gt; had the data from the .xslx file, but see if you
+                  can find where the &lt;row&gt; is suddenly followed by a bunch of empty unused
+                  cells. Delete those empty cells (just for that row) and try running the script
+                  again. If it still isn’t working you can try sending it to me (Celso) and I can
+                  try to find out why it isn’t working.</item>
+              </list>
+            </item>
+            <item>
+              <hi rend="bold">Continuing with step 4. Transforming and Editing the Glossary:</hi> If
+              you get the script to work, or have someone else convert it for you, you can then
+              paste it into the XML text you are working on. Use another already published TEI file
+              as a model.</item>
+            <item>Edit the glossary. Note that when you save the file to the database it will add
+              various attributes like the “xml:id”, and “priority”, so you don’t need to worry about
+              adding these.</item>
+            <item>Check for errors and make sure the tags are nested properly. Use previously edited
+              84000 TEI XMLs as a model. You might want to save it first, so it automatically adds
+              all the attributes and so forth.</item>
+          </list>
+        </div>
+        <div>
+          <head>Add Optional Soft-Hyphens to Sanskrit Chains</head>
+          <p>Note that only editors with a basic understanding of spelling and sandhi rules of
+            Sanskrit should proceed with this step. You don't need to be an expert in Sanskrit, as
+            most words can be looked up in online references, however, for this step editors will
+            need to have a clear grasp on how the sandhi rules in Sanskrit work. If not please
+            request that another editor with this skill to complete this task.</p>
+          <list>
+            <item>Look for long Sanskrit chains, and add optional soft-hyphens at points where there
+              are chains that are 15+ characters long. (Note: you should have some familiarity with
+              Sanskrit to do this task, if not please ask another editor to do this part) Optional
+              soft-hyphens are created with the character code: <egXML xmlns="http://www.tei-c.org/ns/Examples">&amp;#173;</egXML>Note after you save the
+              XML these will look like regular hyphens, but if you move the blinking cursor to the
+              space just before the hyphen you will notice there is a different character code
+              displayed at the bottom of the oXygen screen.</item>
+            <item>The long Sanskrit chains can be found easily by going to Window &gt; Show View
+              &gt; XPath/XQuery Builder, then in the XPath/XQuery Builder window type the following
+              code and press the red play button:<code>//*[string-length(string()) &gt; 14 and
+                @xml:lang ='Sa-Ltn']</code> You can save this query for later by clicking on the
+              star and choosing "add to favourites."</item>
+            <item>Be careful when adding the soft hyphens as they should only be placed at certain
+              points in the words where they do not interfere with the Sanskrit rules of sandhi.
+              When adding the soft hyphens please follow the following guidelines:</item>
+            <item>
+              <label>Guidelines for adding Soft-Hyphens to Sanskrit</label>
+              <list>
+                <item>
+                  <p>1. As we are not using full justification anyway, (a) most Sanskrit words don’t
+                    need hyphenation unless they are longer than 5 or 6 syllables, but (b) may be
+                    necessary for shorter words especially in text titles on the title page. I
+                    therefore tend to place soft hyphens in all of the text titles, in verse
+                    passages, in the bibliography entries, and in notes and glossary entries (which
+                    require shorter lines in general).</p>
+                </item>
+                <item>
+                  <p>2. Place a soft hyphen (a) only between the words of a compound; (b) even then
+                    only when there are no changes brought about by sandhi (because putting a hyphen
+                    would logically mean undoing the sandhi, and the hyphens we’re talking about may
+                    or may not appear; and (c) avoiding confusing remnants.</p>
+                  <p>A couple of examples:</p>
+                  <p>Ratnagotravibhāgottaratantraśāstra would be
+                    Ratna-gotra-vibhāgottara-tantra-śāstra. If we divided the 5-syllable sequence in
+                    the middle, that would have to undo the sandhi and become -vibhāga-uttara- which
+                    only works in the presence of a hard hyphen. Theoretically we could put a hyphen
+                    at vi-bhāga, but that would risk leaving us with -gotravi- , which would be
+                    potentially confusing to read.</p>
+                  <p>The maximum we could hyphenate antānantaḍṛṣṭivāsanābhisaṃdhisamuccedaka would
+                    be antānanta-ḍṛṣṭi-vāsanābhi-saṃdhi-sam-ucchedaka, because antānanta and
+                    vāsanābhi-saṃdhi would become anta-ananta and vāsana-abhi-saṃdhi. In a case like
+                    that, I would also prefer to avoid ending up with
+                    antānantaḍṛṣṭivāsanābhi-saṃdhisamuccedaka, because the abhi- really belongs with
+                    the saṃdhi; it’s a possible break but is confusing to read.</p>
+                </item>
+                <item>One resource that is helpful for determining the breaks in Sanskrit chains in
+                  the online <ref target="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.html">Cologne Sanskrit Dictionary</ref>. This one is really helpful because it has a
+                  drop down menu of similarly spelled words when you hit the enter key, however, I
+                  think this only works when you use the <ref target="https://en.wikipedia.org/wiki/Harvard-Kyoto">Kyoto-Harvard
+                    Transliteration scheme</ref> "KH". I don't know you might try the other ones but
+                  I found that this is the only one that gave the drop down list for me. Than when
+                  you find a big word in the dictionary in the definition entry you will see *
+                  whenever there is sandhi, though this isn't 100% reliable, sometimes it is missing
+                  for some reason, so be careful if the spelling looks weird.</item>
+                <item>In certain cases there may be long 15+ Sanskrit chains that cannot be broken
+                  due to the sandhi, or long Sanskrit compounds whose pieces cannot be easily
+                  determined with online resources. If this is the case make a list of problematic
+                  instances to note to the leading editors, also check these instances to see if the
+                  pose any major difficultly for the web display. These instances are rare, but they
+                  do come up now and then.</item>
+                <item>It is acceptable to add an optional hyphen at the end of "mahā-" as in
+                  "mahā-yāna" even though technically the long ā would be lost as this is a well
+                  known word and unlikely to be misread.</item>
+                <item>Note that when you add the optional hyphens to a glossary item where the
+                  translation uses the Sanskrit (This will mainly be in the “Persons” and “Places”
+                  section of the glossary) the hyphens will have to match all those instances within
+                  the body of the text or they will not link to the glossary term, so it is best to
+                  start from the glossary and work your way backwards. For all of these person and
+                  place terms do a search and replace so that the hyphens match in all the instances
+                  of that term (be cautious when doing large search-and-replaces that you don’t make
+                  any unintended changes)</item>
+              </list>
+            </item>
+          </list>
+        </div>
+        <div>
+          <head>Add Links For References (Both In-Text and External)</head>
+          <p>When ever we have internal citations like this we should use the <gi>ptr</gi> element
+            to make a link in the text. For example, if you go to the <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#n.5">Vimalakirti Sutra</ref> and look at note 5. It says:</p>
+          <q>
+            <p>"See <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#UT22084-060-005-1">2.3.</ref> It is especially appropriate, in the light of the early tantric
+              tradition, for Vimalakīrti, as a layman, to be an adept."</p>
+          </q>
+          <p>The "2.3." links to that milestone. If you look at this note in the XML it says:</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">See <ptr target="#UT22084-060-005-1"/><!--2.3-->. It is especially in the light of the early tantric tradition, for
+            Vimalakīrti, as layman, to be an adept.</egXML>
+          <p>The "<gi>ptr</gi>" element creates the link and you will have to find the "xml:id"
+            value for that milestone and enter it in as the value for the "target" attribute. If you
+            look at our XML for 10,000 right now in the database, notice that all the xml:id's were
+            put in automatically when I uploaded it yesterday. You don't put the actual milestone
+            number, because the parser will automatically put the milestone number in the link. That
+            way if the milestones get shifted later on, we won't have to update it again.</p>
+          <p>Notice there is a comment "&lt;!--2.3--&gt;" after the tag in the Vimalakirti note.
+            This is a comment just to keep track of where the pointer links to according to the
+            milestone numbers in the web display.</p>
+          <p>Make these links for all page references (these should be highlighted by the copy
+            editors, but if they aren't try to clarify what milestone they are intended to link to,
+            and link to and mark up the pointers appropriately.</p>
+          <p>References to notes, e.g., "see note 5" should be linked to the "xml:id" of the
+            appropriate note as well. Often the notes will be changed causing the whole numbering to
+            shift slightly, so you will likely need to search and clarify which is the correct note
+            to link to (usually it will only be shifted a few numbers up or down so if it says "see
+            note 5", then it will likely be int the 3-7 range for instance). If you are not sure
+            where the references is referring to, or there is some ambiguity, then make a note about
+            this for the leading editors</p>
+          <p>Occasionally there will be citations to external 84000 texts, that have been
+            highlighted by the copy editors to link. This can be done so, not by using the
+              <gi>ptr</gi> element, which is only used for in-text citations; but it is done with
+            the <gi>ref</gi> element with the web address as the value of the <att>target</att>
+            attribute. For example see this reference in the King of Samadhis Sutra (Toh. 127):</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <note place="end" xml:id="UT22084-055-001-1485" index="586"> Unidentified Indian musical
+              instrument. It appears in two lists of instruments in the <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> (see <title xml:lang="en">The Play in Full</title>
+              <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-973">15.39</ref><!--toh. 95--> and <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-1001">15.67</ref><!--toh. 95-->) with a stringed instrument preceding and following it,
+              but some recent Tibetan-English dictionaries have “cymbals.”</note>
+          </egXML>
+          <p>This will link the milestone references "15.39" to that corresponding passage in The
+            Play in Full (Toh. 95).</p>
+        </div>
+        <div>
+          <head>Upload the XML and See How it Looks on the Web Page</head>
+          <list>
+            <item>Go through the text again looking at the web display making sure everything looks
+              okay.</item>
+            <item>It is helpful at this point to put the web page in “editor mode” all this does is
+              underline all the linked glossary terms for you. Otherwise in the regular display it
+              underlines them but then they will disappear after a few seconds, which will be
+              frustrating when your are checking the links. To put it in editor mode just add the
+              following text to the end of the URL web address: <code>?view-mode=editor</code>
+            </item>
+            <item>At this point you should check to see that the glossary is linking to the right
+              terms. Particularly in the summary and introduction there may be many instances of a
+              word linking to the glossary when it shouldn’t, for example in the phrase “in terms
+              of…” the word “term” might link to the glossary for the technical meaning of “term” or
+              in the phrase “with respect to…” the word “respect” might link to “respect” as in
+              devotion (these are just some examples). To fix these instances you should use the add
+              the <att>mode</att> to the <gi>gloss</gi> element in the glossary. If you change it to
+              mode="match" (this is the default mode, by the way) you will be able to block strings
+              in the text you don't want to link by marking them with the tag <tag>term
+                type="ignore"</tag> If you change it to mode="marked", it will only link with
+              strings in the text that are tagged within the <gi>term</gi> element (you will need to
+              mark each instance of the term individually in this case). In rare cases you might
+              need to use both modes. For example in Toh. 127 there are two gloss entries for the
+              term "conceptualization", and there are some instances of this word that should link
+              to the first gloss, some that link to the second, and some that link to neither. In
+              this case the first gloss it set to mode="marked" and the second has the default
+              mode="match", then terms that should link to the first are marked with the
+                <gi>term</gi> element, the ones that should link to the second are left untagged,
+              and the terms that should link to neither are marked <tag>term
+              type="ignore"</tag>.</item>
+            <item>
+              <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">For further details about
+                the glossary see Appendix B</ref>
+            </item>
+          </list>
+        </div>
+        <div>
+          <head>Final Details</head>
+          <p>A few final things to look out for while going through your final run of the text:</p>
+          <list>
+            <item>extra blank spaces.</item>
+            <item>double check links and make sure they go to the right places.</item>
+            <item>make sure links aren't missing, sometimes if the little "#" is missing or
+              misplaced in the "target" attribute in the <gi>ptr</gi>s then the reference want
+              appear at all and you will see text like "(see above, .)" without anything coming
+              after them.</item>
+            <item>do a search for comment tags we may have left in by accident in the XML, you can
+              do a quick search for "&lt;!--"</item>
+            <item>double check for any “<gi>hi</gi>” tags. They may be italics that were missed when
+              the text was entered into the template, so you may need to change them to
+                <gi>title</gi> or <gi>foreign</gi>, be sure to check back with the original .docx if
+              this looks like the case.</item>
+            <item>any formatting or anything else that just looks wrong or awkward.</item>
+            <item>if there are any grammar or editing errors that you think may have been missed in
+              the copy-edit phase, be sure to make notes of them to send to the leading editor in an
+              email at the end.</item>
+            <item>As you work on the text, make a running list of any problems or issues that you
+              cannot fix yourself and make this into a final list of questions/issues to send to the
+              leading editor. There are often a lot of things that come up, so is good to make a
+              final list so the leading editor can look through them more systematically in one
+              email.</item>
+          </list>
+        </div>
+      </div>
       <div>
         <head xml:id="Appendix1">Guidelines for Glossary</head>
         <head>Some notes about how the glossary works:</head>

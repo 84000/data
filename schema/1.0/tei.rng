@@ -221,7 +221,7 @@
                                 </rng:optional>
                                 <rng:optional>
                                     <rng:attribute name="key">
-                                       <rng:data type="integer"/>
+                                        <rng:data type="string"/>
                                     </rng:attribute>
                                 </rng:optional>
                                 <rng:optional>
@@ -1342,6 +1342,11 @@
                     </rng:element>
                 </rng:zeroOrMore>
                 <rng:zeroOrMore>
+                    <rng:element name="term">
+                        <rng:ref name="term"/>
+                    </rng:element>
+                </rng:zeroOrMore>
+                <rng:zeroOrMore>
                     <rng:element name="note">
                         <rng:ref name="note"/>
                     </rng:element>
@@ -1654,7 +1659,7 @@
         </rng:optional>
         <rng:optional>
             <rng:attribute name="key">
-                <rng:data type="integer"/>
+                <rng:data type="string"/>
             </rng:attribute>
         </rng:optional>
         <rng:optional>

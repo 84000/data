@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:16:21 by admin</note>
+                <note type="lastUpdated">Last updated at 13/03/2018 at 17:38:09 by celso</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -2516,7 +2516,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-081-006-285"/>
                     <lg tid="340">
-                        <l>evaṃ ca dṛṣṭvā surasundarīṇāṃ vacāṃsi nāthaḥ samayaṃ babhāṣe. <note place="end" index="51" xml:id="UT22084-081-006-641">We have 12 syllables in this <foreign type="term" xml:lang="Sa-Ltn">pāda</foreign>, but since the first two syllables of <foreign type="term" xml:lang="Sa-Ltn">kurukulla­mantram</foreign> have the metrical value of one long syllable and count as one,
+                        <l>evaṃ ca dṛṣṭvā surasundarīṇāṃ vacāṃsi nāthaḥ samayaṃ babhāṣe.<note place="end" index="51" xml:id="UT22084-081-006-641">We have 12 syllables in this <foreign type="term" xml:lang="Sa-Ltn">pāda</foreign>, but since the first two syllables of <foreign type="term" xml:lang="Sa-Ltn">kurukulla­mantram</foreign> have the metrical value of one long syllable and count as one,
                                 the metre preserves the cadence of the eleven-syllables <foreign type="term" xml:lang="Sa-Ltn">triṣṭubh</foreign>.</note> kurukullamantraṃ<note place="end" index="52" xml:id="UT22084-081-006-642">kurukullamantraṃ] C, G; kurukullamantre Es </note> vaśakṛ[j janasya
                             mantreṇa] siddhasya paṭasya lekhyam<note place="end" index="53" xml:id="UT22084-081-006-643">lekhyam]
                                 C; lekhe Es </note>..<!--12..-->
@@ -4926,11 +4926,12 @@
                             <term>Āṣāḍha</term>
                             <term xml:lang="Bo-Ltn">dbyar zla ’bring po </term>
                             <term xml:lang="bo">དབྱར་ཟླ་འབྲིང་པོ།</term>
-                            <term xml:lang="Sa-Ltn">Āṣāḍha (the month of)</term>
+                            <term xml:lang="Sa-Ltn">Āṣāḍha</term>
+                            <term type="definition"> The month of <term type="ignore">Āṣāḍha</term>.</term>
                         </gloss>
                     </item>
-                    <item>
-                        <gloss type="term" xml:id="UT22084-081-006-528">
+                    <!--<item>
+                        <gloss type="term" xml:id="UT22084-081-006-528">Not in text - AAR
                             <term>awareness</term>
                             <term xml:lang="Bo-Ltn">rig pa </term>
                             <term xml:lang="bo">རིག་པ།</term>
@@ -4938,13 +4939,14 @@
                             <term type="definition">In different contexts in this text, also translated as “knowledge” or
                                 “spell.”</term>
                         </gloss>
-                    </item>
+                    </item>-->
                     <item>
                         <gloss type="term" xml:id="UT22084-081-006-529">
                             <term>Caitra</term>
                             <term xml:lang="Bo-Ltn">dpyid bzla dang po </term>
                             <term xml:lang="bo">དཔྱིད་བཟླ་དང་པོ།</term>
-                            <term xml:lang="Sa-Ltn">Caitra (the month of)</term>
+                            <term xml:lang="Sa-Ltn">Caitra</term>
+                            <term type="definition">The month of <term type="ignore">Caitra</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -4968,7 +4970,8 @@
                             <term>Kārttika</term>
                             <term xml:lang="Bo-Ltn">ston zla tha chung </term>
                             <term xml:lang="bo">སྟོན་ཟླ་ཐ་ཆུང་།</term>
-                            <term xml:lang="Sa-Ltn">Kārttika (the month of)</term>
+                            <term xml:lang="Sa-Ltn">Kārttika</term>
+                            <term type="definition">The month of <term type="ignore">Kārttika</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -5040,7 +5043,8 @@
                             <term>Vaiśakha</term>
                             <term xml:lang="Bo-Ltn">dpyid zla ’bring po </term>
                             <term xml:lang="bo">དཔྱིད་ཟླ་འབྲིང་པོ།</term>
-                            <term xml:lang="Sa-Ltn">Vaiśakha (the month of)</term>
+                            <term xml:lang="Sa-Ltn"> </term>
+                            <term type="definition">The month of <term type="ignore">Vaiśakha</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -5049,8 +5053,7 @@
                             <term xml:lang="Bo-Ltn">rig pa </term>
                             <term xml:lang="bo">རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
-                            <term type="definition">In different contexts in this text, also translated as “awareness” or
-                                “spell.”</term>
+                            <term type="definition">In different contexts in this text, also translated as “spell.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -5059,8 +5062,7 @@
                             <term xml:lang="Bo-Ltn">rig pa </term>
                             <term xml:lang="bo">རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
-                            <term type="definition">In different contexts in this text, also translated as “awareness” or
-                                “knowledge.”</term>
+                            <term type="definition">In different contexts in this text, also translated as “knowledge.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -5100,7 +5102,8 @@
                             <term>Ākhaṇḍala</term>
                             <term xml:lang="Bo-Ltn">mi phyed pa </term>
                             <term xml:lang="bo">མི་ཕྱེད་པ།</term>
-                            <term xml:lang="Sa-Ltn">Ākhaṇḍala (Indra)</term>
+                            <term xml:lang="Sa-Ltn">Ākhaṇḍala</term>
+                            <term type="definition"> (Indra)</term>
                         </gloss>
                     </item>
                     <item>
@@ -5238,7 +5241,9 @@
                             <term>Rāhulabhadra</term>
                             <term xml:lang="Bo-Ltn">sgra can ’dzin bzang po </term>
                             <term xml:lang="bo">སྒྲ་ཅན་འཛིན་བཟང་པོ།</term>
-                            <term xml:lang="Sa-Ltn">Rāhulabhadra, Rāhula, Rāhu</term>
+                            <term xml:lang="Sa-Ltn">Rāhulabhadra</term>
+                            <term xml:lang="Sa-Ltn">Rāhula</term>
+                            <term xml:lang="Sa-Ltn">Rāhu</term>
                         </gloss>
                     </item>
                     <item>
@@ -5402,7 +5407,8 @@
                             <term>Upendra</term>
                             <term xml:lang="Bo-Ltn">sa ’dzin lha </term>
                             <term xml:lang="bo">ས་འཛིན་ལྷ།</term>
-                            <term xml:lang="Sa-Ltn">Dharaṇīṃdhara/Dharaṇīdhara</term>
+                            <term xml:lang="Sa-Ltn">Dharaṇīṃdhara</term>
+                            <term xml:lang="Sa-Ltn">Dharaṇīdhara</term>
                             <term type="definition">"The Sustainer of the Earth," a name of Viṣṇu.</term>
                         </gloss>
                     </item>

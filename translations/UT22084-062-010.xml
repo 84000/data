@@ -41,7 +41,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:14:16 by admin</note>
+                <note type="lastUpdated">Last updated at 20/03/2018 at 11:35:35 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -755,7 +755,7 @@
                             <term xml:lang="Sa-Ltn">pratītya­samutpāda</term>
                             <term type="definition">The central Buddhist doctrine that teaches how things are empty of self-nature
                                 and thus lack independent existence, yet exist provisionally insofar as they are created through
-                                the interaction of various causal factors.</term>
+                                the interaction of various causal <term type="ignore">factors</term>.</term>
                             <term type="alternative">interdependent origination</term>
                         </gloss>
                     </item>
@@ -783,8 +783,8 @@
                             <term xml:lang="Bo-Ltn">chos kyi sku </term>
                             <term xml:lang="bo">ཆོས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmaśarīra</term>
-                            <term type="alternative">Dharma body, Truth body</term>
-                        </gloss>
+                            <term type="alternative">Dharma body, Truth body</term>                        
+                          </gloss>
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-062-010-137">
@@ -844,10 +844,9 @@
                             <term type="definition">The Tibetan term <foreign xml:lang="Bo-Ltn" type="term">ma ning</foreign> is
                                 broader than any existing English term and refers not only to those whose sexual characteristics
                                 are not clearly defined as male or female (intersexual), but also to those who do not have any
-                                proper gender organs, those who may have both, and those who are neuter, infertile, or who simply
+                                proper gender organs, those who may have both, and those who are <term type="ignore">neuter</term>, infertile, or who simply
                                 have physical or non-physical characteristics of a <foreign xml:lang="Bo-Ltn" type="term">ma
                                     ning</foreign>.</term>
-                            <term type="alternative">neuter</term>
                         </gloss>
                     </item>
                     <item>
@@ -910,7 +909,7 @@
                             <term xml:lang="Sa-Ltn">ṣadāyatana</term>
                             <term type="definition">The six sense organs of eyes, ears, nose, tongue, tactile sense, and mind,
                                 together with their respective objects of forms, sounds, smells, flavors, tactile objects, and
-                                mental objects. See also "sense source."</term>
+                                mental objects. See also “<term>sense source</term>.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -952,8 +951,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-062-010-153">
                             <term>appropriation</term>
-                            <term xml:lang="Bo-Ltn">len pa __,__nye bar len pa </term>
-                            <term xml:lang="bo">ལེན་པ་ , ཉེ་བར་ལེན་པ།</term>
+                            <term xml:lang="Bo-Ltn">len pa</term>
+                            <term xml:lang="bo">ལེན་པ།</term>
+                            <term xml:lang="Bo-Ltn">nye bar len pa </term>
+                            <term xml:lang="bo">ཉེ་བར་ལེན་པ།</term>
                             <term xml:lang="Sa-Ltn">upādāna</term>
                         </gloss>
                     </item>
@@ -1000,13 +1001,12 @@
                             <term xml:lang="bo">ཆོས།</term>
                             <term xml:lang="Sa-Ltn">dharma</term>
                             <term type="definition">This term has multiple interrelated meanings. In this text, the primary
-                                meanings are as follows: (1) the doctrine taught by the Buddha (Dharma); (2) the ultimate reality
-                                underlying and expressed through the Buddha’s teaching (Dharma); (3) the trainings that the
-                                Buddha’s teaching stipulates (dharmas); (4) the various awakened qualities or attainments acquired
-                                through practicing and realizing the Buddha’s teaching (dharmas); (5) qualities or aspects more
-                                generally, i.e., phenomena or phenomenal attributes (dharmas); and (6) mental objects
-                                (dharmas).</term>
-                            <term type="alternative">dharma</term>
+                                meanings are as follows: (1) the doctrine taught by the Buddha (<term type="ignore">Dharma</term>); (2) the ultimate reality
+                                underlying and expressed through the Buddha’s teaching (<term type="ignore">Dharma</term>); (3) the trainings that the
+                                Buddha’s teaching stipulates (<term type="ignore">dharmas</term>); (4) the various awakened qualities or attainments acquired
+                                through practicing and realizing the Buddha’s teaching (<term type="ignore">dharmas</term>); (5) qualities or aspects more
+                                generally, i.e., phenomena or phenomenal attributes (<term type="ignore">dharmas</term>); and (6) mental objects
+                                (<term type="ignore">dharmas</term>).</term>
                             <term type="alternative">things</term>
                         </gloss>
                     </item>
@@ -1059,7 +1059,10 @@
                             <term>that which leads to immovable states</term>
                             <term xml:lang="Bo-Ltn">mi g.yo bar nye bar ’gro ba </term>
                             <term xml:lang="bo">མི་གཡོ་བར་ཉེ་བར་འགྲོ་བ།</term>
-                            <term xml:lang="Sa-Ltn">āneñjyopaga, aneñjopaga, aniñjyopaga, āniñjyopaga</term>
+                            <term xml:lang="Sa-Ltn">āneñjyopaga</term>
+                            <term xml:lang="Sa-Ltn">aneñjopaga</term>
+                            <term xml:lang="Sa-Ltn">aniñjyopaga</term>
+                            <term xml:lang="Sa-Ltn">āniñjyopaga</term>
                             <term type="definition">Of formations and modes of consciousness that lead to rebirth in the form and
                                 formless realms.</term>
                             <term type="alternative">that leads to immovable states</term>
@@ -1082,7 +1085,7 @@
                             <term xml:lang="Bo-Ltn">shA ri’i bu </term>
                             <term xml:lang="bo">ཤཱ་རིའི་བུ།</term>
                             <term xml:lang="Sa-Ltn">śāriputra</term>
-                            <term type="definition">Along with Maudgalyāyana, Śāriputra was one of the two main disciples of the
+                            <term type="definition">Along with Maudgalyāyana, <term type="ignore">Śāriputra</term> was one of the two main disciples of the
                                 Buddha. Known as a great arhat, he requested some important teachings such as the Prajnāpāramitā
                                 sūtras, and is particularly famous for his discriminating insight (prajñā).</term>
                         </gloss>
@@ -1104,7 +1107,7 @@
                             <term xml:lang="Bo-Ltn">rgyal po’i khab </term>
                             <term xml:lang="bo">རྒྱལ་པོའི་ཁབ།</term>
                             <term xml:lang="Sa-Ltn">rājagṛha</term>
-                            <term type="definition">Situated in the modern Indian state of Bihar, Rājagṛha was the capital of
+                            <term type="definition">Situated in the modern Indian state of Bihar, <term type="ignore">Rājagṛha</term> was the capital of
                                 Magadha, one of the great kingdoms of ancient India.</term>
                         </gloss>
                     </item>

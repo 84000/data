@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:20:11 by admin</note>
+                <note type="lastUpdated">Last updated at 18/03/2018 at 11:24:47 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -281,7 +281,7 @@
                 <head type="listBibl">Bibliography</head>
                 <div type="section">
                     <head type="section">Tibetan Kangyur Editions</head>
-                    <bibl xml:id="UT22084-057-009-26"> (rKTs = University of Vienna Resources for Kanjur and Tanjur Studies, <ref target="http://www.istb.univie.ac.at/kanjur/xml3/xml/">www.istb.univie.ac.at/kanjur/xml3/xml/</ref>.
+                    <bibl xml:id="UT22084-057-009-26"> (rKTs = University of Vienna Resources for Kanjur and Tanjur Studies, <ref target="https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php">https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php</ref>.
                         For other abbreviations, see Notes.)</bibl>
                     <lb/>
                     <bibl xml:id="UT22084-057-009-27">
@@ -383,7 +383,7 @@
                             <term xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག</term>
                             <term xml:lang="Sa-Ltn">Avalokiteśvara</term>
                             <term type="definition">A bodhisattva who first appears in the <title xml:lang="Sa-Ltn">Sukhāvatī­vyūha</title> sūtra (Toh 115) and then in a number of other Mahāyāna sūtras such as
-                                the <title xml:lang="Sa-Ltn">Sad­dharma­puṇḍarīka</title> (Toh 113). Avalokiteśvara develops into
+                                the <title xml:lang="Sa-Ltn">Sad­dharma­puṇḍarīka</title> (Toh 113). <term type="ignore">Avalokiteśvara</term> develops into
                                 a great bodhisattva who embodies compassion with multiple forms in Indian, Chinese, and Tibetan
                                 Buddhism.</term>
                         </gloss>
@@ -394,7 +394,8 @@
                             <term xml:lang="Bo-Ltn">a ti sha </term>
                             <term xml:lang="bo">ཨ་ཏི་ཤ།</term>
                             <term xml:lang="Sa-Ltn">Atiśa</term>
-                            <term type="definition">Atiśa Dīpaṃkara­śrī­jñāna (982–1054 C.E.), often referred to in Tibetan as
+                            <term type="definition">
+                                <term type="ignore">Atiśa</term> Dīpaṃkara­śrī­jñāna (982–1054 C.E.), often referred to in Tibetan as
                                     <foreign xml:lang="Bo-Ltn">jo bo</foreign>, “(The) Lord,” was a renowned figure in the history
                                 of Tibetan Buddhism famous for coming to Tibet and revitalizing Buddhism there during the early
                                 eleventh century.</term>
@@ -405,7 +406,8 @@
                             <term>Gewai Lodrö</term>
                             <term xml:lang="Bo-Ltn">dge ba’i blo gros </term>
                             <term xml:lang="bo">དགེ་བའི་བློ་གྲོས།</term>
-                            <term type="definition">Ma Gewai Lodrö (<foreign xml:lang="Bo-Ltn">ma dge ba’i blo gros</foreign>), a
+                            <term xml:lang="Sa-Ltn"/>
+                            <term type="definition">Ma <term type="ignore">Gewai Lodrö</term> (<foreign xml:lang="Bo-Ltn">ma dge ba’i blo gros</foreign>), a
                                 Tibetan lotsāva, was an important disciple of Rinchen Zangpo (<foreign xml:lang="Bo-Ltn">rin chen
                                     bzang po</foreign>, 958-1055) who translated several texts with Atiśa and worked with the
                                 Kaśmīri master Subhūti­śri­bhadra to translate a number of pramāṇa texts.</term>
@@ -414,6 +416,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-057-009-48" mode="marked">
                             <term>Subhūtiśrī</term>
+                            <term xml:lang="Bo-Ltn"/>
+                            <term xml:lang="bo"/>
                             <term xml:lang="Sa-Ltn">Subhūtiśrī</term>
                             <term type="definition">Subhūtiśrī(śānti) was a paṇḍita from Kaśmīr invited to Western Tibet during
                                 the reign of the king Lha Dé (<foreign xml:lang="Bo-Ltn">Lha lde</foreign>) who translated a
@@ -425,6 +429,7 @@
                             <term>Tholing</term>
                             <term xml:lang="Bo-Ltn">tho ling </term>
                             <term xml:lang="bo">ཐོ་ལིང་།</term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">The important West Tibetan monastery founded in 996 C.E. by King Yeshé Ö
                                     (<foreign xml:lang="Bo-Ltn">ye shes 'od</foreign>) and the translator Rinchen Zangpo (<foreign xml:lang="Bo-Ltn">rin chen bzang po</foreign>).</term>
                         </gloss>

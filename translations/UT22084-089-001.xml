@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:59 by admin</note>
+                <note type="lastUpdated">Last updated at 22/03/2018 at 07:52:24 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1624,8 +1624,8 @@
                             <term xml:lang="Bo-Ltn">sa </term>
                             <term xml:lang="bo">ས།</term>
                             <term xml:lang="Sa-Ltn">bhūmi</term>
-                            <term type="definition">Level of the realization of a bodhisattva. Typically there are ten bhūmis,
-                                sometimes thirteen.</term>
+                            <term type="definition">Level of the realization of a bodhisattva. Typically there are ten <term type="ignore">bhūmis</term>,
+                                sometimes thirteen.</term> 
                         </gloss>
                     </item>
                     <item>
@@ -1641,7 +1641,9 @@
                             <term>sole hero</term>
                             <term xml:lang="Bo-Ltn">dpa’ bo gcig po </term>
                             <term xml:lang="bo">དཔའ་བོ་གཅིག་པོ།</term>
-                            <term xml:lang="Sa-Ltn">ekavīra, ekalavīra, ekallavīra</term>
+                            <term xml:lang="Sa-Ltn">ekavīra</term>
+                            <term xml:lang="Sa-Ltn">ekalavīra</term>
+                            <term xml:lang="Sa-Ltn">ekallavīra</term>
                             <term type="definition">Male deity visualized with a consort, but without the maṇḍala deities.</term>
                         </gloss>
                     </item>
@@ -1766,8 +1768,10 @@
                             <term>effigy</term>
                             <term xml:lang="Bo-Ltn">gzugs </term>
                             <term xml:lang="bo">གཟུགས།</term>
-                            <term xml:lang="Sa-Ltn">puttalaka, puttalikā</term>
-                            <term type="definition">Effigy of the target used in magical rites.</term>
+                            <term xml:lang="Sa-Ltn">puttalaka</term>
+                            <term xml:lang="Sa-Ltn">puttalikā</term>
+                            <term type="definition">
+                                <term type="ignore">Effigy</term> of the target used in magical rites.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1775,7 +1779,8 @@
                             <term>target</term>
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
                             <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
-                            <term xml:lang="Sa-Ltn">sādhya, sādhyā</term>
+                            <term xml:lang="Sa-Ltn">sādhya</term>
+                            <term xml:lang="Sa-Ltn">sādhyā</term>
                             <term type="definition">Person or being who is the target of a particular sādhana, or ritual.</term>
                         </gloss>
                     </item>
@@ -1784,7 +1789,8 @@
                             <term>pacifying</term>
                             <term xml:lang="Bo-Ltn">zhi ba </term>
                             <term xml:lang="bo">ཞི་བ།</term>
-                            <term xml:lang="Sa-Ltn">śāntika, śānti</term>
+                            <term xml:lang="Sa-Ltn">śāntika</term>
+                            <term xml:lang="Sa-Ltn">śānti</term>
                             <term type="definition">Peace; one of the four main types of enlightened activity.</term>
                         </gloss>
                     </item>
@@ -1802,8 +1808,9 @@
                         <gloss type="term" xml:id="UT22084-089-001-205">
                             <term>tika</term>
                             <term xml:lang="Bo-Ltn">tika </term>
-                            <term xml:lang="bo">ཏིཀ།</term>
-                            <term xml:lang="Sa-Ltn">tika, tilaka</term>
+                            <term xml:lang="bo">ཏིཀ</term>
+                            <term xml:lang="Sa-Ltn">tika</term>
+                            <term xml:lang="Sa-Ltn">tilaka</term>
                             <term type="definition">Dot painted between the eyebrows.</term>
                         </gloss>
                     </item>
@@ -1812,7 +1819,8 @@
                             <term>three hot substances</term>
                             <term xml:lang="Bo-Ltn">tsha ba gsum </term>
                             <term xml:lang="bo">ཚ་བ་གསུམ།</term>
-                            <term xml:lang="Sa-Ltn">trikaṭu, trikaṭuka</term>
+                            <term xml:lang="Sa-Ltn">trikaṭu</term>
+                            <term xml:lang="Sa-Ltn">trikaṭuka</term>
                             <term type="definition">Black pepper, long pepper, and dry ginger.</term>
                         </gloss>
                     </item>
@@ -1832,7 +1840,8 @@
                             <term>ūrṇā</term>
                             <term xml:lang="Bo-Ltn">mdzod spu </term>
                             <term xml:lang="bo">མཛོད་སྤུ།</term>
-                            <term xml:lang="Sa-Ltn">ūrṇā, ūrṇākośa</term>
+                            <term xml:lang="Sa-Ltn">ūrṇā</term>
+                            <term xml:lang="Sa-Ltn">ūrṇākośa</term>
                             <term type="definition">Circular tuft of hair between the eyebrows.</term>
                         </gloss>
                     </item>

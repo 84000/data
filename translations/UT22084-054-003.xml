@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:11:51 by admin</note>
+                <note type="lastUpdated">Last updated at 17/03/2018 at 11:23:32 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -370,7 +370,7 @@
                             <term>Five Royal Sūtras</term>
                             <term xml:lang="Bo-Ltn">rgyal po mdo lnga </term>
                             <term xml:lang="bo">རྒྱལ་པོ་མདོ་ལྔ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">(1) <title xml:lang="Sa-Ltn">Bhadra­caryā­praṇidhāna</title> (<title xml:lang="Bo-Ltn">bzang spyod smon lam</title>, in chapter 44 of the <title xml:lang="Sa-Ltn">Avataṃsaka</title>); for aspiration (<foreign xml:lang="Bo-Ltn">smon lam</foreign>), and
                                 described as vast (<foreign xml:lang="Bo-Ltn">rgya chen</foreign>). (2) <title xml:lang="Sa-Ltn">Vajra­vidāraṇā­dhāraṇī</title> (<title xml:lang="Bo-Ltn">rdo rje rnam ’joms</title>, Toh
                                 750); for ablution (<foreign xml:lang="Bo-Ltn">khrus</foreign>). (3) <title xml:lang="Sa-Ltn">Prajñā­pāramitā­hṛdaya</title> (<title xml:lang="Bo-Ltn">shes rab snying po</title>, Toh 21
@@ -388,7 +388,7 @@
                             <term>Ten Royal Sūtras</term>
                             <term xml:lang="Bo-Ltn">rgyal po mdo bcu </term>
                             <term xml:lang="bo">རྒྱལ་པོ་མདོ་བཅུ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">In addition to the Five Royal Sūtras: (6) <title xml:lang="Sa-Ltn">Aparimitāyur­jñāna</title> (<title xml:lang="Bo-Ltn">tshe dang ye shes dpag tu med pa’i
                                     mdo</title>, Toh 674); for extending longevity (<foreign xml:lang="Bo-Ltn">tshe
                                     bsring</foreign>). (7) <title xml:lang="Bo-Ltn">gos sngon can gyi gzungs</title>, perhaps
@@ -404,9 +404,11 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-054-003-49">
                             <term>Five Sets of One Hundred Thousand</term>
-                            <term xml:lang="Bo-Ltn">’bum sde lnga__,__’bum chen sde lnga </term>
-                            <term xml:lang="bo">འབུམ་སྡེ་ལྔ་ , འབུམ་ཆེན་སྡེ་ལྔ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Bo-Ltn">’bum sde lnga </term>
+                            <term xml:lang="bo">འབུམ་སྡེ་ལྔ།</term>
+                            <term xml:lang="Bo-Ltn">’bum chen sde lnga </term>
+                            <term xml:lang="bo">འབུམ་ཆེན་སྡེ་ལྔ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">(1) The long <title xml:lang="Sa-Ltn">Prajñā­pāramitā </title>(Toh 8), which
                                 contains 100,000 ślokas; (2) the <title xml:lang="Sa-Ltn">Mahā­pari­nirvāṇa</title> (Toh 119-120),
                                 which contains 100,000 testaments given by the Buddha at the time of his <foreign xml:lang="Sa-Ltn">pari­nirvāṇa</foreign>; (3) the <title xml:lang="Sa-Ltn">Ratna­kūṭa</title>
@@ -430,7 +432,7 @@
                             <term xml:lang="bo">འདུ་ཤེས།</term>
                             <term xml:lang="Sa-Ltn">saṃjñā</term>
                             <term type="definition">The term is used in an ordinary sense in Sanskrit to mean “notion,” “sign,”
-                                “conception,” “clear understanding.” It is also used more specifically in Buddhist scholastic
+                                “conception,” “<term type="ignore">clear understanding</term>.” It is also used more specifically in Buddhist scholastic
                                 contexts in the phrase “the aggregate of perceptions” (<foreign xml:lang="Sa-Ltn">saṃjñāskandha</foreign>).</term>
                         </gloss>
                     </item>
@@ -463,13 +465,17 @@
                             <term>subsumed</term>
                             <term xml:lang="Bo-Ltn">’dus pa </term>
                             <term xml:lang="bo">འདུས་པ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-054-003-56">
                             <term>non-apprehension</term>
-                            <term xml:lang="Bo-Ltn">mi dmigs pa__,__dmigs pa med pa </term>
-                            <term xml:lang="bo">མི་དམིགས་པ་ , དམིགས་པ་མེད་པ།</term>
+                            <term xml:lang="Bo-Ltn">mi dmigs pa </term>
+                            <term xml:lang="bo">མི་དམིགས་པ།</term>
+                            <term xml:lang="Bo-Ltn">dmigs pa med pa </term>
+                            <term xml:lang="bo">དམིགས་པ་མེད་པ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>

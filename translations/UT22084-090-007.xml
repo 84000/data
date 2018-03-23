@@ -48,7 +48,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:17:04 by admin</note>
+                <note type="lastUpdated">Last updated at 22/03/2018 at 09:51:27 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -471,7 +471,7 @@
                         cowering nor fleeing, lack fear, and who, having abandoned fear and its impetus, are called ‘free of
                         anything that causes one to cry out in hair-raising panic’—these are what is meant by ‘those who speak by
                         speaking truly, those who speak by speaking truly at the appropriate time.’ By their truth and those true
-                        words, may the person person named such-and-such have well-being! </p>
+                        words, may the person named such-and-such have well-being! </p>
                     <milestone unit="chunk" xml:id="UT22084-090-007-52"/>
                     <p tid="54">“By such truth and true words, as follows: of all those who observe ethical discipline, controlled
                         conduct, austerities, or pure conduct, those who are known as ‘supreme in the discipline that pleases the
@@ -1003,7 +1003,8 @@
                             <term>Master</term>
                             <term xml:lang="Bo-Ltn">bla ma </term>
                             <term xml:lang="bo">བླ་མ།</term>
-                            <term xml:lang="Sa-Ltn">Prabhu, Guru</term>
+                            <term xml:lang="Sa-Ltn">Prabhu</term>
+                            <term xml:lang="Sa-Ltn">Guru</term>
                         </gloss>
                     </item>
                     <item>
@@ -1026,6 +1027,7 @@
                             <term>Playful Lady</term>
                             <term xml:lang="Bo-Ltn">rtsed mo </term>
                             <term xml:lang="bo">རྩེད་མོ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1112,6 +1114,7 @@
                             <term>Slanderous</term>
                             <term xml:lang="Bo-Ltn">phra ma can </term>
                             <term xml:lang="bo">ཕྲ་མ་ཅན།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>

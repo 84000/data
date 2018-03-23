@@ -48,7 +48,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:17:48 by admin</note>
+                <note type="lastUpdated">Last updated at 15/03/2018 at 10:11:19 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1421,7 +1421,16 @@
                             <term xml:lang="Bo-Ltn">las </term>
                             <term xml:lang="bo">ལས།</term>
                             <term xml:lang="Sa-Ltn">karma</term>
-                            <term type="alternative">karma</term>
+                            <term type="definition">Also rendered in this sūtra as “karma.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-230">
+                            <term>karma</term>
+                            <term xml:lang="Bo-Ltn">las </term>
+                            <term xml:lang="bo">ལས།</term>
+                            <term xml:lang="Sa-Ltn">karma</term>
+                            <term type="definition">Also rendered in this sūtra as “action.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -1561,7 +1570,7 @@
                             <term xml:lang="Bo-Ltn">gzugs </term>
                             <term xml:lang="bo">གཟུགས།</term>
                             <term xml:lang="Sa-Ltn">rūpa</term>
-                            <term type="definition">The first of the five aggregates; but also, in this sūtra, “inner <term type="ignore">form</term>” within consciousness (see 1.38).</term>
+                            <term type="definition">The first of the five aggregates; but also, in this sūtra, “inner <term type="ignore">form</term>” within consciousness (see <ptr target="#UT22084-044-003-48"/>).</term>
                         </gloss>
                     </item>
                     <item>

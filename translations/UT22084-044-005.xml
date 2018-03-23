@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:10:11 by admin</note>
+                <note type="lastUpdated">Last updated at 16/03/2018 at 10:54:55 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1620,10 +1620,13 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-044-005-199">
                             <term>god</term>
-                            <term xml:lang="Bo-Ltn"> lha/___lha’i bu/</term>
-                            <term xml:lang="bo">ལྷ། ལྷའི་བུ།</term>
-                            <term xml:lang="Sa-Ltn">deva, devaputra</term>
-                            <term type="alternative">demigod</term>
+                            <term xml:lang="Bo-Ltn"> lha</term>
+                            <term xml:lang="bo">ལྷ།</term>
+                            <term xml:lang="Bo-Ltn">lha’i bu</term>
+                            <term xml:lang="bo">ལྷའི་བུ།</term>
+                            <term xml:lang="Sa-Ltn">deva</term>
+                            <term xml:lang="Sa-Ltn">devaputra</term>
+                            <!--<term type="alternative">demigod</term> Doesn't match tibetan - AAR -->
                         </gloss>
                     </item>
                 </list>

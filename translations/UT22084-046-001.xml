@@ -22,7 +22,7 @@
                 <author role="translatorEng">Wiesiek Mical</author>
             </titleStmt>
             <editionStmt>
-                <edition> v 4.22 <date>2013 - 2016</date>
+                <edition> v 4.23 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -52,7 +52,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:17 by admin</note>
+                <note type="lastUpdated">Last updated at 17/03/2018 at 09:08:51 by john</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -423,7 +423,7 @@
                         <ref cRef="F.1.b"/> Homage to all buddhas and bodhisattvas! </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-30"/>
-                    <p tid="37">Thus have I heard at one time. The Blessed One was staying in Śrāvastī at Jetavana Grove, in the
+                    <p tid="37">Thus did I hear at one time. The Blessed One was staying in Śrāvastī at the Jeta Grove, in the
                         park of Anathapiṇḍada, along with a great saṅgha of twelve thousand monks. </p>
                     <p tid="38">Among them were venerable Ājñāta­kauṇḍinya, venerable Aśvajit, venerable Bāṣpa, venerable
                         Mahānāma, venerable Bhadrika, venerable Yaśodeva, venerable Vimala, venerable Subāhu, venerable Pūrņa,
@@ -525,7 +525,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-41"/>
                     <p tid="53">That night, just as people went to bed, the gods of the pure realms visited the Blessed One. Among
                         them were Īśvara, Maheśvara, Nanda, Sunanda, Candana, Mahita, Praśānta, Praśānta­vinīteśvara, and many
-                        other gods of the Pure Realms. With their brilliant colors, they illuminated the entire Jetavana Grove
+                        other gods of the Pure Realms. With their brilliant colors, they illuminated the entirety of Jeta Grove
                         with a divine light. Placing their heads at his feet, they prostrated to the Blessed One and then stood to
                         one side, supplicating him with the following words:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-42"/>
@@ -567,7 +567,7 @@
                         vanished.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-46"/>
                     <p tid="58">At dawn the next day, the Blessed One proceeded to a circular bamboo grove. Surrounded by the
-                        assembly of bodhisattvas, and with the Saṅgha of listeners gathered before him, he sat down on the seat
+                        assembly of bodhisattvas, and with the saṅgha of listeners gathered before him, he sat down on the seat
                         they had prepared and addressed the monks: <ref cRef="F.5.a"/>
                     </p>
                     <p tid="59"> “Monks, this evening a group of gods from the Pure Realms came before me. Among them were Īśvara,
@@ -596,7 +596,7 @@
                     <lg tid="64">
                         <l>“With great miraculous powers and brilliant colors,</l>
                         <l>They were pristine, blazing with magnificence.</l>
-                        <l>Illuminating Jetavana Grove with their splendor,</l>
+                        <l>Illuminating Jeta Grove with their splendor,</l>
                         <l>They joyfully approached me.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-51"/>
@@ -8725,7 +8725,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1067"/>
                     <lg tid="1346">
-                        <l>“No longer will I behold the assembly of <term>divine siddhas</term>
+                        <l>“No longer will I behold the assembly of divine siddhas
                         </l>
                         <l>Who make offerings to you day and night,</l>
                         <l>Nor will I be able to smell any longer the divine scents,</l>
@@ -18692,7 +18692,8 @@
                             <term>Jambū</term>
                             <term xml:lang="Bo-Ltn">dzam </term>
                             <term xml:lang="bo">ཛམ།</term>
-                            <term xml:lang="Sa-Ltn">Jambū / Jāmbū</term>
+                            <term xml:lang="Sa-Ltn">Jambū</term>
+                            <term xml:lang="Sa-Ltn">Jāmbū</term>
                         </gloss>
                     </item>
                     <item>
@@ -18713,7 +18714,7 @@
                     </item>
                     <item>
                         <gloss type="place" xml:id="UT22084-046-001-2398">
-                            <term>Jetavana Grove</term>
+                            <term>Jeta Grove</term>
                             <term xml:lang="Bo-Ltn">rgyal bu rgyal byed kyi tshal </term>
                             <term xml:lang="bo">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ།</term>
                             <term xml:lang="Sa-Ltn">jetavana</term>
@@ -18726,7 +18727,7 @@
                             <term xml:lang="bo">ཀ་ཙ་ལིན་དི།</term>
                             <term xml:lang="Sa-Ltn">kācilindika</term>
                             <term type="definition">An epithet for softness, probably in reference, direct or metaphorical, to the
-                                down of the kācilindika bird (see Lamotte, Etienne. <title xml:lang="fr">La Concentration de la
+                                down of the <term type="ignore">kācilindika</term> bird (see Lamotte, Etienne. <title xml:lang="fr">La Concentration de la
                                     Marche Héroïque</title>. Bruxelles: Peeters (1975), p261, n321).</term>
                         </gloss>
                     </item>
@@ -18750,8 +18751,10 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-046-001-2402">
                             <term>Kāśi</term>
-                            <term xml:lang="Bo-Ltn">gsal ldan/___ka shi </term>
-                            <term xml:lang="bo">གསལ་ལྡན། ཀ་ཤི།</term>
+                            <term xml:lang="Bo-Ltn">gsal ldan </term>
+                            <term xml:lang="bo">གསལ་ལྡན།</term>
+                            <term xml:lang="Bo-Ltn">ka shi </term>
+                            <term xml:lang="bo">ཀ་ཤི།</term>
                             <term xml:lang="Sa-Ltn">Kāśi</term>
                         </gloss>
                     </item>
@@ -18954,7 +18957,8 @@
                             <term>Palace of Brahmā</term>
                             <term xml:lang="Bo-Ltn">tshangs pa’i grong khyer </term>
                             <term xml:lang="bo">ཚངས་པའི་གྲོང་ཁྱེར།</term>
-                            <term xml:lang="Sa-Ltn">Brahmapura, Brahma­purālaya</term>
+                            <term xml:lang="Sa-Ltn">Brahmapura</term>
+                            <term xml:lang="Sa-Ltn">Brahma­purālaya</term>
                         </gloss>
                     </item>
                     <item>
@@ -19152,7 +19156,8 @@
                             <term>Sublime Heaven</term>
                             <term xml:lang="Bo-Ltn">gya nom snang </term>
                             <term xml:lang="bo">གྱ་ནོམ་སྣང་།</term>
-                            <term xml:lang="Sa-Ltn">Sudṛśa, Sudarśana</term>
+                            <term xml:lang="Sa-Ltn">Sudṛśa</term>
+                            <term xml:lang="Sa-Ltn">Sudarśana</term>
                         </gloss>
                     </item>
                     <!--<item>
@@ -19207,7 +19212,8 @@
                             <term>Unlofty Heaven</term>
                             <term xml:lang="Bo-Ltn">mi che ba </term>
                             <term xml:lang="bo">མི་ཆེ་བ།</term>
-                            <term xml:lang="Sa-Ltn">Abṛha, Avṛha</term>
+                            <term xml:lang="Sa-Ltn">Abṛha</term>
+                            <term xml:lang="Sa-Ltn">Avṛha</term>
                         </gloss>
                     </item>
                     <item>
@@ -19352,8 +19358,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2476">
                             <term>Kauṇḍinya</term>
-                            <term xml:lang="Bo-Ltn">kO N+Di n+ya</term>
-                            <term xml:lang="bo">ཀO་ཎྜི་ནྱ།</term>
+                            <term xml:lang="Bo-Ltn">kau N+Di n+ya</term>
+                            <term xml:lang="bo">ཀཽ་ཎྜི་ནྱ།</term>
                             <term xml:lang="Sa-Ltn">Kauṇḍinya</term>
                             <term type="definition">See also Ajñātakauṇḍinya.</term>
                         </gloss>
@@ -20481,7 +20487,7 @@
                             <term xml:lang="Bo-Ltn"> gshin rje </term>
                             <term xml:lang="bo">གཤིན་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">Yāma</term>
-                            <term type="definition">From Vedic times, the Lord of Death who directs the departed into the next
+                            <term type="definition">From Vedic times, the <term type="ignore">Lord of Death</term> who directs the departed into the next
                                 realm of rebirth.</term>
                         </gloss>
                     </item>
@@ -21202,8 +21208,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2704">
                             <term>Puṣya</term>
-                            <term xml:lang="Bo-Ltn">rgyal (skar ma) </term>
-                            <term xml:lang="bo">རྒྱལ ༼སྐར་མ༽།</term>
+                            <term xml:lang="Bo-Ltn">rgyal</term>
+                            <term xml:lang="bo">རྒྱལ།</term>
+                            <term xml:lang="Bo-Ltn">rgyal skar ma</term>
+                            <term xml:lang="bo">རྒྱལ་སྐར་མ།</term>
                             <term xml:lang="Sa-Ltn">Puṣya</term>
                         </gloss>
                     </item>
@@ -21389,7 +21397,7 @@
                             <term xml:lang="Bo-Ltn">lhag spyod </term>
                             <term xml:lang="bo">ལྷག་སྤྱོད།</term>
                             <term xml:lang="Sa-Ltn">Rudraka</term>
-                            <term type="definition">Although the spelling Rudraka is attested in the Sanskrit of this sūtra, in
+                            <term type="definition">Although the spelling <term type="ignore">Rudraka</term> is attested in the Sanskrit of this sūtra, in
                                 most other texts his name is Udraka, or Udraka Rāmaputra (“Udraka the son of Rāma”).</term>
                         </gloss>
                     </item>
@@ -21958,7 +21966,7 @@
                             <term>Sun</term>
                             <term xml:lang="Bo-Ltn">nyi ma </term>
                             <term xml:lang="bo">ཉི་མ།</term>
-                            <term xml:lang="Sa-Ltn">Sun</term>
+                            <term xml:lang="Sa-Ltn">sūrya</term>
                         </gloss>
                     </item>
                     <item>
@@ -22867,7 +22875,8 @@
                             <term>celestial maiden </term>
                             <term xml:lang="Bo-Ltn"> lha’i bu mo </term>
                             <term xml:lang="bo">ལྷའི་བུ་མོ།</term>
-                            <term xml:lang="Sa-Ltn">devakanyā, apsaras</term>
+                            <term xml:lang="Sa-Ltn">devakanyā</term>
+                            <term xml:lang="Sa-Ltn">apsaras</term>
                             <term type="definition">Sometimes also translated “goddess.”</term>
                         </gloss>
                     </item>
@@ -23001,7 +23010,7 @@
                         </gloss>
                     </item>
                     <item>
-                        <gloss type="term" xml:id="UT22084-046-001-2927" mode="marked">
+                        <gloss type="term" xml:id="UT22084-046-001-2927">
                             <term>divine siddha</term>
                             <term xml:lang="Bo-Ltn"> lha dang grub </term>
                             <term xml:lang="bo">ལྷ་དང་གྲུབ།</term>
@@ -23219,7 +23228,8 @@
                             <term>flower of the aśoka tree</term>
                             <term xml:lang="Bo-Ltn"> mya ngan med pa’i me tog </term>
                             <term xml:lang="bo">མྱ་ངན་མེད་པའི་མེ་ཏོག</term>
-                            <term xml:lang="Sa-Ltn">aśokakusuma, aśokapuṣpa</term>
+                            <term xml:lang="Sa-Ltn">aśokakusuma </term>
+                            <term xml:lang="Sa-Ltn">aśokapuṣpa</term>
                         </gloss>
                     </item>
                     <item>
@@ -23448,7 +23458,10 @@
                             <term>joy</term>
                             <term xml:lang="Bo-Ltn"> dga’ ba </term>
                             <term xml:lang="bo">དགའ་བ།</term>
-                            <term xml:lang="Sa-Ltn">muditā, tuṣṭi, nandana, rati</term>
+                            <term xml:lang="Sa-Ltn">muditā</term>
+                            <term xml:lang="Sa-Ltn">tuṣṭi</term>
+                            <term xml:lang="Sa-Ltn">nandana</term>
+                            <term xml:lang="Sa-Ltn">rati</term>
                         </gloss>
                     </item>
                     <item>
@@ -23520,7 +23533,8 @@
                             <term>lower realms</term>
                             <term xml:lang="Bo-Ltn"> ngan song </term>
                             <term xml:lang="bo">ངན་སོང་།</term>
-                            <term xml:lang="Sa-Ltn">apāya, durgati</term>
+                            <term xml:lang="Sa-Ltn">apāya</term>
+                            <term xml:lang="Sa-Ltn">durgati</term>
                         </gloss>
                     </item>
                     <item>
@@ -23638,7 +23652,8 @@
                             <term>modesty </term>
                             <term xml:lang="Bo-Ltn"> khrel yod </term>
                             <term xml:lang="bo">ཁྲེལ་ཡོད།</term>
-                            <term xml:lang="Sa-Ltn">hrī, lajjā</term>
+                            <term xml:lang="Sa-Ltn">hrī</term>
+                            <term xml:lang="Sa-Ltn">lajjā</term>
                         </gloss>
                     </item>
                     <item>
@@ -23745,7 +23760,8 @@
                             <term>patience </term>
                             <term xml:lang="Bo-Ltn"> bzod pa </term>
                             <term xml:lang="bo">བཟོད་པ།</term>
-                            <term xml:lang="Sa-Ltn">kṣamā, kṣānti</term>
+                            <term xml:lang="Sa-Ltn">kṣamā</term>
+                            <term xml:lang="Sa-Ltn">kṣānti</term>
                             <term type="definition">Forbearance, tolerance, acceptance.</term>
                         </gloss>
                     </item>
@@ -23918,7 +23934,7 @@
                             <term xml:lang="Bo-Ltn"> drang srong </term>
                             <term xml:lang="bo">དྲང་སྲོང་།</term>
                             <term xml:lang="Sa-Ltn">ṛṣi</term>
-                            <term type="definition">Indian sage, wise man (often a wandering ascetic or hermit).</term>
+                            <term type="definition">Indian <term type="ignore">sage</term>, wise man (often a wandering ascetic or hermit).</term>
                         </gloss>
                     </item>
                     <item>
@@ -23926,7 +23942,8 @@
                             <term>sāl tree</term>
                             <term xml:lang="Bo-Ltn"> shing sA la </term>
                             <term xml:lang="bo">ཤིང་སཱ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">sāla, śāla</term>
+                            <term xml:lang="Sa-Ltn">sāla</term>
+                            <term xml:lang="Sa-Ltn">śāla</term>
                         </gloss>
                     </item>
                     <item>
@@ -23969,7 +23986,7 @@
                             <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
                             <term type="definition">In Buddhism one way of describing experience (or being) is in terms of the
-                                twelve sense fields (eye and form, ear and sound, nose and odor, tongue and taste, body and touch,
+                                twelve <term type="ignore">sense fields</term> (eye and form, ear and sound, nose and odor, tongue and taste, body and touch,
                                 mind and mental objects).</term>
                         </gloss>
                     </item>
@@ -24050,8 +24067,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-046-001-3041">
                             <term>tagara</term>
-                            <term xml:lang="Bo-Ltn"> -</term>
-                            <term xml:lang="bo">-།</term>
+                            <term xml:lang="Bo-Ltn">rgya spos</term>
+                            <term xml:lang="bo">རྒྱ་སྤོས།</term>
                             <term xml:lang="Sa-Ltn">tagara</term>
                             <term type="definition">The shrub Tabernaemontana coronaria from which a fragrant powder or perfume is
                                 obtained.</term>
@@ -24104,7 +24121,8 @@
                             <term>three lower realms</term>
                             <term xml:lang="Bo-Ltn"> ngan 'gro gsum </term>
                             <term xml:lang="bo">ངན་འགྲོ་གསུམ།</term>
-                            <term xml:lang="Sa-Ltn">tridurgati, tryapāya</term>
+                            <term xml:lang="Sa-Ltn">tridurgati</term>
+                            <term xml:lang="Sa-Ltn">tryapāya</term>
                             <term type="definition">The realms of hell beings, pretas and animals.</term>
                         </gloss>
                     </item>
@@ -24169,7 +24187,8 @@
                             <term>two-headed pheasant</term>
                             <term xml:lang="Bo-Ltn"> shang shang te’u </term>
                             <term xml:lang="bo">ཤང་ཤང་ཏེའུ།</term>
-                            <term xml:lang="Sa-Ltn">jīvaṃjīvaka, jīvaṃjīva</term>
+                            <term xml:lang="Sa-Ltn">jīvaṃjīvaka</term>
+                            <term xml:lang="Sa-Ltn">jīvaṃjīva</term>
                         </gloss>
                     </item>
                     <item>
@@ -24201,7 +24220,8 @@
                             <term>valvaja grass</term>
                             <term xml:lang="Bo-Ltn"> gres ma </term>
                             <term xml:lang="bo">གྲེས་མ།</term>
-                            <term xml:lang="Sa-Ltn">valvaja, balbaja</term>
+                            <term xml:lang="Sa-Ltn">valvaja</term>
+                            <term xml:lang="Sa-Ltn">balbaja</term>
                         </gloss>
                     </item>
                     <item>
@@ -24278,7 +24298,8 @@
                             <term>womb </term>
                             <term xml:lang="Bo-Ltn"> rum </term>
                             <term xml:lang="bo">རུམ།</term>
-                            <term xml:lang="Sa-Ltn">garbha, yoni</term>
+                            <term xml:lang="Sa-Ltn">garbha</term>
+                            <term xml:lang="Sa-Ltn">yoni</term>
                         </gloss>
                     </item>
                     <item>

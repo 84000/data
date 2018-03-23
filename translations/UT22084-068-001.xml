@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:14:59 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 07:17:16 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -623,8 +623,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-068-001-78">
                             <term>parables</term>
-                            <term xml:lang="Bo-Ltn">’das pa brjod pa’i sde___,___de lta bu byung ba’i sde </term>
-                            <term xml:lang="bo">འདས་པ་བརྗོད་པའི་སྡེ , དེ་ལྟ་བུ་བྱུང་བའི་སྡེ།</term>
+                            <term xml:lang="Bo-Ltn">’das pa brjod pa’i sde </term>
+                            <term xml:lang="bo">འདས་པ་བརྗོད་པའི་སྡེ།</term>
+                            <term xml:lang="Bo-Ltn">de lta bu byung ba’i sde </term>
+                            <term xml:lang="bo">དེ་ལྟ་བུ་བྱུང་བའི་སྡེ།</term>
                             <term xml:lang="Sa-Ltn">itivŗttaka</term>
                         </gloss>
                     </item>
@@ -1106,7 +1108,7 @@
                             <term>King whose Fragrance is that of a Blossoming Utpala</term>
                             <term xml:lang="Bo-Ltn">ut pa la rgyas pa bsung gi rgyal po </term>
                             <term xml:lang="bo">ཨུཏ་པ་ལ་རྒྱས་པ་བསུང་གི་རྒྱལ་པོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1115,7 +1117,7 @@
                             <term>Well-tamed by the Vajra Essence</term>
                             <term xml:lang="Bo-Ltn">rdo rje snying pos rab tu ’dul ba </term>
                             <term xml:lang="bo">རྡོ་རྗེ་སྙིང་པོས་རབ་ཏུ་འདུལ་བ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1124,7 +1126,7 @@
                             <term>Whose Body is the Blossoming Lotus of Complete Absence of Doubt</term>
                             <term xml:lang="Bo-Ltn">rab tu gdon mi za ba pad mo rgyas pa’i sku </term>
                             <term xml:lang="bo">རབ་ཏུ་གདོན་མི་ཟ་བ་པད་མོ་རྒྱས་པའི་སྐུ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1133,7 +1135,7 @@
                             <term>Whose Body is the Widely Spreading Light of the Dharma</term>
                             <term xml:lang="Bo-Ltn">chos kyi ’od zer rab tu rgyas pa’i sku </term>
                             <term xml:lang="bo">ཆོས་ཀྱི་འོད་ཟེར་རབ་ཏུ་རྒྱས་པའི་སྐུ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1142,7 +1144,7 @@
                             <term>King who is the Light of Intelligence that Understands All</term>
                             <term xml:lang="Bo-Ltn">thams cad mkhyen pa’i blo gros ’od zer gyi rgyal po </term>
                             <term xml:lang="bo">ཐམས་ཅད་མཁྱེན་པའི་བློ་གྲོས་འོད་ཟེར་གྱི་རྒྱལ་པོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1151,7 +1153,7 @@
                             <term>Whose Mind is Like the Moon</term>
                             <term xml:lang="Bo-Ltn">zla ba’i thugs </term>
                             <term xml:lang="bo">ཟླ་བའི་ཐུགས།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1160,7 +1162,7 @@
                             <term>Greatly Handsome</term>
                             <term xml:lang="Bo-Ltn">mdzes chen </term>
                             <term xml:lang="bo">མཛེས་ཆེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1169,7 +1171,7 @@
                             <term>King who is Lord of the World's Orb</term>
                             <term xml:lang="Bo-Ltn">jig rten gyi dkyil ’khor dbang po’i rgyal po </term>
                             <term xml:lang="bo">ཇིག་རྟེན་གྱི་དཀྱིལ་འཁོར་དབང་པོའི་རྒྱལ་པོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1178,7 +1180,7 @@
                             <term>Joyful Eyes</term>
                             <term xml:lang="Bo-Ltn">dga’ ba’i spyan </term>
                             <term xml:lang="bo">དགའ་བའི་སྤྱན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1187,7 +1189,7 @@
                             <term>Golden Pillar</term>
                             <term xml:lang="Bo-Ltn">gser gyi gzu ba </term>
                             <term xml:lang="bo">གསེར་གྱི་གཟུ་བ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1196,7 +1198,7 @@
                             <term>Light of Infinite Good Qualities</term>
                             <term xml:lang="Bo-Ltn">mtha’ yas pa’i yon tan gyi ’od zer </term>
                             <term xml:lang="bo">མཐའ་ཡས་པའི་ཡོན་ཏན་གྱི་འོད་ཟེར།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1206,7 +1208,7 @@
                             <term xml:lang="Bo-Ltn">smon lam thams cad las ’byung ba’i rin po che’i gzi brjid shin tu ’phags pa’i
                                 rgyal po </term>
                             <term xml:lang="bo">སྨོན་ལམ་ཐམས་ཅད་ལས་འབྱུང་བའི་རིན་པོ་ཆེའི་གཟི་བརྗིད་ཤིན་ཏུ་འཕགས་པའི་རྒྱལ་པོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1215,7 +1217,7 @@
                             <term>King of Renowned Melodious Sounds</term>
                             <term xml:lang="Bo-Ltn">grags pa’i sgra dbyangs kyi rgyal po </term>
                             <term xml:lang="bo">གྲགས་པའི་སྒྲ་དབྱངས་ཀྱི་རྒྱལ་པོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1224,7 +1226,7 @@
                             <term>Lord of the Ocean that is the Wisdom Vajra</term>
                             <term xml:lang="Bo-Ltn">ye shes rdo rje’i rgya mtsho </term>
                             <term xml:lang="bo">ཡེ་ཤེས་རྡོ་རྗེའི་རྒྱ་མཚོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>
                     </item>
@@ -1233,7 +1235,7 @@
                             <term>Intelligence in Conduct</term>
                             <term xml:lang="Bo-Ltn">spyod pa’i blo gros </term>
                             <term xml:lang="bo">སྤྱོད་པའི་བློ་གྲོས།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Bodhisattva of the west.</term>
                         </gloss>
                     </item>
@@ -1242,7 +1244,7 @@
                             <term>Exalted Jewel</term>
                             <term xml:lang="Bo-Ltn">rin chen mchog </term>
                             <term xml:lang="bo">རིན་ཆེན་མཆོག</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Bodhisattva of the northwest.</term>
                         </gloss>
                     </item>
@@ -1251,7 +1253,7 @@
                             <term>Given by Joy</term>
                             <term xml:lang="Bo-Ltn">dga’ bas byin </term>
                             <term xml:lang="bo">དགའ་བས་བྱིན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Bodhisattva of the zenith.</term>
                         </gloss>
                     </item>
@@ -1260,7 +1262,7 @@
                             <term>World of the Saffron-Colored Victory Banners</term>
                             <term xml:lang="Bo-Ltn">ngur smrig gi rgyal mtshan gyi ’jig rten </term>
                             <term xml:lang="bo">ངུར་སྨྲིག་གི་རྒྱལ་མཚན་གྱི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1269,7 +1271,7 @@
                             <term>World in which the Wheel of No Regress has been Proclaimed</term>
                             <term xml:lang="Bo-Ltn">phyir mi ldog pa’i ’khor lo bsgrags pa’i ’jig rten </term>
                             <term xml:lang="bo">ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་བསྒྲགས་པའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1278,7 +1280,7 @@
                             <term>World without Dust</term>
                             <term xml:lang="Bo-Ltn">rdul med pa’i ’jig rten </term>
                             <term xml:lang="bo">རྡུལ་མེད་པའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1287,7 +1289,7 @@
                             <term>World of Supreme Illumination</term>
                             <term xml:lang="Bo-Ltn">rab tu snang ba’i ’jig rten </term>
                             <term xml:lang="bo">རབ་ཏུ་སྣང་བའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1296,7 +1298,7 @@
                             <term>World of Noble Light</term>
                             <term xml:lang="Bo-Ltn">’od bzang po’i ’jig rten </term>
                             <term xml:lang="bo">འོད་བཟང་པོའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1305,7 +1307,7 @@
                             <term>World that is Difficult to Transcend</term>
                             <term xml:lang="Bo-Ltn">’da’ bar dka’ ba’i ’jig rten </term>
                             <term xml:lang="bo">འདའ་བར་དཀའ་བའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1314,7 +1316,7 @@
                             <term>World that is Supremely Noble</term>
                             <term xml:lang="Bo-Ltn">rab tu bzang po’i ’jig rten </term>
                             <term xml:lang="bo">རབ་ཏུ་བཟང་པོའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1323,7 +1325,7 @@
                             <term>World where the Mirror-disk has been Proclaimed</term>
                             <term xml:lang="Bo-Ltn">me long gi dkyil ’khor bsgrags pa’i ’jig rten </term>
                             <term xml:lang="bo">མེ་ལོང་གི་དཀྱིལ་འཁོར་བསྒྲགས་པའི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of a tathāgata.</term>
                         </gloss>
                     </item>
@@ -1332,7 +1334,7 @@
                             <term>World of the Glory of the Lotus</term>
                             <term xml:lang="Bo-Ltn">pad mo dpal gyi ’jig rten </term>
                             <term xml:lang="bo">པད་མོ་དཔལ་གྱི་འཇིག་རྟེན།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Realm of tathāgatas.</term>
                         </gloss>
                     </item>

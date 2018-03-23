@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:15:17 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 12:31:57 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -242,7 +242,8 @@
                             <term xml:lang="Bo-Ltn">chos kyi sku </term>
                             <term xml:lang="bo">ཆོས་ཀྱི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">dharmakāya</term>
-                            <term type="definition">Dharmakāya or body of dharma refers to the Buddha’s realization of reality.
+                            <term type="definition">
+                                <term type="ignore">Dharmakāya</term> or body of dharma refers to the Buddha’s realization of reality.
                                 Sometimes translated “truth body” or “reality body.” In other contexts, particularly in early
                                 texts, the term may also refer to the Buddha’s qualities as a collective whole, or to his
                                 teachings as embodying him.</term>
@@ -254,7 +255,8 @@
                             <term xml:lang="Bo-Ltn">longs spyod rdzogs pa’i sku </term>
                             <term xml:lang="bo">ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">saṃbhogakāya</term>
-                            <term type="definition">Saṃbhogakāya or body of enjoyment. Aspect of buddhahood perceptible to
+                            <term type="definition">
+                                <term type="ignore">Saṃbhogakāya</term> or body of enjoyment. Aspect of buddhahood perceptible to
                                 bodhisattvas.</term>
                         </gloss>
                     </item>
@@ -264,7 +266,8 @@
                             <term xml:lang="Bo-Ltn">sprul pa’i sku </term>
                             <term xml:lang="bo">སྤྲུལ་པའི་སྐུ།</term>
                             <term xml:lang="Sa-Ltn">nirmāṇakāya</term>
-                            <term type="definition">Nirmāṇakāya or body of manifestation. Aspect of buddhahood perceptible to
+                            <term type="definition">
+                                <term type="ignore">Nirmāṇakāya</term> or body of manifestation. Aspect of buddhahood perceptible to
                                 ordinary individuals with good karma.</term>
                         </gloss>
                     </item>
@@ -316,7 +319,7 @@
                             <term xml:lang="bo">ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">manovijñāna</term>
                             <term type="definition">Just as the five sense cognitions occur on the basis of the five sense
-                                faculties, mental cognition is the cognition that occurs on the basis of the mind faculty.</term>
+                                faculties, <term type="ignore">mental cognition</term> is the cognition that occurs on the basis of the mind faculty.</term>
                         </gloss>
                     </item>
                     <item>
@@ -348,7 +351,8 @@
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
                             <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
-                            <term type="definition">Yakṣas or harm givers. A class of mostly malevolent spirits.</term>
+                            <term type="definition">
+                                <term type="ignore">Yakṣas</term> or harm givers. A class of mostly malevolent spirits.</term>
                         </gloss>
                     </item>
                     <item>
@@ -357,7 +361,8 @@
                             <term xml:lang="Bo-Ltn">dri za </term>
                             <term xml:lang="bo">དྲི་ཟ།</term>
                             <term xml:lang="Sa-Ltn">gandharva</term>
-                            <term type="definition">Gandharvas, literally “smell-eaters,” are a class of spirits, sometimes
+                            <term type="definition">
+                                <term type="ignore">Gandharvas</term>, literally “smell-eaters,” are a class of spirits, sometimes
                                 described as celestial musicians. In other contexts the term can also refer to beings in the
                                 bardo-state.</term>
                         </gloss>
@@ -464,7 +469,7 @@
                             <term xml:lang="Bo-Ltn">bya rgod phung po’i ri </term>
                             <term xml:lang="bo">བྱ་རྒོད་ཕུང་པོའི་རི།</term>
                             <term xml:lang="Sa-Ltn">Gṛ̥dhra­kūṭa-parvata</term>
-                            <term type="definition">Name of a mountain close to Rajgir. It is famous as the place where the Buddha
+                            <term type="definition">Name of a mountain close to Rājgṛha. It is famous as the place where the Buddha
                                 is said to have taught the Prajñāpāramitā and other teachings.</term>
                         </gloss>
                     </item>

@@ -48,7 +48,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:12:29 by admin</note>
+                <note type="lastUpdated">Last updated at 18/03/2018 at 11:06:34 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -2727,7 +2727,7 @@ Notes -->
                             <term xml:lang="Bo-Ltn">mu stegs can </term>
                             <term xml:lang="bo">མུ་སྟེགས་ཅན།</term>
                             <term xml:lang="Sa-Ltn">tīrthika</term>
-                            <term type="definition">A follower of a non-Buddhist philosophy or religion.</term>
+                            <term type="definition">A follower of a <term type="ignore">non-Buddhist</term> philosophy or religion.</term>
                         </gloss>
                     </item>
                     <item>
@@ -2737,7 +2737,7 @@ Notes -->
                             <term xml:lang="bo">མགོན་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">abhijñā</term>
                             <term type="definition">Supernormal cognitive powers possessed to different degrees by bodhisattvas
-                                and buddhas. The five superknowledges are clairvoyance, clairaudience, knowledge of others' minds,
+                                and buddhas. The five <term type="ignore">superknowledges</term> are clairvoyance, clairaudience, knowledge of others' minds,
                                 miraculous abilities, and knowledge of past lives; a sixth, mentioned in some lists and possessed
                                 only by fully enlightened buddhas, is knowlege of the exhaustion of outflows.</term>
                         </gloss>
@@ -2843,6 +2843,8 @@ Notes -->
                             <term>Constant Stable Diligence</term>
                             <term xml:lang="Bo-Ltn">rtag tu brtson 'grus brtan </term>
                             <term xml:lang="bo">རྟག་ཏུ་བརྩོན་འགྲུས་བརྟན།</term>
+                            <term xml:lang="Sa-Ltn"/>
+                            <term type="definition"/>
                         </gloss>
                     </item>
                     <item>
@@ -2885,6 +2887,7 @@ Notes -->
                             <term>Free of Demons</term>
                             <term xml:lang="Bo-Ltn">bdud bral </term>
                             <term xml:lang="bo">བདུད་བྲལ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2909,6 +2912,7 @@ Notes -->
                             <term>Great Supreme Sage</term>
                             <term xml:lang="Bo-Ltn">drang srong chen po mchog </term>
                             <term xml:lang="bo">དྲང་སྲོང་ཆེན་པོ་མཆོག</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2916,6 +2920,7 @@ Notes -->
                             <term>Immaculately Renowned King</term>
                             <term xml:lang="Bo-Ltn">dri ma med par grags pa'i rgyal po </term>
                             <term xml:lang="bo">དྲི་མ་མེད་པར་གྲགས་པའི་རྒྱལ་པོ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2923,6 +2928,7 @@ Notes -->
                             <term>King of Many Arrangements</term>
                             <term xml:lang="Bo-Ltn">bkod pa mang po'i rgyal po </term>
                             <term xml:lang="bo">བཀོད་པ་མང་པོའི་རྒྱལ་པོ།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -3036,7 +3042,7 @@ Notes -->
                             <term>Wealthy as the Great Sal Tree</term>
                             <term xml:lang="Bo-Ltn">shing sA la chen po lta bur nor bzangs </term>
                             <term xml:lang="bo">ཤིང་སཱ་ལ་ཆེན་པོ་ལྟ་བུར་ནོར་བཟངས།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -3183,7 +3189,7 @@ Notes -->
                             <term>Totally Immaculate</term>
                             <term xml:lang="Bo-Ltn">kun nas dri ma med pa </term>
                             <term xml:lang="bo">ཀུན་ནས་དྲི་མ་མེད་པ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">The buddhafield of Immaculately Renowned King.</term>
                         </gloss>
                     </item>
@@ -3192,7 +3198,7 @@ Notes -->
                             <term>Utterly Purifying</term>
                             <term xml:lang="Bo-Ltn">kun nas dri ma med pa </term>
                             <term xml:lang="bo">ཀུན་ནས་དྲི་མ་མེད་པ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Name of buddhafield of Buddha King of Many Arrangements.</term>
                         </gloss>
                     </item>

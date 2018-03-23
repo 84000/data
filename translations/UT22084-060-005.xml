@@ -43,7 +43,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:13:19 by admin</note>
+                <note type="lastUpdated">Last updated at 19/03/2018 at 12:19:29 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -4608,7 +4608,7 @@
                             <term xml:lang="Sa-Ltn">Abhidharma</term>
                             <term type="definition">Conventionally, the general name for the Buddhist teachings presented in a
                                 scientific manner, as a fully elaborated transcendental psychology. As one of the branches of the
-                                Canon, it corresponds to the discipline of wisdom (the <foreign type="term" xml:lang="Sa-Ltn">Sūtras</foreign> corresponding to meditation, and the <foreign type="term" xml:lang="Sa-Ltn">Vinaya</foreign> to morality). Ultimately the Abhidharma <emph>is</emph> “pure wisdom, with
+                                Canon, it corresponds to the discipline of wisdom (the <foreign type="term" xml:lang="Sa-Ltn">Sūtras</foreign> corresponding to meditation, and the <foreign type="term" xml:lang="Sa-Ltn">Vinaya</foreign> to morality). Ultimately the <term type="ignore">Abhidharma</term> <emph>is</emph> “pure wisdom, with
                                 its coordinate mental functions” (<foreign type="term" xml:lang="Sa-Ltn">Prajñāmalā
                                     sānucārā</foreign>), according to Vasubandhu. </term>
                         </gloss>
@@ -4618,7 +4618,8 @@
                             <term>absence of self </term>
                             <term xml:lang="Bo-Ltn">bdag med pa </term>
                             <term xml:lang="bo">བདག་མེད་པ།</term>
-                            <term xml:lang="Sa-Ltn">anātmatā, or nairātmya</term>
+                            <term xml:lang="Sa-Ltn">anātmatā</term>
+                            <term xml:lang="Sa-Ltn">nairātmya</term>
                             <term type="definition">This describes actual reality, as finally there is no enduring person himself
                                 or thing itself, since persons and things exist only in the relative, conventional, or superficial
                                 sense, and not in any ultimate or absolute sense. To understand Buddhist teaching correctly, we
@@ -4635,10 +4636,10 @@
                             <term xml:lang="Bo-Ltn">snyom ’jug </term>
                             <term xml:lang="bo">སྙོམ་འཇུག</term>
                             <term xml:lang="Sa-Ltn">samāpatti</term>
-                            <term type="definition">“Absorption” has been translated as “meditation,” “contemplation,”
+                            <term type="definition">“<term type="ignore">Absorption</term>” has been translated as “meditation,” “contemplation,”
                                 “attainment,” etc., and any of these words might serve. The problem is to establish one English
                                 word for each of the important Sanskrit words <foreign type="term" xml:lang="Sa-Ltn">samāpatti</foreign>, <foreign type="term" xml:lang="Sa-Ltn">dhyāna</foreign>, <foreign type="term" xml:lang="Sa-Ltn">samādhi</foreign>, <foreign type="term" xml:lang="Sa-Ltn">bhāvanā</foreign>, etc., so as to preserve a consistency with the original. Therefore, I have
-                                adopted for these terms, respectively, “absorption,” “contemplation,” “concentration” and
+                                adopted for these terms, respectively, “<term type="ignore">absorption</term>,” “contemplation,” “concentration” and
                                 “realization” or “cultivation,” reserving the word “meditation” for general use with any of the
                                 terms when they are used not in a specific sense but to indicate mind-practice in general. </term>
                         </gloss>
@@ -4665,7 +4666,7 @@
                                 of “pile,” or “heap,” which has the connotation of utter lack of internal structure, of a randomly
                                 collocated pile of things; thus “group” may convey a false connotation of structure and ordered
                                 arrangement. The five “compulsive” (<foreign type="term" xml:lang="Sa-Ltn">upādāna</foreign>)
-                                aggregates are of great importance as a schema for introspective meditation in the Abhidharma,
+                                <term type="ignore">aggregates</term> are of great importance as a schema for introspective meditation in the Abhidharma,
                                 wherein each is defined with the greatest subtlety and precision. In fact, the five terms <foreign type="term" xml:lang="Sa-Ltn">rūpa</foreign>, <foreign type="term" xml:lang="Sa-Ltn">vedanā</foreign>, <foreign type="term" xml:lang="Sa-Ltn">samjñā</foreign>, saṃskāra, and
                                     <foreign type="term" xml:lang="Sa-Ltn">vijñāna</foreign> have such a particular technical
                                 sense that many translators have preferred to leave them untranslated. Nevertheless, in the sūtra
@@ -4745,8 +4746,7 @@
                             <term xml:lang="Bo-Ltn">ngan song </term>
                             <term xml:lang="bo">ངན་སོང་།</term>
                             <term xml:lang="Sa-Ltn">durgati</term>
-                            <term type="definition">The three bad migrations are those of (1) denizens of hells, (2) inhabitants
-                                of the “limbo” of the <foreign type="term" xml:lang="Sa-Ltn">pretaloka</foreign>, where one
+                            <term type="definition">The three <term type="ignore">bad migrations</term> are those of (1) denizens of hells, (2) inhabitants of the “limbo” of the <foreign type="term" xml:lang="Sa-Ltn">pretaloka</foreign>, where one
                                 wanders as an insatiably hungry and thirsty wretch, and (3) animals, who are trapped in the
                                 pattern of mutual devouring (Tib. <foreign type="term" xml:lang="Bo-Ltn">gcig la gcig
                                 za</foreign>).</term>
@@ -4758,7 +4758,7 @@
                             <term xml:lang="Bo-Ltn">bslab pa’i gzhi rnams </term>
                             <term xml:lang="bo">བསླབ་པའི་གཞི་རྣམས།</term>
                             <term xml:lang="Sa-Ltn">sikṣāpada</term>
-                            <term type="definition">These basic precepts are five in number for the laity: (1) not killing, (2)
+                            <term type="definition">These <term type="ignore">basic precepts</term> are five in number for the laity: (1) not killing, (2)
                                 not stealing, (3) chastity, (4) not lying, and (5) avoiding intoxicants. For monks, there are
                                 three or five more; avoidance of such things as perfumes, makeup, ointments, garlands, high beds,
                                 and afternoon meals.</term>
@@ -4781,7 +4781,7 @@
                             <term xml:lang="Sa-Ltn">anutpādatva</term>
                             <term type="definition">This refers to the ultimate nature of reality, to the fact that, ultimately,
                                 nothing has ever been produced or born nor will it ever be because birth and production can occur
-                                only on the relative, or superficial, level. Hence “birthlessness” is a synonym of “voidness,”
+                                only on the relative, or superficial, level. Hence “<term type="ignore">birthlessness</term>” is a synonym of “voidness,”
                                 “reality,” “absolute,” “ultimate,” “infinity,” etc.</term>
                         </gloss>
                     </item>
@@ -4812,7 +4812,7 @@
                             <term xml:lang="bo">སངས་རྒྱས།</term>
                             <term xml:lang="Sa-Ltn">buddha</term>
                             <term type="definition">Lit. “awakened one.” Title of one who has attained the highest attainment
-                                possible for a living being. “The Buddha” often designates Śākyamuni because he is the Buddha
+                                possible for a living being. “The <term type="ignore">Buddha</term>” often designates Śākyamuni because he is the <term type="ignore">Buddha</term>
                                 mainly in charge of the buddhafield of our Sahā universe.</term>
                         </gloss>
                     </item>
@@ -4823,7 +4823,7 @@
                             <term xml:lang="bo">སངས་རྒྱས་ཀྱི་ཞིང་།</term>
                             <term xml:lang="Sa-Ltn">buddhakṣetra</term>
                             <term type="definition">Roughly, a synonym for “universe,” although Buddhist cosmology contains many
-                                universes of different types and dimensions. “Buddhafield” indicates, in regard to whatever type
+                                universes of different types and dimensions. “<term type="ignore">Buddhafield</term>” indicates, in regard to whatever type
                                 of world-sphere, that it is the field of influence of a particular Buddha. For a detailed
                                 discussion of these concepts, see Lamotte, Appendice, Note I.</term>
                         </gloss>
@@ -4853,6 +4853,9 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-519">
                             <term>Ch’an</term>
+                            <term xml:lang="Bo-Ltn"/>
+                            <term xml:lang="bo"/>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">Chinese word for <foreign type="term" xml:lang="Sa-Ltn">dhyāna</foreign>,
                                 which was adopted as the name of the school of Mahāyāna practice founded by Bodhidharma, and later
                                 to become famous in the west as Zen.</term>
@@ -4898,7 +4901,7 @@
                                 who has awakened from ignorance; the possibility of his own attainment of a higher state of
                                 consciousness; and the necessity of attaining it in order to liberate other living beings from
                                 their stupefaction. Having realized this possibility, he becomes inspired with the intense
-                                ambition to attain, and that is called the “conception of the spirit of enlightenment.” “Spirit”
+                                ambition to attain, and that is called the “<term type="ignore">conception of the spirit of enlightenment</term>.” “Spirit”
                                 is preferred to “mind” because the mind of enlightenment should rather be the mind of the Buddha,
                                 and to “thought” because a “thought of enlightenment” can easily be produced without the
                                 initiation of any sort of new resolve or awareness. “Will” also serves very well here.</term>
@@ -4930,7 +4933,7 @@
                                 “enlightenment,” or whatever higher state is desired. According to Buddhist scholars, thought in
                                 itself is simply a function, and only thought that is attached to its own content over and above
                                 the relative object, i.e., “egoistic” thought, is bad and to be eliminated. Therefore we have
-                                chosen a set of words for the seven Skt. terms: respectively, “conceptualization,” “imagination,”
+                                chosen a set of words for the seven Skt. terms: respectively, “<term type="ignore">conceptualization</term>,” “imagination,”
                                 “presumption,” “exaggeration,” “construction,” “conception” or “notion,” and “fabrication.” This
                                 does not mean that these words are not somewhat interchangeable or that another English word might
                                 not be better in certain contexts; it only represents an attempt to achieve consistency with the
@@ -4944,7 +4947,7 @@
                             <term xml:lang="bo">བག་ཡོད་པ།</term>
                             <term xml:lang="Sa-Ltn">apramāda</term>
                             <term type="definition">This denotes a type of awareness of the most seemingly insignificant aspects
-                                of practical life, an awareness derived as a consequence of the highest realization of the
+                                of practical <term type="ignore">life</term>, an awareness derived as a consequence of the highest realization of the
                                 ultimate nature of reality. As it is stated in the <title xml:lang="Sa-Ltn">Anavatapta­nāga­rāja­paripṛcchā­sūtra</title> (Toh 156): “He who realizes voidness, that
                                 person is consciously aware.” “Ultimate realization,” far from obliterating the relative world,
                                 brings it into highly specific, albeit dreamlike, focus. </term>
@@ -5010,7 +5013,7 @@
                             <term type="definition">This refers to those teachings of the Buddha that are in terms of ultimate
                                 reality; it is opposed to those teachings given in terms of relative reality, termed
                                 “interpretable meaning,” because they require further interpretation before being relied on to
-                                indicate the ultimate. Hence definitive meaning relates to voidness, etc., and no statement
+                                indicate the ultimate. Hence <term type="ignore">definitive meaning</term> relates to voidness, etc., and no statement
                                 concerning the relative world, even by the Buddha, can be taken as definitive. This is especially
                                 important in the context of the Mādhyamika doctrine, hence in the context of Vimalakīrti’s
                                 teachings, because he is constantly correcting the disciples and bodhisattvas who accept
@@ -5073,7 +5076,7 @@
                             <term xml:lang="Bo-Ltn">chos kyi sgo </term>
                             <term xml:lang="bo">ཆོས་ཀྱི་སྒོ།</term>
                             <term xml:lang="Sa-Ltn">dharmamukha</term>
-                            <term type="definition">Certain teachings are called “Dharma-doors” (or “doors of the Dharma”), as
+                            <term type="definition">Certain teachings are called “<term type="ignore">Dharma-doors</term>” (or “doors of the Dharma”), as
                                 they provide access to the practice of the Dharma.</term>
                         </gloss>
                     </item>
@@ -5085,7 +5088,7 @@
                             <term xml:lang="Sa-Ltn">dharmacakṣu</term>
                             <term type="definition">One of the “five eyes,” representing superior insights of the buddhas and
                                 bodhisattvas. The five eyes consist of five different faculties of vision: the physical eye
-                                    (<foreign type="term" xml:lang="Sa-Ltn">māṃsa­cakṣu</foreign>), the divine eye (<foreign type="term" xml:lang="Sa-Ltn">dīvya­cakṣu</foreign>), the wisdom eye (<foreign type="term" xml:lang="Sa-Ltn">prajñā­cakṣu</foreign>), the Dharma-eye (<foreign type="term" xml:lang="Sa-Ltn">dharma­cakṣu</foreign>), and the Buddha-eye (<foreign type="term" xml:lang="Sa-Ltn">buddha­cakṣu</foreign>).</term>
+                                    (<foreign type="term" xml:lang="Sa-Ltn">māṃsa­cakṣu</foreign>), the divine eye (<foreign type="term" xml:lang="Sa-Ltn">dīvya­cakṣu</foreign>), the wisdom eye (<foreign type="term" xml:lang="Sa-Ltn">prajñā­cakṣu</foreign>), the <term type="ignore">Dharma-eye</term> (<foreign type="term" xml:lang="Sa-Ltn">dharma­cakṣu</foreign>), and the Buddha-eye (<foreign type="term" xml:lang="Sa-Ltn">buddha­cakṣu</foreign>).</term>
                         </gloss>
                     </item>
                     <item>
@@ -5097,7 +5100,7 @@
                             <term type="definition">One of the six “superknowledges” (q.v.) as well as one of the “five eyes,”
                                 this is the supernormal ability to see to an unlimited distance, observe events on other worlds,
                                 see through mountains, etc. The five eyes consist of five different faculties of vision: the
-                                physical eye (<foreign type="term" xml:lang="Sa-Ltn">māṃsa­cakṣu</foreign>), the divine eye
+                                physical eye (<foreign type="term" xml:lang="Sa-Ltn">māṃsa­cakṣu</foreign>), the <term type="ignore">divine eye</term>
                                     (<foreign type="term" xml:lang="Sa-Ltn">dīvya­cakṣu</foreign>), the wisdom eye (<foreign type="term" xml:lang="Sa-Ltn">prajñā­cakṣu</foreign>), the Dharma-eye (<foreign type="term" xml:lang="Sa-Ltn">dharma­cakṣu</foreign>), and the Buddha-eye (<foreign type="term" xml:lang="Sa-Ltn">buddha­cakṣu</foreign>).</term>
                         </gloss>
                     </item>
@@ -5107,8 +5110,8 @@
                             <term xml:lang="Bo-Ltn">chos kyi sgo </term>
                             <term xml:lang="bo">ཆོས་ཀྱི་སྒོ།</term>
                             <term xml:lang="Sa-Ltn">dharmamukha</term>
-                            <term type="definition">Certain teachings are called “doors of the Dharma” (or “Dharma-doors”), as
-                                they provide access to the practice of the Dharma.</term>
+                            <term type="definition">See “Dharma-door.”</term>
+                            <term type="alternative">doors of the Dharma</term>
                         </gloss>
                     </item>
                     <item>
@@ -5154,8 +5157,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-544">
                             <term>eight perverse paths</term>
-                            <term xml:lang="Bo-Ltn">log pa brgyad __,__log pa nyid brgyad </term>
-                            <term xml:lang="bo">ལོག་པ་བརྒྱད་ , ལོག་པ་ཉིད་བརྒྱད།</term>
+                            <term xml:lang="Bo-Ltn">log pa brgyad </term>
+                            <term xml:lang="bo">ལོག་པ་བརྒྱད།</term>
+                            <term xml:lang="Bo-Ltn">log pa nyid brgyad </term>
+                            <term xml:lang="bo">ལོག་པ་ཉིད་བརྒྱད།</term>
                             <term xml:lang="Sa-Ltn">mithyātva</term>
                             <term type="definition">These consist of the exact opposites of the eight branches of the eightfold
                                 noble path (<foreign type="term" xml:lang="Sa-Ltn">aṣṭāngikamārga</foreign>). </term>
@@ -5217,15 +5222,18 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-548">
                             <term>element</term>
-                            <term xml:lang="Bo-Ltn">khams __,__’byung ba chen po </term>
-                            <term xml:lang="bo">ཁམས་ , འབྱུང་བ་ཆེན་པོ།</term>
-                            <term xml:lang="Sa-Ltn">dhātu, mahābhūta</term>
+                            <term xml:lang="Bo-Ltn">khams </term>
+                            <term xml:lang="bo">ཁམས།</term>
+                            <term xml:lang="Bo-Ltn">’byung ba chen po </term>
+                            <term xml:lang="bo">འབྱུང་བ་ཆེན་པོ།</term>
+                            <term xml:lang="Sa-Ltn">dhātu</term>
+                            <term xml:lang="Sa-Ltn">mahābhūta</term>
                             <term type="definition">Depending on the context, may translate either: (a) Skt. <foreign type="term" xml:lang="Sa-Ltn">mahābhūta</foreign>, Tib. <foreign type="term" xml:lang="Bo-Ltn">’byung ba
-                                    chen po</foreign>, the four “main” or “great” outer elements of earth, water, fire, air, and
+                                    chen po</foreign>, the four “main” or “great” outer <term type="ignore">elements</term> of earth, water, fire, air, and
                                 (when there is a fifth) space; or: (b) Skt. <foreign type="term" xml:lang="Sa-Ltn">dhātu</foreign>, Tib. <foreign type="term" xml:lang="Sa-Ltn">khams</foreign>, the “eighteen
-                                elements” introduce, in the context of the aggregates, elements, and sense-media, the same six
-                                pairs as the twelve sense-media, as elements of experience, adding a third member to each set: the
-                                element of consciousness (<foreign type="term" xml:lang="Sa-Ltn">vijñāna</foreign>), or sense.
+                                <term type="ignore">elements</term>” introduce, in the context of the aggregates, <term type="ignore">elements</term>, and sense-media, the same six
+                                pairs as the twelve sense-media, as <term type="ignore">elements</term> of experience, adding a third member to each set: the
+                                <term type="ignore">element</term> of consciousness (<foreign type="term" xml:lang="Sa-Ltn">vijñāna</foreign>), or sense.
                                 Hence the first pair gives the triad eye-element (<foreign type="term" xml:lang="Sa-Ltn">caksur­dhātu</foreign>), form-element (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>), and eye-consciousness-element, or eye-sense-element (<foreign type="term" xml:lang="Sa-Ltn">caksur­vijñāna­dhātu</foreign>)—and so on with the other five,
                                 noting the last, mind-element (<foreign type="term" xml:lang="Sa-Ltn">manodhātu</foreign>),
                                 phenomena-element (<foreign type="term" xml:lang="Sa-Ltn">dharma­dhātu</foreign>), and
@@ -5253,13 +5261,13 @@
                             <term xml:lang="bo">སྟོང་པ་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">śūnyatā</term>
                             <term type="definition">This Skt. term is usually translated by “voidness” because that English word
-                                is more rarely used in other contexts than “emptiness” and does not refer to any sort of ultimate
+                                is more rarely used in other contexts than “<term type="ignore">emptiness</term>” and does not refer to any sort of ultimate
                                 nothingness, as a thing-in-itself, or even as the thing-in-itself to end all things-in-themselves.
                                 It is a pure negation of the ultimate existence of anything or, in Buddhist terminology, the
-                                “emptiness with respect to personal and phenomenal selves,” or “with respect to identity,” or
+                                “<term type="ignore">emptiness</term> with respect to personal and phenomenal selves,” or “with respect to identity,” or
                                 “with respect to intrinsic nature,” or “with respect to essential substance,” or “with respect to
                                 self-existence established by intrinsic identity,” or “with respect to ultimate truth-status,”
-                                etc. Thus emptiness is a concept descriptive of the ultimate reality through its pure negation of
+                                etc. Thus <term type="ignore">emptiness</term> is a concept descriptive of the ultimate reality through its pure negation of
                                 whatever may be supposed to be ultimately real. It is an absence, hence not existent in itself. It
                                 is synonymous therefore with “infinity,” “absolute,” etc.—themselves all negative terms, i.e.,
                                 formed etymologically from a positive concept by adding a negative prefix (in + finite = not
@@ -5267,7 +5275,7 @@
                                 are habituated to the connection of word and thing, we tend to hypostatize a “void,” analogous to
                                 “outer space,” a “vacuum,” etc., which we either shrink from as a nihilistic nothingness or become
                                 attached to as a liberative nothingness; this great mistake can be cured only by realizing the
-                                meaning of the “emptiness of emptiness,” which brings us to the tolerance of inconceivability (see
+                                meaning of the “<term type="ignore">emptiness</term> of <term type="ignore">emptiness</term>,” which brings us to the tolerance of inconceivability (see
                                 “tolerance”).</term>
                         </gloss>
                     </item>
@@ -5296,23 +5304,24 @@
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-553">
-                            <term>fearlessnesses</term>
+                            <term>fearlessness</term>
                             <term xml:lang="Bo-Ltn">mi ’jigs pa </term>
                             <term xml:lang="bo">མི་འཇིགས་པ།</term>
                             <term xml:lang="Sa-Ltn">vaiśāradya</term>
-                            <term type="definition">The Buddha has four fearlessnesses, as do the bodhisattvas. The four
-                                fearlessnesses of the Buddha are: fearlessness regarding the realization of all things;
-                                fearlessness regarding knowledge of the exhaustion of all impurities; fearlessness of foresight
-                                through ascertainment of the persistence of obstructions; and fearlessness in the rightness of the
-                                path leading to the attainment of the supreme success. The fearlessnesses of the bodhisattva are:
-                                fearlessness in teaching the meaning he has understood from what he has learned and practiced;
-                                fearlessness resulting from the successful maintenance of purity in physical, verbal, and mental
+                            <term type="definition">The Buddha has four <term type="ignore">fearlessnesses</term>, as do the bodhisattvas. The four
+                                <term type="ignore">fearlessnesses</term> of the Buddha are: <term type="ignore">fearlessness</term> regarding the realization of all things;
+                                <term type="ignore">fearlessness</term> regarding knowledge of the exhaustion of all impurities; <term type="ignore">fearlessness</term> of foresight
+                                through ascertainment of the persistence of obstructions; and <term type="ignore">fearlessness</term> in the rightness of the
+                                path leading to the attainment of the supreme success. The <term type="ignore">fearlessnesses</term> of the bodhisattva are:
+                                <term type="ignore">fearlessness</term> in teaching the meaning he has understood from what he has learned and practiced;
+                                <term type="ignore">fearlessness</term> resulting from the successful maintenance of purity in physical, verbal, and mental
                                 action—without relying on others’ kindness, being naturally flawless through his understanding of
-                                the absence of self; fearlessness resulting from freedom from obstruction in virtue, in teaching,
+                                the absence of self; <term type="ignore">fearlessness</term> resulting from freedom from obstruction in virtue, in teaching,
                                 and in delivering living beings, through the perfection of wisdom and liberative art and through
-                                not forgetting and constantly upholding the teachings; and fearlessness in the ambition to attain
+                                not forgetting and constantly upholding the teachings; and <term type="ignore">fearlessness</term> in the ambition to attain
                                 full mastery of omniscience—without any deterioration or deviation to other practices—and to
                                 accomplish all the aims of all living beings.</term>
+                            <term type="alternative">fearlessnesses</term>
                         </gloss>
                     </item>
                     <item>
@@ -5321,7 +5330,8 @@
                             <term xml:lang="Bo-Ltn">slas </term>
                             <term xml:lang="bo">སླས།</term>
                             <term xml:lang="Sa-Ltn">sahacāri</term>
-                            <term type="definition">Female attendants who normally assisted the wife of a wealthy
+                            <term type="definition">
+                                <term type="ignore">Female attendants</term> who normally assisted the wife of a wealthy
                                 householder.</term>
                         </gloss>
                     </item>
@@ -5387,7 +5397,7 @@
                                 cultivation of concentration of will (<foreign type="term" xml:lang="Sa-Ltn">chanda­samādhi­prahāṇa­saṃskāra­samanvāgataḥ</foreign>). The second consists of the energy
                                 from the conscious cultivation of concentration of mind (<foreign type="term" xml:lang="Sa-Ltn">citta‑</foreign>). The third consists of concentration of effort (<foreign type="term" xml:lang="Sa-Ltn">vīrya‑</foreign>). The fourth consists of concentration of analysis
                                     (<foreign type="term" xml:lang="Sa-Ltn">mīmāṃsa‑</foreign>). These four form a part of the
-                                thirty-seven aids to enlightenment (see entry). </term>
+                                thirty-seven aids to enlightenment. </term>
                         </gloss>
                     </item>
                     <item>
@@ -5397,8 +5407,7 @@
                             <term xml:lang="bo">དྲན་པ་ཉེ་བར་གཞག་པ།</term>
                             <term xml:lang="Sa-Ltn">smṛtyupasṭhāna</term>
                             <term type="definition">These are the stationing, or focusing, of mindfulness on the body, sensations,
-                                the mind, and things. These four form a part of the thirty-seven aids to enlightenment (see
-                                entry).</term>
+                                the mind, and things. These four form a part of the thirty-seven aids to enlightenment.</term>
                         </gloss>
                     </item>
                     <item>
@@ -5433,8 +5442,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-564">
                             <term>four epitomes of the Dharma</term>
-                            <term xml:lang="Bo-Ltn">chos kyi phyag rgya bzhi __,__bka’ rtags kyi phyag rgya bzhi </term>
-                            <term xml:lang="bo">ཆོས་ཀྱི་ཕྱག་རྒྱ་བཞི་ , བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">chos kyi phyag rgya bzhi </term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་ཕྱག་རྒྱ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya bzhi </term>
+                            <term xml:lang="bo">བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">dharmoddāna</term>
                             <term type="definition">The four are as follows: All compounded things are impermanent (<foreign type="term" xml:lang="Sa-Ltn">anityāḥ sarva­saṃskārāḥ</foreign>). All defiled things are
                                 suffering (<foreign type="term" xml:lang="Sa-Ltn">duḥkhāh sarva­sāsravāḥ</foreign>). All things
@@ -5480,11 +5491,12 @@
                             <term>four right efforts</term>
                             <term xml:lang="Bo-Ltn">yang dag par spong ba bzhi </term>
                             <term xml:lang="bo">ཡང་དག་པར་སྤོང་བ་བཞི།</term>
-                            <term xml:lang="Sa-Ltn">samyak­prahāṇa, samyak­pradhāna</term>
+                            <term xml:lang="Sa-Ltn">samyak­prahāṇa</term>
+                            <term xml:lang="Sa-Ltn">samyak­pradhāna</term>
                             <term type="definition">These are effort not to initiate sins not yet arisen; effort to eliminate sins
                                 already arisen; effort to initiate virtues not yet arisen; and effort to consolidate, increase,
                                 and not deteriorate virtues already arisen. For my use of “effort” (<foreign type="term" xml:lang="Sa-Ltn">samyak­pradhāna</foreign>) instead of lit. “abandonment” (<foreign type="term" xml:lang="Sa-Ltn">samyak­prahāna</foreign>) see Dayal, p. 102 ff. These four form
-                                a part of the thirty-seven aids to enlightenment (see entry).</term>
+                                a part of the thirty-seven aids to enlightenment.</term>
                         </gloss>
                     </item>
                     <item>
@@ -5585,7 +5597,7 @@
                                 enlightenment‌. It follows upon the positive thought, or aspiration to attain it, wherein the
                                 bodhisattva becomes filled with a lofty determination that he himself should attain enlightenment,
                                 that it is the only thing to do to solve his own problems as well as those of all living beings.
-                                This high resolve reaches its most intense purity when the bodhisattva simultaneously attains the
+                                This <term type="ignore">high resolve</term> reaches its most intense purity when the bodhisattva simultaneously attains the
                                 Path of Insight and the first bodhisattva-stage, the Stage of Joy. The translation follows
                                 Lamotte’s happy coinage “<foreign type="term" xml:lang="fr">haute résolution</foreign>.” </term>
                         </gloss>
@@ -5627,10 +5639,11 @@
                                 sometimes as “own-being,” both of which have a certain literal validity. However, neither
                                 artificial term has any evocative power for the reader who has no familiarity with the original,
                                 and a term must be found that the reader can immediately relate to his own world to fulfill the
-                                function the original word had in its world. In our world of identities (national, racial,
-                                religious, personal, sexual, etc.), “identity” is a part of our makeup; thus, when we are taught
-                                the ultimate absence of identity of all persons and things, it is easy to “identify” what is
+                                function the original word had in its world. In our world of <term type="ignore">identities</term> (national, racial,
+                                religious, personal, sexual, etc.), “<term type="ignore">identity</term>” is a part of our makeup; thus, when we are taught
+                                the ultimate absence of <term type="ignore">identity</term> of all persons and things, it is easy to “identify” what is
                                 supposedly absent and hence to try to understand what that entails. </term>
+                            <term type="alternative">identities</term>
                         </gloss>
                     </item>
                     <item>
@@ -5647,7 +5660,7 @@
                             <term xml:lang="Bo-Ltn">gzungs </term>
                             <term xml:lang="bo">གཟུངས།</term>
                             <term xml:lang="Sa-Ltn">dhāraṇī</term>
-                            <term type="definition">These incantations, or spells, are mnemonic formulas, possessed by advanced
+                            <term type="definition">These <term type="ignore">incantations</term>, or spells, are mnemonic formulas, possessed by advanced
                                 bodhisattvas, that contain a quintessence of their attainments, not simply magical charms—although
                                 the latter are included.</term>
                         </gloss>
@@ -5701,7 +5714,8 @@
                             <term xml:lang="Bo-Ltn">rnam par thar pa bsam gyis mi khyab pa </term>
                             <term xml:lang="bo">རྣམ་པར་ཐར་པ་བསམ་གྱིས་མི་ཁྱབ་པ།</term>
                             <term xml:lang="Sa-Ltn">acintyavimokṣa</term>
-                            <term type="definition">Inconceivable liberation of the bodhisattvas, a name of the <title xml:lang="Sa-Ltn">Avataṃsaka</title>, and a subtitle of the Vimala­kīrti­nirdeśa. </term>
+                            <term type="definition">
+                                <term type="ignore">Inconceivable liberation</term> of the bodhisattvas, a name of the <title xml:lang="Sa-Ltn">Avataṃsaka</title>, and a subtitle of the Vimala­kīrti­nirdeśa. </term>
                         </gloss>
                     </item>
                     <item>
@@ -5808,9 +5822,16 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-597">
                             <term>liberation</term>
-                            <term xml:lang="Bo-Ltn">mya ngan las ’das pa __,__rnam par grol ba __,__rnam par thar pa </term>
-                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ་ , རྣམ་པར་གྲོལ་བ་ , རྣམ་པར་ཐར་པ།</term>
-                            <term xml:lang="Sa-Ltn">nirvāṇa, vimukti, vimokṣa</term>
+                            <term xml:lang="Bo-Ltn">mya ngan las ’das pa </term>
+                            <term xml:lang="bo">མྱ་ངན་ལས་འདས་པ།</term>
+                            <term xml:lang="Bo-Ltn">rnam par grol ba </term>
+                            <term xml:lang="bo">རྣམ་པར་གྲོལ་བ།</term>
+                            <term xml:lang="Bo-Ltn">rnam par thar pa </term>
+                            <term xml:lang="bo">རྣམ་པར་ཐར་པ།</term>
+                            <term xml:lang="Sa-Ltn">nirvāṇa</term>
+                            <term xml:lang="Sa-Ltn">vimukti</term>
+                            <term xml:lang="Sa-Ltn">vimokṣa</term>
+                            <term type="definition"/>
                         </gloss>
                     </item>
                     <item>
@@ -5825,12 +5846,12 @@
                                 techniques possible to remove those troubles, and the troubles of living beings are removed
                                 effectively only when they reach liberation. “Art” was chosen over the usual “method” and “means”
                                 because it has a stronger connotation of efficacy in our technological world; also, in Buddhism,
-                                liberative art is identified with the extreme of power, energy, and efficacy, as symbolized in the
+                                <term type="ignore">liberative art</term> is identified with the extreme of power, energy, and efficacy, as symbolized in the
                                     <foreign type="term" xml:lang="Sa-Ltn">vajra</foreign> (adamantine scepter): The importance of
                                 this term is highlighted in this sūtra by the fact that Vimalakīrti himself is introduced in the
-                                chapter entitled “Inconceivable Skill in Liberative Art”; this indicates that he, as a function of
+                                chapter entitled “Inconceivable Skill in <term type="ignore">Liberative Art</term>”; this indicates that he, as a function of
                                 the <foreign type="term" xml:lang="Sa-Ltn">nirmāṇakāya</foreign> (incarnation-body), just like the
-                                Buddha himself, is the very incarnation of liberative art, and every act of his life is therefore
+                                Buddha himself, is the very incarnation of <term type="ignore">liberative art</term>, and every act of his life is therefore
                                 a technique for the development and liberation of living beings. The “liberative” part of the
                                 translation follows “<foreign type="term" xml:lang="fr">salvifique</foreign>” in Lamotte’s phrase
                                     “<foreign type="term" xml:lang="fr">moyens salvifique</foreign>.” </term>
@@ -5860,7 +5881,7 @@
                             <term xml:lang="Bo-Ltn">bcom ldan ’das </term>
                             <term xml:lang="bo">བཅོམ་ལྡན་འདས།</term>
                             <term xml:lang="Sa-Ltn">Bhagavān</term>
-                            <term type="definition">“Lord” is chosen to translate the title <foreign type="term" xml:lang="Sa-Ltn">Bhagavān</foreign> because it is the term of greatest respect current in our “sacred”
+                            <term type="definition">“<term type="ignore">Lord</term>” is chosen to translate the title <foreign type="term" xml:lang="Sa-Ltn">Bhagavān</foreign> because it is the term of greatest respect current in our “sacred”
                                 language, as established for the Deity in the Elizabethan version of the Bible. Indeed, the Skt.
                                     <foreign type="term" xml:lang="Sa-Ltn">Bhagavān</foreign> was given as a title to the Buddha,
                                 although it also served the non-Buddhist Indians of the day and, subsequently, it served as an
@@ -5869,7 +5890,7 @@
                                 particular deity through the use of this term [as indeed in Buddhist sūtras various deities,
                                 creators, protectors, etc., are shown in their respective roles]. Thus I feel it would compromise
                                 the weight and function of the original <foreign type="term" xml:lang="Sa-Ltn">Bhagavān</foreign>
-                                to use any less weighty term than “Lord” for the Buddha. </term>
+                                to use any less weighty term than “<term type="ignore">Lord</term>” for the Buddha. </term>
                         </gloss>
                     </item>
                     <item>
@@ -5975,6 +5996,9 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-612">
                             <term>meditation</term>
+                            <term xml:lang="Bo-Ltn"/>
+                            <term xml:lang="bo"/>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">See “absorption.”</term>
                         </gloss>
                     </item>
@@ -5983,7 +6007,8 @@
                             <term>mental construction</term>
                             <term xml:lang="Bo-Ltn">kun tu rtog pa </term>
                             <term xml:lang="bo">ཀུན་ཏུ་རྟོག་པ།</term>
-                            <term xml:lang="Sa-Ltn">kalpanā, or vikalpa</term>
+                            <term xml:lang="Sa-Ltn">kalpanā</term>
+                            <term xml:lang="Sa-Ltn">vikalpa</term>
                             <term type="definition">See “conceptualization.”</term>
                         </gloss>
                     </item>
@@ -5993,12 +6018,12 @@
                             <term xml:lang="Bo-Ltn">zhi gnas </term>
                             <term xml:lang="bo">ཞི་གནས།</term>
                             <term xml:lang="Sa-Ltn">śamatha</term>
-                            <term type="definition">“Mental quiescence” is a general term for all types of mind-practice,
+                            <term type="definition">“<term type="ignore">Mental quiescence</term>” is a general term for all types of mind-practice,
                                 meditation, contemplation, concentration, etc., that cultivate one-pointedness of mind and lead to
                                 a state of peacefulness and freedom from concern with any sort of object. It is paired with
                                 “transcendental analysis” or “insight,” which combines the analytic faculty with this
                                 one-pointedness to reach high realizations such as the absence of self (see “transcendental
-                                analysis”). “Mental quiescence” and “transcendental analysis” were coined by E. Obermiller in his
+                                analysis”). “<term type="ignore">Mental quiescence</term>” and “transcendental analysis” were coined by E. Obermiller in his
                                 invaluable study “Prajṅa Pāramitā Doctrine, as Exposed in the Abhisamayālaṃkāra of Maitreya” (Acta
                                 Orientalia, Vol. XI [Heidelberg, 1932], pp. 1-134).</term>
                         </gloss>
@@ -6032,13 +6057,13 @@
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-618">
-                            <term>narrow-minded attitudes</term>
+                            <term>narrow-minded attitude</term>
                             <term xml:lang="Bo-Ltn">nyi tshe ba’i spyod pa </term>
                             <term xml:lang="bo">ཉི་ཚེ་བའི་སྤྱོད་པ།</term>
                             <term xml:lang="Sa-Ltn">pradeśakārin</term>
-                            <term type="definition">This term refers to the restricted, biased, narrow-minded attitudes and
+                            <term type="definition">This term refers to the restricted, biased, <term type="ignore">narrow-minded attitudes</term> and
                                 practices of the disciple vehicle, which itself is called Skt. <foreign type="term" xml:lang="Sa-Ltn">prādeśikāyāna</foreign> (“limited, or narrow-minded, vehicle”) (Mvy, 1254).
-                                It is narrow-minded because it posits the reality of the elements of existence as apparently
+                                It is <term type="ignore">narrow-minded</term> because it posits the reality of the elements of existence as apparently
                                 perceived and because it aspires only to personal liberation, not to the exaltation of buddhahood.
                             </term>
                         </gloss>
@@ -6097,8 +6122,8 @@
                             <term xml:lang="bo">གཉིས་སུ་མེད་པ།</term>
                             <term xml:lang="Sa-Ltn">advayatvā</term>
                             <term type="definition">This is synonymous with reality, voidness, etc. But it must be remembered that
-                                nonduality does not necessarily mean unity, that unity is only one of the pair unity-duality;
-                                hence nonduality implies nonunity as well. This point is obscured by designating this nondual
+                                <term type="ignore">nonduality</term> does not necessarily mean unity, that unity is only one of the pair unity-duality;
+                                hence <term type="ignore">nonduality</term> implies nonunity as well. This point is obscured by designating this nondual
                                 philosophy as “monism,” as too many modern scholars have done.</term>
                         </gloss>
                     </item>
@@ -6126,7 +6151,7 @@
                             <term xml:lang="bo">ཐམས་ཅད་མཁྱེན་པ།</term>
                             <term xml:lang="Sa-Ltn">sarvajñatā</term>
                             <term type="definition">This refers to the gnosis of the Buddha, with which there is nothing he does
-                                not know. However, not to confuse “omniscience” with the theistic conception of an omniscient god,
+                                not know. However, not to confuse “<term type="ignore">omniscience</term>” with the theistic conception of an omniscient god,
                                 the “everything” here is specifically everything about the source of the predicament of worldly
                                 life and the way of transcendence of that world through liberation. Since “everything” is only an
                                 abstract term without any particular referent, once we are clear about the implications of
@@ -6134,7 +6159,7 @@
                                 relative, i.e., a totality within a particular frame of reference. Thus, as Dharmakīrti has
                                 remarked, “it is not a question of the Buddha’s knowing the number of fish in the ocean,” i.e.,
                                 since there are infinity of fish in infinity of oceans in infinity of worlds and universes. The
-                                Buddha’s omniscience, rather, knows how to develop and liberate any fish in any ocean, as well as
+                                Buddha’s <term type="ignore">omniscience</term>, rather, knows how to develop and liberate any fish in any ocean, as well as
                                 all other living beings. </term>
                         </gloss>
                     </item>
@@ -6256,8 +6281,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-639">
                             <term>reconciliation of dichotomies</term>
-                            <term xml:lang="Bo-Ltn">snrel zhi’i rgyud __,__snrel zhi ba </term>
-                            <term xml:lang="bo">སྣྲེལ་ཞིའི་རྒྱུད་ , སྣྲེལ་ཞི་བ།</term>
+                            <term xml:lang="Bo-Ltn">snrel zhi’i rgyud </term>
+                            <term xml:lang="bo">སྣྲེལ་ཞིའི་རྒྱུད།</term>
+                            <term xml:lang="Bo-Ltn">snrel zhi ba </term>
+                            <term xml:lang="bo">སྣྲེལ་ཞི་བ།</term>
                             <term xml:lang="Sa-Ltn">yamaka­vyatyastāhāra</term>
                             <term type="definition">The twelfth of the eighteen special qualities of a bodhisattva.</term>
                             <term type="alternative">reconciling dichotomies</term>
@@ -6271,7 +6298,7 @@
                             <term xml:lang="Sa-Ltn">pratītya­samutpāda</term>
                             <term type="definition">In most contexts, this term is properly translated by “dependent origination.”
                                 But in the Mādhyamika context, wherein the concept of the ultimate nonorigination of all things is
-                                emphasized, “relativity” better serves to convey the message that things exist only in relation to
+                                emphasized, “<term type="ignore">relativity</term>” better serves to convey the message that things exist only in relation to
                                 verbal designation and that nothing exists as an independent, self-sufficient entity, even on the
                                 superficial level.</term>
                         </gloss>
@@ -6355,8 +6382,8 @@
                             <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་སྙིང་པོ།</term>
                             <term xml:lang="Sa-Ltn">bodhimaṇḍa</term>
                             <term type="definition">Haribhadra defines it as “a place used as a seat, where the maṇḍa, here
-                                ‘essence,’ of enlightenment is present.” See Lamotte, p. 198, n. 105. The main “seat of
-                                enlightenment” is the spot under the bo tree at Buddha Gaya, where the Buddha sat and attained
+                                ‘essence,’ of enlightenment is present.” See Lamotte, p. 198, n. 105. The main “<term type="ignore">seat of
+                                enlightenment</term>” is the spot under the bo tree at Buddha Gaya, where the Buddha sat and attained
                                 unexcelled, perfect enlightenment. It is not to be confused with <foreign type="term" xml:lang="Sa-Ltn">bodhimaṇḍala</foreign>, “circle of enlightenment.” </term>
                         </gloss>
                     </item>
@@ -6366,9 +6393,9 @@
                             <term xml:lang="Bo-Ltn">bdag </term>
                             <term xml:lang="bo">བདག</term>
                             <term xml:lang="Sa-Ltn">ātma</term>
-                            <term type="definition">It is crucial to understand what is meant by “self,” before one is able to
+                            <term type="definition">It is crucial to understand what is meant by “<term type="ignore">self</term>,” before one is able to
                                 realize the all-important “absence of self.” Before we can discover an absence, we have to know
-                                what we are looking for. In Mahāyāna, there is a self of persons and a self of things, both
+                                what we are looking for. In Mahāyāna, there is a <term type="ignore">self</term> of persons and a <term type="ignore">self</term> of things, both
                                 presumed habitually by living beings and hence informative of their perceptions. Were these
                                 “selves” to exist as they appear because of our presumption, they should exist as substantial,
                                 self-subsistent entities within things, or as the intrinsic realities of things, or as the
@@ -6401,7 +6428,7 @@
                             <term xml:lang="Bo-Ltn">skye mched </term>
                             <term xml:lang="bo">སྐྱེ་མཆེད།</term>
                             <term xml:lang="Sa-Ltn">āyatana</term>
-                            <term type="definition">The twelve sense-media are eye-medium (<foreign type="term" xml:lang="Sa-Ltn">cakṣurāyatana</foreign>), form-medium (<foreign type="term" xml:lang="Sa-Ltn">rūpa</foreign>-), ear-medium (<foreign type="term" xml:lang="Sa-Ltn">śrotra</foreign>-),
+                            <term type="definition">The twelve <term type="ignore">sense-media</term> are eye-medium (<foreign type="term" xml:lang="Sa-Ltn">cakṣurāyatana</foreign>), form-medium (<foreign type="term" xml:lang="Sa-Ltn">rūpa</foreign>-), ear-medium (<foreign type="term" xml:lang="Sa-Ltn">śrotra</foreign>-),
                                 sound-medium (<foreign type="term" xml:lang="Sa-Ltn">śabda</foreign>-), nose-medium (<foreign type="term" xml:lang="Sa-Ltn">ghrāna</foreign>-), scent-medium (<foreign type="term" xml:lang="Sa-Ltn">gandha</foreign>-), tongue-medium (<foreign type="term" xml:lang="Sa-Ltn">jihvā</foreign>-), taste-medium (<foreign type="term" xml:lang="Sa-Ltn">rasa</foreign>-),
                                 body-medium (<foreign type="term" xml:lang="Sa-Ltn">kāya</foreign>-), texture-medium (<foreign type="term" xml:lang="Sa-Ltn">spraṣṭavya</foreign>), mental-medium (<foreign type="term" xml:lang="Sa-Ltn">mana</foreign>-), and phenomena-medium (<foreign type="term" xml:lang="Sa-Ltn">dharmāyatana</foreign>). In some passages they are enumerated as six, the
                                 object-faculty pair being taken as one, and it is this set of six that is the fifth member of the
@@ -6417,8 +6444,8 @@
                             <term xml:lang="bo">རྣམ་པར་ཤེས་པ་ལ་གནས་པ་བདུན།</term>
                             <term xml:lang="Sa-Ltn">vijñānasthiti</term>
                             <term type="definition">This refers to the seven categories of living beings, as enumerated in the
-                                    <title xml:lang="Sa-Ltn">Abhi­dharma­kośa</title>, III, v. 5-6a. The seven abodes of
-                                consciousness consist of beings who differ physically and intellectually; beings who differ
+                                    <title xml:lang="Sa-Ltn">Abhi­dharma­kośa</title>, III, v. 5-6a. The <term type="ignore">seven abodes of
+                                consciousness</term> consist of beings who differ physically and intellectually; beings who differ
                                 physically but are similar intellectually; beings similar physically but who differ
                                 intellectually; beings similar physically and intellectually; and three types of immaterial beings
                                     (<foreign type="quote" xml:lang="Sa-Ltn">nānātvakāya­saṃjñāś ca nānākāyaika­saṃjñinaḥ /
@@ -6445,7 +6472,7 @@
                             <term xml:lang="Sa-Ltn">saṃbodhyaṅga</term>
                             <term type="definition">These are the factors of remembrance (<foreign type="term" xml:lang="Sa-Ltn">smṛti</foreign>), discrimination between teachings (<foreign type="term" xml:lang="Sa-Ltn">dharma­pravicaya</foreign>), effort (<foreign type="term" xml:lang="Sa-Ltn">vīrya</foreign>),
                                 joy (<foreign type="term" xml:lang="Sa-Ltn">prīti</foreign>), ecstasy (<foreign type="term" xml:lang="Sa-Ltn">praśrabdhi</foreign>), concentration (<foreign type="term" xml:lang="Sa-Ltn">samādhi</foreign>), and equanimity (<foreign type="term" xml:lang="Sa-Ltn">upekṣā</foreign>).
-                                These seven form a part of the thirty-seven aids to enlightenment (see entry). </term>
+                                These seven form a part of the thirty-seven aids to enlightenment. </term>
                         </gloss>
                     </item>
                     <item>
@@ -6461,8 +6488,8 @@
                                 the configuration of two slanted lines with a crossbar has in itself nothing whatsoever to do with
                                 the phenomenon made with the mouth and throat in the open position, when expulsion of breath makes
                                 the vocal cords resonate “ah.” By extending such analysis to all signs, we may get an inkling of
-                                what is meant by “signlessness,” which is essentially equivalent to voidness, and to
-                                “wishlessness” (see entry). Voidness, signlessness, and wishlessness form the “Three Doors of
+                                what is meant by “<term type="ignore">signlessness</term>,” which is essentially equivalent to voidness, and to
+                                “wishlessness” (see entry). Voidness, <term type="ignore">signlessness</term>, and wishlessness form the “Three Doors of
                                 Liberation.”</term>
                         </gloss>
                     </item>
@@ -6580,7 +6607,7 @@
                             <term xml:lang="Sa-Ltn">ālaya</term>
                             <term type="definition">Identifiable with <foreign type="term" xml:lang="Sa-Ltn">ālayavijñāna</foreign>. However, as reference to the elaborate Vijñānavādin psychology of the
                                 “store-consciousness” is out of place in this sūtra, it is here simply translated
-                                “subconsciousness.” </term>
+                                “<term type="ignore">subconsciousness</term>.” </term>
                         </gloss>
                     </item>
                     <item>
@@ -6609,7 +6636,7 @@
                             <term xml:lang="Bo-Ltn">stong pa nyid kyi stong pa nyid </term>
                             <term xml:lang="bo">སྟོང་པ་ཉིད་ཀྱི་སྟོང་པ་ཉིད།</term>
                             <term xml:lang="Sa-Ltn">śūnyatāśūnyatā</term>
-                            <term type="definition">The voidness of voidness, an important concept that indicates the ultimate
+                            <term type="definition">The <term type="ignore">voidness of voidness</term>, an important concept that indicates the ultimate
                                 conceptuality of all terms, even those for the ultimate, to avoid the major error of absolutising
                                 the ultimate.</term>
                         </gloss>
@@ -6671,7 +6698,7 @@
                             <term xml:lang="Bo-Ltn">stobs bcu </term>
                             <term xml:lang="bo">སྟོབས་བཅུ།</term>
                             <term xml:lang="Sa-Ltn">daśabala</term>
-                            <term type="definition">There are two different sets of ten powers, those of the Buddha and those of
+                            <term type="definition">There are two different sets of <term type="ignore">ten powers</term>, those of the Buddha and those of
                                 bodhisattvas. Those of the Buddha consist of power from knowing right from wrong (<foreign type="term" xml:lang="Sa-Ltn">sthānāsthāna­jñāna­bala</foreign>); power from knowing the
                                 consequences of actions (<foreign type="term" xml:lang="Sa-Ltn">karma­vipāka­jñāna</foreign>-);
                                 power from knowing the various inclinations (of living beings) (<foreign type="term" xml:lang="Sa-Ltn">nānādhimukti­jñāna</foreign>-); power from knowing the various types (of
@@ -6688,8 +6715,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-060-005-674">
                             <term>ten sins</term>
-                            <term xml:lang="Bo-Ltn">mi dge ba bcu __,__mi dge ba’i las kyi lam bcu </term>
-                            <term xml:lang="bo">མི་དགེ་བ་བཅུ་ , མི་དགེ་བའི་ལས་ཀྱི་ལམ་བཅུ།</term>
+                            <term xml:lang="Bo-Ltn">mi dge ba bcu </term>
+                            <term xml:lang="bo">མི་དགེ་བ་བཅུ།</term>
+                            <term xml:lang="Bo-Ltn">mi dge ba’i las kyi lam bcu </term>
+                            <term xml:lang="bo">མི་དགེ་བའི་ལས་ཀྱི་ལམ་བཅུ།</term>
                             <term xml:lang="Sa-Ltn">akuśala</term>
                             <term type="definition">These are the opposite of the ten virtues, and consist of killing, stealing,
                                 sexual misconduct, lying, harsh speech, backbiting, frivolous speech, covetousness, malice, and
@@ -6767,13 +6796,13 @@
                                 is too often understood as only the types of practices categorized as “quietistic”—which eschew
                                 objects, learning, analysis, discrimination, etc., and lead only to the attainment of temporary
                                 peace and one-pointedness. However, in order to reach any high realization, such as the absence of
-                                a personal self, the absence of a self in phenomena, or voidness, “transcendental analysis,” with
+                                a personal self, the absence of a self in phenomena, or voidness, “<term type="ignore">transcendental analysis</term>,” with
                                 its analytical penetration to the nature of ultimate reality, is indispensable. The analysis is
                                 called “transcendental” because it does not accept anything it sees as it appears. Instead,
                                 through analytic examination, it penetrates to its deeper reality, going ever deeper in infinite
                                 penetration until tolerance is reached. All apparently self-sufficient objects are seen through
                                 and their truth-status is rejected—first conceptually and finally perceptually, at buddhahood.
-                                Thus “meditation,” to be efficacious, must include both mental quiescence (<foreign type="term" xml:lang="Sa-Ltn">śamatha</foreign>), and transcendental analysis (<foreign type="term" xml:lang="Sa-Ltn">vipaśyana</foreign>) in integrated combination. </term>
+                                Thus “meditation,” to be efficacious, must include both mental quiescence (<foreign type="term" xml:lang="Sa-Ltn">śamatha</foreign>), and <term type="ignore">transcendental analysis</term> (<foreign type="term" xml:lang="Sa-Ltn">vipaśyana</foreign>) in integrated combination. </term>
                         </gloss>
                     </item>
                     <item>
@@ -6782,7 +6811,8 @@
                             <term xml:lang="Bo-Ltn">ye shes sgrub pa </term>
                             <term xml:lang="bo">ཡེ་ཤེས་སྒྲུབ་པ།</term>
                             <term xml:lang="Sa-Ltn">jñāna­pratipatti</term>
-                            <term type="definition">Transcendental practice, as opposed to practice at an earlier stage.</term>
+                            <term type="definition">
+                                <term type="ignore">Transcendental practice</term>, as opposed to practice at an earlier stage.</term>
                         </gloss>
                     </item>
                     <item>
@@ -6802,12 +6832,12 @@
                             <term xml:lang="Bo-Ltn">don dam pa </term>
                             <term xml:lang="bo">དོན་དམ་པ།</term>
                             <term xml:lang="Sa-Ltn">paramārtha</term>
-                            <term type="definition">“Ultimate” is preferable to the usual “absolute” because it carries fewer
+                            <term type="definition">“<term type="ignore">Ultimate</term>” is preferable to the usual “absolute” because it carries fewer
                                 connotations than “absolute”—which, however, when understood logically, is also correct. It is
                                 contrasted with “superficial” (<foreign type="term" xml:lang="Sa-Ltn">vyavahāra</foreign>) or
                                 “relative” (<foreign type="term" xml:lang="Sa-Ltn">samvṛtti</foreign>) to give the two types, or
-                                “levels.,” of truth. It is synonymous with ultimate reality, the uncompounded, voidness, reality,
-                                limit of reality, absolute, nirvāṇa, ultimate liberation, infinity, permanence, eternity,
+                                “levels.,” of truth. It is synonymous with <term type="ignore">ultimate</term> reality, the uncompounded, voidness, reality,
+                                limit of reality, absolute, nirvāṇa, <term type="ignore">ultimate</term> liberation, infinity, permanence, eternity,
                                 independence, etc. It also has the soteriological sense of “sacred” as opposed to “profane” as is
                                 conveyed by its literal rendering “supreme” (<foreign type="term" xml:lang="Sa-Ltn">parama</foreign>) “object” (<foreign type="term" xml:lang="Sa-Ltn">artha</foreign>). </term>
                         </gloss>
@@ -7035,7 +7065,10 @@
                             <term>Āryāsaṅga</term>
                             <term xml:lang="Bo-Ltn">’phags pa thogs med </term>
                             <term xml:lang="bo">འཕགས་པ་ཐོགས་མེད།</term>
-                            <term xml:lang="Sa-Ltn">Āryāsaṅga, Asaṅga</term>
+                            <term xml:lang="Bo-Ltn">thogs med </term>
+                            <term xml:lang="bo">ཐོགས་མེད།</term>
+                            <term xml:lang="Sa-Ltn">Āryāsaṅga</term>
+                            <term xml:lang="Sa-Ltn">Asaṅga</term>
                             <term type="definition">This great Indian philosopher lived in the fourth century and was the founder
                                 of the Vijñānavāda, or “Consciousness-Only,” school of Mahāyāna Buddhism.</term>
                         </gloss>
@@ -7048,7 +7081,7 @@
                             <term xml:lang="Sa-Ltn">Atiśa</term>
                             <term type="definition">(982-1055). Perhaps the last of the universally acclaimed masters of Indian
                                 Buddhism, he was extremely influential in Tibetan Buddhism, as he spent the last seventeen years
-                                of his life in Tibet, bringing many important teachings and aiding in the work of correction of
+                                of his <term type="ignore">life</term> in Tibet, bringing many important teachings and aiding in the work of correction of
                                 teachings translated earlier.</term>
                         </gloss>
                     </item>
@@ -7069,7 +7102,7 @@
                             <term xml:lang="Bo-Ltn">sman gyi rgyal po </term>
                             <term xml:lang="bo">སྨན་གྱི་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn">Bhaiṣajyarāja</term>
-                            <term type="definition">Lit. “King of Healers.” In the story of Śākyamuni’s former life in this sūtra,
+                            <term type="definition">Lit. “King of Healers.” In the story of Śākyamuni’s former <term type="ignore">life</term> in this sūtra,
                                 he is the Tathāgata of the universe Mahāvyūha, during the eon called Vicaraṇa, who taught Prince
                                 Candracchattra about Dharma-worship. In later Buddhism, this Buddha is believed to be the
                                 supernatural patron of healing and medicine. </term>
@@ -7093,8 +7126,8 @@
                             <term xml:lang="Sa-Ltn">Brahmā</term>
                             <term type="definition">Creator-lord of a universe, there being as many as there are universes, whose
                                 number is incalculable. Hence, in Buddhist belief, a title of a deity who has attained supremacy
-                                in a particular universe, rather than a personal name. For example, the Brahmā of the Aśoka
-                                universe is personally called Śikhin, to distinguish him from other Brahmās. A Brahmā resides at
+                                in a particular universe, rather than a personal name. For example, the <term type="ignore">Brahmā</term> of the Aśoka
+                                universe is personally called Śikhin, to distinguish him from other <term type="ignore">Brahmās</term>. A <term type="ignore">Brahmā</term> resides at
                                 the summit of the realm of pure matter (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>), and is thus higher in status than a Śakra. </term>
                         </gloss>
                     </item>
@@ -7279,8 +7312,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-060-005-730">
                             <term>Krakucchanda</term>
-                            <term xml:lang="Bo-Ltn">’khor ba ’jig __,__log par dad sel </term>
-                            <term xml:lang="bo">འཁོར་བ་འཇིག་ , ལོག་པར་དད་སེལ།</term>
+                            <term xml:lang="Bo-Ltn">’khor ba ’jig </term>
+                            <term xml:lang="bo">འཁོར་བ་འཇིག</term>
+                            <term xml:lang="Bo-Ltn">log par dad sel </term>
+                            <term xml:lang="bo">ལོག་པར་དད་སེལ།</term>
                             <term xml:lang="Sa-Ltn">Krakucchanda</term>
                             <term type="definition">The first Buddha of the “Good Eon” (<foreign type="term" xml:lang="Sa-Ltn">bhadrakalpa</foreign>) of one thousand buddhas, our own Śākyamuni having been the fourth, and
                                 Maitreya expected to come as the fifth. Also spelled Krakutsanda, Kukutsunda, Kukucchanda. </term>
@@ -7302,7 +7337,7 @@
                             <term xml:lang="Bo-Ltn">kau shi ka </term>
                             <term xml:lang="bo">ཀཽ་ཤི་ཀ</term>
                             <term xml:lang="Sa-Ltn">Kauśikā</term>
-                            <term type="definition">Another name for Indra. Kauśikā, Śakra, and Indra all refer to the same god,
+                            <term type="definition">Another name for Indra. <term type="ignore">Kauśikā</term>, Śakra, and Indra all refer to the same god,
                                 centrally prominent in the Vedas, who in Buddhist cosmogony is regarded as the king of gods in the
                                 realm of desire.</term>
                         </gloss>
@@ -7434,9 +7469,12 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-060-005-746">
                             <term>Mañjuśrī</term>
-                            <term xml:lang="Bo-Ltn">’jam dpal __,__’jam dpal gzhon nur gyur pa </term>
-                            <term xml:lang="bo">འཇམ་དཔལ་ , འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ།</term>
-                            <term xml:lang="Sa-Ltn">Mañjuśrī, Mañjuśrī­kumāra­bhūta</term>
+                            <term xml:lang="Bo-Ltn">’jam dpal </term>
+                            <term xml:lang="bo">འཇམ་དཔལ།</term>
+                            <term xml:lang="Bo-Ltn">’jam dpal gzhon nur gyur pa </term>
+                            <term xml:lang="bo">འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ།</term>
+                            <term xml:lang="Sa-Ltn">Mañjuśrī</term>
+                            <term xml:lang="Sa-Ltn">Mañjuśrī­kumāra­bhūta</term>
                             <term type="definition">The eternally youthful crown prince (<foreign type="term" xml:lang="Sa-Ltn">kumārabhūta</foreign>), so called because of his special identification with the <foreign type="term" xml:lang="Sa-Ltn">Prajñā­pāramitā</foreign>, or Transcendence of Wisdom. He is the
                                 only member of the Buddha’s retinue who volunteers to visit Vimalakīrti, and he serves as
                                 Vimalakīrti’s principal interlocutor throughout the sūtra. Traditionally regarded as the wisest of
@@ -7809,8 +7847,12 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-060-005-787">
                             <term>Ratnavyūha</term>
-                            <term xml:lang="Bo-Ltn">dkon mchog dkod pa __,__rin po che bkod pa __,__rin chen bkod pa </term>
-                            <term xml:lang="bo">དཀོན་མཆོག་དཀོད་པ་ , རིན་པོ་ཆེ་བཀོད་པ་ , རིན་ཆེན་བཀོད་པ།</term>
+                            <term xml:lang="Bo-Ltn">dkon mchog dkod pa </term>
+                            <term xml:lang="bo">དཀོན་མཆོག་དཀོད་པ།</term>
+                            <term xml:lang="Bo-Ltn">rin po che bkod pa </term>
+                            <term xml:lang="bo">རིན་པོ་ཆེ་བཀོད་པ།</term>
+                            <term xml:lang="Bo-Ltn">rin chen bkod pa </term>
+                            <term xml:lang="bo">རིན་ཆེན་བཀོད་པ།</term>
                             <term xml:lang="Sa-Ltn">Ratnavyūha</term>
                             <term type="definition">Lit. “Jewel-Array.” Name of one of the bodhisattvas in the original assembly
                                 (rendered in Tibetan as <foreign xml:lang="Bo-Ltn">rin chen bkod pa</foreign>); also the name
@@ -7862,9 +7904,9 @@
                             <term xml:lang="Sa-Ltn">Śakra</term>
                             <term type="definition">In Buddhist texts, usual name for Indra, king of gods of the desire-realm
                                     (<foreign type="term" xml:lang="Sa-Ltn">kāmadhātu</foreign>) of a particular universe; hence a
-                                Śakra is lower in status than a Brahmā, who resides at the summit of the realm of pure matter
+                                <term type="ignore">Śakra</term> is lower in status than a Brahmā, who resides at the summit of the realm of pure matter
                                     (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>). As in the case of Brahmā, a
-                                title, or status, rather than a personal name; each universe has its Śakra. </term>
+                                title, or status, rather than a personal name; each universe has its <term type="ignore">Śakra</term>. </term>
                         </gloss>
                     </item>
                     <item>
@@ -7985,9 +8027,9 @@
                             <term xml:lang="Bo-Ltn">ral pa can </term>
                             <term xml:lang="bo">རལ་པ་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Śikhin</term>
-                            <term type="definition">The Brahmā of the universe Aśoka, who is personally called Śikhin to
+                            <term type="definition">The Brahmā of the universe Aśoka, who is personally called <term type="ignore">Śikhin</term> to
                                 distinguish him from Brahmās of other universes (see Brahmā). The second of the “seven buddhas of
-                                the past” is also called Śikhin but his name is rendered in Tibetan as <foreign xml:lang="Bo-Ltn">gtsug gtor can</foreign>.</term>
+                                the past” is also called <term type="ignore">Śikhin</term> but his name is rendered in Tibetan as <foreign xml:lang="Bo-Ltn">gtsug gtor can</foreign>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -8053,7 +8095,8 @@
                             <term xml:lang="Bo-Ltn">legs par byin </term>
                             <term xml:lang="bo">ལེགས་པར་བྱིན།</term>
                             <term xml:lang="Sa-Ltn">Sudatta</term>
-                            <term type="definition">Sudatta was a great lay patron of the Buddha and philanthropist of Śrāvastī,
+                            <term type="definition">
+                                <term type="ignore">Sudatta</term> was a great lay patron of the Buddha and philanthropist of Śrāvastī,
                                 and is more commonly called Anāthapiṇḍada (<foreign xml:lang="Bo-Ltn">mgon med zas
                                 sbyin</foreign>); he known as “the foremost of donors” (Pāli; <foreign type="term" xml:lang="pi">aggo dāyakānaṃ</foreign>). </term>
                         </gloss>

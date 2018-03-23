@@ -4373,7 +4373,7 @@
                     pa chen po'i mdo</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">āryaratnakoṭināmamahāyānasūtra</outline:title>
                 <outline:title encoding="native" lang="english">[Note: Toh 241, translated from
-                    Chinese, is equivalent (Saerji, AIRIAB-14).]</outline:title>
+                    Chinese, is equivalent (Saerji, ARIRIAB-14).]</outline:title>
                 <outline:location page="582" side="143v" type="page" vol="51" work="W22084"/>
                 <outline:location page="597" side="155v" type="page" vol="51" work="W22084"/>
                 <outline:description type="location">vol.51,
@@ -4504,6 +4504,7 @@
                         of Death</outline:title>
                     <outline:title encoding="native" lang="sanskrit">ātyayajñānasūtra</outline:title>
                     <outline:description type="status">completed</outline:description>
+                    <outline:description type="text">UT22084-054-003</outline:description>
                     <outline:description type="summary">While the Buddha is residing in the
                         Akaniṣṭha realm, the bodhisattva mahāsattva Ākāśagarbha asks him how to
                         consider the mind of a bodhisattva who is about to die. The Buddha replies
@@ -4514,7 +4515,6 @@
                         realization of one’s own mind, the Buddha should not be sought elsewhere.
                         After these points have been repeated in verse form, the assembly praises
                         the Buddha’s words, concluding the sūtra.</outline:description>
-                    <outline:description type="text">UT22084-054-003</outline:description>
                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11696" type="text" webAccess="abstractOnly">
@@ -4627,8 +4627,7 @@
             </outline:node>
             <outline:node RID="O1JC114941JC11704" type="text" webAccess="abstractOnly">
                 <outline:title>ting nge 'dzin gyi rgyal po/</outline:title>
-                <outline:title encoding="native" lang="english">The Sūtra of the King of
-                    Samādhi</outline:title>
+                <outline:title encoding="native" lang="english">The King of Samādhis Sūtra</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">samādhirājasūtra</outline:title>
                 <outline:title type="captionTitle">'phags pa chos thams cad kyi rang bzhin mnyam pa
                     nyid rnam par spros pa ting nge 'dzin gyi rgyal po zhes bya ba theg pa chen po'i
@@ -4648,13 +4647,25 @@
                 <outline:description type="location">snar thang 114</outline:description>
                 <outline:description type="sde dge number">127</outline:description>
                 <outline:node RID="O1JC114941JC11705" type="translation">
-                    <outline:title encoding="extendedWylie" lang="tibetan">ting nge 'dzin gyi rgyal
-                        po/</outline:title>
-                    <outline:title encoding="native" lang="english" type="bibliographicalTitle">The
-                        King of Samādhi</outline:title>
-                    <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">samādhirāja</outline:title>
+                    <outline:title encoding="extendedWylie" lang="tibetan">ting nge 'dzin gyi rgyal po/</outline:title>
+                    <outline:title encoding="native" lang="english">The King of Samādhis Sūtra</outline:title>
+                    <outline:title encoding="native" lang="sanskrit">samādhirāja</outline:title>
                     <outline:description type="status">completed</outline:description>
                     <outline:description type="text">UT22084-055-001</outline:description>
+                    <outline:description type="summary">This sūtra, much quoted in later Buddhist writings 
+                        for its profound statements especially on the nature of emptiness, relates a long 
+                        teaching given by the Buddha mainly in response to questions put by a young layman,
+                        Candraprabha. The samādhi that is the subject of the sūtra, in spite of its name,
+                        primarily consists of various aspects of conduct, motivation, and the understanding 
+                        of emptiness; it is also a way of referring to the sūtra itself. The teaching given 
+                        in the sūtra is the instruction to be dedicated to the possession and promulgation 
+                        of the samādhi, and to the necessary conduct of a bodhisattva, which is exemplified 
+                        by a number of accounts from the Buddha’s previous lives. Most of the teaching takes 
+                        place on Vulture Peak Mountain, with an interlude recounting the Buddha’s invitation 
+                        and visit to Candraprabha’s home in Rājagṛha, where he continues to teach Candraprabha
+                        before returning to Vulture Peak Mountain. In one subsequent chapter the Buddha 
+                        responds to a request by Ānanda, and the text concludes with a commitment by Ānanda 
+                        to maintain this teaching in the future.</outline:description>
                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11706" type="text" webAccess="abstractOnly">
@@ -4733,7 +4744,7 @@
                 <outline:title type="captionTitle">'phags pa sgyu ma lta bu'i ting nge 'dzin ces bya
                     ba theg pa chen po'i mdo</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="otherTitle">āryamāyopamasamādhi­nāmamahāyānasūtra</outline:title>
-                <outline:title type="otherTitle">avalokiteśvara&amp;#173;bodhisattva&amp;#173;mahāsthāmaprāpta&amp;#173;bodhisattva&amp;#173;vyākaraṇa</outline:title>
+                <outline:title type="otherTitle">avalokiteśvara­bodhisattva­mahāsthāmaprāpta­bodhisattva­vyākaraṇakaraṇa</outline:title>
                 <outline:location page="422" side="275v" type="page" vol="55" work="W22084"/>
                 <outline:location page="462" side="303r" type="page" vol="55" work="W22084"/>
                 <outline:description type="location">vol.55,
@@ -4892,7 +4903,7 @@
                         entails monasticism. Above all, however, Vimalatejā is led to see that the
                         entirety of the Great Vehicle path hinges on the practice that forms the
                         name of the sūtra, which is nothing other than the mind of awakening
-                        (&lt;i&gt;bodhicitta&lt;/i&gt;). </outline:description>
+                        (bodhicitta). </outline:description>
                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11719" type="text" webAccess="abstractOnly">
@@ -5875,6 +5886,10 @@
                 <outline:description type="stog number">276</outline:description>
                 <outline:description type="location">snar thang 154</outline:description>
                 <outline:description type="sde dge number">168</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:title encoding="native" lang="english">The Questions of Vimalaprabha</outline:title>
+                    <outline:description type="status">inProcess</outline:description>
+                </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11774" type="text" webAccess="abstractOnly">
                 <outline:title>theg pa chen po'i man ngag</outline:title>
@@ -8039,7 +8054,7 @@
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">samādhicakranāmamahāyānasūtra</outline:title>
                 <outline:title encoding="native" lang="english">[Note: translated from Chinese, the
                     equivalent of Toh 118 translated from Sanskrit (Saerji,
-                    AIRIAB-14).]</outline:title>
+                    ARIRIAB-14).]</outline:title>
                 <outline:location page="605" vol="65" work="W22084"/>
                 <outline:location page="607" vol="65" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol.65, ff.
@@ -9884,6 +9899,10 @@
                 <outline:description type="stog number">575</outline:description>
                 <outline:description type="location">snar thang 298</outline:description>
                 <outline:description type="sde dge number">313 / 617 / 974</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:title encoding="native" lang="english">The Sūtra of the Good Night</outline:title>
+                    <outline:description type="status">inProcess</outline:description>
+                 </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11987" type="text" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">mun gyi nags tshal gyi sgo yi mdo/</outline:title>
@@ -17878,7 +17897,7 @@
                 </outline:node>
                 <outline:node RID="O1JC114941JC12351" type="text" webAccess="abstractOnly">
                     <outline:title>mtshan mo bzang po'i mdo/</outline:title>
-                    <outline:title encoding="native" lang="english">The Sūtra of the Excellent
+                    <outline:title encoding="native" lang="english">The Sūtra of the Good
                         Night</outline:title>
                     <outline:title encoding="native" lang="sanskrit">bhadrakarātrīsūtra</outline:title>
                     <outline:title type="titlePageTitle">'phags pa mtshan mo bzang po zhes bya ba'i
@@ -17896,6 +17915,10 @@
                     <outline:description type="sde dge number">615</outline:description>
                     <outline:description type="toh">617 / 313 / 974</outline:description>
                     <outline:description type="location">snar thang</outline:description>
+                    <outline:node RID="" type="translation">
+                        <outline:title encoding="native" lang="english">The Sūtra of the Good Night</outline:title>
+                        <outline:description type="status">inProcess</outline:description>
+                    </outline:node>
                 </outline:node>
                 <outline:node RID="O1JC114941JC12352" type="text" webAccess="abstractOnly">
                     <outline:title>mdangs 'phrog pa'i mdo/</outline:title>
@@ -26033,6 +26056,10 @@
                 <outline:description encoding="native" lang="english" type="toh">974 (129) /
                     313</outline:description>
                 <outline:description type="location">snar thang</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:title encoding="native" lang="english">The Sūtra of the Good Night</outline:title>
+                    <outline:description type="status">inProcess</outline:description>
+                </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC12738" type="text" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">chos kyi rgya mtsho'i gzungs/</outline:title>

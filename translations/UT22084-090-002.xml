@@ -47,7 +47,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:16:54 by admin</note>
+                <note type="lastUpdated">Last updated at 22/03/2018 at 08:15:24 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -3567,7 +3567,8 @@
                             <term>white leprosy</term>
                             <term xml:lang="Bo-Ltn">sha bkra </term>
                             <term xml:lang="bo">ཤ་བཀྲ།</term>
-                            <term xml:lang="Sa-Ltn">citra, śvitra</term>
+                            <term xml:lang="Sa-Ltn">citra</term>
+                            <term xml:lang="Sa-Ltn">śvitra</term>
                         </gloss>
                     </item>
                     <item>
@@ -3690,8 +3691,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-090-002-483">
                             <term>kākhorda</term>
-                            <term xml:lang="Bo-Ltn">byad __,__byad stem </term>
-                            <term xml:lang="bo">བྱད་ , བྱད་སྟེམ།</term>
+                            <term xml:lang="Bo-Ltn">byad </term>
+                            <term xml:lang="bo">བྱད།</term>
+                            <term xml:lang="Bo-Ltn">byad stem </term>
+                            <term xml:lang="bo">བྱད་སྟེམ།</term>
                             <term xml:lang="Sa-Ltn">kākhorda</term>
                             <term type="definition">Harmful sorcery, or a class of being prone to perpetrating it.</term>
                         </gloss>
@@ -3707,8 +3710,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-090-002-485">
                             <term>kaṭaka</term>
-                            <term xml:lang="Bo-Ltn">ka ta ka __,__ka ta </term>
-                            <term xml:lang="bo">ཀ་ཏ་ཀ་ , ཀ་ཏ།</term>
+                            <term xml:lang="Bo-Ltn">ka ta ka </term>
+                            <term xml:lang="bo">ཀ་ཏ་ཀ</term>
+                            <term xml:lang="Bo-Ltn">ka ta </term>
+                            <term xml:lang="bo">ཀ་ཏ།</term>
                             <term xml:lang="Sa-Ltn">kaṭaka</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Strychnos potatorum</foreign>; clearing nut.</term>
@@ -3769,9 +3774,12 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-090-002-492">
                             <term>trichiliocosm</term>
-                            <term xml:lang="Bo-Ltn">stong chen po __,__stong sum kyi stong chen po </term>
-                            <term xml:lang="bo">སྟོང་ཆེན་པོ་ , སྟོང་སུམ་ཀྱི་སྟོང་ཆེན་པོ།</term>
-                            <term xml:lang="Sa-Ltn">mahāsāhasra, trimahā­sāhasra mahā­sāhasra loka­dhatu</term>
+                            <term xml:lang="Bo-Ltn">stong chen po  </term>
+                            <term xml:lang="bo">སྟོང་ཆེན་པོ།</term>
+                            <term xml:lang="Bo-Ltn">stong sum kyi stong chen po </term>
+                            <term xml:lang="bo">སྟོང་སུམ་ཀྱི་སྟོང་ཆེན་པོ།</term>
+                            <term xml:lang="Sa-Ltn">mahāsāhasra</term>
+                            <term xml:lang="Sa-Ltn">trimahā­sāhasra mahā­sāhasra loka­dhatu</term>
                             <term type="definition">“The great thousand, three thousand-fold universe,” a cosmological term that
                                 signifies the entire universe.</term>
                         </gloss>
@@ -3919,7 +3927,8 @@
                             <term>rākṣasa</term>
                             <term xml:lang="Bo-Ltn">srin po </term>
                             <term xml:lang="bo">སྲིན་པོ།</term>
-                            <term xml:lang="Sa-Ltn">rākṣasa, rākṣasī</term>
+                            <term xml:lang="Sa-Ltn">rākṣasa</term>
+                            <term xml:lang="Sa-Ltn">rākṣasī</term>
                             <term type="alternative">rākṣasī</term>
                         </gloss>
                     </item>
@@ -3928,9 +3937,10 @@
                             <term>rasa</term>
                             <term xml:lang="Bo-Ltn">ra sa </term>
                             <term xml:lang="bo">ར་ས།</term>
-                            <term xml:lang="Sa-Ltn">rasa, guggulu</term>
+                            <term xml:lang="Sa-Ltn">rasa</term>
+                            <term xml:lang="Sa-Ltn">guggulu</term>
                             <term type="definition">
-                                <foreign>Guggulu</foreign> or <foreign xml:lang="Sa-Ltn" type="term">Commiphora mukul</foreign>
+                                <foreign xml:lang="Sa-Ltn">Guggulu</foreign> or <foreign xml:lang="Sa-Ltn" type="term">Commiphora mukul</foreign>
                                 (McHugh 2008, p 180 n28).</term>
                         </gloss>
                     </item>
@@ -4173,8 +4183,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-090-002-538">
                             <term>spṛkkā</term>
-                            <term xml:lang="Bo-Ltn">’bu gsug __,__’bru gsug </term>
-                            <term xml:lang="bo">འབུ་གསུག་ , འབྲུ་གསུག</term>
+                            <term xml:lang="Bo-Ltn">’bu gsug </term>
+                            <term xml:lang="bo">འབུ་གསུག</term>
+                            <term xml:lang="Bo-Ltn">’bru gsug </term>
+                            <term xml:lang="bo">འབྲུ་གསུག</term>
                             <term xml:lang="Sa-Ltn">tagara</term>
                             <term type="definition">Tib. is unrecorded in Negi. Skt. <foreign xml:lang="Sa-Ltn" type="term">spṛkkā</foreign> might possibly be <foreign xml:lang="la" type="term">Trigonella
                                     corniculata</foreign> (McHugh, 2008, p 180, n30).</term>
@@ -4561,11 +4573,12 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-586">
                             <term>Kanaka</term>
-                            <term xml:lang="Bo-Ltn">gser thub __,__gser </term>
-                            <term xml:lang="bo">གསེར་ཐུབ་ , གསེར།</term>
+                            <term xml:lang="Bo-Ltn">gser thub </term>
+                            <term xml:lang="bo">གསེར་ཐུབ།</term>
+                            <term xml:lang="Bo-Ltn">gser </term>
+                            <term xml:lang="bo">གསེར།</term>
                             <term xml:lang="Sa-Ltn">Kanaka</term>
-                            <term type="definition">Usually Kanakamuni. Fifth of the seven buddhas of the past, and second in this
-                                kalpa.</term>
+                            <term type="definition">See “Kanakamuni.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -4574,7 +4587,7 @@
                             <term xml:lang="Bo-Ltn">gser thub </term>
                             <term xml:lang="bo">གསེར་ཐུབ།</term>
                             <term xml:lang="Sa-Ltn">Kanakamuni</term>
-                            <term type="definition">Fifth of the seven buddhas of the past, and second in this kalpa.</term>
+                            <term type="definition">Fifth of the seven buddhas of the past, and second in this kalpa. Also rendered “Kanaka.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -4654,8 +4667,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-597">
                             <term>Krakucchanda</term>
-                            <term xml:lang="Bo-Ltn">log dad sel __,__log par dad sel </term>
-                            <term xml:lang="bo">ལོག་དད་སེལ་ , ལོག་པར་དད་སེལ།</term>
+                            <term xml:lang="Bo-Ltn">log dad sel </term>
+                            <term xml:lang="bo">ལོག་དད་སེལ།</term>
+                            <term xml:lang="Bo-Ltn">log par dad sel </term>
+                            <term xml:lang="bo">ལོག་པར་དད་སེལ།</term>
                             <term xml:lang="Sa-Ltn">Krakucchanda</term>
                             <term type="definition">Fourth of the seven buddhas of the past, and first in this kalpa.</term>
                         </gloss>
@@ -4663,8 +4678,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-598">
                             <term>Kubera</term>
-                            <term xml:lang="Bo-Ltn">lus ngan __,__lus ngan po </term>
-                            <term xml:lang="bo">ལུས་ངན་ , ལུས་ངན་པོ།</term>
+                            <term xml:lang="Bo-Ltn">lus ngan </term>
+                            <term xml:lang="bo">ལུས་ངན།</term>
+                            <term xml:lang="Bo-Ltn">lus ngan po </term>
+                            <term xml:lang="bo">ལུས་ངན་པོ།</term>
                             <term xml:lang="Sa-Ltn">Kubera</term>
                             <term type="definition">Epithet of Vaiśravaṇa.</term>
                         </gloss>
@@ -4704,8 +4721,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-603">
                             <term>Lohitākṣa</term>
-                            <term xml:lang="Bo-Ltn">kun tu lta , mig dmar gnas </term>
-                            <term xml:lang="bo">ཀུན་ཏུ་ལྟ་,་མིག་དམར་གནས།</term>
+                            <term xml:lang="Bo-Ltn">kun tu lta </term>
+                            <term xml:lang="bo">ཀུན་ཏུ་ལྟ།</term>
+                            <term xml:lang="Bo-Ltn">mig dmar gnas </term>
+                            <term xml:lang="bo">མིག་དམར་གནས།</term>
                             <term xml:lang="Sa-Ltn">Lohitākṣa</term>
                         </gloss>
                     </item>
@@ -5074,7 +5093,8 @@
                             <term>Revata</term>
                             <term xml:lang="Bo-Ltn">nam gru </term>
                             <term xml:lang="bo">ནམ་གྲུ།</term>
-                            <term xml:lang="Sa-Ltn">Revata, Revatī</term>
+                            <term xml:lang="Sa-Ltn">Revata</term>
+                            <term xml:lang="Sa-Ltn">Revatī</term>
                         </gloss>
                     </item>
                     <item>
@@ -5087,8 +5107,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-651">
                             <term>Sāgara</term>
-                            <term xml:lang="Bo-Ltn">mtsho __,__rgya mtsho </term>
-                            <term xml:lang="bo">མཚོ་ , རྒྱ་མཚོ།</term>
+                            <term xml:lang="Bo-Ltn">mtsho </term>
+                            <term xml:lang="bo">མཚོ།</term>
+                            <term xml:lang="Bo-Ltn">rgya mtsho </term>
+                            <term xml:lang="bo">རྒྱ་མཚོ།</term>
                             <term xml:lang="Sa-Ltn">Sāgara</term>
                         </gloss>
                     </item>
@@ -5399,7 +5421,8 @@
                             <term>Bakkula</term>
                             <term xml:lang="Bo-Ltn">bak+ku la </term>
                             <term xml:lang="bo">བཀྐུ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">Bakkula, Vakula</term>
+                            <term xml:lang="Sa-Ltn">Bakkula</term>
+                            <term xml:lang="Sa-Ltn">Vakula</term>
                         </gloss>
                     </item>
                     <item>
@@ -5453,8 +5476,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-696">
                             <term>Vipaśyin</term>
-                            <term xml:lang="Bo-Ltn">sangs rgyas rnam gzigs __,__rnam par gzigs </term>
-                            <term xml:lang="bo">སངས་རྒྱས་རྣམ་གཟིགས་ , རྣམ་པར་གཟིགས།</term>
+                            <term xml:lang="Bo-Ltn">sangs rgyas rnam gzigs</term>
+                            <term xml:lang="bo">སངས་རྒྱས་རྣམ་གཟིགས།</term>
+                            <term xml:lang="Bo-Ltn">rnam par gzigs </term>
+                            <term xml:lang="bo">རྣམ་པར་གཟིགས།</term>
                             <term xml:lang="Sa-Ltn">Vipaśyibuddha</term>
                             <term type="definition">First of the seven buddhas of the past.</term>
                         </gloss>
@@ -5500,14 +5525,17 @@
                             <term>Viṣṇula</term>
                             <term xml:lang="Bo-Ltn">khyab ’jug len </term>
                             <term xml:lang="bo">ཁྱབ་འཇུག་ལེན།</term>
-                            <term xml:lang="Sa-Ltn">Viṣṇula, Viṣṇulā</term>
+                            <term xml:lang="Sa-Ltn">Viṣṇula</term>
+                            <term xml:lang="Sa-Ltn">Viṣṇulā</term>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-702">
                             <term>Viśvabhū</term>
-                            <term xml:lang="Bo-Ltn">thams cad skyob __,__kun skyob </term>
-                            <term xml:lang="bo">ཐམས་ཅད་སྐྱོབ་ , ཀུན་སྐྱོབ།</term>
+                            <term xml:lang="Bo-Ltn">thams cad skyob </term>
+                            <term xml:lang="bo">ཐམས་ཅད་སྐྱོབ།</term>
+                            <term xml:lang="Bo-Ltn">kun skyob </term>
+                            <term xml:lang="bo">ཀུན་སྐྱོབ།</term>
                             <term xml:lang="Sa-Ltn">Viśvabhū</term>
                             <term type="definition">Third of the seven buddhas of the past.</term>
                         </gloss>

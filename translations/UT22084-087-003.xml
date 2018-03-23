@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:16:33 by admin</note>
+                <note type="lastUpdated">Last updated at 22/03/2018 at 07:09:06 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -140,7 +140,7 @@
                 <p tid="7">The text begins with the bodhisattva Vajrapāṇi requesting the Buddha Akṣobhya to teach a tantra that
                     can tame all evil spirits that live beneath the ground. The notion that an underworld exists in which various
                     forms of evil spirits flourish was well developed in Indian Buddhism since the very early days<note place="end" index="2" xml:id="UT22084-087-003-273">See Mayer (2007).</note>. Both of the two other
-                    Caryātantrastantras on Blue-Clad Vajrapāṇi (Toh 499 in seven chapters and Toh 501 in five chapters) share the
+                    Caryātantra tantras on Blue-Clad Vajrapāṇi (Toh 499 in seven chapters and Toh 501 in five chapters) share the
                     same theme, unfolding as Vajrapāṇi requests the Buddha to teach the rituals that can tame the nāgas and yakṣas
                     below the ground and, in the process, accomplish the wealth that they guard and repel the disease that they
                     inflict on humans. These two other tantras thus appear to be slightly condensed (or perhaps earlier) versions
@@ -1839,7 +1839,7 @@
                             <term xml:lang="Bo-Ltn">ting nge ’dzin </term>
                             <term xml:lang="bo">ཏིང་ངེ་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">samādhi</term>
-                            <term type="definition">A state of meditative concentration or absorption.</term>
+                            <term type="definition">A state of meditative concentration or <term type="ignore">absorption</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1868,7 +1868,7 @@
                             <term xml:lang="Sa-Ltn">vimāna</term>
                             <term type="definition">The Sanskrit term <foreign xml:lang="Sa-Ltn">vimāna</foreign> can refer to a
                                 multi-storied mansion or palace, or even an estate, but is more often used in the sense of a
-                                celestial chariot of the gods, sometimes taking the form of a multi-storied palace; hence the
+                                <term type="ignore">celestial chariot</term> of the gods, sometimes taking the form of a multi-storied palace; hence the
                                 Tibetan translation, <foreign xml:lang="Bo-Ltn">khang brtsegs</foreign>, literally “storied
                                 house.”</term>
                         </gloss>
@@ -1879,16 +1879,16 @@
                             <term xml:lang="Bo-Ltn">dam tshig </term>
                             <term xml:lang="bo">དམ་ཚིག</term>
                             <term xml:lang="Sa-Ltn">samaya</term>
-                            <term type="definition">A tantric vow or commitment.</term>
+                            <term type="definition">A tantric vow or <term type="ignore">commitment</term>.</term>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-087-003-234">
                             <term>diagram </term>
-                            <term xml:lang="Bo-Ltn"> ’khrul ’khor </term>
+                            <term xml:lang="Bo-Ltn">’khrul ’khor </term>
                             <term xml:lang="bo">འཁྲུལ་འཁོར།</term>
                             <term xml:lang="Sa-Ltn">yantra</term>
-                            <term type="definition">A diagram drawn in tantric rituals.</term>
+                            <term type="definition">A <term type="ignore">diagram</term> drawn in tantric rituals.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1896,7 +1896,8 @@
                             <term>disciplined conduct </term>
                             <term xml:lang="Bo-Ltn">bstul zhugs </term>
                             <term xml:lang="bo">བསྟུལ་ཞུགས།</term>
-                            <term xml:lang="Sa-Ltn">vrata, saṃvara</term>
+                            <term xml:lang="Sa-Ltn">vrata</term>
+                            <term xml:lang="Sa-Ltn">saṃvara</term>
                         </gloss>
                     </item>
                     <item>
@@ -1915,7 +1916,7 @@
                             <term xml:lang="bo">གདོན།</term>
                             <term xml:lang="Sa-Ltn">graha</term>
                             <term type="definition">A type of evil spirit known to exert a harmful influence on the human body and
-                                mind. Grahas are closely associated with the planets and other astronomical bodies.</term>
+                                mind. <term type="ignore">Grahas</term> are closely associated with the planets and other astronomical bodies.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1933,7 +1934,7 @@
                             <term xml:lang="Bo-Ltn">rig pa </term>
                             <term xml:lang="bo">རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">vidyā</term>
-                            <term type="definition">A type of incantation or spell used to accomplish a ritual goal. This can be
+                            <term type="definition">A type of <term type="ignore">incantation</term> or spell used to accomplish a ritual goal. This can be
                                 associated with either ordinary attainments or those whose goal is awakening.</term>
                         </gloss>
                     </item>
@@ -2045,7 +2046,8 @@
                             <term>Anantaka</term>
                             <term xml:lang="Bo-Ltn">mtha’ yas </term>
                             <term xml:lang="bo">མཐའ་ཡས།</term>
-                            <term xml:lang="Sa-Ltn">Anantaka; Ananta</term>
+                            <term xml:lang="Sa-Ltn">Anantaka</term>
+                            <term xml:lang="Sa-Ltn">Ananta</term>
                             <term type="definition">Another name of Śesa, the serpent upon whom Viṣṇu rests during the interlude
                                 between the destruction and recreation of the world.</term>
                         </gloss>
@@ -2091,7 +2093,7 @@
                             <term xml:lang="Bo-Ltn">rmugs ’dzin </term>
                             <term xml:lang="bo">རྨུགས་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">Jambhala </term>
-                            <term type="definition">An alternate name for the yakṣa Jambhala.</term>
+                            <term type="definition">An alternate name for the yakṣa <term type="ignore">Jambhala</term>.</term>
                         </gloss>
                     </item>
                     <item>

@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:15:55 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 16:23:53 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -287,7 +287,7 @@
                                                         (188b.6-189a.2)</p>
                                                 </item>
                                                 <item n="1.1.2.2">
-                                                    <p tid="238">ii. How are they “generated”? (189a.2)</p>
+                                                    <p tid="238">ii. How are they “developed”? (189a.2)</p>
                                                 </item>
                                                 <item n="1.1.2.3">
                                                     <p tid="239">iii. What are their stages like? (189a.2)</p>
@@ -355,7 +355,7 @@
                                         (190b.5-193a.5) </p>
                                     <list>
                                         <item n="1.2.1">
-                                            <p tid="255">A. Wheels, their locations and natures (190b.5-191b.7)</p>
+                                            <p tid="255">A. Chakras, their locations and natures (190b.5-191b.7)</p>
                                         </item>
                                         <item n="1.2.2">
                                             <p tid="256">B. Subtle energy channels (191b.7-192a.3)</p>
@@ -2090,7 +2090,8 @@
                             <term>fruition</term>
                             <term xml:lang="Bo-Ltn">’bras bu </term>
                             <term xml:lang="bo">འབྲས་བུ།</term>
-                            <term xml:lang="Sa-Ltn">phalatva, phalatā</term>
+                            <term xml:lang="Sa-Ltn">phalatva</term>
+                            <term xml:lang="Sa-Ltn">phalatā</term>
                         </gloss>
                     </item>
                     <item>
@@ -2115,7 +2116,16 @@
                             <term xml:lang="Bo-Ltn">’khor lo </term>
                             <term xml:lang="bo">འཁོར་ལོ།</term>
                             <term xml:lang="Sa-Ltn">cakra</term>
-                            <term type="alternative" xml:lang="en">wheel</term>
+                            <term type="definition" xml:lang="en">Also rendered in this sūtra as “wheel.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-079-011-363">
+                            <term>wheel</term>
+                            <term xml:lang="Bo-Ltn">’khor lo </term>
+                            <term xml:lang="bo">འཁོར་ལོ།</term>
+                            <term xml:lang="Sa-Ltn">cakra</term>
+                            <term type="definition" xml:lang="en">Also rendered in this sūtra as “chakra.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2203,7 +2213,8 @@
                             <term>joy</term>
                             <term xml:lang="Bo-Ltn">dga’ ba </term>
                             <term xml:lang="bo">དགའ་བ།</term>
-                            <term xml:lang="Sa-Ltn">tuṣṭi, nandana, etc.</term>
+                            <term xml:lang="Sa-Ltn">tuṣṭi</term>
+                            <term xml:lang="Sa-Ltn">nandana</term>
                         </gloss>
                     </item>
                     <item>
@@ -2212,7 +2223,7 @@
                             <term xml:lang="Bo-Ltn">dkyil ’khor </term>
                             <term xml:lang="bo">དཀྱིལ་འཁོར།</term>
                             <term xml:lang="Sa-Ltn">maṇḍala</term>
-                            <term type="alternative" xml:lang="en">disc</term>
+                            <term type="definition" xml:lang="en">Also rendered in this sūtra as “disc.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2309,7 +2320,8 @@
                             <term>view</term>
                             <term xml:lang="Bo-Ltn">lta ba </term>
                             <term xml:lang="bo">ལྟ་བ།</term>
-                            <term xml:lang="Sa-Ltn">darśana, dṛṣṭi</term>
+                            <term xml:lang="Sa-Ltn">darśana</term>
+                            <term xml:lang="Sa-Ltn">dṛṣṭi</term>
                         </gloss>
                     </item>
                     <item>
@@ -2325,7 +2337,9 @@
                             <term>equipoise</term>
                             <term xml:lang="Bo-Ltn">mnyam bzhag </term>
                             <term xml:lang="bo">མཉམ་བཞག</term>
-                            <term xml:lang="Sa-Ltn">samādhi, samāhita, samāpatti</term>
+                            <term xml:lang="Sa-Ltn">samādhi</term>
+                            <term xml:lang="Sa-Ltn">samāhita</term>
+                            <term xml:lang="Sa-Ltn">samāpatti</term>
                         </gloss>
                     </item>
                     <item>
@@ -2350,6 +2364,7 @@
                             <term xml:lang="Bo-Ltn">dkyil ’khor </term>
                             <term xml:lang="bo">དཀྱིལ་འཁོར།</term>
                             <term xml:lang="Sa-Ltn">maṇḍala</term>
+                            <term type="definition">Also rendered in this sūtra as “maṇḍala.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -2381,7 +2396,8 @@
                             <term>nature</term>
                             <term xml:lang="Bo-Ltn">rang bzhin </term>
                             <term xml:lang="bo">རང་བཞིན།</term>
-                            <term xml:lang="Sa-Ltn">prakṛti, svabhāva</term>
+                            <term xml:lang="Sa-Ltn">prakṛti</term>
+                            <term xml:lang="Sa-Ltn">svabhāva</term>
                         </gloss>
                     </item>
                     <item>
@@ -2389,7 +2405,8 @@
                             <term>self-awareness‌</term>
                             <term xml:lang="Bo-Ltn">rang rig </term>
                             <term xml:lang="bo">རང་རིག</term>
-                            <term xml:lang="Sa-Ltn">sva­saṃvedana, sva­saṃvedanā</term>
+                            <term xml:lang="Sa-Ltn">sva­saṃvedana</term>
+                            <term xml:lang="Sa-Ltn">sva­saṃvedana</term>
                         </gloss>
                     </item>
                     <item>
@@ -2413,7 +2430,9 @@
                             <term>adornment</term>
                             <term xml:lang="Bo-Ltn">rgyan </term>
                             <term xml:lang="bo">རྒྱན།</term>
-                            <term xml:lang="Sa-Ltn">ābharaṇa, vibhūṣaṇa, maṇḍana</term>
+                            <term xml:lang="Sa-Ltn">ābharaṇa</term>
+                            <term xml:lang="Sa-Ltn">vibhūṣaṇa</term>
+                            <term xml:lang="Sa-Ltn">maṇḍana</term>
                         </gloss>
                     </item>
                     <item>
@@ -2445,7 +2464,9 @@
                             <term>wind</term>
                             <term xml:lang="Bo-Ltn">rlung </term>
                             <term xml:lang="bo">རླུང་།</term>
-                            <term xml:lang="Sa-Ltn">vāta, vāyu, prāṇa</term>
+                            <term xml:lang="Sa-Ltn">vāta</term>
+                            <term xml:lang="Sa-Ltn">vāyu</term>
+                            <term xml:lang="Sa-Ltn">prāṇa</term>
                         </gloss>
                     </item>
                     <item>
@@ -2453,7 +2474,8 @@
                             <term>consciousness</term>
                             <term xml:lang="Bo-Ltn">rnam shes </term>
                             <term xml:lang="bo">རྣམ་ཤེས།</term>
-                            <term xml:lang="Sa-Ltn">vijñāna, jñāna</term>
+                            <term xml:lang="Sa-Ltn">vijñāna</term>
+                            <term xml:lang="Sa-Ltn">jñāna</term>
                         </gloss>
                     </item>
                     <item>
@@ -2461,7 +2483,8 @@
                             <term>support</term>
                             <term xml:lang="Bo-Ltn">rten </term>
                             <term xml:lang="bo">རྟེན།</term>
-                            <term xml:lang="Sa-Ltn">āśraya, niśraya</term>
+                            <term xml:lang="Sa-Ltn">āśraya</term>
+                            <term xml:lang="Sa-Ltn">niśraya</term>
                         </gloss>
                     </item>
                     <item>
@@ -2509,7 +2532,8 @@
                             <term>mantra garland</term>
                             <term xml:lang="Bo-Ltn">sngags phreng </term>
                             <term xml:lang="bo">སྔགས་ཕྲེང་།</term>
-                            <term xml:lang="Sa-Ltn">mantra­mālā, mantrāvali</term>
+                            <term xml:lang="Sa-Ltn">mantra­mālā</term>
+                            <term xml:lang="Sa-Ltn">mantrāvali</term>
                         </gloss>
                     </item>
                     <item>
@@ -2694,8 +2718,9 @@
                             <term>Drokmi</term>
                             <term xml:lang="Bo-Ltn">’brog mi shAkya ye shes </term>
                             <term xml:lang="bo">འབྲོག་མི་ཤཱཀྱ་ཡེ་ཤེས།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
-                            <term type="definition">Drokmi Śākya Yeshé, the great 11th century translator from Lhatsé in Western
+                            <term xml:lang="Sa-Ltn"/>
+                            <term type="definition">
+                                <term type="ignore">Drokmi</term> Śākya Yeshé, the great 11th century translator from Lhatsé in Western
                                 Tsang.</term>
                         </gloss>
                     </item>
@@ -2704,7 +2729,7 @@
                             <term>Spiritual Hero</term>
                             <term xml:lang="Bo-Ltn">dpa’ bo </term>
                             <term xml:lang="bo">དཔའ་བོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2720,7 +2745,7 @@
                             <term>Vajra Lady</term>
                             <term xml:lang="Bo-Ltn">rdo rje btsun mo </term>
                             <term xml:lang="bo">རྡོ་རྗེ་བཙུན་མོ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2728,7 +2753,7 @@
                             <term>Secret Guardian of Bliss</term>
                             <term xml:lang="Bo-Ltn">gsang ba bde skyong </term>
                             <term xml:lang="bo">གསང་བ་བདེ་སྐྱོང་།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -2736,7 +2761,7 @@
                             <term>Butön</term>
                             <term xml:lang="Bo-Ltn">bu ston rin chen grub </term>
                             <term xml:lang="bo">བུ་སྟོན་རིན་ཆེན་གྲུབ།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>

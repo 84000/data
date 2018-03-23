@@ -53,7 +53,7 @@
                     <provenance>Buddhist Literary Heritage Project</provenance>-->
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:16:05 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 16:46:49 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -546,7 +546,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-080-009-38"/>
                     <lg tid="48">
-                        <l>One with knowledge of yogic illusion is likewise free from disease—</l>
+                        <l>One with <term type="ignore">knowledge</term> of yogic illusion is likewise free from disease—</l>
                         <l>Yogīs revel in the form of the mantra’s syllables. <ref cRef="F.168.a"/>
                         </l>
                     </lg>
@@ -557,8 +557,8 @@
                                     vidyā </foreign> (Tib: <foreign type="term" xml:lang="Bo-Ltn">rig pa</foreign>) appears twice
                                 in this verse with different connotations. According to Ratnākaraśānti, the first instance is as
                                 the techinical term for the central female deity of the maṇḍala, Mahāmāyā, and has therefore been
-                                left untranslated. The second instance is in specific reference to the knowledge (Skt: <foreign type="term" xml:lang="Sa-Ltn">prajñā</foreign>) that arises from meditation and has here been
-                                translated as knowledge [G, p 13].</note>
+                                left untranslated. The second instance is in specific reference to the <term type="ignore">knowledge</term> (Skt: <foreign type="term" xml:lang="Sa-Ltn">prajñā</foreign>) that arises from meditation and has here been
+                                translated as <term type="ignore">knowledge</term> [G, p 13].</note>
                         </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-080-009-40"/>
@@ -1169,7 +1169,7 @@
                             <term xml:lang="Sa-Ltn">bodhicitta</term>
                             <term type="definition">In normative Mahāyāna doctrine, bodhicitta refers to the awakened mind both in
                                 its relative and aboslute aspects. In tantric thought it is frequently used as a code word for
-                                semen in the context of its generation and manipulation in sexual yogic rites.</term>
+                                <term type="ignore">semen</term> in the context of its generation and manipulation in sexual yogic rites.</term>
                         </gloss>
                     </item>
                     <item>
@@ -1189,8 +1189,16 @@
                             <term xml:lang="Bo-Ltn">dam tshig </term>
                             <term xml:lang="bo">དམ་ཚིག</term>
                             <term xml:lang="Sa-Ltn">samaya</term>
-                            <term type="definition">The level of commitments specifically associated with tantric practice.</term>
-                            <term type="alternative" xml:lang="en">samaya</term>
+                            <term type="definition">The level of <term type="ignore">commitments</term> specifically associated with tantric practice. Also rendered here as “samaya.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-080-009-219">
+                            <term>samaya</term>
+                            <term xml:lang="Bo-Ltn">dam tshig </term>
+                            <term xml:lang="bo">དམ་ཚིག</term>
+                            <term xml:lang="Sa-Ltn">samaya</term>
+                            <term type="definition">The level of commitments specifically associated with tantric practice. Also rendered here as “commitment.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -1316,8 +1324,18 @@
                             <term xml:lang="Sa-Ltn">vidyā</term>
                             <term type="definition">An epithet of the female deity of the maṇḍala (most frequently as the consort
                                 of the main deity) who represents knowledge; the tantric consort; knowledge; frequently used in
-                                the sense of magical incantations and magical power.</term>
-                            <term type="alternative" xml:lang="en">knowledge</term>
+                                the sense of magical incantations and magical power. Also rendered here as “knowledge.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-080-009-221">
+                            <term>knowledge</term>
+                            <term xml:lang="Bo-Ltn">rig ma </term>
+                            <term xml:lang="bo">རིག་མ།</term>
+                            <term xml:lang="Sa-Ltn">vidyā</term>
+                            <term type="definition">An epithet of the female deity of the maṇḍala (most frequently as the consort
+                                of the main deity) who represents <term type="ignore">knowledge</term>; the tantric consort; <term type="ignore">knowledge</term>; frequently used in
+                                the sense of magical incantations and magical power. Also rendered here as “vidyā.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -1415,8 +1433,18 @@
                             <term xml:lang="Sa-Ltn">Mahāmāyā</term>
                             <term type="definition">The female central deity of the <title xml:lang="Sa-Ltn">Mahā­māyā
                                     Tantra</title> who appears in the form of the male Heruka. She was also a popular form of the
-                                Brahmanical great goddess (Mahādevī), to whom the Buddhist figure is intimately related.</term>
-                            <term type="alternative" xml:lang="en">Great Illusion</term>
+                                Brahmanical great goddess (Mahādevī), to whom the Buddhist figure is intimately related. Also rendered here as “Great Illusion.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-080-009-220">
+                            <term>Great Illusion</term>
+                            <term xml:lang="Bo-Ltn">sgyu ’phrul chen mo </term>
+                            <term xml:lang="bo">སྒྱུ་འཕྲུལ་ཆེན་མོ།</term>
+                            <term xml:lang="Sa-Ltn">Mahāmāyā</term>
+                            <term type="definition">The female central deity of the <title xml:lang="Sa-Ltn">Mahā­māyā
+                                Tantra</title> who appears in the form of the male Heruka. She was also a popular form of the
+                                Brahmanical great goddess (Mahādevī), to whom the Buddhist figure is intimately related. Also rendered here as “Mahāmāyā.”</term>
                         </gloss>
                     </item>
                     <item>

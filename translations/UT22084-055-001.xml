@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 14/03/2018 at 22:49:32 by konchog</note>
+                <note type="lastUpdated">Last updated at 17/03/2018 at 15:36:35 by andre</note>
             </notesStmt>
             <!--<notesStmt>
                 <note type="lastUpdated">Last updated at 06/01/2018 at 14:00:24 by celso</note>
@@ -24208,10 +24208,9 @@
                         <gloss type="place" xml:id="UT22084-055-001-4791">
                             <term>Ābhāsvara</term>
                             <term xml:lang="Bo-Ltn"/>
-                            <term xml:lang="bo">།</term>
+                            <term xml:lang="bo"/>
                             <term xml:lang="Sa-Ltn">Ābhāsvara</term>
-                            <term type="definition">The highest of the three paradises that are the second dhyāna paradises in the
-                                form realm.</term>
+                            <term type="definition">The highest of the three paradises that are the second dhyāna paradises in the form realm.</term>
                         </gloss>
                     </item>
                     <item>
@@ -24488,7 +24487,7 @@
                             <term xml:lang="bo">བཏང་བཟུང་།</term>
                             <term xml:lang="Sa-Ltn">Mucilinda</term>
                             <term type="definition">An unidentified mountain mentioned in a number of sūtras, not apparently
-                                connected to the well-known nāga of that name, but perhaps to the sacred mucilinda tree, known in
+                                connected to the well-known nāga of that name, but perhaps to the sacred <term type="ignore">mucilinda</term> tree, known in
                                 English mainly as the bayur tree.</term>
                         </gloss>
                     </item>
@@ -24770,9 +24769,7 @@
                             <term xml:lang="Bo-Ltn">mi ’khrugs pa </term>
                             <term xml:lang="bo">མི་འཁྲུགས་པ།</term>
                             <term xml:lang="Sa-Ltn">Akṣobhya</term>
-                            <term type="definition">The buddha in the eastern realm, Abhirati. Akṣobhya, who in the higher tantras
-                                is the head of one the five buddha families, the vajra family in the east, was well-known early in
-                                the Mahāyāna tradition.</term>
+                            <term type="definition">The buddha in the eastern realm, Abhirati. <term type="ignore">Akṣobhya</term>, who in the higher tantras is the head of one the five buddha families, the vajra family in the east, was well-known early in the Mahāyāna tradition.</term>
                         </gloss>
                     </item>
                     <item>
@@ -24793,7 +24790,7 @@
                             <term xml:lang="Sa-Ltn">Amitāyus</term>
                             <term type="definition">The buddha in the realm of Sukhāvatī. Later and presently, he is better known
                                 by his alternative name, Amitābha. Not to be confused with the buddha of long life, Aparimitāyus,
-                                whose name has been incorrectly back-translated into Sanskrit as Amitāyus also.</term>
+                                whose name has been incorrectly back-translated into Sanskrit as <term type="ignore">Amitāyus</term> also.</term>
                         </gloss>
                     </item>
                     <item>
@@ -24932,7 +24929,7 @@
                                 of the lords of the three families, as the embodiment of the compassion of the buddhas. The
                                 Potalaka Mountain in southern India became important in Southern Indian Buddhism as his residence
                                 in this world, but Potalaka does not yet feature in the <title xml:lang="Sa-Ltn">Karaṇdavyūha
-                                    Sūtra</title>, which emphasized the preeminence of Avalokiteśvara above all buddhas and
+                                    Sūtra</title>, which emphasized the preeminence of <term type="ignore">Avalokiteśvara</term> above all buddhas and
                                 bodhisattvas and introduced the mantra <foreign xml:lang="Sa-Ltn" type="mantra">oṃ maṇipadme
                                     hūṃ</foreign>.</term>
                         </gloss>
@@ -25481,7 +25478,8 @@
                             <term xml:lang="Bo-Ltn">sgam po pa </term>
                             <term xml:lang="bo">སྒམ་པོ་པ།</term>
                             <term xml:lang="Sa-Ltn"/>
-                            <term type="definition">Gampopa Sonam Rinchen (<foreign xml:lang="Bo-Ltn">sgam po pa bsod nams rin
+                            <term type="definition">
+                                <term type="ignore">Gampopa</term> Sonam Rinchen (<foreign xml:lang="Bo-Ltn">sgam po pa bsod nams rin
                                     chen</foreign>, 1079–1153). A disciple of Milarepa, and the founder of the monastic Kagyu
                                 tradition; also known as Dakpopa (<foreign xml:lang="Bo-Ltn">dwags po pa</foreign>) or Dakpo
                                 Lharjé (<foreign xml:lang="Bo-Ltn">dwags po lha rje</foreign>).</term>
@@ -25753,8 +25751,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-055-001-4945">
                             <term>Jñānasamudgata</term>
-                            <term xml:lang="Bo-Ltn">[ye shes] yang dag ’phags </term>
-                            <term xml:lang="bo">ye shes་ཡང་དག་འཕགས།</term>
+                            <term xml:lang="Bo-Ltn">ye shes yang dag ’phags </term>
+                            <term xml:lang="bo">ཡེ་ཤེས་ཡང་དག་འཕགས།</term>
+                            <term xml:lang="Bo-Ltn">yang dag ’phags </term>
+                            <term xml:lang="bo">ཡང་དག་འཕགས།</term>
                             <term xml:lang="Sa-Ltn">Jñānasamudgata</term>
                             <term type="definition"/>
                         </gloss>
@@ -25812,7 +25812,8 @@
                             <term xml:lang="Bo-Ltn">nag po </term>
                             <term xml:lang="bo">ནག་པོ།</term>
                             <term xml:lang="Sa-Ltn">Kāla</term>
-                            <term type="definition">Kāla was the son of Anāthapiṇḍada (Pali: Anāthapindika), the merchant who
+                            <term type="definition">
+                                <term type="ignore">Kāla</term> was the son of Anāthapiṇḍada (Pali: Anāthapindika), the merchant who
                                 donated to the Buddha the land for the Jetavana Monastery.</term>
                         </gloss>
                     </item>
@@ -25942,7 +25943,7 @@
                             <term xml:lang="bo">འཛའ་མན།</term>
                             <term xml:lang="Sa-Ltn">Kolita</term>
                             <term type="definition">Another name of Maudgalyāyana, one of the Buddha’s two principal pupils.
-                                Kolita was his father’s name and the name of his home village. His mother’s name was Modgali,
+                                <term type="ignore">Kolita</term> was his father’s name and the name of his home village. His mother’s name was Modgali,
                                 hence his other name, meaning “the son of Modgali.”</term>
                         </gloss>
                     </item>
@@ -26075,7 +26076,7 @@
                                 that he will be the next buddha, and that his companion Ajita will be the next cakravartin. As a
                                 bodhisattva, he has both these names. In the White Lotus of Compassion Sūtra, Buddha Ratnagarbha
                                 prophesies that Vimalavaiśayana, the fourth of the thousand young Vedapāṭhaka pupils of
-                                Samudrareṇu, will be Buddha Maitreya.</term>
+                                Samudrareṇu, will be Buddha <term type="ignore">Maitreya</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -26141,7 +26142,7 @@
                             <term xml:lang="Bo-Ltn">shed can </term>
                             <term xml:lang="bo">ཤེད་ཅན།</term>
                             <term xml:lang="Sa-Ltn">Manu</term>
-                            <term type="definition">In the Indian tradition, Manu, similar to Noah in the Biblical tradition, was
+                            <term type="definition">In the Indian tradition, <term type="ignore">Manu</term>, similar to Noah in the Biblical tradition, was
                                 the survivor of a flood that covered the world, and so is the ancestor of all humans. On divine
                                 advice, he built a boat in which he saved his family and all the plants, seeds, and animals
                                 necessary to reintroduce to the world after the flood had diminished.</term>
@@ -26166,7 +26167,9 @@
                                 paradise in the desire realm. He is also portrayed as attempting to prevent the Buddha’s
                                 enlightenment, as in early soteriological religions, the principal deity in saṃsāra, such as
                                 Indra, would attempt to prevent anyone’s realization that would lead to such a liberation. The
-                                name <foreign type="term" xml:lang="Sa-Ltn">Māra</foreign> is also used as a generic name for the
+                                name <foreign type="term" xml:lang="Sa-Ltn">
+                                    <term type="ignore">Māra</term>
+                                </foreign> is also used as a generic name for the
                                 deities in his realm, and also as an impersonal term for the factors that keep beings in
                                 saṃsāra.</term>
                         </gloss>
@@ -26440,7 +26443,7 @@
                                 visit to the Buddha and plays music to bring the Buddha out of his meditation. He performs the
                                 same role in the Mahāyāna sūtra The White Lotus of Compassion. He was portrayed as living on a
                                 five-peaked mountain, and appears to be the basis for Mañjuśrī, first known as Mañjugośa
-                                (Beautiful Voice) with Pañcaśikha still being one of Mañjuśrī’s alternate names. In this sūtra he
+                                (Beautiful Voice) with <term type="ignore">Pañcaśikha</term> still being one of Mañjuśrī’s alternate names. In this sūtra he
                                 is clearly distinct from Bodhisattva Mañjuśrī.</term>
                         </gloss>
                     </item>
@@ -26573,7 +26576,7 @@
                         <gloss type="person" xml:id="UT22084-055-001-5027">
                             <term>Ratnacūḍa</term>
                             <term xml:lang="Bo-Ltn"/>
-                            <term xml:lang="bo">།</term>
+                            <term xml:lang="bo"/>
                             <term xml:lang="Sa-Ltn">Ratnacūḍa</term>
                             <term type="definition"/>
                         </gloss>
@@ -26635,10 +26638,10 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-055-001-5034">
                             <term>Ratnapāṇi</term>
-                            <term xml:lang="Bo-Ltn">absent in Tibetan (phyag na rin po che) </term>
-                            <term xml:lang="bo">ཨབསེནཏ་ཨིན་ཊིབེཏན ༼ཕྱག་ན་རིན་པོ་ཆེ༽།</term>
+                            <term xml:lang="Bo-Ltn"/> 
+                            <term xml:lang="bo"/>
                             <term xml:lang="Sa-Ltn">Ratnapāṇi </term>
-                            <term type="definition"/>
+                            <term type="definition">Absent in Tibetan (phyag na rin po che)</term>
                         </gloss>
                     </item>
                     <item>
@@ -26759,11 +26762,13 @@
                             <term xml:lang="Sa-Ltn">Indra</term>
                             <term type="definition">More commonly known in the West as Indra, the deity that is called “lord of
                                 the devas” dwells on the summit of Mount Sumeru and wields the thunderbolt. The Tibetan
-                                translation is based on an etymology that <foreign xml:lang="Sa-Ltn" type="term">śakra</foreign>
+                                translation is based on an etymology that <foreign xml:lang="Sa-Ltn" type="term">
+                                    <term type="ignore">śakra</term>
+                                </foreign>
                                 is an abbreviation of <foreign xml:lang="Sa-Ltn" type="term">śata-kratu</foreign>, one who has
                                 performed a hundred sacrifices. The highest vedic sacrifice was the horse sacrifice, and there is
                                 a tradition that he became the lord of the gods through performing them. Each world with a central
-                                Sumeru has a Śakra; therefore this sutra mentions them in the plural.</term>
+                                Sumeru has a <term type="ignore">Śakra</term>; therefore this sutra mentions them in the plural.</term>
                         </gloss>
                     </item>
                     <item>
@@ -27275,7 +27280,8 @@
                             <term xml:lang="bo">ལེགས་འོངས།</term>
                             <term xml:lang="Sa-Ltn">Svāgata</term>
                             <term xml:lang="Sa-Ltn">Sogatu</term>
-                            <term type="definition">Svāgata was a pupil of the Buddha, originally a destitute beggar, who, in
+                            <term type="definition">
+                                <term type="ignore">Svāgata</term> was a pupil of the Buddha, originally a destitute beggar, who, in
                                 particular, accidentally drank alcohol offered by villagers after he had tamed a nāga to end a
                                 drought. This resulted in the Buddha’s adding abstention from alcohol as part of the monastic
                                 rules.</term>
@@ -27447,7 +27453,7 @@
                             <term xml:lang="Sa-Ltn">Udāyin</term>
                             <term xml:lang="Sa-Ltn">Kālodāyin</term>
                             <term type="definition">The son of the court priest in Kapilavastu, the Buddha’s home town. Also
-                                called Kālodāyin (black Udāyin) because of his dark skin. He and his wife Guptā became monk and
+                                called Kālodāyin (black <term type="ignore">Udāyin</term>) because of his dark skin. He and his wife Guptā became monk and
                                 nun. He became an arhat who was a skilled teacher. However he also figures prominently in accounts
                                 of inappropriate sexual behavior that instigated vinaya rules. He and Guptā are also said to have
                                 conceived a son after their ordination.</term>
@@ -27772,7 +27778,7 @@
                             <term xml:lang="Bo-Ltn">mngon par shes pa </term>
                             <term xml:lang="bo">མངོན་པར་ཤེས་པ།</term>
                             <term xml:lang="Sa-Ltn">abhijñā</term>
-                            <term type="definition">The higher cognitions are listed as either five or six. The first five are:
+                            <term type="definition">The <term type="ignore">higher cognitions</term> are listed as either five or six. The first five are:
                                 clairvoyance (divine sight), divine hearing, knowing how to manifest miracles, remembering
                                 previous lives, knowing what is in the minds of others. A sixth, knowing that all defects have
                                 been eliminated, is often added. The first five are attained through dhyāna, and are sometimes
@@ -27906,10 +27912,10 @@
                             <term xml:lang="Sa-Ltn">asaṃkhyeya</term>
                             <term type="definition">This eon is literally called “incalculable” but nevertheless has a calculated
                                 span of time and therefore, to avoid confusion, its Sanskrit name is used here. The number of
-                                years in an asaṃkhyeya eon differs in various sūtras. Twenty “intermediate eons” are said to be
-                                one asaṃkhyeya eon, and four asaṃkhyeya eons are one great eon (mahākalpa). In that case those
-                                four asaṃkhyeya eons represent the eons of the creation, presence, destruction, and absence of a
-                                world. Therefore buddhas are often described as appearing in a second asaṃkhyeya eon.</term>
+                                years in an <term type="ignore">asaṃkhyeya</term> eon differs in various sūtras. Twenty “intermediate eons” are said to be
+                                one <term type="ignore">asaṃkhyeya</term> eon, and four <term type="ignore">asaṃkhyeya</term> eons are one great eon (mahākalpa). In that case those
+                                four <term type="ignore">asaṃkhyeya</term> eons represent the eons of the creation, presence, destruction, and absence of a
+                                world. Therefore buddhas are often described as appearing in a second <term type="ignore">asaṃkhyeya</term> eon.</term>
                         </gloss>
                     </item>
                     <item>
@@ -27939,7 +27945,8 @@
                             <term xml:lang="Bo-Ltn">yan lag brgyad ldan gyi chu </term>
                             <term xml:lang="bo">ཡན་ལག་བརྒྱད་ལྡན་གྱི་ཆུ།</term>
                             <term xml:lang="Sa-Ltn">aṣṭāṅgajala</term>
-                            <term type="definition">Water that has the eight qualities of being sweet, cool, pleasant, light,
+                            <term type="definition">
+                                <term type="ignore">Water that has the eight qualities</term> of being sweet, cool, pleasant, light,
                                 clear, pure, not harmful to the throat, and beneficial for the stomach.</term>
                         </gloss>
                     </item>
@@ -27949,7 +27956,7 @@
                             <term xml:lang="Bo-Ltn">lha ma yin </term>
                             <term xml:lang="bo">ལྷ་མ་ཡིན།</term>
                             <term xml:lang="Sa-Ltn">asura </term>
-                            <term type="definition">The asuras, sometimes called the demi-gods or titans, are the enemies of the
+                            <term type="definition">The <term type="ignore">asuras</term>, sometimes called the demi-gods or titans, are the enemies of the
                                 devas, fighting with them for supremacy. They are powerful beings who live around Mount Sumeru,
                                 and are usually classified as belonging to the higher realms.</term>
                         </gloss>
@@ -28008,7 +28015,7 @@
                             <term xml:lang="Bo-Ltn">stobs bcu </term>
                             <term xml:lang="bo">སྟོབས་བཅུ།</term>
                             <term xml:lang="Sa-Ltn">daśabala</term>
-                            <term type="definition">One set among the different qualities of a tathāgata. The ten strengths are
+                            <term type="definition">One set among the different qualities of a tathāgata. The <term type="ignore">ten strengths</term> are
                                 (1) the knowledge of what is possible and not possible; (2) the knowledge of the ripening of
                                 karma; (3) the knowledge of the variety of aspirations; (4) the knowledge of the variety of
                                 natures; (5) the knowledge of the different levels of capabilites; (6) the knowledge of the
@@ -28023,7 +28030,7 @@
                             <term xml:lang="Bo-Ltn">stobs lnga </term>
                             <term xml:lang="bo">སྟོབས་ལྔ།</term>
                             <term xml:lang="Sa-Ltn">pañcabala</term>
-                            <term type="definition">The five strengths are a stronger form of the five powers: faith, mindfulness,
+                            <term type="definition">The <term type="ignore">five strengths</term> are a stronger form of the five powers: faith, mindfulness,
                                 diligence, samādhi, and wisdom.</term>
                         </gloss>
                     </item>
@@ -28077,7 +28084,9 @@
                             <term xml:lang="bo">ས།</term>
                             <term xml:lang="Sa-Ltn">bhūmi</term>
                             <term type="definition">Literally “grounds” in which qualities grow, and also it means “levels.”
-                                    <foreign xml:lang="Sa-Ltn" type="term">Bhūmi</foreign> refers specifically to levels of
+                                    <foreign xml:lang="Sa-Ltn" type="term">
+                                    <term type="ignore">Bhūmi</term>
+                                </foreign> refers specifically to levels of
                                 enlightenment, especially the ten levels of the enlightened bodhisattvas.</term>
                             <term type="alternative">level</term>
                         </gloss>
@@ -28133,7 +28142,7 @@
                             <term xml:lang="Bo-Ltn">byang chub kyi yan lag </term>
                             <term xml:lang="bo">བྱང་ཆུབ་ཀྱི་ཡན་ལག</term>
                             <term xml:lang="Sa-Ltn">bodhyaṅga</term>
-                            <term type="definition">There are seven limbs of enlightenment: correct mindfulness, correct wisdom of
+                            <term type="definition">There are seven <term type="ignore">limbs of enlightenment</term>: correct mindfulness, correct wisdom of
                                 the analysis of phenomena, correct diligence, correct joy, correct serenity, correct samādhi, and
                                 correct equanimity.</term>
                         </gloss>
@@ -28169,7 +28178,7 @@
                             <term xml:lang="Sa-Ltn">cetiya</term>
                             <term type="definition">Sometimes synonymous with <foreign xml:lang="Sa-Ltn" type="term">stūpa</foreign>, but can refer to a temple that may or may not contain a stūpa, or any place
                                 or thing that is worthy of veneration. The Tibetan translation is identical for stūpa and
-                                caitya.</term>
+                                <term type="ignore">caitya</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -28188,7 +28197,9 @@
                             <term xml:lang="Bo-Ltn">tsam pa ka </term>
                             <term xml:lang="bo">ཙམ་པ་ཀ</term>
                             <term xml:lang="Sa-Ltn">campaka</term>
-                            <term type="definition">Magnolia campaca.</term>
+                            <term type="definition">
+                                <foreign xml:lang="la">
+                                    <term type="ignore">Magnolia</term> campaca</foreign>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -28209,7 +28220,7 @@
                             <term type="definition">Speaker or reciter of scriptures. In early Buddhism a section of the sangha
                                 would be <foreign xml:lang="Sa-Ltn" type="term">bhāṇaka</foreign>s, who, particularly before the
                                 teachings were written down and were only transmitted orally, were the key factor in the
-                                preservation of the teachings. Various groups of dharmabhāṇakas specialized in memorizing and
+                                preservation of the teachings. Various groups of <term type="ignore">dharmabhāṇakas</term> specialized in memorizing and
                                 reciting a certain set of sūtras or vinaya.</term>
                         </gloss>
                     </item>
@@ -28243,13 +28254,13 @@
                             <term type="definition">The ability to remember all Dharma teachings that are heard. In other
                                 contexts, a dhāraṇi is a powerful recitation that is a precursor of mantras and is usually in the
                                 form of intelligible sentences or phrases that preserve or retain the essence of a teaching. There
-                                are two sets of “four retentions” in relation to this text. (A) As explained in the sūtra itself
-                                in chapter 24 <ptr target="#UT22084-055-001-2336"/><!--24.65-->: the retention, respectively, of
+                                are two sets of “four <term type="ignore">retentions</term>” in relation to this text. (A) As explained in the sūtra itself
+                                in chapter 24 <ptr target="#UT22084-055-001-2336"/><!--24.65-->: the <term type="ignore">retention</term>, respectively, of
                                 teachings on composites, on sounds, on kleśas, and on purifications. (B) As explained in the
                                 commentary to the opening of the sūtra (1.2, see <ptr target="#UT22084-055-001-93"/>
-                                <!--n.12-->): the recited dhāraṇī sentences and phrases themselves, the retention of the memory of
-                                the words of all teachings given, the retention of the memory of the meaning of these teachings,
-                                and the retention of the realization gained through meditation on that meaning.</term>
+                                <!--n.12-->): the recited dhāraṇī sentences and phrases themselves, the <term type="ignore">retention</term> of the memory of
+                                the words of all teachings given, the <term type="ignore">retention</term> of the memory of the meaning of these teachings,
+                                and the <term type="ignore">retention</term> of the realization gained through meditation on that meaning.</term>
                             <term type="alternative" xml:lang="Sa-Ltn">dhāraṇī</term>
                         </gloss>
                     </item>
@@ -28404,8 +28415,8 @@
                             <term xml:lang="Bo-Ltn">shang shang te’u </term>
                             <term xml:lang="bo">ཤང་ཤང་ཏེའུ།</term>
                             <term xml:lang="Sa-Ltn">jīvaṃjiīva</term>
-                            <term type="definition">Chukar partridge (<foreign type="term" xml:lang="la">Alectoris
-                                    chukar</foreign>, also known as the Greek partridge). In later times in China and Tibet this
+                            <term type="definition">Chukar <term type="ignore">partridge</term> (<foreign type="term" xml:lang="la">Alectoris
+                                    chukar</foreign>, also known as the Greek <term type="ignore">partridge</term>). In later times in China and Tibet this
                                 became a legendary half-human bird, or a two-headed bird.</term>
                         </gloss>
                     </item>
@@ -28484,8 +28495,10 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-055-001-5222">
                             <term>kiṃpuruṣa</term>
-                            <term xml:lang="Bo-Ltn">skyes bu ’am [ci]</term>
-                            <term xml:lang="bo">སྐྱེས་བུ་འམ་ci།</term>
+                            <term xml:lang="Bo-Ltn">skyes bu ’am ci</term>
+                            <term xml:lang="bo">སྐྱེས་བུ་འམ་ཅི།</term>
+                            <term xml:lang="Bo-Ltn">skyes bu ’am </term>
+                            <term xml:lang="bo">སྐྱེས་བུ་འམ།</term>
                             <term xml:lang="Sa-Ltn">kiṃpuruṣa</term>
                             <term type="definition">A race of beings said to live in the Himalayas who have bodies of lions and
                                 human heads.</term>
@@ -28499,7 +28512,7 @@
                             <term xml:lang="Sa-Ltn">kleśa</term>
                             <term type="definition">Literally “pain,” “torment,” or “affliction.” In Buddhist Hybrid Sanskrit it
                                 means literally “impurity” or “depravity.” In its technical use in Buddhism it means any negative
-                                quality in the mind that causes continued existence in saṃsara. The basic three kleśas are
+                                quality in the mind that causes continued existence in saṃsāra. The basic three <term type="ignore">kleśas</term> are
                                 ignorance, attachment, and aversion.</term>
                             <term type="alternative" xml:lang="en">affliction</term>
                         </gloss>
@@ -28552,9 +28565,10 @@
                             <term xml:lang="Bo-Ltn">ku mu da </term>
                             <term xml:lang="bo">ཀུ་མུ་ད།</term>
                             <term xml:lang="Sa-Ltn">kumuda</term>
-                            <term type="definition">Nymphaea pubescens. This night-blossoming water lily, which can be red, pink,
+                            <term type="definition">
+                                <foreign xml:lang="la">Nymphaea pubescens</foreign>. This night-blossoming water lily, which can be red, pink,
                                 or white, is not actually a lotus, since it does not have the lotus’s distinctive pericarp.
-                                Nevertheless it is commonly called the “night lotus.” It is also known as hairy water lily,
+                                Nevertheless it is commonly called the “<term type="ignore">night lotus</term>.” It is also known as hairy water lily,
                                 because of the hairs on the stem and the underside of the leaves.</term>
                         </gloss>
                     </item>
@@ -28564,9 +28578,10 @@
                             <term xml:lang="Bo-Ltn">kun da </term>
                             <term xml:lang="bo">ཀུན་ད།</term>
                             <term xml:lang="Sa-Ltn">kunda</term>
-                            <term type="definition">Trachelospermum jasminoides. It has its name because of its starlike white
-                                blossoms. In India it is used in speech as an example of whiteness, i.e., “as white as star
-                                jasmine.” Also called downy jasmine, Chinese jasmine, Chinese ivy, and trader’s compass.</term>
+                            <term type="definition">
+                                <foreign xml:lang="la">Trachelospermum jasminoides</foreign>. It has its name because of its starlike white
+                                blossoms. In India it is used in speech as an example of whiteness, i.e., “as white as <term type="ignore">star
+                                jasmine</term>.” Also called downy jasmine, Chinese jasmine, Chinese ivy, and trader’s compass.</term>
                         </gloss>
                     </item>
                     <item>
@@ -28658,8 +28673,8 @@
                             <term>jasmine</term>
                             <term xml:lang="Bo-Ltn">mal li ka </term>
                             <term xml:lang="bo">མལ་ལི་ཀ</term>
-                            <term xml:lang="Bo-Ltn">mā li ka </term>
-                            <term xml:lang="bo">མā་ལི་ཀ</term>
+                            <term xml:lang="Bo-Ltn">mA li ka </term>
+                            <term xml:lang="bo">མཱ་ལི་ཀ</term>
                             <term xml:lang="Sa-Ltn">mālika</term>
                             <term xml:lang="Sa-Ltn">māllika</term>
                             <term type="alternative" xml:lang="en">sambac jasmine</term>
@@ -28675,8 +28690,8 @@
                                 enlightenment, and who do not wish any being to escape from saṃsāra. Also, they are symbolic of
                                 the defects within a person that prevent enlightenment. These four personifications are:
                                 Devaputra-māra (<foreign type="term" xml:lang="Bo-Ltn">lha’i bu’i bdud</foreign>), the Divine
-                                Mara, which is the distraction of pleasures; Mṛtyumāra (<foreign type="term" xml:lang="Bo-Ltn">'chi bdag gi bdud</foreign>), the Mara of Death; Skandhamāra (<foreign type="term" xml:lang="Bo-Ltn">phung po’i bdud</foreign>), the Mara of the Aggregates, which is the body;
-                                and Kleśamāra (<foreign type="term" xml:lang="Bo-Ltn">nyon mongs pa’i bdud</foreign>), the Mara of
+                                Māra, which is the distraction of pleasures; Mṛtyumāra (<foreign type="term" xml:lang="Bo-Ltn">'chi bdag gi bdud</foreign>), the Māra of Death; Skandhamāra (<foreign type="term" xml:lang="Bo-Ltn">phung po’i bdud</foreign>), the Māra of the Aggregates, which is the body;
+                                and Kleśamāra (<foreign type="term" xml:lang="Bo-Ltn">nyon mongs pa’i bdud</foreign>), the Māra of
                                 the Afflictions.</term>
                         </gloss>
                     </item>
@@ -28763,7 +28778,8 @@
                             <term xml:lang="Sa-Ltn">musāragalva</term>
                             <term xml:lang="Sa-Ltn">musāgalva</term>
                             <term xml:lang="Sa-Ltn">musaragalva</term>
-                            <term type="definition">White coral is fossilized coral. It appears in one version of the list of
+                            <term type="definition">
+                                <term type="ignore">White coral</term> is fossilized coral. It appears in one version of the list of
                                 seven jewels or treasures. Tibetan tradition describes it as being formed from ice over a long
                                 period of time. It is coral that has undergone millions of years of underwater pressure. It can
                                 also refer to tridacna (<foreign type="term" xml:lang="la">Tridacnidae</foreign>) shell, which is
@@ -28828,7 +28844,7 @@
                             <term xml:lang="Bo-Ltn">sgrib pa </term>
                             <term xml:lang="bo">སྒྲིབ་པ།</term>
                             <term xml:lang="Sa-Ltn">nivaraṇa</term>
-                            <term type="definition">In this sūtra it is stated that there are five obscurations. This must be
+                            <term type="definition">In this sūtra it is stated that there are five <term type="ignore">obscurations</term>. This must be
                                 referring to the list in the early Mahāyāna sūtra <title xml:lang="en">The Patience Trained by the
                                     Color of Space Sūtra</title>: (1) desire’s craving; (2) malice; (3) dullness and sleepiness;
                                 (4) laziness and agitation; and (5) doubt.</term>
@@ -28848,7 +28864,7 @@
                             <term xml:lang="Bo-Ltn">shug pa </term>
                             <term xml:lang="bo">ཤུག་པ།</term>
                             <term xml:lang="Sa-Ltn">padmaka</term>
-                            <term type="definition">Also known as Wild Himalayan Cherry, Sour Cherry, and Costus Speciosus.</term>
+                            <term type="definition">Also known as Wild Himalayan Cherry, Sour Cherry, and <foreign xml:lang="la">Costus Speciosus</foreign>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -28870,7 +28886,9 @@
                                 the ancestor of the present day huḍukka, somewhat larger than the ḍamaru. See <title xml:lang="en">Saṅgītaśiromaṇi: A Medieval Handbook of Indian Music</title>, edited by Emmie Te Nijenhuis,
                                 p. 549. However, Dutt describes it as a drum made of bell metal, which matches the Tibetan
                                 translation as “bronze drum,” but he may have been influenced by the Tibetan translation of
-                                chapter 30. In an earlier chapter <foreign type="term" xml:lang="Sa-Ltn">paṇava</foreign> is
+                                chapter 30. In an earlier chapter <foreign type="term" xml:lang="Sa-Ltn">
+                                    <term type="ignore">paṇava</term>
+                                </foreign> is
                                 simply transcribed into Tibetan. An example of a bell metal drum would be the ceṇṇala, a small
                                 flat gong of bell metal that is hit with a stick and used to keep time in South Indian music.
                                 Other instruments mentioned are of the South Indian tradition.</term>
@@ -28884,7 +28902,9 @@
                             <term xml:lang="Bo-Ltn">pa ta la </term>
                             <term xml:lang="bo">པ་ཏ་ལ།</term>
                             <term xml:lang="Sa-Ltn">pāṭalā</term>
-                            <term type="definition">Bignonia suaveolens. The Indian species of bigonia. They have trumpet-shaped
+                            <term type="definition">
+                                <foreign xml:lang="la">
+                                    <term type="ignore">Bignonia</term> suaveolens</foreign>. The Indian species of bigonia. They have trumpet-shaped
                                 flowers and the small trees are common throughout India.</term>
                         </gloss>
                     </item>
@@ -28892,7 +28912,7 @@
                         <gloss type="term" xml:id="UT22084-055-001-5259">
                             <term>paṭaha drum</term>
                             <term xml:lang="Bo-Ltn"/>
-                            <term xml:lang="bo">།</term>
+                            <term xml:lang="bo"/>
                             <term xml:lang="Sa-Ltn">paṭaha</term>
                             <term type="definition">A barrel drum that can be hung by a strap from the body and played sitting or
                                 standing by beating the upper surface, or both surfaces, with two curved drumsticks. There is also
@@ -28907,7 +28927,7 @@
                             <term xml:lang="Bo-Ltn">sde snod </term>
                             <term xml:lang="bo">སྡེ་སྣོད།</term>
                             <term xml:lang="Sa-Ltn">piṭaka</term>
-                            <term type="definition">A collection of canonical texts according to subject, the piṭakas are usually
+                            <term type="definition">A collection of canonical texts according to subject, the <term type="ignore">piṭakas</term> are usually
                                 Vinaya, Sūtra, and Abhidharma. It can also refer, as in this sūtra, to the collection of the
                                 Mahāyana teachings, which is known as the <foreign type="term" xml:lang="Sa-Ltn">bodhisattva-piṭaka</foreign>. The word originates from the term “baskets,” originally used to
                                 contain these collections.</term>
@@ -28931,7 +28951,8 @@
                             <term xml:lang="Bo-Ltn">blag sha </term>
                             <term xml:lang="bo">བླག་ཤ།</term>
                             <term xml:lang="Sa-Ltn">plakṣa</term>
-                            <term type="definition">Ficus infectoria. Full English name: White fruited wavy-leaf fig tree.</term>
+                            <term type="definition">
+                                <foreign xml:lang="la">Ficus infectoria</foreign>. Full English name: White fruited wavy-leaf fig tree.</term>
                         </gloss>
                     </item>
                     <item>
@@ -28959,7 +28980,7 @@
                             <term xml:lang="bo">སྤྲོས་པ།</term>
                             <term xml:lang="Sa-Ltn">prapañca</term>
                             <term type="definition">An etymologically obscure term, which can mean elaboration, diffusion, or
-                                expansion, but is basically describing the mind’s conceptualization, and is always connected to
+                                expansion, but is basically describing the mind’s <term type="ignore">conceptualization</term>, and is always connected to
                                 the words for notions and ideas, and mental fabrications.</term>
                         </gloss>
                     </item>
@@ -28988,7 +29009,7 @@
                             <term xml:lang="Bo-Ltn">so so yang dag par rig pa </term>
                             <term xml:lang="bo">སོ་སོ་ཡང་དག་པར་རིག་པ།</term>
                             <term xml:lang="Sa-Ltn">pratisaṃvida</term>
-                            <term type="definition">There are four: the discernments of meaning, phenomena, definitions, and
+                            <term type="definition">There are four: the <term type="ignore">discernments</term> of meaning, phenomena, definitions, and
                                 eloquence.</term>
                         </gloss>
                     </item>
@@ -29232,7 +29253,8 @@
                             <term xml:lang="Bo-Ltn">dri mchog </term>
                             <term xml:lang="bo">དྲི་མཆོག</term>
                             <term xml:lang="Sa-Ltn">saugandhika</term>
-                            <term type="definition">Nymphaea stellata; Nymphaea nouchali. Day-blossoming water lilies that may be
+                            <term type="definition">
+                                <foreign xml:lang="la">Nymphaea stellata</foreign>; <foreign xml:lang="la">Nymphaea nouchali</foreign>. Day-blossoming water lilies that may be
                                 blue, white, or red.</term>
                         </gloss>
                     </item>
@@ -29263,7 +29285,7 @@
                             <term xml:lang="Bo-Ltn">dran pa nye ba gzhag pa </term>
                             <term xml:lang="bo">དྲན་པ་ཉེ་བ་གཞག་པ།</term>
                             <term xml:lang="Sa-Ltn">smṛtyupasthāna</term>
-                            <term type="definition">There are four kinds of mindfulness: those of body, sensations, mind, and
+                            <term type="definition">There are four kinds of <term type="ignore">mindfulness</term>: those of body, sensations, mind, and
                                 phenomena.</term>
                         </gloss>
                     </item>
@@ -29370,8 +29392,10 @@
                             <term xml:lang="Sa-Ltn">sūtra</term>
                             <term type="definition">Primarily within Buddhism it refers to the Buddha’s nontantric teachings in
                                 general. Literally it means “thread.” It is also used in other contexts for pithy statements,
-                                rules, and aphorisms, on which are strung a commentary and terms of the subdivisions of a sūtra
-                                into twelve aspects of the Dharma; in that case, <foreign type="term" xml:lang="Sa-Ltn">sūtra</foreign> then means only the prose part of a sūtra.</term>
+                                rules, and aphorisms, on which are strung a commentary and terms of the subdivisions of a <term type="ignore">sūtra</term>
+                                into twelve aspects of the Dharma; in that case, <foreign type="term" xml:lang="Sa-Ltn">
+                                    <term type="ignore">sūtra</term>
+                                </foreign> then means only the prose part of a <term type="ignore">sūtra</term>.</term>
                         </gloss>
                     </item>
                     <item>
@@ -29499,7 +29523,7 @@
                             <term xml:lang="Bo-Ltn">mi ’jigs pa </term>
                             <term xml:lang="bo">མི་འཇིགས་པ།</term>
                             <term xml:lang="Sa-Ltn">vaiśaradya</term>
-                            <term type="definition">This refers to the four confidences or fearlessnesses of the Buddha:
+                            <term type="definition">This refers to the four confidences or <term type="ignore">fearlessnesses</term> of the Buddha:
                                 confidence in having attained realization, confidence in having fully eliminated all defilements,
                                 confidence in teaching the Dharma, and confidence in teaching the path of aspiration to
                                 liberation.</term>
@@ -29532,7 +29556,7 @@
                             <term xml:lang="bo">ཚོར་བ།</term>
                             <term xml:lang="Sa-Ltn">vedanā</term>
                             <term type="definition">The second of the five skandhas: nonconceptual pleasant, unpleasant, or
-                                neutral sensations as a result of sensory experiences.</term>
+                                neutral <term type="ignore">sensations</term> as a result of sensory experiences.</term>
                         </gloss>
                     </item>
                     <item>
@@ -29565,8 +29589,8 @@
                             <term xml:lang="Bo-Ltn">rnam par thar ba </term>
                             <term xml:lang="bo">རྣམ་པར་ཐར་བ།</term>
                             <term xml:lang="Sa-Ltn">vimokṣa</term>
-                            <term type="definition">This can include any method for liberation. The most commonly listed are the
-                                eight liberations: (1) form viewing form: the view of dependent origination and emptiness; (2) the
+                            <term type="definition">This can include any method for <term type="ignore">liberation</term>. The most commonly listed are the
+                                eight <term type="ignore">liberations</term>: (1) form viewing form: the view of dependent origination and emptiness; (2) the
                                 formless viewing form: having seen internal emptiness, seeing the emptiness of external forms; (3)
                                 the view of the pleasant: seeing pleasant appearances as empty and contemplating the unpleasant;
                                 (4) seeing the emptiness of the formless meditation of infinite space; (5) seeing the emptiness of
@@ -29803,7 +29827,7 @@
                             <term xml:lang="bo">འགྲོས།</term>
                             <term xml:lang="Sa-Ltn">gatī</term>
                             <term type="definition">Literally, “gait” or “way of moving,” but also more metaphorically
-                                “demeanour,” “stance;” and abstractly “manner,” “type,” “mode.”</term>
+                                “demeanour,” “stance;” and abstractly “manner,” “type,” “<term type="ignore">mode</term>.”</term>
                         </gloss>
                     </item>
                     <item>

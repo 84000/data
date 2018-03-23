@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:48 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 15:51:14 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -210,9 +210,9 @@
                             <term>three principal characteristics of existence</term>
                             <term xml:lang="Bo-Ltn">bkar btags gsum </term>
                             <term xml:lang="bo">བཀར་བཏགས་གསུམ།</term>
-                            <term xml:lang="Sa-Ltn">(Pāli tilakkhaṇa)</term>
-                            <term type="definition">Impermanence, suffering, and no-self. They are called the “three
-                                characteristics” in Pāli, a term that has no direct equivalent in the Sanskrit or Tibetan
+                            <term xml:lang="Sa-Ltn"/>
+                            <term type="definition">Impermanence, suffering, and no-self. They are called in Pāli <foreign xml:lang="pi">tilakkhaṇa</foreign>, the “three
+                                characteristics,” a term that has no direct equivalent in the Sanskrit or Tibetan
                                 literature; in Tibetan, these three factors are usually called the “three seals of the Buddha's
                                 teaching” in parallel to the “four seals of the Buddha’s teaching,” q.v.</term>
                         </gloss>
@@ -254,8 +254,12 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-072-009-26">
                             <term>four seals of the Buddha’s teaching</term>
-                            <term xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya bzhi__,__bkar btags bzhi__,__chos kyi sdom bzhi </term>
-                            <term xml:lang="bo">བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི་ , བཀར་བཏགས་བཞི་ , ཆོས་ཀྱི་སྡོམ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">bka’ rtags kyi phyag rgya bzhi</term>
+                            <term xml:lang="bo">བཀའ་རྟགས་ཀྱི་ཕྱག་རྒྱ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">bkar btags bzhi </term>
+                            <term xml:lang="bo">བཀར་བཏགས་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">chos kyi sdom bzhi </term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་སྡོམ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">caturdharmoddāna</term>
                             <term type="definition">All conditioned phenomena are impermanent; all defilements are suffering; all
                                 phenomena are without self; nirvāṇa is peace.</term>
@@ -266,7 +270,8 @@
                             <term>singled out</term>
                             <term xml:lang="Bo-Ltn">dben pa </term>
                             <term xml:lang="bo">དབེན་པ།</term>
-                            <term xml:lang="Sa-Ltn">viveka, vivikta</term>
+                            <term xml:lang="Sa-Ltn">viveka</term>
+                            <term xml:lang="Sa-Ltn">vivikta</term>
                         </gloss>
                     </item>
                 </list>

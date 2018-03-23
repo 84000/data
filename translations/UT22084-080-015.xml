@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 10:18:54 by admin</note>
+                <note type="lastUpdated">Last updated at 21/03/2018 at 18:32:15 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -5329,7 +5329,7 @@ Appendix: Sanskrit text-->
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-080-015-688"/>
                     <p tid="784">“With this mantra, tigers will flee: ‘<foreign type="mantra" xml:lang="Sa-Ltn">Mammā,
-                            mammā</foreign> !’ </p>
+                            mammā</foreign>!’ </p>
                     <p tid="785">“With this mantra, elephants will flee: ‘<foreign type="mantra" xml:lang="Sa-Ltn">Vedu ā, vedu
                             ā</foreign>!’ </p>
                     <p tid="786">“With this mantra, rhinoceros will flee: ‘<foreign type="mantra" xml:lang="Sa-Ltn">Terli ā, terli
@@ -11038,7 +11038,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">dngos grub </term>
                             <term xml:lang="bo">དངོས་གྲུབ།</term>
                             <term xml:lang="Sa-Ltn">siddhi</term>
-                            <term type="definition">An accomplishment that is the goal of sādhana.</term>
+                            <term type="definition">An <term type="ignore">accomplishment</term> that is the goal of sādhana.</term>
                         </gloss>
                     </item>
                     <item>
@@ -11188,7 +11188,9 @@ Appendix: Sanskrit text-->
                             <term xml:lang="bo">བནྡྷུ།</term>
                             <term xml:lang="Sa-Ltn">bandhūka</term>
                             <term type="definition">
-                                <foreign type="term" xml:lang="la">Pentapetes Phoenicea</foreign>; <foreign type="term" xml:lang="Sa-Ltn">bandhūka</foreign> flower because of its rich red color is a standard of
+                                <foreign type="term" xml:lang="la">Pentapetes Phoenicea</foreign>; <foreign type="term" xml:lang="Sa-Ltn">
+                                    <term type="ignore">bandhūka</term>
+                                </foreign> flower because of its rich red color is a standard of
                                 comparison for anything colored red.</term>
                         </gloss>
                     </item>
@@ -11235,7 +11237,8 @@ Appendix: Sanskrit text-->
                             <term>beeswax</term>
                             <term xml:lang="Bo-Ltn">spra tshil </term>
                             <term xml:lang="bo">སྤྲ་ཚིལ།</term>
-                            <term xml:lang="Sa-Ltn">madana, sikthaka</term>
+                            <term xml:lang="Sa-Ltn">madana</term>
+                            <term xml:lang="Sa-Ltn">sikthaka</term>
                         </gloss>
                     </item>
                     <item>
@@ -11273,8 +11276,8 @@ Appendix: Sanskrit text-->
                             <term>bhūmividārī</term>
                             <term xml:lang="Bo-Ltn">bhu mi bi dA rI </term>
                             <term xml:lang="bo">བྷུ་མི་བི་དཱ་རཱི།</term>
-                            <term xml:lang="Sa-Ltn">bhūmividārī (same as bhūmisphoṭa?)</term>
-                            <term type="definition">
+                            <term xml:lang="Sa-Ltn">bhūmividārī</term>
+                            <term type="definition">Same as <foreign xml:lang="Sa-Ltn">bhūmisphoṭa</foreign> (?);
                                 <foreign type="term" xml:lang="la">Agaricus campestris</foreign> (?)</term>
                         </gloss>
                     </item>
@@ -11313,7 +11316,7 @@ Appendix: Sanskrit text-->
                             <term type="definition">A type of soil (?)</term>
                         </gloss>
                     </item>
-                    <item>
+                    <!--<item>
                         <gloss type="term" xml:id="UT22084-080-015-1701">
                             <term>black nightshade</term>
                             <term xml:lang="Bo-Ltn">muN+Da ri </term>
@@ -11322,13 +11325,19 @@ Appendix: Sanskrit text-->
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Solanum nigrum</foreign>.</term>
                         </gloss>
-                    </item>
+                    </item>- Combined below -->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1702">
                             <term>black nightshade</term>
-                            <term xml:lang="Bo-Ltn">ka ma ci, ka ma rtsa </term>
-                            <term xml:lang="bo">ཀ་མ་ཅི,་ཀ་མ་རྩ།</term>
-                            <term xml:lang="Sa-Ltn">kāmācī, kākamācī</term>
+                            <term xml:lang="Bo-Ltn">ka ma ci </term>
+                            <term xml:lang="bo">ཀ་མ་ཅི།</term>
+                            <term xml:lang="Bo-Ltn">ka ma rtsa </term>
+                            <term xml:lang="bo">ཀ་མ་རྩ།</term>
+                            <term xml:lang="Bo-Ltn">muN+Da ri </term>
+                            <term xml:lang="bo">མུཎྜ་རི།</term>
+                            <term xml:lang="Sa-Ltn">kāmācī</term>
+                            <term xml:lang="Sa-Ltn">kākamācī</term>
+                            <term xml:lang="Sa-Ltn">sundarī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Solanum nigrum</foreign>.</term>
                         </gloss>
@@ -11381,7 +11390,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="bo">ས།</term>
                             <term xml:lang="Sa-Ltn">bhūmi</term>
                             <term type="definition">Level of the realization of a bodhisattva; according to the general Mahāyāna,
-                                there are ten bodhisattva levels; according to Vajrayāna, thirteen.</term>
+                                there are ten <term type="ignore">bodhisattva levels</term>; according to Vajrayāna, thirteen.</term>
                         </gloss>
                     </item>
                     <item>
@@ -11389,7 +11398,8 @@ Appendix: Sanskrit text-->
                             <term>borax</term>
                             <term xml:lang="Bo-Ltn">tsha la </term>
                             <term xml:lang="bo">ཚ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">ṭaṅgaṇa, ṭaṅgaṇa­kṣāra?</term>
+                            <term xml:lang="Sa-Ltn">ṭaṅgaṇa</term>
+                            <term xml:lang="Sa-Ltn">ṭaṅgaṇa­kṣāra?</term>
                         </gloss>
                     </item>
                     <item>
@@ -11441,8 +11451,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1714">
                             <term>camphor</term>
-                            <term xml:lang="Bo-Ltn">ga bur __,__ka stu ra </term>
-                            <term xml:lang="bo">ག་བུར་ , ཀ་སྟུ་ར།</term>
+                            <term xml:lang="Bo-Ltn">ga bur </term>
+                            <term xml:lang="bo">ག་བུར།</term>
+                            <term xml:lang="Bo-Ltn">ka stu ra </term>
+                            <term xml:lang="bo">ཀ་སྟུ་ར།</term>
                             <term xml:lang="Sa-Ltn">karpūra</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Cinnamomum camphora</foreign>.</term>
@@ -11484,7 +11496,8 @@ Appendix: Sanskrit text-->
                             <term>channel</term>
                             <term xml:lang="Bo-Ltn">rtsa </term>
                             <term xml:lang="bo">རྩ།</term>
-                            <term xml:lang="Sa-Ltn">nāḍi, nāḍī</term>
+                            <term xml:lang="Sa-Ltn">nāḍi</term>
+                            <term xml:lang="Sa-Ltn">nāḍī</term>
                             <term type="definition">A <foreign type="term" xml:lang="Sa-Ltn">prāṇa</foreign> channel in the subtle
                                 body.</term>
                         </gloss>
@@ -11560,7 +11573,8 @@ Appendix: Sanskrit text-->
                             <term>cluster fig</term>
                             <term xml:lang="Bo-Ltn">u dum bA ra </term>
                             <term xml:lang="bo">ཨུ་དུམ་བཱ་ར།</term>
-                            <term xml:lang="Sa-Ltn">uḍumbara, udumbara</term>
+                            <term xml:lang="Sa-Ltn">uḍumbara</term>
+                            <term xml:lang="Sa-Ltn">udumbara</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Ficus glomerata</foreign>.</term>
                         </gloss>
@@ -11570,7 +11584,8 @@ Appendix: Sanskrit text-->
                             <term>coconut palm</term>
                             <term xml:lang="Bo-Ltn">na ri ke la </term>
                             <term xml:lang="bo">ན་རི་ཀེ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">nārikela, nāḍikela</term>
+                            <term xml:lang="Sa-Ltn">nārikela</term>
+                            <term xml:lang="Sa-Ltn">nāḍikela</term>
                         </gloss>
                     </item>
                     <item>
@@ -11604,8 +11619,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1731">
                             <term>country mallow</term>
-                            <term xml:lang="Bo-Ltn">ba lA __,__bA la </term>
-                            <term xml:lang="bo">བ་ལཱ་ , བཱ་ལ།</term>
+                            <term xml:lang="Bo-Ltn">ba lA </term>
+                            <term xml:lang="bo">བ་ལཱ།</term>
+                            <term xml:lang="Bo-Ltn">bA la </term>
+                            <term xml:lang="bo">བཱ་ལ།</term>
                             <term xml:lang="Sa-Ltn">balā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Sida cordifolia</foreign>.</term>
@@ -11616,7 +11633,8 @@ Appendix: Sanskrit text-->
                             <term>cowitch</term>
                             <term xml:lang="Bo-Ltn">ka pi kats+tsha </term>
                             <term xml:lang="bo">ཀ་པི་ཀཙྪ།</term>
-                            <term xml:lang="Sa-Ltn">kapikacchu, ātmaguptā</term>
+                            <term xml:lang="Sa-Ltn">kapikacchu</term>
+                            <term xml:lang="Sa-Ltn">ātmaguptā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Mucuna pruriens</foreign>.</term>
                         </gloss>
@@ -11655,7 +11673,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">’gram </term>
                             <term xml:lang="bo">འགྲམ།</term>
                             <term xml:lang="Sa-Ltn">kapolaka</term>
-                            <term type="definition">A cupola covering each of the four gates of the maṇḍala.</term>
+                            <term type="definition">A <term type="ignore">cupola</term> covering each of the four gates of the maṇḍala.</term>
                         </gloss>
                     </item>
                     <item>
@@ -11692,7 +11710,8 @@ Appendix: Sanskrit text-->
                             <term>date tree</term>
                             <term xml:lang="Bo-Ltn">khardzu ra </term>
                             <term xml:lang="bo">ཁརྫུ་ར།</term>
-                            <term xml:lang="Sa-Ltn">kharjura, kharjūra</term>
+                            <term xml:lang="Sa-Ltn">kharjura</term>
+                            <term xml:lang="Sa-Ltn">kharjūra</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Phoenix sylvestre</foreign> Roxb.</term>
                         </gloss>
@@ -11712,7 +11731,9 @@ Appendix: Sanskrit text-->
                             <term>dhak</term>
                             <term xml:lang="Bo-Ltn">pa lA sha </term>
                             <term xml:lang="bo">པ་ལཱ་ཤ།</term>
-                            <term xml:lang="Sa-Ltn">palāśa, palāśaka, kiṃśuka</term>
+                            <term xml:lang="Sa-Ltn">palāśa</term>
+                            <term xml:lang="Sa-Ltn">palāśaka</term>
+                            <term xml:lang="Sa-Ltn">kiṃśuka</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Butea monosperma</foreign>, <foreign type="term" xml:lang="la">Butea frondosa</foreign>.</term>
                         </gloss>
@@ -11724,7 +11745,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="bo">གཟུངས།</term>
                             <term xml:lang="Sa-Ltn">dhāraṇī</term>
                             <term type="definition">A magical formula invoking a particular deity for a particular purpose;
-                                dhāraṇīs are longer than most mantras, and their application is more specialized.</term>
+                                <term type="ignore">dhāraṇīs</term> are longer than most mantras, and their application is more specialized.</term>
                         </gloss>
                     </item>
                     <item>
@@ -11742,7 +11763,8 @@ Appendix: Sanskrit text-->
                             <term>doob grass</term>
                             <term xml:lang="Bo-Ltn">dUr ba </term>
                             <term xml:lang="bo">དཱུར་བ།</term>
-                            <term xml:lang="Sa-Ltn">dūrvā, dūrva</term>
+                            <term xml:lang="Sa-Ltn">dūrvā</term>
+                            <term xml:lang="Sa-Ltn">dūrva</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Cynodon dactylon</foreign>.</term>
                         </gloss>
@@ -11752,7 +11774,11 @@ Appendix: Sanskrit text-->
                             <term>downy datura</term>
                             <term xml:lang="Bo-Ltn">dhu tu ra </term>
                             <term xml:lang="bo">དྷུ་ཏུ་ར།</term>
-                            <term xml:lang="Sa-Ltn">dhustura, dhustūra, dhattūra, kanaka, unmattaka</term>
+                            <term xml:lang="Sa-Ltn">dhustura</term>
+                            <term xml:lang="Sa-Ltn">dhustūra</term>
+                            <term xml:lang="Sa-Ltn">dhattūra</term>
+                            <term xml:lang="Sa-Ltn">kanaka</term>
+                            <term xml:lang="Sa-Ltn">unmattaka</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Datura metel</foreign>.</term>
                         </gloss>
@@ -11790,9 +11816,14 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1750">
                             <term>dry ginger</term>
-                            <term xml:lang="Bo-Ltn">sga __,__bca’ sga __,__sga skya </term>
-                            <term xml:lang="bo">སྒ་ , བཅའ་སྒ་ , སྒ་སྐྱ།</term>
-                            <term xml:lang="Sa-Ltn">śuṇṭhī, śuṇṭhi</term>
+                            <term xml:lang="Bo-Ltn">sga </term>
+                            <term xml:lang="bo">སྒ།</term>
+                            <term xml:lang="Bo-Ltn">bca’ sga </term>
+                            <term xml:lang="bo">བཅའ་སྒ།</term>
+                            <term xml:lang="Bo-Ltn">sga skya </term>
+                            <term xml:lang="bo">སྒ་སྐྱ།</term>
+                            <term xml:lang="Sa-Ltn">śuṇṭhī</term>
+                            <term xml:lang="Sa-Ltn">śuṇṭhi</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Zingiber officinale</foreign>.</term>
                         </gloss>
@@ -11831,7 +11862,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">gzugs brnyan </term>
                             <term xml:lang="bo">གཟུགས་བརྙན།</term>
                             <term xml:lang="Sa-Ltn">puttalikā</term>
-                            <term type="definition">An effigy used in sympathetic magic.</term>
+                            <term type="definition">An <term type="ignore">effigy</term> used in sympathetic magic.</term>
                         </gloss>
                     </item>
                     <item>
@@ -11859,7 +11890,9 @@ Appendix: Sanskrit text-->
                             <term>enriching</term>
                             <term xml:lang="Bo-Ltn">rgyas pa </term>
                             <term xml:lang="bo">རྒྱས་པ།</term>
-                            <term xml:lang="Sa-Ltn">puṣṭi, poṣaṇa, pauṣṭika</term>
+                            <term xml:lang="Sa-Ltn">puṣṭi</term>
+                            <term xml:lang="Sa-Ltn">poṣaṇa</term>
+                            <term xml:lang="Sa-Ltn">pauṣṭika</term>
                             <term type="definition">One of the four main types of enlightened activity.</term>
                         </gloss>
                     </item>
@@ -11868,7 +11901,9 @@ Appendix: Sanskrit text-->
                             <term>enthrallment</term>
                             <term xml:lang="Bo-Ltn">dbang ba </term>
                             <term xml:lang="bo">དབང་བ།</term>
-                            <term xml:lang="Sa-Ltn">vaśya, vaśa, vaśīkaraṇa</term>
+                            <term xml:lang="Sa-Ltn">vaśya</term>
+                            <term xml:lang="Sa-Ltn">vaśa</term>
+                            <term xml:lang="Sa-Ltn">vaśīkaraṇa</term>
                             <term type="definition">One of the four main types of enlightened activity.</term>
                         </gloss>
                     </item>
@@ -11893,8 +11928,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1761">
                             <term>false black pepper</term>
-                            <term xml:lang="Bo-Ltn">byi tang ka __,__bi DaM ga </term>
-                            <term xml:lang="bo">བྱི་ཏང་ཀ་ , བི་ཌཾ་ག</term>
+                            <term xml:lang="Bo-Ltn">byi tang ka </term>
+                            <term xml:lang="bo">བྱི་ཏང་ཀ</term>
+                            <term xml:lang="Bo-Ltn">bi DaM ga </term>
+                            <term xml:lang="bo">བི་ཌཾ་ག</term>
                             <term xml:lang="Sa-Ltn">viḍaṅga</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Embelia ribes</foreign>, or <foreign type="term" xml:lang="la">Embelia tsjeriam-cottam</foreign>.</term>
@@ -11924,7 +11961,8 @@ Appendix: Sanskrit text-->
                             <term>firefly</term>
                             <term xml:lang="Bo-Ltn">srin bu me khyer </term>
                             <term xml:lang="bo">སྲིན་བུ་མེ་ཁྱེར།</term>
-                            <term xml:lang="Sa-Ltn">khajyotis, khadyota</term>
+                            <term xml:lang="Sa-Ltn">khajyotis</term>
+                            <term xml:lang="Sa-Ltn">khadyota</term>
                             <term type="alternative">fireflies</term>
                         </gloss>
                     </item>
@@ -12061,7 +12099,8 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">lta stang bzhi </term>
                             <term xml:lang="bo">ལྟ་སྟང་བཞི།</term>
                             <term xml:lang="Sa-Ltn">caturdṛṣṭi</term>
-                            <term type="definition">Four gazes employed for the four activities: enthralling, summoning, killing,
+                            <term type="definition">
+                                <term type="ignore">Four gazes</term> employed for the four activities: enthralling, summoning, killing,
                                 and paralyzing.</term>
                         </gloss>
                     </item>
@@ -12078,8 +12117,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1782">
                             <term>four joys</term>
-                            <term xml:lang="Bo-Ltn">dga’ bzhi __,__dga’ ba bzhi </term>
-                            <term xml:lang="bo">དགའ་བཞི་ , དགའ་བ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">dga’ bzhi</term>
+                            <term xml:lang="bo">དགའ་བཞི།</term>
+                            <term xml:lang="Bo-Ltn">dga’ ba bzhi </term>
+                            <term xml:lang="bo">དགའ་བ་བཞི།</term>
                             <term xml:lang="Sa-Ltn">caturānandāḥ</term>
                             <term type="definition">The four types of bliss arising during sexual intercourse, the full
                                 understanding of which leads to liberation.</term>
@@ -12120,7 +12161,8 @@ Appendix: Sanskrit text-->
                             <term>gajapippalī</term>
                             <term xml:lang="Bo-Ltn">glang chen pi pi ling </term>
                             <term xml:lang="bo">གླང་ཆེན་པི་པི་ལིང་།</term>
-                            <term xml:lang="Sa-Ltn">gajapippalī, hastipippalī</term>
+                            <term xml:lang="Sa-Ltn">gajapippalī</term>
+                            <term xml:lang="Sa-Ltn">hastipippalī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Scindapsis officinalis</foreign>. </term>
                         </gloss>
@@ -12130,7 +12172,8 @@ Appendix: Sanskrit text-->
                             <term>gamboge</term>
                             <term xml:lang="Bo-Ltn">sa skyur mo </term>
                             <term xml:lang="bo">ས་སྐྱུར་མོ།</term>
-                            <term xml:lang="Sa-Ltn">kāṅguṣṭha, kāṅkuṣṭha</term>
+                            <term xml:lang="Sa-Ltn">kāṅguṣṭha</term>
+                            <term xml:lang="Sa-Ltn">kāṅkuṣṭha</term>
                             <term type="definition">The solidified resin of <foreign type="term" xml:lang="la">Garcinia
                                     morella</foreign>.</term>
                         </gloss>
@@ -12303,7 +12346,8 @@ Appendix: Sanskrit text-->
                             <term>incant</term>
                             <term xml:lang="Bo-Ltn">mngon par bsngags </term>
                             <term xml:lang="bo">མངོན་པར་བསྔགས།</term>
-                            <term xml:lang="Sa-Ltn">abhimantr, parijap</term>
+                            <term xml:lang="Sa-Ltn">abhimantr</term>
+                            <term xml:lang="Sa-Ltn">parijap</term>
                             <term type="definition">To imbue something with power by reciting the mantra over it.</term>
                         </gloss>
                     </item>
@@ -12342,7 +12386,8 @@ Appendix: Sanskrit text-->
                             <term>Indian licorice</term>
                             <term xml:lang="Bo-Ltn">g+huny+dza </term>
                             <term xml:lang="bo">གྷུཉྫ།</term>
-                            <term xml:lang="Sa-Ltn">guñjā, guñja</term>
+                            <term xml:lang="Sa-Ltn">guñjā</term>
+                            <term xml:lang="Sa-Ltn">guñja</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Abrus precatorius</foreign>.</term>
                         </gloss>
@@ -12372,7 +12417,8 @@ Appendix: Sanskrit text-->
                             <term>Indian pennywort</term>
                             <term xml:lang="Bo-Ltn">tshangs ma </term>
                             <term xml:lang="bo">ཚངས་མ།</term>
-                            <term xml:lang="Sa-Ltn">brahmī, brāhmī</term>
+                            <term xml:lang="Sa-Ltn">brahmī</term>
+                            <term xml:lang="Sa-Ltn">brāhmī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Bacopa monnieri</foreign>.</term>
                         </gloss>
@@ -12392,7 +12438,8 @@ Appendix: Sanskrit text-->
                             <term>Indian spikenard</term>
                             <term xml:lang="Bo-Ltn">spang spos </term>
                             <term xml:lang="bo">སྤང་སྤོས།</term>
-                            <term xml:lang="Sa-Ltn">māṃsī, jaṭāmāṃsī</term>
+                            <term xml:lang="Sa-Ltn">māṃsī</term>
+                            <term xml:lang="Sa-Ltn">jaṭāmāṃsī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Nardostachys jatamansi</foreign>, <foreign type="term" xml:lang="la">Nardostachys grandiflora</foreign>.</term>
                         </gloss>
@@ -12402,7 +12449,8 @@ Appendix: Sanskrit text-->
                             <term>Indian stinging nettle</term>
                             <term xml:lang="Bo-Ltn">za’i lo ma </term>
                             <term xml:lang="bo">ཟའི་ལོ་མ།</term>
-                            <term xml:lang="Sa-Ltn">vṛścikapattrikā, vṛścikapātrikā</term>
+                            <term xml:lang="Sa-Ltn">vṛścikapattrikā</term>
+                            <term xml:lang="Sa-Ltn">vṛścikapātrikā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Traquia involucrata</foreign>.</term>
                         </gloss>
@@ -12422,7 +12470,8 @@ Appendix: Sanskrit text-->
                             <term>indigo plant</term>
                             <term xml:lang="Bo-Ltn">rams </term>
                             <term xml:lang="bo">རམས།</term>
-                            <term xml:lang="Sa-Ltn">nīlī, nalikā</term>
+                            <term xml:lang="Sa-Ltn">nīlī</term>
+                            <term xml:lang="Sa-Ltn">nalikā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Indigofera tinctoria</foreign>.</term>
                         </gloss>
@@ -12465,8 +12514,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1823">
                             <term>ivory tree</term>
-                            <term xml:lang="Bo-Ltn">cang skyer __,__dug mo nyung </term>
-                            <term xml:lang="bo">ཅང་སྐྱེར་ , དུག་མོ་ཉུང་།</term>
+                            <term xml:lang="Bo-Ltn">cang skyer </term>
+                            <term xml:lang="bo">ཅང་སྐྱེར།</term>
+                            <term xml:lang="Bo-Ltn">dug mo nyung </term>
+                            <term xml:lang="bo">དུག་མོ་ཉུང་།</term>
                             <term xml:lang="Sa-Ltn">kuṭaja</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Holarrhena pubescens</foreign>.</term>
@@ -12478,7 +12529,8 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">dga’ ba </term>
                             <term xml:lang="bo">དགའ་བ།</term>
                             <term xml:lang="Sa-Ltn">ānanda</term>
-                            <term type="definition">Joy in general; the first of the four joys of sexual experience.</term>
+                            <term type="definition">
+                                <term type="ignore">Joy</term> in general; the first of the four joys of sexual experience.</term>
                         </gloss>
                     </item>
                     <item>
@@ -12597,8 +12649,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1837">
                             <term>kumbhaka</term>
-                            <term xml:lang="Bo-Ltn">kum bha ka __,__bum pa can </term>
-                            <term xml:lang="bo">ཀུམ་བྷ་ཀ་ , བུམ་པ་ཅན།</term>
+                            <term xml:lang="Bo-Ltn">kum bha ka </term>
+                            <term xml:lang="bo">ཀུམ་བྷ་ཀ</term>
+                            <term xml:lang="Bo-Ltn">bum pa can </term>
+                            <term xml:lang="bo">བུམ་པ་ཅན།</term>
                             <term xml:lang="Sa-Ltn">kumbhaka</term>
                             <term type="definition">Inhalation (one of the four stages during a single breath).</term>
                         </gloss>
@@ -12691,7 +12745,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">pad+ma </term>
                             <term xml:lang="bo">པདྨ།</term>
                             <term xml:lang="Sa-Ltn">padma</term>
-                            <term type="definition">The lotus flower or plant; euphemistic name for the female genital
+                            <term type="definition">The <term type="ignore">lotus</term> flower or plant; euphemistic name for the female genital
                                 organ.</term>
                         </gloss>
                     </item>
@@ -12718,7 +12772,8 @@ Appendix: Sanskrit text-->
                             <term>Malabar nut</term>
                             <term xml:lang="Bo-Ltn">bA sha ka </term>
                             <term xml:lang="bo">བཱ་ཤ་ཀ</term>
-                            <term xml:lang="Sa-Ltn">vāsaka, vāsā</term>
+                            <term xml:lang="Sa-Ltn">vāsaka</term>
+                            <term xml:lang="Sa-Ltn">vāsā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Justicia adhatoda</foreign>.</term>
                         </gloss>
@@ -12737,7 +12792,8 @@ Appendix: Sanskrit text-->
                             <term>mango</term>
                             <term xml:lang="Bo-Ltn">amra </term>
                             <term xml:lang="bo">ཨམྲ།</term>
-                            <term xml:lang="Sa-Ltn">sahakāra, āmra</term>
+                            <term xml:lang="Sa-Ltn">sahakāra</term>
+                            <term xml:lang="Sa-Ltn">āmra</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Mangifera indica</foreign>
                             </term>
@@ -12775,7 +12831,8 @@ Appendix: Sanskrit text-->
                             <term>marsh barbel</term>
                             <term xml:lang="Bo-Ltn">ko ki lA kya </term>
                             <term xml:lang="bo">ཀོ་ཀི་ལཱ་ཀྱ།</term>
-                            <term xml:lang="Sa-Ltn">kokilākṣa, kokilākhya</term>
+                            <term xml:lang="Sa-Ltn">kokilākṣa</term>
+                            <term xml:lang="Sa-Ltn">kokilākhya</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Hygrophila auriculata</foreign>. </term>
                         </gloss>
@@ -12857,9 +12914,12 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1865">
                             <term>moon</term>
-                            <term xml:lang="Bo-Ltn">ri bong can __,__zla ba </term>
-                            <term xml:lang="bo">རི་བོང་ཅན་ , ཟླ་བ།</term>
-                            <term xml:lang="Sa-Ltn">śaśin, candra</term>
+                            <term xml:lang="Bo-Ltn">ri bong can </term>
+                            <term xml:lang="bo">རི་བོང་ཅན།</term>
+                            <term xml:lang="Bo-Ltn">zla ba </term>
+                            <term xml:lang="bo">ཟླ་བ།</term>
+                            <term xml:lang="Sa-Ltn">śaśin</term>
+                            <term xml:lang="Sa-Ltn">candra</term>
                             <!--<term type="definition">In tantric symbolism, the moon represents male
                                 semen.</term>-->
                         </gloss>
@@ -12899,9 +12959,10 @@ Appendix: Sanskrit text-->
                             <term>muṇḍirī</term>
                             <term xml:lang="Bo-Ltn">muN+Da rI </term>
                             <term xml:lang="bo">མུཎྜ་རཱི།</term>
-                            <term xml:lang="Sa-Ltn">muṇḍirī, muṇḍīrī</term>
+                            <term xml:lang="Sa-Ltn">muṇḍirī</term>
+                            <term xml:lang="Sa-Ltn">muṇḍīrī</term>
                             <term type="definition">Not identified, but perhaps <foreign type="term" xml:lang="la">Nardostachys
-                                    jatamansi</foreign>? </term>
+                                    jatamansi</foreign> (?). </term>
                         </gloss>
                     </item>
                     <item>
@@ -12917,7 +12978,8 @@ Appendix: Sanskrit text-->
                             <term>mustard</term>
                             <term xml:lang="Bo-Ltn">ske tshe </term>
                             <term xml:lang="bo">སྐེ་ཚེ།</term>
-                            <term xml:lang="Sa-Ltn">rājikā, sarṣapa</term>
+                            <term xml:lang="Sa-Ltn">rājikā</term>
+                            <term xml:lang="Sa-Ltn">sarṣapa</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Brassica juncea</foreign>. </term>
                         </gloss>
@@ -12945,7 +13007,9 @@ Appendix: Sanskrit text-->
                             <term>nāgakesara</term>
                             <term xml:lang="Bo-Ltn">nA ga ge sa ra </term>
                             <term xml:lang="bo">ནཱ་ག་གེ་ས་ར།</term>
-                            <term xml:lang="Sa-Ltn">nāgakesara, nāgakeśara, nāgeśvara</term>
+                            <term xml:lang="Sa-Ltn">nāgakesara</term>
+                            <term xml:lang="Sa-Ltn">nāgakeśara</term>
+                            <term xml:lang="Sa-Ltn">nāgeśvara</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Mesua ferrea</foreign>; cobra’s saffron.</term>
                         </gloss>
@@ -12955,7 +13019,8 @@ Appendix: Sanskrit text-->
                             <term>nāginī</term>
                             <term xml:lang="Bo-Ltn">klu mo </term>
                             <term xml:lang="bo">ཀླུ་མོ།</term>
-                            <term xml:lang="Sa-Ltn">nāginī, nāgī</term>
+                            <term xml:lang="Sa-Ltn">nāginī</term>
+                            <term xml:lang="Sa-Ltn">nāgī</term>
                             <term type="definition">Female nāga.</term>
                         </gloss>
                     </item>
@@ -12964,7 +13029,8 @@ Appendix: Sanskrit text-->
                             <term>negro coffee</term>
                             <term xml:lang="Bo-Ltn">kA sha mar d+ha </term>
                             <term xml:lang="bo">ཀཱ་ཤ་མར་དྷ།</term>
-                            <term xml:lang="Sa-Ltn">kāsamarda, kāsamardaka</term>
+                            <term xml:lang="Sa-Ltn">kāsamarda</term>
+                            <term xml:lang="Sa-Ltn">kāsamardaka</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Cassia occidentalis</foreign>. </term>
                         </gloss>
@@ -13046,8 +13112,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1885">
                             <term>oṣaṇī</term>
-                            <term xml:lang="Bo-Ltn">do Sha Ni __,__oM Sha Ni </term>
-                            <term xml:lang="bo">དོ་ཥ་ཎི་ , ཨོཾ་ཥ་ཎི།</term>
+                            <term xml:lang="Bo-Ltn">do Sha Ni</term>
+                            <term xml:lang="bo">དོ་ཥ་ཎི།</term>
+                            <term xml:lang="Bo-Ltn">oM Sha Ni </term>
+                            <term xml:lang="bo">ཨོཾ་ཥ་ཎི།</term>
                             <term xml:lang="Sa-Ltn">oṣaṇī</term>
                             <term type="definition">This has not been identified.</term>
                         </gloss>
@@ -13065,7 +13133,8 @@ Appendix: Sanskrit text-->
                             <term>pacifying</term>
                             <term xml:lang="Bo-Ltn">zhi ba </term>
                             <term xml:lang="bo">ཞི་བ།</term>
-                            <term xml:lang="Sa-Ltn">śānti, śāntika</term>
+                            <term xml:lang="Sa-Ltn">śānti</term>
+                            <term xml:lang="Sa-Ltn">śāntika</term>
                             <term type="definition">Peace; one of the four main types of enlightened activity.</term>
                         </gloss>
                     </item>
@@ -13110,9 +13179,12 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1892">
                             <term>penis</term>
-                            <term xml:lang="Bo-Ltn">ling ga __,__rdo rje </term>
-                            <term xml:lang="bo">ལིང་ག་ , རྡོ་རྗེ།</term>
-                            <term xml:lang="Sa-Ltn">liṅga, vajra</term>
+                            <term xml:lang="Bo-Ltn">ling ga </term>
+                            <term xml:lang="bo">ལིང་ག</term>
+                            <term xml:lang="Bo-Ltn">rdo rje </term>
+                            <term xml:lang="bo">རྡོ་རྗེ།</term>
+                            <term xml:lang="Sa-Ltn">liṅga</term>
+                            <term xml:lang="Sa-Ltn">vajra</term>
                             <term type="definition">Liṅga and vajra have many other meanings (too many to list here).</term>
                         </gloss>
                     </item>
@@ -13275,7 +13347,8 @@ Appendix: Sanskrit text-->
                             <term>purslane</term>
                             <term xml:lang="Bo-Ltn">lo Ni ya </term>
                             <term xml:lang="bo">ལོ་ཎི་ཡ།</term>
-                            <term xml:lang="Sa-Ltn">loṇikā, loṇiya</term>
+                            <term xml:lang="Sa-Ltn">loṇikā</term>
+                            <term xml:lang="Sa-Ltn">loṇiya</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Portulaca oleracea</foreign>, <foreign type="term" xml:lang="la">Portulaca quadrifida</foreign>. </term>
                         </gloss>
@@ -13294,7 +13367,9 @@ Appendix: Sanskrit text-->
                             <term>quicksilver</term>
                             <term xml:lang="Bo-Ltn">mngul chu </term>
                             <term xml:lang="bo">མངུལ་ཆུ།</term>
-                            <term xml:lang="Sa-Ltn">pārada, rasa, sūta</term>
+                            <term xml:lang="Sa-Ltn">pārada</term>
+                            <term xml:lang="Sa-Ltn">rasa</term>
+                            <term xml:lang="Sa-Ltn">sūta</term>
                         </gloss>
                     </item>
                     <item>
@@ -13381,7 +13456,8 @@ Appendix: Sanskrit text-->
                             <term>red leadwort</term>
                             <term xml:lang="Bo-Ltn">ci tra dmar po </term>
                             <term xml:lang="bo">ཅི་ཏྲ་དམར་པོ།</term>
-                            <term xml:lang="Sa-Ltn">raktacitraka, raktacitra</term>
+                            <term xml:lang="Sa-Ltn">raktacitraka</term>
+                            <term xml:lang="Sa-Ltn">raktacitra</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Plumbago rosea</foreign>. </term>
                         </gloss>
@@ -13527,7 +13603,6 @@ Appendix: Sanskrit text-->
                             <term xml:lang="bo">རྒྱས་བཏབ།</term>
                             <term xml:lang="Sa-Ltn">mudrita</term>
                             <term type="definition">Having a particular deity at the top of one’s head.</term>
-                            <term type="alternative">seal</term>
                         </gloss>
                     </item>
                     <item>
@@ -13536,14 +13611,17 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">sa bon </term>
                             <term xml:lang="bo">ས་བོན།</term>
                             <term xml:lang="Sa-Ltn">bīja</term>
-                            <term type="definition">Seed of a plant; the syllable from which a deity manifests.</term>
+                            <term type="definition">
+                                <term type="ignore">Seed</term> of a plant; the syllable from which a deity manifests.</term>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1940">
                             <term>semen</term>
-                            <term xml:lang="Bo-Ltn">shu kra __,__khu ba </term>
-                            <term xml:lang="bo">ཤུ་ཀྲ་ , ཁུ་བ།</term>
+                            <term xml:lang="Bo-Ltn">shu kra </term>
+                            <term xml:lang="bo">ཤུ་ཀྲ།</term>
+                            <term xml:lang="Bo-Ltn">khu ba </term>
+                            <term xml:lang="bo">ཁུ་བ།</term>
                             <term xml:lang="Sa-Ltn">śukra</term>
                             <term type="definition">The word śukra may also refer to the female sexual fluid.</term>
                         </gloss>
@@ -13553,7 +13631,8 @@ Appendix: Sanskrit text-->
                             <term>sensitive plant</term>
                             <term xml:lang="Bo-Ltn">ladz+dza lu </term>
                             <term xml:lang="bo">ལཛྫ་ལུ།</term>
-                            <term xml:lang="Sa-Ltn">lajjālu, lajjā</term>
+                            <term xml:lang="Sa-Ltn">lajjālu</term>
+                            <term xml:lang="Sa-Ltn">lajjā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Mimosa pudica</foreign>. </term>
                         </gloss>
@@ -13563,7 +13642,9 @@ Appendix: Sanskrit text-->
                             <term>sessile joyweed</term>
                             <term xml:lang="Bo-Ltn">sha ling tsa </term>
                             <term xml:lang="bo">ཤ་ལིང་ཙ།</term>
-                            <term xml:lang="Sa-Ltn">śāliṃcī, śāliñcī, śāliñcā</term>
+                            <term xml:lang="Sa-Ltn">śāliṃcī</term>
+                            <term xml:lang="Sa-Ltn">śāliñcī</term>
+                            <term xml:lang="Sa-Ltn">śāliñcā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Achyranthes triandra</foreign>. </term>
                         </gloss>
@@ -13573,7 +13654,8 @@ Appendix: Sanskrit text-->
                             <term>śevāla</term>
                             <term xml:lang="Bo-Ltn">se bA la </term>
                             <term xml:lang="bo">སེ་བཱ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">sevāla, śevāla</term>
+                            <term xml:lang="Sa-Ltn">sevāla</term>
+                            <term xml:lang="Sa-Ltn">śevāla</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Blyxa octandra</foreign> (?)</term>
                         </gloss>
@@ -13669,7 +13751,8 @@ Appendix: Sanskrit text-->
                             <term>spiked ginger lily</term>
                             <term xml:lang="Bo-Ltn">gol la </term>
                             <term xml:lang="bo">གོལ་ལ།</term>
-                            <term xml:lang="Sa-Ltn">śatī, śaṭī</term>
+                            <term xml:lang="Sa-Ltn">śatī</term>
+                            <term xml:lang="Sa-Ltn">śaṭī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Hedychium spicatum</foreign>. </term>
                         </gloss>
@@ -13747,7 +13830,8 @@ Appendix: Sanskrit text-->
                             <term>sunn hemp</term>
                             <term xml:lang="Bo-Ltn">sa na </term>
                             <term xml:lang="bo">ས་ན།</term>
-                            <term xml:lang="Sa-Ltn">śana, śaṇa</term>
+                            <term xml:lang="Sa-Ltn">śana</term>
+                            <term xml:lang="Sa-Ltn">śaṇa</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Crotalaria juncea</foreign>. </term>
                         </gloss>
@@ -13802,7 +13886,9 @@ Appendix: Sanskrit text-->
                             <term>tamarind</term>
                             <term xml:lang="Bo-Ltn">bse yab </term>
                             <term xml:lang="bo">བསེ་ཡབ།</term>
-                            <term xml:lang="Sa-Ltn">āmla, tintiḍī, ciñcā</term>
+                            <term xml:lang="Sa-Ltn">āmla</term>
+                            <term xml:lang="Sa-Ltn">tintiḍī</term>
+                            <term xml:lang="Sa-Ltn">ciñcā</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Tamarindus indica</foreign>. </term>
                         </gloss>
@@ -13812,7 +13898,8 @@ Appendix: Sanskrit text-->
                             <term>target</term>
                             <term xml:lang="Bo-Ltn">bsgrub bya </term>
                             <term xml:lang="bo">བསྒྲུབ་བྱ།</term>
-                            <term xml:lang="Sa-Ltn">sādhya (if male); sādhyā (if female)</term>
+                            <term xml:lang="Sa-Ltn">sādhya (if male)</term>
+                            <term xml:lang="Sa-Ltn">sādhyā (if female)</term>
                             <term type="definition">Person or being who is the target of a particular sādhana or ritual.</term>
                         </gloss>
                     </item>
@@ -13889,8 +13976,8 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">sad pa </term>
                             <term xml:lang="bo">སད་པ།</term>
                             <term xml:lang="Sa-Ltn">sphurat (adjective)</term>
-                            <term type="definition">Refers to the throbbing sensation in the vagina before and during orgasm; also
-                                to the throbbing of an erect penis.</term>
+                            <term type="definition">Refers to the <term type="ignore">throbbing</term> sensation in the vagina before and during orgasm; also
+                                to the <term type="ignore">throbbing</term> of an erect penis.</term>
                         </gloss>
                     </item>
                     <item>
@@ -13917,7 +14004,8 @@ Appendix: Sanskrit text-->
                             <term>tolaka</term>
                             <term xml:lang="Bo-Ltn">srang </term>
                             <term xml:lang="bo">སྲང་།</term>
-                            <term xml:lang="Sa-Ltn">tolaka, tola</term>
+                            <term xml:lang="Sa-Ltn">tolaka</term>
+                            <term xml:lang="Sa-Ltn">tola</term>
                             <term type="definition">A unit of weight equal to 12 māṣas.</term>
                         </gloss>
                     </item>
@@ -13946,7 +14034,9 @@ Appendix: Sanskrit text-->
                             <term>tubeflower</term>
                             <term xml:lang="Bo-Ltn">brah+ma daN+Da </term>
                             <term xml:lang="bo">བྲཧྨ་དཎྜ།</term>
-                            <term xml:lang="Sa-Ltn">brahmayaṣṭī, brahmadaṇḍa, bhārṅgī</term>
+                            <term xml:lang="Sa-Ltn">brahmayaṣṭī</term>
+                            <term xml:lang="Sa-Ltn">brahmadaṇḍa</term>
+                            <term xml:lang="Sa-Ltn">bhārṅgī</term>
                             <term type="definition">
                                 <foreign type="term" xml:lang="la">Clerodendrum indicum</foreign> (<foreign type="term" xml:lang="la">Clerodendron siphonanthus</foreign>).</term>
                         </gloss>
@@ -14074,8 +14164,10 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="term" xml:id="UT22084-080-015-1996">
                             <term>vidyādhara</term>
-                            <term xml:lang="Bo-Ltn">rig pa’dzin pa __,__rig ’dzin </term>
-                            <term xml:lang="bo">རིག་པའཛིན་པ་ , རིག་འཛིན།</term>
+                            <term xml:lang="Bo-Ltn">rig pa’dzin pa </term>
+                            <term xml:lang="bo">རིག་པའཛིན་པ།</term>
+                            <term xml:lang="Bo-Ltn">rig ’dzin </term>
+                            <term xml:lang="bo">རིག་འཛིན།</term>
                             <term xml:lang="Sa-Ltn">vidyādhara</term>
                             <term type="definition">Literally “knowledge holder”—this term refers either to someone who has
                                 mastered the vidyā, i.e. the power of the mantra, or to a class of semidivine beings.</term>
@@ -14162,7 +14254,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">shes rab </term>
                             <term xml:lang="bo">ཤེས་རབ།</term>
                             <term xml:lang="Sa-Ltn">prajñā</term>
-                            <term type="definition">Refers also to the female partner in sexual yoga.</term>
+                            <term type="definition">In specific contexts, it refers also to the female partner in sexual yoga.</term>
                         </gloss>
                     </item>
                     <item>
@@ -14262,7 +14354,9 @@ Appendix: Sanskrit text-->
                             <term>enthralling</term>
                             <term xml:lang="Bo-Ltn">dbang ba </term>
                             <term xml:lang="bo">དབང་བ།</term>
-                            <term xml:lang="Sa-Ltn">vaśya, vaśa, vaśīkaraṇa</term>
+                            <term xml:lang="Sa-Ltn">vaśya</term>
+                            <term xml:lang="Sa-Ltn">vaśa</term>
+                            <term xml:lang="Sa-Ltn">vaśīkaraṇa</term>
                             <term type="definition">One of the four main types of enlightened activity.</term>
                         </gloss>
                     </item>
@@ -14430,9 +14524,15 @@ Appendix: Sanskrit text-->
                     <item>
                         <gloss type="person" xml:id="UT22084-080-015-2035">
                             <term>Caṇḍa­mahā­roṣaṇa</term>
-                            <term xml:lang="Bo-Ltn">gtum po khro bo chen po __,__gtum po khro bo __,__gtum po </term>
-                            <term xml:lang="bo">གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོ་ , གཏུམ་པོ་ཁྲོ་བོ་ , གཏུམ་པོ།</term>
-                            <term xml:lang="Sa-Ltn">Caṇḍa­mahā­roṣaṇa, Caṇḍaroṣa, Caṇḍa</term>
+                            <term xml:lang="Bo-Ltn">gtum po khro bo chen po </term>
+                            <term xml:lang="bo">གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོ།</term>
+                            <term xml:lang="Bo-Ltn">gtum po khro bo </term>
+                            <term xml:lang="bo">གཏུམ་པོ་ཁྲོ་བོ།</term>
+                            <term xml:lang="Bo-Ltn">gtum po </term>
+                            <term xml:lang="bo">གཏུམ་པོ།</term>
+                            <term xml:lang="Sa-Ltn">Caṇḍa­mahā­roṣaṇa</term>
+                            <term xml:lang="Sa-Ltn">Caṇḍaroṣa</term>
+                            <term xml:lang="Sa-Ltn">Caṇḍa</term>
                             <term type="definition">The chief deity of the CMT.</term>
                         </gloss>
                     </item>
@@ -14778,7 +14878,7 @@ Appendix: Sanskrit text-->
                             <term xml:lang="Bo-Ltn">nu Di </term>
                             <term xml:lang="bo">ནུ་ཌི།</term>
                             <term xml:lang="Sa-Ltn">Naṭī</term>
-                            <term type="definition">In the Tibetan, Śyāmā and Naṭi are confounded into one, <foreign type="term" xml:lang="Bo-Ltn">sh+ya ma nu Di</foreign>) .</term>
+                            <term type="definition">In the Tibetan, Śyāmā and Naṭi are confounded into one, <foreign type="term" xml:lang="Bo-Ltn">sh+ya ma nu Di</foreign>).</term>
                         </gloss>
                     </item>
                     <item>

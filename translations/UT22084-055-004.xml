@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:12:19 by admin</note>
+                <note type="lastUpdated">Last updated at 18/03/2018 at 10:35:03 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1822,6 +1822,7 @@
                             <term>Glorious Splendor</term>
                             <term xml:lang="Bo-Ltn">dpal gyi gzi brjid </term>
                             <term xml:lang="bo">དཔལ་གྱི་གཟི་བརྗིད།</term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1875,7 +1876,7 @@
                             <term>King of the Golden-Hued Lion’s Play</term>
                             <term xml:lang="Bo-Ltn">gser ’od seng ge’i rnam par rol pa’i rgyal po </term>
                             <term xml:lang="bo">གསེར་འོད་སེང་གེའི་རྣམ་པར་རོལ་པའི་རྒྱལ་པོ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1915,7 +1916,7 @@
                             <term>Perfect Wealth</term>
                             <term xml:lang="Bo-Ltn">rin chen mchog </term>
                             <term xml:lang="bo">རིན་ཆེན་མཆོག</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1923,7 +1924,7 @@
                             <term>Precious Mind</term>
                             <term xml:lang="Bo-Ltn">rin chen sems </term>
                             <term xml:lang="bo">རིན་ཆེན་སེམས།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1939,7 +1940,7 @@
                             <term>Repeller of All Disturbing Emotions</term>
                             <term xml:lang="Bo-Ltn">nyon mongs pa thams cad zlog pa </term>
                             <term xml:lang="bo">ཉོན་མོངས་པ་ཐམས་ཅད་ཟློག་པ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                         </gloss>
                     </item>
                     <item>
@@ -1961,8 +1962,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-055-004-228">
                             <term>Śāriputra</term>
-                            <term xml:lang="Bo-Ltn">Shā ri’i bu </term>
-                            <term xml:lang="bo">ཥā་རིའི་བུ།</term>
+                            <term xml:lang="Bo-Ltn">shA ri’i bu </term>
+                            <term xml:lang="bo">ཤཱ་རིའི་བུ།</term>
                             <term xml:lang="Sa-Ltn">Śāriputra</term>
                         </gloss>
                     </item>
@@ -2035,6 +2036,8 @@
                             <term>Boundless Accumulation of Precious Qualities and Full Display of Happiness</term>
                             <term xml:lang="Bo-Ltn">yon tan rin chen bsag pa dpag tu med pa bde ba kun tu ston pa </term>
                             <term xml:lang="bo">ཡོན་ཏན་རིན་ཆེན་བསག་པ་དཔག་ཏུ་མེད་པ་བདེ་བ་ཀུན་ཏུ་སྟོན་པ།</term>
+                            <term xml:lang="Sa-Ltn"/>
+                            <term type="definition"/>
                         </gloss>
                     </item>
                     <item>
@@ -2084,7 +2087,7 @@
                             <term>Complete Gathering of Wealth</term>
                             <term xml:lang="Bo-Ltn">rin chen kun nas bsags pa </term>
                             <term xml:lang="bo">རིན་ཆེན་ཀུན་ནས་བསགས་པ།</term>
-                            <term xml:lang="Sa-Ltn"> - </term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">The buddha realm in which Avalokiteśvara will become a fully enlightened
                                 buddha. Probably the same as Sarvaratnasannicaya attested in the <title xml:lang="Sa-Ltn">Karuṇā­puṇḍarīka­sūtra</title>, where the Tibetan rendering is <foreign xml:lang="Bo-Ltn">rin
                                     po che tham cad yang dag par sags pa</foreign>.</term>
