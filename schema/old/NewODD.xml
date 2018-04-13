@@ -25,12 +25,19 @@
       <divGen type="toc"/>
       <div>
         <head>General Remarks</head>
-        <p>Here is the complete documentation for 84000 TEI Documents. In the front matter is a set
-          of guidelines for our own markup editors showing the process for the markup stage of our
-          texts. Below that are a list of all the specifications for element, model classes,
-          attribute classes, Macros, and Datatypes. The end contains some appendices with further
-          instructions for markup editors. All of these sections are accessible through links in the
-          table of contents.</p>
+        <p>Here is the complete documentation for 84000 TEI Documents. In the body there is a list
+          of all the specifications for element, model classes, attribute classes, macros, and
+          datatypes. The back matter contains first a set of guidelines for our own markup editors
+          showing the process for the markup stage of our texts, which is then followed by some
+          other appendices with further topeics and instructions for markup editors. All of these
+          sections are accessible through links in the table of contents.</p>
+        <p>NOTE FOR UPDATING THE SCHEMA: This ODD contains some content models that are written
+          directly with RELAX NG in order to shape and restrict the form for published 84000 texts.
+          If these need to be updated in the ODD these content models, which outline the whole of
+          the <gi>text</gi> are primarily to be found in the <gi>elementSpec</gi>s for the
+            <gi>front</gi>, <gi>body</gi>, and <gi>back</gi> elements. Some RELAX NG content models
+          are also defined in the <gi>elementSpec</gi>s the child elements of the <gi>teiHeader</gi>
+          but these should be simpler and easy to navigate.</p>
       </div>
     </front>
     <body>
@@ -71,7 +78,7 @@
                 <valItem ident="de"/>
                 <valItem ident="el"/>
                 <valItem ident="fr"/>
-                <valItem ident="it"/>  
+                <valItem ident="it"/>
               </valList>
             </attDef>
           </attList>
@@ -694,7 +701,7 @@
                           </rng:optional>
                           <rng:zeroOrMore>
                             <rng:ref name="p"/>
-                          </rng:zeroOrMore>                          
+                          </rng:zeroOrMore>
                           <rng:zeroOrMore>
                             <rng:ref name="lb"/>
                           </rng:zeroOrMore>
@@ -1017,6 +1024,7 @@
           </classes>
           <attList>
             <attDef ident="xml:lang" mode="delete"/>
+            <attDef ident="rend" mode="delete"/>
           </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -1984,6 +1992,7 @@
           <attList>
             <attDef ident="xml:lang" mode="delete"/>
             <attDef ident="type" mode="delete"/>
+            <attDef ident="rend" mode="delete"/>
           </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
@@ -2014,7 +2023,8 @@
             <attDef ident="xml:lang" mode="delete"/>
             <attDef ident="n" mode="add" usage="opt">
               <desc>Used to number the items in an outline. This should follow arabic numbers with
-                periods separating subsections as in: "1.1" "1.2.1" etc. </desc>
+                periods separating subsections as in: "1.1" "1.2.1" etc. See <ref target="NewODD_doc.html#index.xml-back.1_div.2_div.3">Appendix B: Topics, Outlines</ref>
+                            </desc>
             </attDef>
             <attDef ident="style" mode="add" usage="opt">
               <valList type="closed">
@@ -2188,7 +2198,6 @@
               some texts.</p>
           </remarks>
         </elementSpec>
-
         <elementSpec ident="lb" module="core" mode="change">
           <classes mode="change">
             <memberOf key="att.global" mode="delete"/>
@@ -2263,6 +2272,12 @@
             <elementRef key="graphic"/>
             <elementRef key="p"/>
           </content>
+          <attList>
+            <attDef ident="xml:id" mode="delete"/>
+            <attDef ident="xml:lang" mode="delete"/>
+            <attDef ident="target" mode="delete"/>
+            <attDef ident="rend" mode="delete"/>
+          </attList>
           <exemplum>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">
               <availability>
@@ -2292,6 +2307,7 @@
             <alternate maxOccurs="unbounded">
               <elementRef key="item"/>
               <elementRef key="milestone"/>
+              <elementRef key="p"/>
             </alternate>
           </content>
           <attList>
@@ -2304,7 +2320,9 @@
             <attDef ident="rend" mode="add" usage="opt">
               <desc>Describes how the list is to be rendered in the web display. This can be used
                 for instance, to create a bulleted list that will be rendred in the 84000 reading
-                room.</desc>
+                room. The numbered list should be used for multi-leveled outlines. <ref target="NewODD_doc.html#index.xml-back.2_div.3">See Appendix B.3 on
+              outlines for further details.</ref>
+                            </desc>
               <valList type="closed">
                 <valItem ident="bulleted"/>
                 <valItem ident="numbered"/>
@@ -2420,6 +2438,10 @@
               <valList type="closed">
                 <valItem ident="lastUpdated"/>
               </valList>
+              <remarks>
+                <p>Here the type attribute is only used for the one <gi>note</gi> element found in the
+                <gi>notesStmt</gi> to indicate that it shows when the file was last updated.</p>
+              </remarks>
             </attDef>
           </attList>
           <exemplum>
@@ -2528,8 +2550,8 @@
           </exemplum>
           <remarks>
             <p>This element is used for in-text citations. The <att>target</att> attribute will
-              point to the <att>xml:id</att> value of the appropriate <gi>milestone</gi> or
-                <gi>note</gi> (The value should be preceded by a "#" as in the example below). In
+              point to the <att>xml:id</att> value of the appropriate <gi>milestone</gi>,
+                <gi>note</gi>, or <gi>bibl</gi> (The value should be preceded by a "#" as in the example below). In
               the reading room this will create a link with the appropriate number. The milestone
               number itself will be automatically rendered in the reading room display, so this
               shouldn't be entered into the <gi>ptr</gi> element itself, but it may be displayed
@@ -2678,11 +2700,27 @@
             </attDef>
             <attDef ident="key" mode="add" usage="opt">
               <desc>Identifies the Toh. number of the text to which a folio reference is linked to.
-                This is used for texts for which there are multiple copies found in the Kangyur.
-                Usually, if the texts are identicle but have different folio numbers, we will just
-                use one TEI file for both texts, but the web display will show the appropriate folio
-                references according to key attribute found within the <gi>ref</gi> element. For
-                example see Toh. 193 (UT2204-061-013).</desc>
+                </desc>
+              <remarks>
+                <p>This is used for texts for which there are multiple copies found in the Kangyur.
+                  Usually, if the texts are identicle but have different folio numbers, we will just
+                  use one TEI file for both texts, but the web display will show the appropriate folio
+                  references according to key attribute found within the <gi>ref</gi> element. For
+                  example see Toh. 193 (UT22084-061-013).</p>
+              </remarks>
+            </attDef>
+            <attDef ident="rend" mode="add" usage="opt">
+              <desc>Identifies how this reference will be displayed in the reading room.</desc>
+              <valList type="closed">
+                <valItem ident="hidden"/>
+              </valList>
+              <remarks>
+                <p>If it has the value "hidden" it will not be displayed in the reading room. This is useful
+                if these references are unecessary and would be excessive for the typical reader, but should
+                be embedded in the text for the purposes of research. For example, some of the folio refs for the 
+                Sanskrit in Toh. 11 are hidden in this way, but there is a note about their availability 
+                in the text's introduction. See Toh. 11 (UT22084-031-002</p>
+              </remarks>
             </attDef>
           </attList>
           <exemplum>
@@ -2917,7 +2955,7 @@
               of the text or elsewhere, in order to alter the way strings for that term will be
               linked in the web display. For example, a string of text can bypass being linked if it
               is placed within a <tag>term type="ignore"</tag> as like the following example. For
-              more details on how the glossary functions on the web page see <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">Appendix B</ref>.</p>
+              more details on how the glossary functions on the web page see <ref target="NewODD_doc.html#index.xml-back.1_div.3">Appendix C</ref>.</p>
             <egXML xmlns="http://www.tei-c.org/ns/Examples">Indeed he is a Dharma king who <term type="ignore">guides</term> according to the Dharma.</egXML>
           </exemplum>
           <remarks>
@@ -2934,7 +2972,7 @@
               the term within the text that should be linked to this gloss, they are listed last
               with type="alternative". This will also link instances of this alternative string
               throughout the text to this glossary entry. All of this can be seen in the following
-              example. For further notes about the glossary see <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">Appendix B</ref>.</p>
+              example. For further notes about the glossary see <ref target="NewODD_doc.html#index.xml-back.1_div.3">Appendix C</ref>.</p>
           </remarks>
         </elementSpec>
         <elementSpec ident="text" module="textstructure" mode="change">
@@ -3243,6 +3281,7 @@
     </body>
     <back>
       <div>
+        <!--Appendix A-->
         <head>Checklist for 84000 TEI Markup Editors</head>
         <div>
           <head>Enter the Word DOC into the Template</head>
@@ -3285,9 +3324,11 @@
                   you just made should be ticked under “projects”)</item>
               </list>
             </item>
-            <item>This should create a file that is closer to what we want. However, the
-                <gi>teiHeader</gi> will definitely need some reworking. If any further "<gi>hi</gi>"
-              tags or other tags need to be changed through out the individually the refactoring
+            <item>This should create a file that is closer to what we want. However, the script is
+              definitely not perfect and many sections, particularly the  <gi>teiHeader</gi> will need 
+              some reworking. For this, it is best to refer to a previously published text to see if the
+              formating matches. If any further "<gi>hi</gi>"
+              tags or other tags need to be changed through out the text, the refactoring
               tool is very helpful for this (Tools &gt; XML Refactoring...)</item>
           </list>
         </div>
@@ -3315,10 +3356,17 @@
               formatted in the same way.</item>
             <item>Add the appropriate "type" attributes to all the <gi>div</gi> elements (use a
               previously edited TEI doc as a model)</item>
+            <item>If the introduction and main traslation only has one section you will probably see this heading
+              at the beginning of their second level <gi>div</gi> elemnet:
+            <egXML xmlns="http://www.tei-c.org/ns/Examples">
+              <head>Main Section</head>
+            </egXML>
+            this is actually a placeholder from the template and it should be removed as the heading from the
+            previous <gi>div</gi> element will provide the heading "Introduction" or "The Translation". </item>
             <item>Milestones should be generated automatically by the script before every <gi>p</gi>
               element and <gi>lg</gi> element; however, we don't use milestones as uniformly as
-              this, and some of the milestones will need to be taken out (<ref target="NewODD_doc-2.html#index.xml-back.1_div.2"> for instructions on how to do
-                this see appendix C</ref>). </item>
+              this, and some of the milestones will need to be taken out (<ref target="NewODD_doc.html#index.xml-back.1_div.4"> for instructions on how to do
+                this see appendix D</ref>). </item>
             <item>Note that all "xml:id" attributes, "tid" attributes in the <gi>p</gi> elements,
               and "index" attributes in the <gi>note</gi> elements will be added automatically when
               you upload the XML, so you don't need to worry about adding these.</item>
@@ -3406,91 +3454,14 @@
         </div>
         <div>
           <head>Add Optional Soft-Hyphens to Sanskrit Chains</head>
-          <p>Note that only editors with a basic understanding of spelling and sandhi rules of
-            Sanskrit should proceed with this step. You don't need to be an expert in Sanskrit, as
-            most words can be looked up in online references, however, for this step editors will
-            need to have a clear grasp on how the sandhi rules in Sanskrit work. If not please
-            request that another editor with this skill to complete this task.</p>
-          <list>
-            <item>Look for long Sanskrit chains, and add optional soft-hyphens at points where there
-              are chains that are 15+ characters long. (Note: you should have some familiarity with
-              Sanskrit to do this task, if not please ask another editor to do this part) Optional
-              soft-hyphens are created with the character code: <egXML xmlns="http://www.tei-c.org/ns/Examples">&amp;#173;</egXML>Note after you save the
-              XML these will look like regular hyphens, but if you move the blinking cursor to the
-              space just before the hyphen you will notice there is a different character code
-              displayed at the bottom of the oXygen screen.</item>
-            <item>The long Sanskrit chains can be found easily by going to Window &gt; Show View
-              &gt; XPath/XQuery Builder, then in the XPath/XQuery Builder window type the following
-              code and press the red play button:<code>//*[string-length(string()) &gt; 14 and
-                @xml:lang ='Sa-Ltn']</code> You can save this query for later by clicking on the
-              star and choosing "add to favourites."</item>
-            <item>Be careful when adding the soft hyphens as they should only be placed at certain
-              points in the words where they do not interfere with the Sanskrit rules of sandhi.
-              When adding the soft hyphens please follow the following guidelines:</item>
-            <item>
-              <label>Guidelines for adding Soft-Hyphens to Sanskrit</label>
-              <list>
-                <item>
-                  <p>1. As we are not using full justification anyway, (a) most Sanskrit words don’t
-                    need hyphenation unless they are longer than 5 or 6 syllables, but (b) may be
-                    necessary for shorter words especially in text titles on the title page. I
-                    therefore tend to place soft hyphens in all of the text titles, in verse
-                    passages, in the bibliography entries, and in notes and glossary entries (which
-                    require shorter lines in general).</p>
-                </item>
-                <item>
-                  <p>2. Place a soft hyphen (a) only between the words of a compound; (b) even then
-                    only when there are no changes brought about by sandhi (because putting a hyphen
-                    would logically mean undoing the sandhi, and the hyphens we’re talking about may
-                    or may not appear; and (c) avoiding confusing remnants.</p>
-                  <p>A couple of examples:</p>
-                  <p>Ratnagotravibhāgottaratantraśāstra would be
-                    Ratna-gotra-vibhāgottara-tantra-śāstra. If we divided the 5-syllable sequence in
-                    the middle, that would have to undo the sandhi and become -vibhāga-uttara- which
-                    only works in the presence of a hard hyphen. Theoretically we could put a hyphen
-                    at vi-bhāga, but that would risk leaving us with -gotravi- , which would be
-                    potentially confusing to read.</p>
-                  <p>The maximum we could hyphenate antānantaḍṛṣṭivāsanābhisaṃdhisamuccedaka would
-                    be antānanta-ḍṛṣṭi-vāsanābhi-saṃdhi-sam-ucchedaka, because antānanta and
-                    vāsanābhi-saṃdhi would become anta-ananta and vāsana-abhi-saṃdhi. In a case like
-                    that, I would also prefer to avoid ending up with
-                    antānantaḍṛṣṭivāsanābhi-saṃdhisamuccedaka, because the abhi- really belongs with
-                    the saṃdhi; it’s a possible break but is confusing to read.</p>
-                </item>
-                <item>One resource that is helpful for determining the breaks in Sanskrit chains in
-                  the online <ref target="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.html">Cologne Sanskrit Dictionary</ref>. This one is really helpful because it has a
-                  drop down menu of similarly spelled words when you hit the enter key, however, I
-                  think this only works when you use the <ref target="https://en.wikipedia.org/wiki/Harvard-Kyoto">Kyoto-Harvard
-                    Transliteration scheme</ref> "KH". I don't know you might try the other ones but
-                  I found that this is the only one that gave the drop down list for me. Than when
-                  you find a big word in the dictionary in the definition entry you will see *
-                  whenever there is sandhi, though this isn't 100% reliable, sometimes it is missing
-                  for some reason, so be careful if the spelling looks weird.</item>
-                <item>In certain cases there may be long 15+ Sanskrit chains that cannot be broken
-                  due to the sandhi, or long Sanskrit compounds whose pieces cannot be easily
-                  determined with online resources. If this is the case make a list of problematic
-                  instances to note to the leading editors, also check these instances to see if the
-                  pose any major difficultly for the web display. These instances are rare, but they
-                  do come up now and then.</item>
-                <item>It is acceptable to add an optional hyphen at the end of "mahā-" as in
-                  "mahā-yāna" even though technically the long ā would be lost as this is a well
-                  known word and unlikely to be misread.</item>
-                <item>Note that when you add the optional hyphens to a glossary item where the
-                  translation uses the Sanskrit (This will mainly be in the “Persons” and “Places”
-                  section of the glossary) the hyphens will have to match all those instances within
-                  the body of the text or they will not link to the glossary term, so it is best to
-                  start from the glossary and work your way backwards. For all of these person and
-                  place terms do a search and replace so that the hyphens match in all the instances
-                  of that term (be cautious when doing large search-and-replaces that you don’t make
-                  any unintended changes)</item>
-              </list>
-            </item>
-          </list>
+          <p>Next, optional soft-hyphens should be entered into this text for any long Sanskrit chains. 
+            The guidelines for doing this are shown in <ref target="NewODD_doc.html#index.xml-back.1_div.5">Appendix E: Guidelines for entering Soft Hyphens to Sanskrit</ref>  </p>
         </div>
         <div>
           <head>Add Links For References (Both In-Text and External)</head>
+          <label>In-Text References:</label>
           <p>When ever we have internal citations like this we should use the <gi>ptr</gi> element
-            to make a link in the text. For example, if you go to the <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#n.5">Vimalakirti Sutra</ref> and look at note 5. It says:</p>
+            to make a link in the text. For example, if you go to the <ref target="http://read.84000.co/translation/UT22084-060-005.html#n.5">Vimalakirti Sutra</ref> and look at note 5. It says:</p>
           <q>
             <p>"See <ref target="http://read.84000-translate.org/translation/UT22084-060-005.html#UT22084-060-005-1">2.3.</ref> It is especially appropriate, in the light of the early tantric
               tradition, for Vimalakīrti, as a layman, to be an adept."</p>
@@ -3516,7 +3487,15 @@
             to link to (usually it will only be shifted a few numbers up or down so if it says "see
             note 5", then it will likely be int the 3-7 range for instance). If you are not sure
             where the references is referring to, or there is some ambiguity, then make a note about
-            this for the leading editors</p>
+            this for the leading editors.</p>
+          <p>The <gi>ptr</gi> element can also create links to the bibliography. To link to specific <gi>bibl</gi>
+            entries use the xml:id of those entries, or to link to the general bibliography section use the target 
+            value of "#bibliography". For example:</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <note>See <ptr target="#bibliography">bibliography</ptr>
+                        </note>
+          </egXML>
+          <label>External Links:</label>
           <p>Occasionally there will be citations to external 84000 texts, that have been
             highlighted by the copy editors to link. This can be done so, not by using the
               <gi>ptr</gi> element, which is only used for in-text citations; but it is done with
@@ -3530,6 +3509,7 @@
           </egXML>
           <p>This will link the milestone references "15.39" to that corresponding passage in The
             Play in Full (Toh. 95).</p>
+          <p>Links to other web addresses can be done in the same way.</p>
         </div>
         <div>
           <head>Upload the XML and See How it Looks on the Web Page</head>
@@ -3563,8 +3543,8 @@
               and the terms that should link to neither are marked <tag>term
               type="ignore"</tag>.</item>
             <item>
-              <ref target="NewODD_doc-2.html#index.xml-back.1_div.2">For further details about
-                the glossary see Appendix B</ref>
+              <ref target="NewODD_doc.html#index.xml-back.1_div.3">For further details about the
+                glossary see Appendix C</ref>
             </item>
           </list>
         </div>
@@ -3594,19 +3574,211 @@
               final list so the leading editor can look through them more systematically in one
               email.</item>
           </list>
+          <p>
+                        <ref target="NewODD_doc.html">return to table of contents</ref>
+                    </p>
         </div>
       </div>
       <div>
-        <head xml:id="Appendix1">Guidelines for Glossary</head>
+        <!--Appendix B-->
+        <head>Topics</head>
+        <div>
+          <head>Italics</head>
+          <p>In a given text, words or phrases may be italicized for different reasons. The need to
+            express both presentation information (that text is italicized) as well as the semantic
+            information about why it is italicized must be addressed. That is why instead of simply
+            using the <gi>hi</gi> element, for example, the voices below form the markup menu for
+            text that needs to be italicized: </p>
+          <list>
+            <item>
+                            <gi>emph</gi> or <gi>distinct</gi> term, words, or phrases singled out (any
+              language)</item>
+            <item>
+                            <tag>foreign xml:lang=""</tag> foreign words or phrases in non-Asian languages
+              (French, Latin…)</item>
+            <item>
+              <tag>foreign type="term" xml:lang=""</tag> a foreign term in parentheses following its
+              translation (Sanskrit, Tibetan) </item>
+            <item>
+              <tag>foreign type="term" xml:lang=""</tag> a relatively rare foreign term (Sanskrit,
+              Tibetan) </item>
+            <item>
+              <tag>title xml:lang=""</tag> title of a work (any language) </item>
+            <item>
+              <tag>foreign xml:lang="Bo-Ltn"</tag> Wylie transliteration (Tibetan) </item>
+            <item>
+              <tag>foreign type="quote" xml:lang=""</tag> quotations from texts in notes (Sanskrit,
+              Tibetan) </item>
+            <item>
+              <tag>foreign type="mantra" xml:lang=""</tag> mantras or seed-syllables
+              (Sanskrit)</item>
+          </list>
+          <p>Note that Tibetan script and Chinese characters should be given the xml:lang value of "bo" and 
+          "zh" respectively, while Tibetan, Chinese, and Sanskrit romanized transliteration should have the values of 
+          "Bo-Ltn", "Zh-Ltn", "Sa-Ltn" respectively. For all other langues use the the <ref target="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 codes</ref>
+          to find the appropriate xml:lang value.</p>
+          <p>For the most part, these tags should be added during the copy editing phase in the 84000 Template.doc. In this
+          phase they will be added as styles in MS Word, but will be transformed in to the appropriate tag by our scripts. However,
+          as we can't add a style for every language in the template, the markup editor will need look up and edit the tags for 
+          any uncommon languages, which will be marked through the script as xml:lang="Input Language". Also there may be errors
+          or italicized texts that was missed, which the markup editor should keep an eye out for.</p>
+        </div>
+        <div>
+          <head>Divisions</head>
+          <p>elements are used within a text to mark different sections of the text. This is of particular importance as the 
+            <gi>head</gi> tag can only follow directly after a "div" marker or another <gi>head</gi> tag. The main sections 
+            of the text are marked as follows:</p>
+          <list>
+            <item>
+                            <tag>div type="summary"</tag> Wraps the Summary section</item>
+            <item>
+                            <tag>div type="acknowledgement"</tag> Wraps the Acknowledgement section</item>
+            <item>
+                            <tag>div type="introduction</tag> Wraps the Introduction</item>
+            <item>
+                            <tag>div type="translation"</tag> Wraps the entire translation</item>
+            <item>
+                            <tag>div type="notes"</tag>  Wraps the notes section; this section is needed for displaying abbreviations</item>
+            <item>
+                            <tag>div type="listBibl"</tag>  Contains a group of bibl elements, wraps the bibliography</item>
+            <item>
+                            <tag>div type="appendix"</tag> To wrap the appendix of a text, eg a Sanskrit Appendix</item>
+            <item>
+                            <tag>div type="colophon</tag> Wraps the colophon</item>
+          </list>
+          <p>Within those major document units or divisions, there are other sub units, especially chapters or their equivalent. Both chapter and section refer to the same hierarchical level in the xml. Chapters are the type value used in the body of the text when they have been specified as chapters by the translator. Section is used for equivalent level sectioning that have not been called chapters. Examples for the latter are sectioned bibliography, 
+            where the who;e of the bibliography has multiple sections organized by source type. in that case <tag>div type="section"</tag> 
+            is used instead of <tag>div type="chapter"</tag>. from a structural point of view, however, they are the same.</p>
+          <list>
+            <item>
+                            <tag>div type="chapter"</tag> Wraps a chapter, which is part of the translation.</item>
+            <item>
+                            <tag>div type="section"</tag> Wraps a section of the TEI document</item>
+          </list>
+          <p>For example:</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <div type="chapter">
+            <head type="chapter">Chapter 26</head>
+            <head type="chapterTitle">Turning the Wheel of Dharma</head>
+          <!--...-->
+          </div>
+                    </egXML>
+          <p>and</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <div type="listBibl">
+              <head type="listBibl">Bibliography</head>
+              <div type="section">
+                <head type="section">Tibetan Sources</head>
+                <!--...-->
+              </div>
+              <div type="section">
+                <head type="section">Sanskrit Sources</head>
+                <!--...-->
+              </div>
+            </div>
+          </egXML>
+        </div>
+        <div>
+          <head>Outlines</head>
+          <p>Sometimes the introduction of a text will provide an outline, particualrly for a longer or more complicated text.
+          Within the TEI XML these outlines should be contructed using the <gi>list</gi> and <gi>item</gi>elements. For a complex
+          outline with many levels of subsections, the outline itself should be contained in a list, and each section should be
+          contained in an <gi>item</gi> within that list. Then, for each sub section, a new <gi>list</gi> element should be nested
+          within those <gi>item</gi>s which in turn contains its own subsections with <gi>item</gi> elements, and so forth for 
+          as many subsections that are necessary. To keep track of the levels, the <gi>list</gi> element should have the rend="numbered"
+            attribute, and each <gi>item</gi> should have an "n" attribute designating that section of the outline with 
+          integer numbers and periods as in: n="1", n="1.1", n="1.2", n="1.2.1" etc. For example see the following outline from
+          "The Baskets Display" (Toh 116):</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <p tid="74">This outline is intended as a guide to the complicated narrative levels of the sūtra. </p>
+            <lb/>
+            <list rend="numbered">
+              <item n="1">
+                <p tid="642">I. Sūtra narrative: Buddha Śākyamuni is in the Jetavana Monastery when lights appear,
+                  transforming the monastery’s appearance. Bodhisattva Sarvanīvaraṇaviṣkambhin questions Buddha
+                  Śākyamuni about this, and the Buddha states that the cause of the lights is Avalokiteśvara
+                  visiting Avīci hell and then the city of the pretas. </p>
+                <list>
+                  <item n="1.1">
+                    <p tid="643">1. Buddha Śākyamuni’s narrative: Avalokiteśvara appears in the Avīci hell and
+                      liberates beings. As a result, Yama’s creatures go to Yama and describe Avalokiteśvara’s
+                      arrival. Yama goes to Avalokiteśvara and praises him.</p>
+                  </item>
+                </list>
+              </item>
+              <item n="2">
+                <p tid="644">II. Sūtra narrative: Buddha Śākyamuni responds to a question from
+                  Sarvanīvaraṇaviṣkambhin about whether Avalokiteśvara has left the hell. </p>
+                <list>
+                  <item n="2.1">
+                    <p tid="645">1. Buddha Śākyamuni’s narrative: Avalokiteśvara leaves the hells, visits the city
+                      of the pretas, and liberates them from their suffering. This very sūtra sounds in their
+                      realm.</p>
+                  </item>
+                </list>
+              </item>
+            </list>
+            <!--... etc.-->
+          </egXML>
+          <p>This will allow the outline to be properly displayed in the 84000 reading room. The "n" attribute is 
+          only needed for complex outlines with two or more levels. If the outline is a simple list of chapter descriptions
+          then this "n" attribute is not necessary, though the <gi>list</gi> and <gi>item</gi> elements should still be used.</p>
+        </div>
+        <div>
+          <head>Cross References and Links</head>
+          <label>Milestones:</label>
+          <p>Cross references in the text that refer to milestones will be added using a <gi>ptr</gi> element 
+            with the "target" attribute. The value of the target should be a hashmark ("#") followed by the xml:id
+            value ot the milestone that is to be lined. For example:
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            See <ptr target="#UT22084-060-005-1"/><!--2.3-->.
+          </egXML>
+          The milestone number as it appears on the webpage may be listed as a comment aftwards, but the parser will automatically
+          show the milestone number in the web display. This way even if the milestones shift around it will still display and link 
+          to the correct milestone on the web page.
+          </p>
+                    <lb/>
+          <label>Notes and Bibliography:</label>
+          <p>Notes and Bibliography entries work in the exact same way, for the target attribute, simply use the xml:id value contained 
+            in the <gi>note</gi> or <gi>bibl</gi> element that needs to be linked. You can also link to the general bibliography section 
+            with the target value "#bibliography" For example:</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <note>See <ptr target="#bibliography">bibliography</ptr>
+                        </note>
+          </egXML>
+          <lb/>
+                    <label>Links to Other Texts or Web Addresses:</label>
+          <p>If there is a link to a milestone in a different text, rather than using a <gi>ptr</gi>, the <gi>ref</gi> element is used
+          which should also have a "target" attribute followed by the URL address of the text, followed by a hash tag followed by the
+          xml:id of the milestone in that other text. For example.</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <note place="end" xml:id="UT22084-055-001-1485" index="586"> Unidentified Indian musical
+              instrument. It appears in two lists of instruments in the <title xml:lang="Sa-Ltn">Lalita­vistara­sūtra</title> (see <title xml:lang="en">The Play in Full</title>
+              <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-973">15.39</ref><!--toh. 95--> and <ref target="http://read.84000.co/translation/UT22084-046-001.html#UT22084-046-001-1001">15.67</ref><!--toh. 95-->) with a stringed instrument preceding and following it,
+              but some recent Tibetan-English dictionaries have “cymbals.”</note>
+          </egXML>
+          <p>Links to other websites can be done with the <gi>ref</gi> element in the same manner:</p>
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            Kyoto:
+            Educational Department of the West Hongwanji, 1924. <ref target="http://web.mit.edu/stclair/www/smaller.html">web.mit.edu</ref>
+          </egXML>
+          <p>
+                        <ref target="NewODD_doc.html">return to table of contents</ref>
+                    </p>
+        </div>
+      </div>
+      <div>
+        <!--Appendix C-->
+        <head>Guidelines for Glossary</head>
         <head>Some notes about how the glossary works:</head>
-        <label>How reader handles plurals</label>
+        <label>How reader handles plurals:</label>
         <p>A term will be matched if it is followed by s, es, 's or s' and then a non-word character
           e.g. Maitreya, Maitreya's, Maitreyas. (Unfortunately the general marker for non-word
           characters is not Sanskrit aware. It handles Sanskrit diacritic characters as non-word
           characters. While we have handled most of the related issues in this case it can result in
           a few mistakes. e.g. Maitreyasāyana).</p>
         <label>Use of <gi>term</gi> tag to differentiate marking the same word used in different
-          ways</label>
+          ways:</label>
         <p>Some times we will only want certain instances of a string of text to be marked as a
           glossary term. For example, perhaps we want the term "appropriate" to be linked to this
           term when it is used as verb but not when it used as an adjective. Note, that we are no
@@ -3629,15 +3801,15 @@
               <term>inconceivable liberation</term>
             </gloss>
           </p>-->
-        <label>How Tibetan is created from Wylie</label>
+        <label>How Tibetan is created from Wylie:</label>
         <p>Where a glossary item has a Wylie term but no Tibetan the database will auto-generate the
           Tibetan. To re-create a Tibetan term simply remove the node, save and refresh. The Wylie
           string will also have a trailing space enforced. These will produce the respective
           syllable separators in the Tibetan. Double underscores in Wylie will be replaced with a
           single space when output to the reader. </p>
-        <label>Links to paragraphs with instances</label>
+        <label>Links to paragraphs with instances:</label>
         <p>The reader lists links to each paragraph that includes instances of a glossary term.</p>
-        <label>For multiple Tibetan and Sanskrit Forms of Spelling for a Single Term</label>
+        <label>For multiple Tibetan and Sanskrit Forms of Spelling for a Single Term:</label>
         <p>In some cases a single <gi>gloss</gi> entry may have multiple forms for spelling the
           Tibetan, the Sanskrit, or both. In this case each spelling of term can be listed
           separately in its own <gi>term</gi> element. However, Tibetan should be listed first
@@ -3661,14 +3833,14 @@
         <p>Note that in the example above, these spelling variations are supplied by the author but
           don't actually appear in the translated text. If there are alternative spellings of a term
           within the text itself, they need to be marked as type="alternative".</p>
-        <label>use of alternatives in the glossary entry</label>
+        <label>Use of Alternatives in the Glossary Entry:</label>
         <p>Glossary items can also include <tag>term type="alternative"</tag> nodes to specify other
           variations in the spelling that should be marked in the text, </p>
         <egXML xmlns="http://www.tei-c.org/ns/Examples">
           <term>Mañjuśrī</term>
           <term type="alternative">Mañjuśrī­kumāra­bhūta</term>
         </egXML>
-        <label>Further Explanation on the Mode Attribute</label>
+        <label>Further Explanation on the Mode Attribute:</label>
         <p>The mode attribute is not required but when present it can either be "match" or "marked".
           "Match" is the default (where this attribute is not specified this will apply). "Match"
           will behave in the normal way: the text is scanned for glossary matches and highlighted
@@ -3706,9 +3878,13 @@
             of aggregates? How does consciousness follow the body? How do the sensory fields follow
             the body?” </p>
         </egXML>
+        <p>
+                    <ref target="NewODD_doc.html">return to table of contents</ref>
+                </p>
       </div>
       <div>
-        <head xml:id="Appendix2">Guidelines for Entering Milestones into the TEI Document</head>
+        <!--Appendix D-->
+        <head>Guidelines for Entering Milestones into the TEI Document</head>
         <p>Milestones are applied to the document with the “<tag>milestone unit="chunk"/</tag>” tag.
           Because the 84,000 reading room does not have page numbers, milestones are particularly
           important for referencing sections or paragraphs in the text.</p>
@@ -3819,6 +3995,151 @@
         <p>If the editor is not sure about the frequency for applying milestones, he or she can
           refer to some of the other texts in the reader and see how frequently the milestones are
           used in other texts. </p>
+        <p>
+                    <ref target="NewODD_doc.html">return to table of contents</ref>
+                </p>
+      </div>
+      <div>
+        <!--Appedix E-->
+        <head>Guidelines for entering Soft Hyphens to Sanskrit</head>
+        <p>Note that only editors with a basic understanding of spelling and sandhi rules of
+          Sanskrit should proceed with this step. You don't need to be an expert in Sanskrit, as
+          most words can be looked up in online references, however, for this step editors will
+          need to have a clear grasp on how the sandhi rules in Sanskrit work. If not please
+          request that another editor with this skill to complete this task.</p>
+        <list>
+          <item>Look for long Sanskrit chains, and add optional soft-hyphens at points where there
+            are chains that are 15+ characters long. (Note: you should have some familiarity with
+            Sanskrit to do this task, if not please ask another editor to do this part) Optional
+            soft-hyphens are created with the character code: <egXML xmlns="http://www.tei-c.org/ns/Examples">&amp;#173;</egXML>Note after you save the
+            XML these will look like regular hyphens, but if you move the blinking cursor to the
+            space just before the hyphen you will notice there is a different character code
+            displayed at the bottom of the oXygen screen.</item>
+          <item>The long Sanskrit chains can be found easily by going to Window &gt; Show View
+            &gt; XPath/XQuery Builder, then in the XPath/XQuery Builder window type the following
+            code and press the red play button:<code>//*[string-length(string()) &gt; 14 and
+              @xml:lang ='Sa-Ltn']</code> You can save this query for later by clicking on the
+            star and choosing "add to favourites."</item>
+          <item>Be careful when adding the soft hyphens as they should only be placed at certain
+            points in the words where they do not interfere with the Sanskrit rules of sandhi.
+            When adding the soft hyphens please follow the following guidelines:</item>
+          <item>
+            <label>Guidelines for adding Soft-Hyphens to Sanskrit</label>
+            <list>
+              <item>
+                <p>1. As we are not using full justification anyway, (a) most Sanskrit words don’t
+                  need hyphenation unless they are longer than 5 or 6 syllables, but (b) may be
+                  necessary for shorter words especially in text titles on the title page. I
+                  therefore tend to place soft hyphens in all of the text titles, in verse
+                  passages, in the bibliography entries, and in notes and glossary entries (which
+                  require shorter lines in general).</p>
+              </item>
+              <item>
+                <p>2. Place a soft hyphen (a) only between the words of a compound; (b) even then
+                  only when there are no changes brought about by sandhi (because putting a hyphen
+                  would logically mean undoing the sandhi, and the hyphens we’re talking about may
+                  or may not appear; and (c) avoiding confusing remnants.</p>
+                <p>A couple of examples:</p>
+                <p>Ratnagotravibhāgottaratantraśāstra would be
+                  Ratna-gotra-vibhāgottara-tantra-śāstra. If we divided the 5-syllable sequence in
+                  the middle, that would have to undo the sandhi and become -vibhāga-uttara- which
+                  only works in the presence of a hard hyphen. Theoretically we could put a hyphen
+                  at vi-bhāga, but that would risk leaving us with -gotravi- , which would be
+                  potentially confusing to read.</p>
+                <p>The maximum we could hyphenate antānantaḍṛṣṭivāsanābhisaṃdhisamuccedaka would
+                  be antānanta-ḍṛṣṭi-vāsanābhi-saṃdhi-sam-ucchedaka, because antānanta and
+                  vāsanābhi-saṃdhi would become anta-ananta and vāsana-abhi-saṃdhi. In a case like
+                  that, I would also prefer to avoid ending up with
+                  antānantaḍṛṣṭivāsanābhi-saṃdhisamuccedaka, because the abhi- really belongs with
+                  the saṃdhi; it’s a possible break but is confusing to read.</p>
+              </item>
+              <item>One resource that is helpful for determining the breaks in Sanskrit chains in
+                the online <ref target="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.html">Cologne Sanskrit Dictionary</ref>. This one is really helpful because it has a
+                drop down menu of similarly spelled words when you hit the enter key, however, I
+                think this only works when you use the <ref target="https://en.wikipedia.org/wiki/Harvard-Kyoto">Kyoto-Harvard
+                  Transliteration scheme</ref> "KH". I don't know you might try the other ones but
+                I found that this is the only one that gave the drop down list for me. Than when
+                you find a big word in the dictionary in the definition entry you will see *
+                whenever there is sandhi, though this isn't 100% reliable, sometimes it is missing
+                for some reason, so be careful if the spelling looks weird.</item>
+              <item>In certain cases there may be long 15+ Sanskrit chains that cannot be broken
+                due to the sandhi, or long Sanskrit compounds whose pieces cannot be easily
+                determined with online resources. If this is the case make a list of problematic
+                instances to note to the leading editors, also check these instances to see if the
+                pose any major difficultly for the web display. These instances are rare, but they
+                do come up now and then.</item>
+              <item>It is acceptable to add an optional hyphen at the end of "mahā-" as in
+                "mahā-yāna" even though technically the long ā would be lost as this is a well
+                known word and unlikely to be misread.</item>
+              <item>Note that when you add the optional hyphens to a glossary item where the
+                translation uses the Sanskrit (This will mainly be in the “Persons” and “Places”
+                section of the glossary) the hyphens will have to match all those instances within
+                the body of the text or they will not link to the glossary term, so it is best to
+                start from the glossary and work your way backwards. For all of these person and
+                place terms do a search and replace so that the hyphens match in all the instances
+                of that term (be cautious when doing large search-and-replaces that you don’t make
+                any unintended changes)</item>
+            </list>
+          </item>
+        </list>
+        <p>
+                    <ref target="NewODD_doc.html">return to table of contents</ref>
+                </p>
+        <p>
+                    <ref target="NewODD_doc.html#index.xml-back.1_div.1_div.5">return to checklist for 84000 TEI markup editors step 5</ref>
+                </p>
+      </div>
+      <div>
+        <head>Learning TEI/XML</head>
+        <p>If you are learning TEI or XML from the beginning, or would like to review some of that training, here are some 
+        useful places to begin:</p>
+        <list>
+          <item>
+                        <ref target="https://prezi.com/jcvxvvzecc1y/what-is-the-tei-and-why-should-i-care-a-brief-introduction-for-classicists/">
+          </ref>
+                        <lb/>
+            <p>This is an introductory slideshow explaining what TEI is.</p>
+          </item>
+          <item>
+            <ref target="http://www.ultraslavonic.info/intro-to-xml/">An Introduction to XML</ref>
+            <p>This is a basic introduction to XML.</p>
+          </item>
+          <item>
+            <ref target="http://teibyexample.org/">TEI by Example</ref>
+                        <lb/>
+            <p>This a tutorial along with interactive examples and tests. This is a good place to begin if you 
+            are just getting started.</p>
+          </item>
+          <item>
+            <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">The TEI Guidelines</ref>
+                        <lb/>
+            <p>This is the official manual on TEI and a good place to look up references, as it has all the standards
+            in one place.</p>
+          </item>
+          <item>
+            <ref target="http://www.tei-c.org/Support/Learn/tutorials.xml">Teach Yourself TEI</ref>
+                        <lb/>
+            <p>Another list of manuals and tutorials for learning TEI from the offical website.</p>
+          </item>
+          <item>
+            <ref target="https://github.com/TEIC/TEI/issues">TEI's Github, Issues Section</ref>
+                        <lb/>
+            <p>This is the TEI forum for the general TEI community. After you have some experience working with TEI,
+            this is a good place to go for any troubleshooting or issues.</p>
+          </item>
+        </list>
+      </div>
+      <div>
+        <head>GitHub</head>
+        <p>
+                    <ref target="https://github.com/84000/">84000 GitHub</ref>
+                    <lb/>
+        This is a link to the 84000 GitHub. This is where all our TEI files may be accessed, and any of our 
+        data related resources are publically available for access and discussion. 
+        </p>
+        <p>
+                    <ref target="NewODD_doc.html">return to table of contents</ref>
+                </p>
       </div>
     </back>
   </text>

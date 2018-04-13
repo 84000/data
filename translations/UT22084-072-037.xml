@@ -15,7 +15,8 @@
                supervision of 84000: Translating the Words of the Buddha </author>
          </titleStmt>
          <editionStmt>
-            <edition>v 1.01, 2018</edition>
+            <edition>v 1.1 <date>2018</date>
+                </edition>
          </editionStmt>
          <publicationStmt>
             <publisher>
@@ -40,7 +41,7 @@
             </bibl>
          </sourceDesc>
          <notesStmt>
-            <note type="lastUpdated">Last updated at 21/03/2018 at 16:04:53 by andre</note>
+            <note type="lastUpdated">Last updated at 13/04/2018 at 09:01:39 by admin</note>
          </notesStmt>
       </fileDesc>
    </teiHeader>

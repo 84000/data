@@ -22,7 +22,7 @@
                 <author role="translatorEng">Wiesiek Mical</author>
             </titleStmt>
             <editionStmt>
-                <edition> v 4.23 <date>2013 - 2016</date>
+                <edition> v 4.3 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -52,7 +52,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 17/03/2018 at 09:08:51 by john</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:54:38 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -210,9 +210,9 @@
                         discourage the Bodhisattva, but to no avail. Sad and dejected, Māra eventually gives up his disgraceful
                         attempt at creating obstacles (chap. 21). Now the stage is finally set for the Bodhisattva to attain
                         awakening under the Bodhi tree, a gradual process that unfolds throughout the night until he fully and
-                        perfectly awakens at dawn to become the Awakened One (<foreign type="term" xml:lang="Sa-Ltn">Buddha</foreign>), or Thus-gone One (<foreign type="term" xml:lang="Sa-Ltn">Tathāgata</foreign>), as
+                        perfectly awakens at dawn to become the Awakened One (<foreign type="term" xml:lang="Sa-Ltn">Buddha</foreign>), or Thus-Gone One (<foreign type="term" xml:lang="Sa-Ltn">Tathāgata</foreign>), as
                         he is known subsequent to his awakening (chap. 22). As is only suitable for such an epic achievement, the
-                        entire pantheon of divine beings now hurry to the Thus-gone One, making offerings and singing his praise
+                        entire pantheon of divine beings now hurry to the Thus-Gone One, making offerings and singing his praise
                         (chap. 23).</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-11"/>
                     <p tid="18">During the first seven weeks following his awakening, the Buddha keeps to himself and does not
@@ -299,7 +299,7 @@
                         before this text appeared in writing, as early scholarship on the sūtra has already pointed out (e.g.,
                         Winternitz 1927). This essential framework, however, was greatly developed and adorned by the sūtra’s
                         compilers/authors in order to create its current form, which Vaidya (1958) has dated to the third century
-                        C.E. Before that time, stories surrounding the life of the Buddha (and the Bodhisattva in his last and
+                        CE. Before that time, stories surrounding the life of the Buddha (and the Bodhisattva in his last and
                         previous existences) were in place in the various canons of the early Buddhist schools. However, the
                         extensive account of awakening according to the Mahāyāna perspective only manifests with the appearance of
                             <title xml:lang="en">The Play in Full</title>.</p>
@@ -307,7 +307,7 @@
                     <p tid="26">This scripture is an obvious compilation of various early sources, which have been strung together
                         and elaborated on according to the Mahāyāna worldview. As such this text is a fascinating example of the
                         ways in which the Mahāyāna rests firmly on the earlier tradition, yet reinterprets the very foundations of
-                        Buddhism in a way that fit its own vast perspective. The fact that the text is a compilation is initially
+                        Buddhism in a way that fits its own vast perspective. The fact that the text is a compilation is initially
                         evident from the mixture of prose and verse that, in some cases, contains strata from the very earliest
                         Buddhist teachings and, in other cases, presents later Buddhist themes that do not emerge—in written form
                         at least—until the first centuries of the common era. Previous scholarship on <title xml:lang="en">The
@@ -364,7 +364,7 @@
                         fourth century by Dharmarakṣa and in the seventh by Divākara.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-24"/>
                     <p tid="31">We also have a very beautiful and accurate Tibetan translation of the text. This was produced in
-                        the ninth century C.E. during the early period of translation, which attests to the text’s popularity and
+                        the ninth century CE during the early period of translation, which attests to the text’s popularity and
                         perceived importance at the time. This is the text that we have translated here. Once the text was
                         available in a Tibetan translation, it quickly became the primary source for recounting the Buddha’s
                         attainment of awakening and, unlike many other sūtras, <title xml:lang="en">The Play in Full</title>
@@ -376,7 +376,7 @@
                         when Alexander Csoma de Koros gave a summary in his <title xml:lang="en">Analysis of the Mdo</title>
                         (Calcutta, pp. 288-296). Eugène Burnouf also mentioned this text in his <title xml:lang="fr">Introduction
                             à l'histoire du Bouddhisme Indien</title> published in 1844. The first efforts toward a translation of
-                            <title xml:lang="en">The Play in Full</title> did, however, not occur until 1874 when Salomon Lefmann
+                        <title xml:lang="en">The Play in Full</title> did not occur, however, until 1874 when Salomon Lefmann
                         published a Sanskrit edition of the text, as well as a partial translation into German. Shortly thereafter
                         further translations appeared, including an English translation by R. L. Mitra in 1875, and most
                         influentially a full French translation by Édouard Foucaux in 1892. Almost a hundred years later,
@@ -478,7 +478,7 @@
                         absorption, the ray of light known as <distinct>the light of wisdom‌ free from attachment that arouses the
                             memory of the buddhas of times past</distinct> shone forth from the protuberance on the crown of his
                         head. Illuminating all the pure realms, the light attracted Maheśvara and innumerable other gods. From the
-                        mass of light that radiated from the Thus-gone One, the following verses of exhortation arose: </p>
+                        mass of light that radiated from the Thus-Gone One, the following verses of exhortation arose: </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-35"/>
                     <lg tid="47">
                         <l>“Come commune with the Sage, the Lion of the Śākyas.</l>
@@ -549,7 +549,7 @@
                         Unnata, Puṣpita, Ūrṇatejas, Puṣkara, Suraśmi, Maṅgala, Sudarśana, Mahā­siṃha­tejas, Sthita­buddhi­datta,
                         Vasanta­gandhin, Satya­dharma­vipula­kīrti, Tiṣya, Puṣya, Lokasundara, Vistīrṇabheda, Ratnakīrti,
                         Ugratejas, Brahmatejas, Sughoṣa, Supuṣpa, Sumanojñaghoṣa, Suceṣṭarūpa, Prahasitanetra, Guṇarāśi,
-                        Meghasvara, Sundaravarṇa, Āyustejas, Salīlagajagāmin, Lokābhilāṣita, Jitaśatru, Sampūjita, <ref cRef="F.4.b"/> Vipaśyin, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, and the Thus-gone One, the Worthy
+                        Meghasvara, Sundaravarṇa, Āyustejas, Salīlagajagāmin, Lokābhilāṣita, Jitaśatru, Sampūjita, <ref cRef="F.4.b"/> Vipaśyin, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, and the Thus-Gone One, the Worthy
                         One, the perfectly and completely awakened Kāśyapa.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-44"/>
                     <p tid="56">“Blessed One, please teach this now to benefit the multitude of beings. Teach it to bring them
@@ -2200,7 +2200,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-244"/>
                     <lg tid="274">
-                        <l>“Whoever wishes to make offerings to the Thus-gone One,</l>
+                        <l>“Whoever wishes to make offerings to the Thus-Gone One,</l>
                         <l>And listen to the Dharma from that lord of compassion,</l>
                         <l>And attain the qualities of the saṅgha,</l>
                         <l>Let him follow this ocean of qualities.</l>
@@ -2867,7 +2867,7 @@
                         human body inside his mother’s womb?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-334"/>
                     <p tid="381">Then at that time, by the power of the Buddha, venerable Ānanda asked the Blessed One: “O Blessed
-                        One, the Thus-gone One has taught how the female body is inferior and enjoys desire. That was astonishing.
+                        One, the Thus-Gone One has taught how the female body is inferior and enjoys desire. That was astonishing.
                         But, Blessed One, it is even more astonishing that when you, who are superior to all worlds, were a
                         bodhisattva in the past, you moved from the divine realm of the Heaven of Joy and entered your mother,
                         remaining in a human body on the right side of the womb! <ref cRef="F.34.b"/> Blessed One, you have
@@ -2877,7 +2877,7 @@
                         Bodhisattva delighted in? The one that became the Bodhisattva’s delight as he stayed in his mother’s
                         womb?”</p>
                     <p tid="383">Ānanda replied, “Yes please, Blessed One, right away. Bliss-Gone One, now would be a perfect
-                        time! If the Thus-gone One should reveal the Bodhisattva’s delight, it would be a great pleasure to
+                        time! If the Thus-Gone One should reveal the Bodhisattva’s delight, it would be a great pleasure to
                         witness it.” [61]</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-336"/>
                     <p tid="384">Then, through the Blessed One’s doing, Brahmā, lord of the Sahā World, disappeared from the
@@ -2931,7 +2931,7 @@
                         Blessed One and delight him.”</p>
                     <p tid="401">Thus they stood aside, turned their heads, and gazed intently at the Blessed One. [63] Suddenly
                         Brahmā, lord of the Sahā World, arrived together with 84 trillion gods, carrying the jeweled structure
-                        that had delighted the Bodhisattva and bringing it in front of the Thus-gone One.</p>
+                        that had delighted the Bodhisattva and bringing it in front of the Thus-Gone One.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-340"/>
                     <p tid="402">The jeweled structure that had delighted the Bodhisattva was finely shaped, exquisite and
                         beautiful to behold. It was square in form and had four pillars. At the top was a beautifully adorned
@@ -2939,7 +2939,7 @@
                         area that was likewise scaled to fit a six-month-old fetus.</p>
                     <p tid="403">There is nothing whatsoever in the world, including the realms of gods and Brahma gods, that is
                         similar in color and shape to the jeweled structure that delighted the Bodhisattva. When the gods saw it,
-                        their eyes were dazzled and they were amazed. When it was placed in the presence of the Thus-gone One, it
+                        their eyes were dazzled and they were amazed. When it was placed in the presence of the Thus-Gone One, it
                         gleamed, radiated heat, and shone brightly. This multistoried structure was as resplendent as gold that
                         has been smelted twice by an expert goldsmith <ref cRef="F.36.a"/> so that it has become perfectly refined
                         and free from any impurity.</p>
@@ -3572,7 +3572,7 @@
                     <p tid="494">Venerable Ānanda now stood up from his seat, removed his robe from one shoulder, and kneeled,
                         placing his right knee on the ground. He joined his palms in the direction of the Blessed One, bowed, and
                         supplicated him with these words:</p>
-                    <p tid="495">“The Blessed One, the Thus-gone One, is truly more amazing than anyone else. The Bodhisattva
+                    <p tid="495">“The Blessed One, the Thus-Gone One, is truly more amazing than anyone else. The Bodhisattva
                         possessed incredible qualities, but how much more so the One Who Has Awakened to Perfect and Complete
                         Buddhahood? O Blessed One, I therefore take refuge in Lord Buddha four times, five times, ten times, fifty
                         times, a hundred times, or rather many hundreds of thousands of times!”</p>
@@ -3593,13 +3593,13 @@
                         are not begotten from unclean fluids. Monks, such sublime beings enter into and abide in the womb in the
                         finest manner. [88] It is due to their love and compassion for sentient beings that bodhisattvas are born
                         into the world of humans, since gods do not turn the wheel of Dharma. Why is this? Ānanda, it is because
-                        beings would otherwise have been discouraged, thinking, ‘The Blessed One, the Thus-gone One, the Worthy
+                        beings would otherwise have been discouraged, thinking, ‘The Blessed One, the Thus-Gone One, the Worthy
                         One, the completely perfect Buddha is a god. We are just human beings, so we are not able to achieve that
                         state.’</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-417"/>
                     <p tid="499">“It will not occur to these foolish beings, such thieves of the Dharma, to think, ‘This being is
                         inconceivable and we cannot judge him.’ Ānanda, these future people will also not believe in the Buddha’s
-                        miracles, let alone the miracles displayed by the Thus-gone Bodhisattva. Ānanda, these foolish beings will
+                        miracles, let alone the miracles displayed by the Thus-Gone Bodhisattva. Ānanda, these foolish beings will
                         be overcome with desire for wealth, respect, and praise. They will sink into filth and be overcome with
                         their lust for honor. In this way these impertinent beings will abandon the Buddha’s teachings. Just
                         consider how much nonvirtue they will accumulate!” <ref cRef="B5" type="bampo"/>
@@ -3644,14 +3644,14 @@
                         some beings are pleased and delighted to hear me, but not to see me. Some, Ānanda, are pleased and
                         delighted to see me, but not to hear me. Still others, Ānanda, are pleased and delighted both to see me
                         and to hear me. Ānanda, whatever the case, when beings are pleased and delighted to see me or hear me, you
-                        can be certain that they are friends who have accompanied me for multiple lifetimes. The Thus-gone One
-                        sees them, and the Thus-gone One will liberate them. They have the same qualities as the Thus-gone One.
-                        They have gone for refuge in the Thus-gone One. The Thus-gone One has accepted them.</p>
+                        can be certain that they are friends who have accompanied me for multiple lifetimes. The Thus-Gone One
+                        sees them, and the Thus-Gone One will liberate them. They have the same qualities as the Thus-Gone One.
+                        They have gone for refuge in the Thus-Gone One. The Thus-Gone One has accepted them.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-423"/>
                     <p tid="508">“Ānanda, even during earlier times when I was practicing the conduct of a bodhisattva, <ref cRef="F.49.b"/> others came to see me, desperate and bound by fear, begging me to protect them from
                         their fears, which I did. So now that I have awakened to perfect and complete buddhahood, I will certainly
-                        do the same. Ānanda, strive in faith; the Thus-gone One urges you thus! Ānanda, the task before you has
-                        already been completed by the Thus-gone One. The Thus-gone One has pulled out the thorn of pride.</p>
+                        do the same. Ānanda, strive in faith; the Thus-Gone One urges you thus! Ānanda, the task before you has
+                        already been completed by the Thus-Gone One. The Thus-Gone One has pulled out the thorn of pride.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-424"/>
                     <p tid="509">“Ānanda, if a person is willing to travel for hundreds of miles just to receive news of a friend
                         and is delighted to hear that news, then how about if they actually meet their friend? Whoever relies on
@@ -3667,9 +3667,9 @@
                     <p tid="511">“Ānanda, think of this example: Consider a man who is strong and well-regarded but has only one
                         son. Now, if that father has many friends, then even if he should pass away, the friends of the father
                         will still accept the son and not reject him. Ānanda, in the same way, whoever has faith in me, I will
-                        accept as my friend. They will take refuge in me. The Thus-gone One has many friends. <ref cRef="F.50.a"/>
-                        And because those friends of the Thus-gone One speak genuinely and tell no lies, I entrust those friends
-                        of the Thus-gone One to those who speak the truth—the future thus-gone ones, the worthy ones, the
+                        accept as my friend. They will take refuge in me. The Thus-Gone One has many friends. <ref cRef="F.50.a"/>
+                        And because those friends of the Thus-Gone One speak genuinely and tell no lies, I entrust those friends
+                        of the Thus-Gone One to those who speak the truth—the future thus-gone ones, the worthy ones, the
                         completely perfect buddhas. Therefore, Ānanda, strive to have faith! That is what I ask of you!”</p>
                     <p tid="512">Thus, monks, when the Bodhisattva was born, many trillions of goddesses resting in the center of
                         the sky showered divine flowers, incense, garlands, scented oils, cloths, and jewels upon Māyādevī.</p>
@@ -6011,7 +6011,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-697"/>
                     <lg tid="907">
                         <l>“The many beings afflicted by anger and blemished by hate</l>
-                        <l>Must be embraced by your love, Thus-gone One.</l>
+                        <l>Must be embraced by your love, Thus-Gone One.</l>
                         <l>Those who are lost and without any qualities of goodness</l>
                         <l>And the many unskillful ones must all feel your compassion.</l>
                     </lg>
@@ -6275,7 +6275,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-733"/>
                     <lg tid="943">
-                        <l>“Thus-gone One, for many eons you have practiced discipline.</l>
+                        <l>“Thus-Gone One, for many eons you have practiced discipline.</l>
                         <l>Like a stainless jewel, your discipline has been pure;</l>
                         <l>Like a female yak that protects her calf, you have guarded your discipline.</l>
                         <l>Since you delight in discipline, you have done so much to benefit beings.</l>
@@ -11437,7 +11437,7 @@
                         phenomena.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1408"/>
                     <p tid="1784">In the eastern direction this light encouraged the bodhisattva, the great being, Lalitavyūha,
-                        who resided in the Vimala world in the Thus-gone One Vimala­prabhāsa’s buddha realm. Surrounded and
+                        who resided in the Vimala world in the Thus-Gone One Vimala­prabhāsa’s buddha realm. Surrounded and
                         escorted by an infinite number of bodhisattvas, he proceeded to the seat of awakening where the
                         Bodhisattva was sitting. As a way to venerate the Bodhisattva, he produced a miraculous manifestation
                         whereby he was able to display all the buddha realms, in all directions to the end of space, as a single
@@ -11456,7 +11456,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1411"/>
                     <p tid="1787">In the southern direction, the light encouraged the bodhisattva, the great being,
-                        Ratnacchattra­kūṭa­saṃdarśana, who resided in the world Ratnavyūhā of the Thus-gone One Ratnārcis’ buddha
+                        Ratnacchattra­kūṭa­saṃdarśana, who resided in the world Ratnavyūhā of the Thus-Gone One Ratnārcis’ buddha
                         realm. Surrounded and escorted by an infinite number of bodhisattvas, he proceeded to the seat of
                         awakening where the Bodhisattva was sitting. As a way to venerate the Bodhisattva, he sheltered the entire
                         area with a single jewel parasol.</p>
@@ -11472,7 +11472,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1413"/>
                     <p tid="1790">In the western direction, the light encouraged the bodhisattva, the great being, Indrajālin, who
-                        resided in the Campakavarṇā world of the Thus-gone One Puṣpāvali Vanarāji Kusumitābhijña’s buddha realm.
+                        resided in the Campakavarṇā world of the Thus-Gone One Puṣpāvali Vanarāji Kusumitābhijña’s buddha realm.
                             <ref cRef="F.144.a"/> Surrounded and escorted by an infinite number of bodhisattvas, he proceeded to
                         the seat of awakening where the Bodhisattva was sitting. As a way to venerate the Bodhisattva, he
                         sheltered the entire area with a single jewel canopy.</p>
@@ -11487,7 +11487,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1415"/>
                     <p tid="1793">In the northern direction, the light encouraged the bodhisattva, the great being, Vyūharāja, who
-                        resided in the Sūryāvartā world of the Thus-gone One Candra­sūrya­jihmī­kara­prabha’s buddha realm.
+                        resided in the Sūryāvartā world of the Thus-Gone One Candra­sūrya­jihmī­kara­prabha’s buddha realm.
                         Surrounded and escorted by an infinite number of bodhisattvas, he proceeded to the seat of awakening where
                         the Bodhisattva was sitting. As a way to venerate the Bodhisattva, he revealed within the courtyard the
                         complete displays of qualities of all buddha realms contained in all the worlds in the ten directions.</p>
@@ -11503,7 +11503,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1417"/>
                     <p tid="1796">In the southeastern direction, the light encouraged the bodhisattva, the great being, Guṇamati,
-                        who resided in the Guṇākarā world of the Thus-gone One Guṇa­rāja­prabhāsa’s buddha realm. Surrounded and
+                        who resided in the Guṇākarā world of the Thus-Gone One Guṇa­rāja­prabhāsa’s buddha realm. Surrounded and
                         escorted by an infinite number of bodhisattvas, he proceeded to the seat of awakening where the
                         Bodhisattva was sitting. [293] As a way to venerate the Bodhisattva, he miraculously emanated within the
                         sacred area a multistoried palace endowed with all perfect qualities.</p>
@@ -11518,7 +11518,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1419"/>
                     <p tid="1799">Then, in the southwestern direction, the light encouraged the bodhisattva, the great being
-                        Ratnasambhava, who resided in the Ratnasambhava world of the Thus-gone One Ratnayaṣti’s buddha realm.
+                        Ratnasambhava, who resided in the Ratnasambhava world of the Thus-Gone One Ratnayaṣti’s buddha realm.
                         Surrounded and escorted by an infinite number of bodhisattvas, he proceeded to the seat of awakening where
                         the Bodhisattva was sitting. As a way to venerate the Bodhisattva, he emanated within the sacred area a
                         limitless and boundless number of pavilions made of precious stones. Then from these celestial pavilions,
@@ -11532,7 +11532,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1421"/>
                     <p tid="1801">Then, in the northwestern direction, the light encouraged the bodhisattva, the great being,
-                        Megha­kūṭābhigarjitasvara, who resided in the Meghavatī world of the Thus-gone One Megharāja’s buddha
+                        Megha­kūṭābhigarjitasvara, who resided in the Meghavatī world of the Thus-Gone One Megharāja’s buddha
                         realm. <ref cRef="F.145.a"/> Surrounded and escorted by an infinite number of bodhisattvas, he proceeded
                         to the seat of awakening where the Bodhisattva was sitting. [294] As a way to venerate the Bodhisattva, he
                         manifested a cloud of gum benjamin and aloe wood above the sacred area and caused a rain of sandalwood
@@ -11550,7 +11550,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1423"/>
                     <p tid="1803">Then, in the northeastern direction, the light encouraged the bodhisattva, the great being,
-                        Hema­jālālaṃkṛta, who resided in the Hema­jāla­pratichannā world of the Thus-gone One
+                        Hema­jālālaṃkṛta, who resided in the Hema­jāla­pratichannā world of the Thus-Gone One
                         Ratnacchatrābhyudgatāvabhāsa’s buddha realm. Surrounded and escorted by an infinite number of
                         bodhisattvas, he proceeded to the seat of awakening where the Bodhisattva was sitting. As a way to
                         venerate the Bodhisattva, he emanated appearances of bodhisattvas, each adorned with the thirty-two marks,
@@ -11567,7 +11567,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1425"/>
                     <p tid="1805">In the quarter down below, the light encouraged the bodhisattva, the great being, Ratnagarbha,
-                        who resided in the Samanta­vilokitā world of the Thus-gone One Samantadarśin’s buddha realm. Surrounded
+                        who resided in the Samanta­vilokitā world of the Thus-Gone One Samantadarśin’s buddha realm. Surrounded
                         and escorted by an infinite number of bodhisattvas, he proceeded to the seat of awakening where the
                         Bodhisattva was sitting. [295] As a way to venerate the Bodhisattva, he displayed lotuses made of gold
                         from the Jambū River within the beryl maṇḍala. At the center of the lotuses, one could see the upper body
@@ -11584,7 +11584,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1427"/>
                     <p tid="1807">In the quarter above, the light encouraged the bodhisattva, the great being, Gagaṇagañja, who
-                        resided in the Varagaṇā world of the Thus-gone One Gaṇendra’s buddha realm. Surrounded and escorted by an
+                        resided in the Varagaṇā world of the Thus-Gone One Gaṇendra’s buddha realm. Surrounded and escorted by an
                         infinite number of bodhisattvas, he proceeded to the seat of awakening where the Bodhisattva was sitting.
                         As a way to venerate the Bodhisattva, he stood in the middle of the sky and brought down a rain of objects
                         never before seen or heard of in any of the buddha realms in the ten directions. It rained down many types
@@ -13952,7 +13952,7 @@
                     <p tid="2187">But just then, some gods who had seen buddhas before came together and told the others,
                         “Friends, since perfect and complete buddhas of the past all produced and manifested a sign, do not toss
                         flowers until the Blessed One has made a sign.”</p>
-                    <p tid="2188">Monks, the Thus-gone One knew that the gods were in doubt, so he ascended into the sky to the
+                    <p tid="2188">Monks, the Thus-Gone One knew that the gods were in doubt, so he ascended into the sky to the
                         height of seven palm trees, and while seated there he uttered this phrase of exultation:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1722"/>
                     <lg tid="2189">
@@ -13962,10 +13962,10 @@
                         <l>The path, now ended, I travel no longer.</l>
                         <l>This is called <distinct>the end of suffering</distinct>!”</l>
                     </lg>
-                    <p tid="2190">The gods thus strewed the Thus-gone One with celestial flowers, <ref cRef="F.169.a"/> piling
+                    <p tid="2190">The gods thus strewed the Thus-Gone One with celestial flowers, <ref cRef="F.169.a"/> piling
                         them up to his knees.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1723"/>
-                    <p tid="2191">Monks, when the Thus-gone One reached complete awakening in this manner, a thick darkness was
+                    <p tid="2191">Monks, when the Thus-Gone One reached complete awakening in this manner, a thick darkness was
                         lifted, craving was purified, beliefs were eradicated, the afflictions were rattled, the splinter was
                         removed, the knot was untied, the flag of pride was brought down, the flag of righteousness was lifted,
                         latent formations were uprooted, the suchness of phenomena became known, the absolute was comprehended,
@@ -13980,7 +13980,7 @@
                         from the comprehension of the realm of phenomena.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1724"/>
-                    <p tid="2192">Monks, the Thus-gone One abided on the seat of awakening for the first seven days, reflecting,
+                    <p tid="2192">Monks, the Thus-Gone One abided on the seat of awakening for the first seven days, reflecting,
                         “Here I have brought an end to the suffering of birth, old age, and death, which has been happening since
                         time immemorial.” <ref cRef="B15" type="bampo"/>
                     </p>
@@ -13991,7 +13991,7 @@
                     <p tid="2194">All the worlds throughout the ten directions shook in six ways: they quivered, trembled, and
                         quaked, wobbled, rocked, and swayed; they vibrated, shuddered, and reeled, rattled, shook, and convulsed;
                         they clattered, rattled, and clanged, boomed, thundered, and roared.</p>
-                    <p tid="2195">All the buddhas offered congratulations to the Thus-gone One for reaching perfect and complete
+                    <p tid="2195">All the buddhas offered congratulations to the Thus-Gone One for reaching perfect and complete
                         awakening and conferred upon him religious gifts. With these religious gifts, this trichiliocosm became
                         covered with a jewel parasol, and from that jewel parasol issued forth a network of light rays, which
                         illuminated the immeasurable and innumerable worlds throughout the ten directions.</p>
@@ -14041,7 +14041,7 @@
                         <l>We are just like butter and clarified butter.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1731"/>
-                    <p tid="2204">Then the goddesses of the desire realm perceived that the Thus-gone One on the seat of awakening
+                    <p tid="2204">Then the goddesses of the desire realm perceived that the Thus-Gone One on the seat of awakening
                         had attained higher knowledge, fulfilled his purpose, and become victorious in battle. He had vanquished
                         the demonic opponents, raised parasols, standards, and flags, and become a hero, a supreme victor, a man,
                         a great man, a supreme physician, and a great remover of thorns. Like a lion, he was fearless and without
@@ -14053,7 +14053,7 @@
                         had eradicated afflictions, a hero since he did not let the banner fall, a powerhouse since he was endowed
                         with the ten powers, a jewel mine since he was replete with all the gems of the Dharma.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1732"/>
-                    <p tid="2205">Knowing this, the goddesses approached the seat of awakening and praised the Thus-gone One with
+                    <p tid="2205">Knowing this, the goddesses approached the seat of awakening and praised the Thus-Gone One with
                         these verses:</p>
                     <lg tid="2206">
                         <l>“Having defeated the demon hordes</l>
@@ -14220,7 +14220,7 @@
                     <lg tid="2229">
                         <l>Extending his hand, he said to the bodhisattvas:</l>
                         <l>“Respect has been paid, thus return to your own places.”</l>
-                        <l>All of them bowed to the feet of the Thus-gone One</l>
+                        <l>All of them bowed to the feet of the Thus-Gone One</l>
                         <l>And returned to their own abodes, in magnificent arrays.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1756"/>
@@ -14231,7 +14231,7 @@
                         <l>“May we vanquish Māra and his horde, and thus reach the deathless state.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1757"/>
-                    <p tid="2231">Monks, even while the Thus-gone One reached perfect and complete awakening seated on his lion’s
+                    <p tid="2231">Monks, even while the Thus-Gone One reached perfect and complete awakening seated on his lion’s
                         throne at the trunk of the tree of awakening, he simultaneously manifested such innumerable displays of
                         awakened playful activity that they would not be easy to reveal even in an eon. <ref cRef="F.171.b"/>
                     </p>
@@ -14279,7 +14279,7 @@
                     <head type="chapter">Chapter 23</head>
                     <head type="chapterTitle">Exaltation</head>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1763"/>
-                    <p tid="2238">Then the gods from the pure abodes circumambulated the Thus-gone One, who sat at the seat of
+                    <p tid="2238">Then the gods from the pure abodes circumambulated the Thus-Gone One, who sat at the seat of
                         awakening. They showered him with a rain of divine sandalwood powder and praised him with these fitting
                         verses: [358]</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1764"/>
@@ -14360,11 +14360,11 @@
                         <l>Donations to them will not diminish,</l>
                         <l>But become causes for all beings to reach nirvāṇa!” [359]</l>
                     </lg>
-                    <p tid="2250">Monks, once the gods from the realm of the pure abode had praised the Thus-gone One in this
-                        manner, they prostrated to the Thus-gone One with palms joined and stood to one side.</p>
+                    <p tid="2250">Monks, once the gods from the realm of the pure abode had praised the Thus-Gone One in this
+                        manner, they prostrated to the Thus-Gone One with palms joined and stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1775"/>
-                    <p tid="2251">Monks, then the luminous gods paid homage to the Thus-gone One sitting at the seat of awakening
+                    <p tid="2251">Monks, then the luminous gods paid homage to the Thus-Gone One sitting at the seat of awakening
                         with a plethora of flowers, incense, perfumes, garlands, unguents, parasols, standards, and flags. When
                         the offerings had been made, they circumambulated him three times and then praised him with these
                         verses:</p>
@@ -14397,11 +14397,11 @@
                         <l>Like a vajra your pledge is unwavering!</l>
                         <l>Like the moon you are replete with the best of all qualities!”</l>
                     </lg>
-                    <p tid="2256">Monks, once the luminous gods had praised the Thus-gone One so, they bowed to him with palms
+                    <p tid="2256">Monks, once the luminous gods had praised the Thus-Gone One so, they bowed to him with palms
                         joined and stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1780"/>
-                    <p tid="2257">Then the gods from the Brahma realm, led by the son of gods, Subrahman, covered the Thus-gone
+                    <p tid="2257">Then the gods from the Brahma realm, led by the son of gods, Subrahman, covered the Thus-Gone
                         One sitting at the seat of awakening with a jewel net studded with many trillions of gems. They
                         circumambulated him three times, then praised him with these fitting verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1781"/>
@@ -14439,13 +14439,13 @@
                         <l>And then you attained the deathless supreme state.</l>
                         <l>Vanquisher of the Villainous Hordes, to you we pay homage!”</l>
                     </lg>
-                    <p tid="2263">Monks, once the gods of the Brahma realm, led by the god Subrahman, had praised the Thus-gone
+                    <p tid="2263">Monks, once the gods of the Brahma realm, led by the god Subrahman, had praised the Thus-Gone
                         One with these verses, <ref cRef="F.173.a"/> they bowed to him with palms joined and stood to one
                         side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1786"/>
-                    <p tid="2264">Then those sons of Māra who were on the side of righteousness approached the Thus-gone One and
-                        covered him with giant jewel parasols and canopies. Then with palms joined, they praised the Thus-gone One
+                    <p tid="2264">Then those sons of Māra who were on the side of righteousness approached the Thus-Gone One and
+                        covered him with giant jewel parasols and canopies. Then with palms joined, they praised the Thus-Gone One
                         with these fitting verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1787"/>
                     <lg tid="2265">
@@ -14483,12 +14483,12 @@
                         <l>May we defeat the demon hordes and awaken to omniscience!” <ref cRef="F.173.b"/>
                         </l>
                     </lg>
-                    <p tid="2270">Monks, once the sons of Māra had praised the Thus-gone One in this manner, with palms joined
-                        they bowed to the Thus-gone One and stood to one side.</p>
+                    <p tid="2270">Monks, once the sons of Māra had praised the Thus-Gone One in this manner, with palms joined
+                        they bowed to the Thus-Gone One and stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1792"/>
                     <p tid="2271">Then a god from the Heaven of Making Use of Others’ Emanations, surrounded and escorted by
-                        millions of gods, sprinkled the Thus-gone One with golden lotuses from the Jambū River. Then, in his
+                        millions of gods, sprinkled the Thus-Gone One with golden lotuses from the Jambū River. Then, in his
                         presence, they praised him with these verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1793"/>
                     <lg tid="2272">
@@ -14526,12 +14526,12 @@
                         <l>You are the protector, the refuge, the only resort of beings here!”</l>
                     </lg>
                     <p tid="2277">Monks, once the gods from the Heaven of Making Use of Others’ Emanations, led by the god in
-                        charge, had praised the Thus-gone One, with palms joined they bowed to him and stood to one side. <ref cRef="F.174.a"/>
+                        charge, had praised the Thus-Gone One, with palms joined they bowed to him and stood to one side. <ref cRef="F.174.a"/>
                     </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1798"/>
                     <p tid="2278">Next the god Sunirmita, surrounded and escorted by an assembly of gods from the Heaven of
-                        Delighting in Emanations, covered the Thus-gone One with ribbons of silk studded with various gemstones,
+                        Delighting in Emanations, covered the Thus-Gone One with ribbons of silk studded with various gemstones,
                         and in his presence praised him with these verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1799"/>
                     <lg tid="2279">
@@ -14569,12 +14569,12 @@
                         <l>O Sage, you understand, according to intellect, who is a fitting vessel and who is not!</l>
                         <l>To you, unique in the trichiliocosm and honored in heavens and on earth, we pay homage!”</l>
                     </lg>
-                    <p tid="2284">Monks, once the god Sunirmita and his entourage had praised the Thus-gone One, with palms joined
-                        they bowed down to the Thus-gone One and sat to one side.</p>
+                    <p tid="2284">Monks, once the god Sunirmita and his entourage had praised the Thus-Gone One, with palms joined
+                        they bowed down to the Thus-Gone One and sat to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1804"/>
-                    <p tid="2285">Next the god Santuṣita, along with other gods from the Heaven of Joy, approached the Thus-gone
-                        One as he sat at the seat of awakening and draped him with a vast patchwork of divine garments. <ref cRef="F.174.b"/> [364] Then he praised the Thus-gone One in his presence with these verses:</p>
+                    <p tid="2285">Next the god Santuṣita, along with other gods from the Heaven of Joy, approached the Thus-Gone
+                        One as he sat at the seat of awakening and draped him with a vast patchwork of divine garments. <ref cRef="F.174.b"/> [364] Then he praised the Thus-Gone One in his presence with these verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1805"/>
                     <lg tid="2286">
                         <l>“When you were dwelling in the Heaven of Joy, you taught the Dharma liberally.</l>
@@ -14596,19 +14596,19 @@
                         <l>May you make haste to turn the wheel in detail!</l>
                         <l>May you liberate those thousands of creatures from existence!”</l>
                     </lg>
-                    <p tid="2289">Monks, once the god Santuṣita and his entourage had praised the Thus-gone One, with palms joined
+                    <p tid="2289">Monks, once the god Santuṣita and his entourage had praised the Thus-Gone One, with palms joined
                         they bowed to him and sat to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1808"/>
                     <p tid="2290">Then the gods from the Heaven Free from Strife, led by the god Suyāma, went to where the
-                        Thus-gone One was seated. When they arrived, they worshiped the Thus-gone One sitting at the seat of
+                        Thus-Gone One was seated. When they arrived, they worshiped the Thus-Gone One sitting at the seat of
                         awakening with a plethora of flowers, incense, garlands, perfumes, and unguents, and in his presence they
                         praised him with these fitting verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1809"/>
                     <lg tid="2291">
                         <l>“Who is superior to you, you who are without equal</l>
                         <l>In discipline, absorption, and insight?</l>
-                        <l>To you, Thus-gone One, adept in inclinations and liberation,</l>
+                        <l>To you, Thus-Gone One, adept in inclinations and liberation,</l>
                         <l>We pay homage with our heads bowed!</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1810"/>
@@ -14638,14 +14638,14 @@
                         <l>“Praising you for an eon</l>
                         <l>Will not even cover the pores of your body.</l>
                         <l>Ocean of Good Qualities, renowned throughout the world,</l>
-                        <l>To you, Thus-gone One, we pay homage with our heads bowed!”</l>
+                        <l>To you, Thus-Gone One, we pay homage with our heads bowed!”</l>
                     </lg>
-                    <p tid="2296">Once the gods from the Heaven Free from Strife, led by the god Suyāma, had praised the Thus-gone
-                        One, with palms joined they bowed to the Thus-gone One and then stood to one side.</p>
+                    <p tid="2296">Once the gods from the Heaven Free from Strife, led by the god Suyāma, had praised the Thus-Gone
+                        One, with palms joined they bowed to the Thus-Gone One and then stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1814"/>
                     <p tid="2297">Then Śakra, lord of the gods, together with the gods from the Heaven of the Thirty-Three, paid
-                        homage to the Thus-gone One with a display of flowers, incense, garlands, unguents, parasols, standards,
+                        homage to the Thus-Gone One with a display of flowers, incense, garlands, unguents, parasols, standards,
                         and flags, then praised him with these verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1815"/>
                     <lg tid="2298">
@@ -14685,14 +14685,14 @@
                         <l>Thus, Sublime Being in the World, Self-Arisen One, you are a field of merit for beings.”</l>
                     </lg>
                     <p tid="2303">Monks, once Śakra, lord of the gods, together with the gods from the Heaven of the Thirty-Three,
-                        had praised the Thus-gone One, with palms joined they bowed to the Thus-gone One and sat to one side.</p>
+                        had praised the Thus-Gone One, with palms joined they bowed to the Thus-Gone One and sat to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1820"/>
                     <p tid="2304">Next the four great kings, together with the gods from the Heaven of the Four Great Kings, went
-                        to the place where the Thus-gone One was. When they arrived, they paid homage to him. Hundreds of
+                        to the place where the Thus-Gone One was. When they arrived, they paid homage to him. Hundreds of
                         thousands of gods surrounded him, holding garlands and bouquets of abhimuktaka flowers, campaka flowers,
                         jasmine flowers, nutmeg blossoms, and dhānuṣkāri flowers. Hundreds of thousands of celestial maidens
-                        surrounded him, singing divine songs. Thereafter they all praised the Thus-gone One with these fitting
+                        surrounded him, singing divine songs. Thereafter they all praised the Thus-Gone One with these fitting
                         verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1821"/>
                     <lg tid="2305">
@@ -14730,11 +14730,11 @@
                         <l>You will bestow your Dharma throughout the whole world!”</l>
                     </lg>
                     <p tid="2310">Once the gods of the Heaven of the Four Great Kings, led foremost by the four great kings
-                        themselves, had praised the Thus-gone One in repose at the seat of awakening, they joined palms and bowed
-                        to the Thus-gone One and stood to one side.</p>
+                        themselves, had praised the Thus-Gone One in repose at the seat of awakening, they joined palms and bowed
+                        to the Thus-Gone One and stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1826"/>
-                    <p tid="2311">Then the gods of the sky approached the Thus-gone One. As a way of paying homage to the Perfect
+                    <p tid="2311">Then the gods of the sky approached the Thus-Gone One. As a way of paying homage to the Perfect
                         and Completely Awakened One, the gods adorned the whole sky with a net of jewels and small bells. They
                         offered him jewel parasols, jewel banners, jewel and silk brocade wreaths, ornate jewel earrings, flower
                         wreaths, and pearl strands of various types held by gods who revealed the upper half of their bodies, as
@@ -14776,13 +14776,13 @@
                         <l>They pay homage to you, Supreme Biped,</l>
                         <l>But you are neither proud nor overwhelmed.” [368]</l>
                     </lg>
-                    <p tid="2317">Once the gods of the sky had so praised the Thus-gone One in repose at the seat of awakening,
+                    <p tid="2317">Once the gods of the sky had so praised the Thus-Gone One in repose at the seat of awakening,
                         they joined palms and bowed to him and stood to one side.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1832"/>
-                    <p tid="2318">Then the terrestrial gods, in order to pay homage to the Thus-gone One, cleansed and anointed
+                    <p tid="2318">Then the terrestrial gods, in order to pay homage to the Thus-Gone One, cleansed and anointed
                         the entire surface of the earth, sprinkled it with perfumed water, strewed it with flowers, covered it
-                        with canopies of various dyed fabrics, and then offered it to the Thus-gone One. Thereafter they praised
+                        with canopies of various dyed fabrics, and then offered it to the Thus-Gone One. Thereafter they praised
                         him with these verses:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1833"/>
                     <lg tid="2319">
@@ -14819,7 +14819,7 @@
                         <l>Shall preach or listen to the Dharma,</l>
                         <l>We dedicate all the roots of virtue for the sake of awakening!”</l>
                     </lg>
-                    <p tid="2324">Once the terrestrial gods had praised in this manner the Thus-gone One sitting in repose at the
+                    <p tid="2324">Once the terrestrial gods had praised in this manner the Thus-Gone One sitting in repose at the
                         seat of awakening, they bowed to him with palms joined and stood to one side.</p>
                     <trailer tid="3093"> This concludes the twenty-third chapter, on exaltation. <ref cRef="F.177.a"/>
                     </trailer>
@@ -14828,33 +14828,33 @@
                     <head type="chapter">Chapter 24</head>
                     <head type="chapterTitle">Trapuṣa and Bhallika</head>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1838"/>
-                    <p tid="2325">Monks, while the Thus-gone One was being praised by the gods after he had reached perfect and
+                    <p tid="2325">Monks, while the Thus-Gone One was being praised by the gods after he had reached perfect and
                         complete awakening, he stared at the king of trees without blinking and without getting out of his
                         cross-legged position. Seven days passed in this way while he was at the foot of the Bodhi tree
                         experiencing bliss from the sustenance of concentration and joy.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1839"/>
-                    <p tid="2326">Then, once the seven days had passed, the gods from the desire realm approached the Thus-gone
+                    <p tid="2326">Then, once the seven days had passed, the gods from the desire realm approached the Thus-Gone
                         One, carrying tens of thousands of vases containing scented water. The gods from the form realm also
-                        approached the Thus-gone One, carrying tens of thousands of vases containing scented water. When they
-                        arrived, they bathed the Bodhi tree and the Thus-gone One with the scented water. Innumerable gods, nāgas,
+                        approached the Thus-Gone One, carrying tens of thousands of vases containing scented water. When they
+                        arrived, they bathed the Bodhi tree and the Thus-Gone One with the scented water. Innumerable gods, nāgas,
                         yakṣas, gandharvas, demigods, garuḍas, kiṃnaras, and mahoragas anointed their own bodies with the scented
-                        water that had come into contact with the body of the Thus-gone One. This engendered among them the
+                        water that had come into contact with the body of the Thus-Gone One. This engendered among them the
                         intention set on unexcelled, perfect and complete awakening. Even after the gods and the others had
                         returned to their respective realms, they did not part from the scented water and desired no other scent.
-                        [370] Through the joy and the supreme joy that are born from respectfully taking to heart the Thus-gone
+                        [370] Through the joy and the supreme joy that are born from respectfully taking to heart the Thus-Gone
                         One, they became irreversible from unexcelled, perfect and complete awakening.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1840"/>
                     <p tid="2327">Monks, then a god named Samantakusuma, who had joined in that very audience, bowed down to the
-                        feet of the Thus-gone One, and with palms joined said to him, “What, O Blessed One, is the name of the
-                        absorption in which the Thus-gone One remained for seven days without moving from the cross-legged
+                        feet of the Thus-Gone One, and with palms joined said to him, “What, O Blessed One, is the name of the
+                        absorption in which the Thus-Gone One remained for seven days without moving from the cross-legged
                         position?”</p>
-                    <p tid="2328">Monks, thus addressed, the Thus-gone One answered the god, “<distinct>Array of the food of
-                            joy</distinct>, O divine son, is the name of the meditative absorption in which the Thus-gone One
+                    <p tid="2328">Monks, thus addressed, the Thus-Gone One answered the god, “<distinct>Array of the food of
+                            joy</distinct>, O divine son, is the name of the meditative absorption in which the Thus-Gone One
                         remained for seven days without moving from the cross-legged position.” <ref cRef="F.177.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1841"/>
-                    <p tid="2329">Monks, the god Samantakusuma then praised the Thus-gone One with these verses:</p>
+                    <p tid="2329">Monks, the god Samantakusuma then praised the Thus-Gone One with these verses:</p>
                     <lg tid="2330">
                         <l>“Your feet are covered with wheels</l>
                         <l>And shine with the brilliance of stainless, thousand-petaled lotuses.</l>
@@ -15363,21 +15363,21 @@
                         <l>At the center of the earth for seven days. [377]</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1913"/>
-                    <p tid="2402">Monks, the perfect and completely awakened Thus-gone One thus sat for the first seven days on
+                    <p tid="2402">Monks, the perfect and completely awakened Thus-Gone One thus sat for the first seven days on
                         that very seat, thinking, “Here I have reached unexcelled, perfect and complete awakening. Here I have
                         brought an end to the sufferings of beginningless birth, old age, and death.” During the second week, the
-                        Thus-gone One wandered far and wide throughout the entire trichiliocosm. During the third week, the
-                        Thus-gone One gazed at the seat of awakening without blinking and thought, “Here I awakened to
+                        Thus-Gone One wandered far and wide throughout the entire trichiliocosm. During the third week, the
+                        Thus-Gone One gazed at the seat of awakening without blinking and thought, “Here I awakened to
                         unsurpassable, perfect and complete buddhahood, bringing an end to the sufferings of beginningless birth,
-                        old age, and death.” Then, during the fourth week, the Thus-gone One took a walk, but not as far, this
+                        old age, and death.” Then, during the fourth week, the Thus-Gone One took a walk, but not as far, this
                         time traveling from the eastern ocean to the western ocean. <ref cRef="F.180.b"/>
                         <ref cRef="B16" type="bampo"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1914"/>
-                    <p tid="2403">Then Māra, the evil one, approached the Thus-gone One and said, “Since the time has now come for
+                    <p tid="2403">Then Māra, the evil one, approached the Thus-Gone One and said, “Since the time has now come for
                         the Blessed One to pass into parinirvāṇa, may the Blessed One pass into parinirvāṇa! May the Bliss-Gone
                         One pass into parinirvāṇa!”</p>
-                    <p tid="2404">Monks, to these words of Māra the evil one, the Thus-gone One replied, “Evil one, I will not
+                    <p tid="2404">Monks, to these words of Māra the evil one, the Thus-Gone One replied, “Evil one, I will not
                         pass into parinirvāṇa until my elder monks have become restrained, lucid, proficient, courageous, and
                         learned; until they have embarked on the Dharma in an authentic way and become masters themselves; and
                         until they can overcome opponents in concordance with the Dharma and teach the Dharma in conjunction with
@@ -15417,9 +15417,9 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1919"/>
                     <p tid="2411">Even though the girls had already experienced the deeds of the Bodhisattva and the power of the
-                        Thus-gone One, out of their fickleness they did not listen to their father’s words. They transformed into
-                        girls in the prime of youth, who had just reached maturity and, in order to bewilder the Thus-gone One,
-                        they went before him, summoning all their womanly guiles. However, as the Thus-gone One paid them no heed,
+                        Thus-Gone One, out of their fickleness they did not listen to their father’s words. They transformed into
+                        girls in the prime of youth, who had just reached maturity and, in order to bewilder the Thus-Gone One,
+                        they went before him, summoning all their womanly guiles. However, as the Thus-Gone One paid them no heed,
                         they were transformed into decrepit old ladies. The girls then went before their father and said:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1920"/>
                     <lg tid="2412">
@@ -15444,7 +15444,7 @@
                         <l>He will then return your bodies to their previous form as you wish.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1923"/>
-                    <p tid="2416">So the daughters went and asked the Thus-gone One for forgiveness, saying:</p>
+                    <p tid="2416">So the daughters went and asked the Thus-Gone One for forgiveness, saying:</p>
                     <lg tid="2417">
                         <l>“Bliss-Gone One, please forgive our offense!</l>
                         <l>Blessed One, forgive the offense</l>
@@ -15453,7 +15453,7 @@
                         </l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1924"/>
-                    <p tid="2418">The Thus-gone One spoke to them with these verses:</p>
+                    <p tid="2418">The Thus-Gone One spoke to them with these verses:</p>
                     <lg tid="2419">
                         <l>“You want to scrape through a mountain with your fingernails,</l>
                         <l>Chew through iron with your teeth,</l>
@@ -15466,33 +15466,33 @@
                         from it henceforth.”</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1926"/>
-                    <p tid="2421">Monks, during the fifth week, the Thus-gone One dwelt in the domain of the nāga king Mucilinda.
+                    <p tid="2421">Monks, during the fifth week, the Thus-Gone One dwelt in the domain of the nāga king Mucilinda.
                         Since the weather that week was intemperate, the nāga king Mucilinda, worried that the Blessed One’s body
                         would be harmed by the cold and the wind, came out of his abode, coiled his body around that of the
-                        Thus-gone One seven times, and shielded him with his hoods. From the east as well, several more nāga kings
+                        Thus-Gone One seven times, and shielded him with his hoods. From the east as well, several more nāga kings
                         arrived. Worried that the cold and wind would harm the Blessed One’s body, they too coiled their bodies
-                        seven times around the body of the Thus-gone One and shielded him with their hoods. Just like the nāga
+                        seven times around the body of the Thus-Gone One and shielded him with their hoods. Just like the nāga
                         kings from the east, nāga kings from the south, west, and north [380] also came, worried that the cold and
-                        wind might harm the Thus-gone One’s body. They too coiled their bodies around the Thus-gone One’s body
+                        wind might harm the Thus-Gone One’s body. They too coiled their bodies around the Thus-Gone One’s body
                         seven times and shielded him with their hoods. That pile of nāga kings loomed at a height like that of
                         Meru, king of mountains. Those nāga kings had never before known such bliss as during these seven days and
-                        seven nights, because of being close to the Thus-gone One’s body.</p>
+                        seven nights, because of being close to the Thus-Gone One’s body.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1927"/>
                     <p tid="2422">When seven days had passed, the nāga kings understood that the bad weather had let up, and so
-                        they unfurled their bodies from the Thus-gone One’s body. They then bowed their heads at the feet of the
-                        Thus-gone One, circumambulated him three times, and returned to their respective homes. The nāga king
-                        Mucilinda also bowed his head to the feet of the Thus-gone One, circumambulated him three times, and then
+                        they unfurled their bodies from the Thus-Gone One’s body. They then bowed their heads at the feet of the
+                        Thus-Gone One, circumambulated him three times, and returned to their respective homes. The nāga king
+                        Mucilinda also bowed his head to the feet of the Thus-Gone One, circumambulated him three times, and then
                         set out for his domain. <ref cRef="F.182.a"/>
                     </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1928"/>
-                    <p tid="2423">During the sixth week, the Thus-gone One proceeded from the nāga king Mucilinda’s domain to a
+                    <p tid="2423">During the sixth week, the Thus-Gone One proceeded from the nāga king Mucilinda’s domain to a
                         banyan tree of a goat herder. On the way, on the bank of the Nairañjanā River between the nāga king
-                        Mucilinda’s domain and the goat herder’s banyan tree, the Thus-gone One was spotted by some carakas,
+                        Mucilinda’s domain and the goat herder’s banyan tree, the Thus-Gone One was spotted by some carakas,
                         parivrājakas, vṛddhaśrāvakas, gautamas, nirgranthas, ājīvikas, and others as well. They asked him,
                         “Blessed One, did Gautama fare happily during the unseasonable seven-day storm?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1929"/>
-                    <p tid="2424">Monks, at that time the Thus-gone One spoke these meaningful words:</p>
+                    <p tid="2424">Monks, at that time the Thus-Gone One spoke these meaningful words:</p>
                     <lg tid="2425">
                         <l>“Happy is the solitude of the contented one</l>
                         <l>Who has heard the Dharma and can see.</l>
@@ -15508,7 +15508,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1931"/>
                     <p tid="2427">Monks, seeing the world ablaze with birth, old age, sickness, death, anguish, lamentation,
-                        suffering, discontent, and strife, the Thus-gone One next uttered this meaningful verse: [381]</p>
+                        suffering, discontent, and strife, the Thus-Gone One next uttered this meaningful verse: [381]</p>
                     <lg tid="2428">
                         <l>“This world is tormented</l>
                         <l>By sounds, sensations, tastes, forms, and smells.</l>
@@ -15517,7 +15517,7 @@
                     </lg>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1932"/>
-                    <p tid="2429">During the seventh week, the Thus-gone One sat at the trunk of a bodhi tree. During that time,
+                    <p tid="2429">During the seventh week, the Thus-Gone One sat at the trunk of a bodhi tree. During that time,
                         two learned and clever merchant brothers from the north, Trapuṣa and Bhallika, were traveling back from
                         the south, after having gained much profit, with a caravan of five hundred fully loaded carts carrying
                         many kinds of merchandise.</p>
@@ -15540,36 +15540,36 @@
                     <p tid="2435">The goddess then revealed her form and consoled the members of the caravan, saying, “Do not
                         fear!” [382] </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1934"/>
-                    <p tid="2436">Now the two bullocks could lead the carts to where the Thus-gone One was. When they arrived,
-                        they saw the Thus-gone One blazing like the god of fire, well adorned with the thirty-two marks of a great
+                    <p tid="2436">Now the two bullocks could lead the carts to where the Thus-Gone One was. When they arrived,
+                        they saw the Thus-Gone One blazing like the god of fire, well adorned with the thirty-two marks of a great
                         being, shining with splendor, like the sun just after dawn.</p>
                     <p tid="2437">Seeing him, the merchants were amazed and thought, “Is this Brahmā who has come here? Or is it
                         Śakra, lord of the gods? Or is it Vaiśravaṇa, or perhaps the sun or the moon? Or is it some mountain god,
                         or some river god?”</p>
-                    <p tid="2438">The Thus-gone One then revealed his saffron robes, and so the merchants said, “This person in
+                    <p tid="2438">The Thus-Gone One then revealed his saffron robes, and so the merchants said, “This person in
                         saffron-colored robes is a renunciant, so he is no threat to us.” They had in fact developed devotion to
                         him, and so they said among themselves, <ref cRef="F.183.a"/> “It must be mealtime for this renunciate.
                         What morsels do we have?”</p>
                     <p tid="2439">A few members of the caravan said, “There is honey, gruel, and stripped sugar cane.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1935"/>
-                    <p tid="2440">So, carrying the honey, gruel, and stripped sugar cane, they went to where the Thus-gone One was
+                    <p tid="2440">So, carrying the honey, gruel, and stripped sugar cane, they went to where the Thus-Gone One was
                         seated, bowed down their heads to his feet, circumambulated him three times, and stood to one side. Then
-                        they requested the Thus-gone One, “Please regard us with compassion and accept these alms!”</p>
-                    <p tid="2441">Monks, the Thus-gone One then wondered, “It would not be appropriate for me to take these alms
+                        they requested the Thus-Gone One, “Please regard us with compassion and accept these alms!”</p>
+                    <p tid="2441">Monks, the Thus-Gone One then wondered, “It would not be appropriate for me to take these alms
                         with my hands. What vessel did the previous perfect and complete awakened ones use to accept alms?” Right
                         then the answer dawned on him.</p>
-                    <p tid="2442">Monks, knowing that it was time for the Thus-gone One to eat, at that very moment the four great
+                    <p tid="2442">Monks, knowing that it was time for the Thus-Gone One to eat, at that very moment the four great
                         kings appeared from the four directions carrying four golden alms bowls. They offered them to the
-                        Thus-gone One, saying to him, “Please regard us with compassion and accept these four golden alms
+                        Thus-Gone One, saying to him, “Please regard us with compassion and accept these four golden alms
                         bowls!”</p>
-                    <p tid="2443">Thinking, however, that those bowls were not appropriate for a monk, the Thus-gone One did not
+                    <p tid="2443">Thinking, however, that those bowls were not appropriate for a monk, the Thus-Gone One did not
                         accept them. [383] So the four kings came back with four alms bowls made of silver, four made of beryl,
                         four made of quartz, four made of coral, four made of emerald, and four made of every gem. They offered
-                        them to the Thus-gone One, but he declined, thinking that these were all inappropriate for a monk.</p>
+                        them to the Thus-Gone One, but he declined, thinking that these were all inappropriate for a monk.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1936"/>
-                    <p tid="2444">Monks, the Thus-gone One then wondered what kind of alms bowls the previous thus-gone ones had
+                    <p tid="2444">Monks, the Thus-Gone One then wondered what kind of alms bowls the previous thus-gone ones had
                         used to accept alms. He understood that it was alms bowls made of stone, and so that thought dawned in the
-                        Thus-gone One’s mind.</p>
+                        Thus-Gone One’s mind.</p>
                     <p tid="2445">Then the great king Vaiśravaṇa said to the three other great kings: <ref cRef="F.183.b"/>“Friends, when the gods of the blue class gave us four stone alms bowls, we thought that they were for
                         our use. But a god of the blue realm called Vairocana told us the following:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1937"/>
@@ -15594,15 +15594,15 @@
                         <l>Let’s go so that he can accept them!”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1940"/>
-                    <p tid="2449">Then the four kings, together with their kinfolk and retainers, went to the Thus-gone One
+                    <p tid="2449">Then the four kings, together with their kinfolk and retainers, went to the Thus-Gone One
                         holding those alms bowls in their hands and carrying flowers, incense, perfumes, garlands, and unguents,
-                        playing cymbals and gongs, and singing songs. Having paid homage to the Thus-gone One, they filled the
-                        alms bowls with divine flowers and offered them to the Thus-gone One. [384]</p>
-                    <p tid="2450">Monks, the Thus-gone One then thought, “These four devoted great kings are giving me four stone
+                        playing cymbals and gongs, and singing songs. Having paid homage to the Thus-Gone One, they filled the
+                        alms bowls with divine flowers and offered them to the Thus-Gone One. [384]</p>
+                    <p tid="2450">Monks, the Thus-Gone One then thought, “These four devoted great kings are giving me four stone
                         alms bowls. But four are too many for me. Yet if I were to accept only one, the other three would be
                         upset. So I will take all four alms bowls and transform them into one.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1941"/>
-                    <p tid="2451">Monks, the Thus-gone One then extended his right hand and spoke to the great king Vaiśravaṇa in
+                    <p tid="2451">Monks, the Thus-Gone One then extended his right hand and spoke to the great king Vaiśravaṇa in
                         verse:</p>
                     <lg tid="2452">
                         <l>“Offer an alms bowl to the Bliss-Gone One!</l>
@@ -15611,35 +15611,35 @@
                         <l>You will never be bereft of mindfulness and intelligence.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1942"/>
-                    <p tid="2453">Monks, the Thus-gone One <ref cRef="F.184.a"/> then accepted the alms bowl from the great king
+                    <p tid="2453">Monks, the Thus-Gone One <ref cRef="F.184.a"/> then accepted the alms bowl from the great king
                         Vaiśravaṇa, regarding him with compassion. Having thus accepted it, he then spoke in verse to the great
                         king Dhṛtarāṣṭra:</p>
                     <lg tid="2454">
-                        <l>“Whoever gives an alms bowl to the Thus-gone One</l>
+                        <l>“Whoever gives an alms bowl to the Thus-Gone One</l>
                         <l>Will never be bereft of mindfulness and insight,</l>
                         <l>And will spend his time happily at ease</l>
                         <l>Until awakening to the state of cool repose.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1943"/>
-                    <p tid="2455">Monks, the Thus-gone One then accepted the begging bowl from the great king Dhṛtarāṣṭra,
+                    <p tid="2455">Monks, the Thus-Gone One then accepted the begging bowl from the great king Dhṛtarāṣṭra,
                         regarding him with compassion. Having accepted it, he spoke in verse to the great king Virūḍhaka:</p>
                     <lg tid="2456">
                         <l>“Give a pristine begging bowl</l>
-                        <l>To the Thus-gone One, pure in mind,</l>
+                        <l>To the Thus-Gone One, pure in mind,</l>
                         <l>And you will swiftly become pure in mind,</l>
                         <l>Worthy of veneration in the world.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1944"/>
-                    <p tid="2457">Monks, the Thus-gone One then accepted the alms bowl from the great king Virūḍhaka, regarding
+                    <p tid="2457">Monks, the Thus-Gone One then accepted the alms bowl from the great king Virūḍhaka, regarding
                         him with compassion. Having accepted it, he spoke to the great king Virūpakṣa in verse: [385]</p>
                     <lg tid="2458">
                         <l>“Give, with faultless intention and devotion,</l>
-                        <l>A faultless vessel to the Thus-gone One,</l>
+                        <l>A faultless vessel to the Thus-Gone One,</l>
                         <l>Who is faultless in discipline and conduct,</l>
                         <l>And your merit of generosity will be faultless.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1945"/>
-                    <p tid="2459">Monks, the Thus-gone One then accepted the alms bowl from the great king Virūpakṣa, regarding
+                    <p tid="2459">Monks, the Thus-Gone One then accepted the alms bowl from the great king Virūpakṣa, regarding
                         him with compassion. When he had accepted it, he transformed all four alms bowls into one through the
                         power of his wish, and then said this meaningful verse:</p>
                     <lg tid="2460">
@@ -15720,14 +15720,14 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-1955"/>
                     <lg tid="2473">
                         <l>“In the past you made the aspiration:</l>
-                        <l>‘When the Thus-gone One reaches awakening,</l>
+                        <l>‘When the Thus-Gone One reaches awakening,</l>
                         <l>May he partake of our food</l>
                         <l>And turn the wheel of Dharma!’</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1956"/>
                     <lg tid="2474">
                         <l>“This aspiration has now been fulfilled.</l>
-                        <l>The Thus-gone One who reached awakening</l>
+                        <l>The Thus-Gone One who reached awakening</l>
                         <l>Should be offered this food.</l>
                         <l>Once he has eaten, he will turn the wheel of Dharma.</l>
                     </lg>
@@ -15781,7 +15781,7 @@
                         <l>In the Brahma realm together with his companions.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-1964"/>
-                    <p tid="2482">On that occasion, the Thus-gone One delighted the merchants Trapuṣa and Bhallika tremendously
+                    <p tid="2482">On that occasion, the Thus-Gone One delighted the merchants Trapuṣa and Bhallika tremendously
                         with these verses:</p>
                     <lg tid="2483">
                         <l>“May divine auspiciousness, which accomplishes aims</l>
@@ -16078,7 +16078,7 @@
                     <head type="chapter">Chapter 25</head>
                     <head type="chapterTitle">Exhortation</head>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2005"/>
-                    <p tid="2524">Monks, while the Thus-gone One was seated at the foot of the Bodhi tree, in the privacy of
+                    <p tid="2524">Monks, while the Thus-Gone One was seated at the foot of the Bodhi tree, in the privacy of
                         solitude after he had first attained perfect and complete awakening, he had the following thought about
                         the conventions of the world: <ref cRef="F.187.b"/>
                     </p>
@@ -16153,21 +16153,21 @@
                         <l>And if there were intelligent beings of good disposition.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2015"/>
-                    <p tid="2535">Monks, at that time the Thus-gone One radiated light from the center of his forehead, which
+                    <p tid="2535">Monks, at that time the Thus-Gone One radiated light from the center of his forehead, which
                         illuminated the entire trichiliocosm with its brilliance. Then, by means of the Buddha’s power, Great
-                        Top-Knotted Brahmā, lord of the trichiliocosm, became aware of the Thus-gone One’s notion. [394] Having
+                        Top-Knotted Brahmā, lord of the trichiliocosm, became aware of the Thus-Gone One’s notion. [394] Having
                         understood that the Blessed One was set on keeping the Dharma to himself without teaching it, he thought,
-                        “I will most certainly approach and solicit the Thus-gone One to turn the wheel of Dharma!”</p>
+                        “I will most certainly approach and solicit the Thus-Gone One to turn the wheel of Dharma!”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2016"/>
                     <p tid="2536">So right then Great Top-Knotted Brahmā addressed the other gods of the Brahma realms, “Friends!
-                        Even though the Thus-gone One has awakened to unsurpassable, perfect and complete buddhahood, he is set on
+                        Even though the Thus-Gone One has awakened to unsurpassable, perfect and complete buddhahood, he is set on
                         keeping the Dharma to himself without teaching it. Alas! This world is doomed! Alas, O friends, this world
                         is really doomed! Thus we must surely go and solicit the worthy one, the perfectly and completely awakened
-                        Thus-gone One, to turn the wheel of Dharma.”</p>
+                        Thus-Gone One, to turn the wheel of Dharma.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2017"/>
                     <p tid="2537">Monks, then the Great Top-Knotted Brahmā, surrounded and escorted by six million eight hundred
-                        thousand Brahmās, <ref cRef="F.188.b"/> went to the Thus-gone One. When he arrived, he bowed his head to
-                        the feet of the Thus-gone One, and with palms joined, said to him, “Thus-gone One, even having awakened to
+                        thousand Brahmās, <ref cRef="F.188.b"/> went to the Thus-Gone One. When he arrived, he bowed his head to
+                        the feet of the Thus-Gone One, and with palms joined, said to him, “Thus-Gone One, even having awakened to
                         unexcelled, perfect and complete awakening, you are bent on keeping the Dharma to yourself without
                         teaching it. Alas, Blessed One! This world is doomed! Alas, Blessed One, this world is really doomed!
                         There are intelligent beings of good disposition with the potential, fortune, and ability to comprehend
@@ -16232,16 +16232,16 @@
                         <l>Turn the wheel of Dharma, most sublime!”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2026"/>
-                    <p tid="2547">Monks, in order to show kindness to the world of gods, humans, and nonhumans, the Thus-gone One
+                    <p tid="2547">Monks, in order to show kindness to the world of gods, humans, and nonhumans, the Thus-Gone One
                         looked upon this world with compassion and silently acquiesced to Great Top-Knotted Brahmā. Indeed, once
-                        Great Top-Knotted Brahmā understood that this Thus-gone One had silently acquiesced, he anointed the
-                        Thus-gone One with divine sandalwood powder and divine aloe-wood powder, became joyful and ecstatic, and
+                        Great Top-Knotted Brahmā understood that this Thus-Gone One had silently acquiesced, he anointed the
+                        Thus-Gone One with divine sandalwood powder and divine aloe-wood powder, became joyful and ecstatic, and
                         then vanished that very instant.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2027"/>
                     <p tid="2548">Monks, in order to engender respect for the Dharma in the world, in order to increase the root
                         of virtue by having Great Top-Knotted Brahmā repeatedly request the Dharma, and because the Dharma is
-                        exceedingly profound, the Thus-gone One once again went into the privacy of solitude and had the following
+                        exceedingly profound, the Thus-Gone One once again went into the privacy of solitude and had the following
                         thought:</p>
                     <p tid="2549">“This truth to which I awakened is profound, subtle, luminous, hard to comprehend,
                         inconceivable, and beyond the intellect. Understood only by the clever and the wise, it is out of step
@@ -16251,14 +16251,14 @@
                         harmful to me. Thus I will most certainly continue to keep it to myself.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2028"/>
                     <p tid="2550">Monks, by the power of the Buddha, Great Top-Knotted Brahmā once again became aware of this
-                        thought of the Thus-gone One, and he went to see Śakra, lord of the gods.</p>
+                        thought of the Thus-Gone One, and he went to see Śakra, lord of the gods.</p>
                     <p tid="2551">When he arrived, he told Śakra, lord of the gods, “Understand, Kauśika, that the venerable,
-                        perfectly and completely awakened Thus-gone One is bent on not teaching the Dharma and thus keeping it to
-                        himself! And since the worthy one, the perfectly and completely awakened Thus-gone One, is bent on not
+                        perfectly and completely awakened Thus-Gone One is bent on not teaching the Dharma and thus keeping it to
+                        himself! And since the worthy one, the perfectly and completely awakened Thus-Gone One, is bent on not
                         teaching the Dharma and thus keeping it to himself, alas, O Kauśika, this world is doomed! Alas, O
                         Kauśika, this world is really doomed! Alas, this world will be plunged into the great darkness of
                         ignorance! Why don’t we then go and request that the worthy one, the perfectly and completely awakened
-                        Thus-gone One, turn the wheel of Dharma? Because the thus-gone ones do not turn the wheel of Dharma
+                        Thus-Gone One, turn the wheel of Dharma? Because the thus-gone ones do not turn the wheel of Dharma
                         without being requested!”</p>
                     <p tid="2552">“Very well, my friend!” responded Śakra.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2029"/>
@@ -16268,9 +16268,9 @@
                         Brahma Realm, the Luminous Heaven, the Heaven of Great Fruition, the Heaven of Perfected Virtue, and the
                         Pure Realms—many hundreds of thousands of divinities of beautiful appearances—illuminated the area
                         surrounding the fig tree with their divine beauty and their divine luminosity, and approached the
-                        Thus-gone One. They bowed their heads to the feet of the Thus-gone One, circumambulated him, and stood to
+                        Thus-Gone One. They bowed their heads to the feet of the Thus-Gone One, circumambulated him, and stood to
                         one side. <ref cRef="F.190.a"/> Then Śakra, lord of the gods, bowed down with palms joined in the
-                        direction of the Thus-gone One and praised him in verse: [397]</p>
+                        direction of the Thus-Gone One and praised him in verse: [397]</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2030"/>
                     <lg tid="2554">
                         <l>“Your mind is completely liberated,</l>
@@ -16278,12 +16278,12 @@
                         <l>May you rise, O Victor in Battle!</l>
                         <l>May you shine the light of insight in this dark world!”</l>
                     </lg>
-                    <p tid="2555">But at these words the Thus-gone One remained silent. Then Great Top-Knotted Brahmā said to
+                    <p tid="2555">But at these words the Thus-Gone One remained silent. Then Great Top-Knotted Brahmā said to
                         Śakra, lord of the gods, “O Kauśika, venerable, perfectly and completely awakened thus-gone ones are not
                         requested to turn the wheel of Dharma the way you requested it.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2031"/>
                     <p tid="2556">So Great Top-Knotted Brahmā draped his robe on one shoulder, knelt on his right knee, and bowing
-                        down to the Thus-gone One with palms joined, spoke this verse to him:</p>
+                        down to the Thus-Gone One with palms joined, spoke this verse to him:</p>
                     <lg tid="2557">
                         <l>“May you rise, O Victor in Battle!</l>
                         <l>May you shine the light of insight in this dark world!</l>
@@ -16291,7 +16291,7 @@
                         <l>O Sage, may you teach the Dharma!”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2032"/>
-                    <p tid="2558">Monks, at these words the Thus-gone One repeated to Great Top-Knotted Brahmā, “O great Brahmā,
+                    <p tid="2558">Monks, at these words the Thus-Gone One repeated to Great Top-Knotted Brahmā, “O great Brahmā,
                         this truth to which I awakened is profound, subtle, luminous, hard to comprehend, inconceivable, and
                         beyond the intellect. Understood only by the clever and the wise, it is out of step with all worldly
                         people and difficult to see. It is the abandonment of all aggregates, the cessation of all formations, a
@@ -16315,8 +16315,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2035"/>
                     <p tid="2561">Monks, when Great Top-Knotted Brahmā and Śakra, lord of the gods, <ref cRef="F.190.b"/>
-                        understood that the Thus-gone One would remain silent, these two great beings and their retinue of gods,
-                        saddened and dejected, disappeared then and there. And so the Thus-gone One had thrice made up his mind to
+                        understood that the Thus-Gone One would remain silent, these two great beings and their retinue of gods,
+                        saddened and dejected, disappeared then and there. And so the Thus-Gone One had thrice made up his mind to
                         remain disinterested. [398]</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2036"/>
@@ -16326,11 +16326,11 @@
                         would no longer grow. Some said that birds would no longer fly in the sky, and some that pregnant women
                         would no longer give birth safely.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2037"/>
-                    <p tid="2563">Monks, the Great Top-Knotted Brahmā knew the nature of the Thus-gone One’s thoughts, and he was
+                    <p tid="2563">Monks, the Great Top-Knotted Brahmā knew the nature of the Thus-Gone One’s thoughts, and he was
                         aware of the opinions among the people of Magadha. So, at the close of night, he illuminated the entire
-                        area surrounding the fig tree with divine light beautiful in color, and he approached the Thus-gone One.
-                        When he arrived, he bowed his head to the feet of the Thus-gone One, draped his robe on one shoulder,
-                        knelt down on his right knee, and bending forward with palms joined, spoke in verse to the Thus-gone
+                        area surrounding the fig tree with divine light beautiful in color, and he approached the Thus-Gone One.
+                        When he arrived, he bowed his head to the feet of the Thus-Gone One, draped his robe on one shoulder,
+                        knelt down on his right knee, and bending forward with palms joined, spoke in verse to the Thus-Gone
                         One:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2038"/>
                     <lg tid="2564">
@@ -16419,12 +16419,12 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-2050"/>
                     <lg tid="2576">
                         <l>“O Sage, clear away the darkness with the lamp of Dharma!</l>
-                        <l>Raise high the banner of the Thus-gone One!</l>
+                        <l>Raise high the banner of the Thus-Gone One!</l>
                         <l>The time has come to utter melodious speech!</l>
                         <l>I beg you to resound like a lion, O You of Drum-like Voice!”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2051"/>
-                    <p tid="2577">Monks, the Thus-gone One then looked throughout the entire world with his awakened eye and saw
+                    <p tid="2577">Monks, the Thus-Gone One then looked throughout the entire world with his awakened eye and saw
                         sentient beings that were base, <ref cRef="F.191.b"/> mediocre, and advanced; those that were high, low,
                         and middling; those of good disposition and [400] easy to purify, those of bad disposition and difficult
                         to purify; those that can understand through just a cursory statement, and those for whom the words are
@@ -16432,15 +16432,15 @@
                         were grouped into three categories: one that was sure to be wrong, one that was sure to be correct, and
                         one was undetermined. Monks, just as when a person standing on the bank of a lotus pond sees some lotuses
                         submerged in the water, some lotuses at water level, and some lotuses above the water, this was how the
-                        Thus-gone One saw sentient beings situated in three groups when he looked throughout the whole world with
+                        Thus-Gone One saw sentient beings situated in three groups when he looked throughout the whole world with
                         his awakened eye.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2052"/>
-                    <p tid="2578">Monks, the Thus-gone One thought, “Whether I teach the Dharma or not, this group that is sure to
+                    <p tid="2578">Monks, the Thus-Gone One thought, “Whether I teach the Dharma or not, this group that is sure to
                         be wrong will not understand the Dharma. And whether I teach the Dharma or not, this group that is sure to
                         be correct will understand the Dharma. Yet the group that is undetermined will understand the Dharma if I
                         teach it, but will not understand the Dharma if I do not teach it.”</p>
-                    <p tid="2579">Monks, the Thus-gone One then engendered great compassion, starting with the sentient beings
-                        situated in the undetermined group. Monks, from the perspective of his own perfect wisdom, the Thus-gone
+                    <p tid="2579">Monks, the Thus-Gone One then engendered great compassion, starting with the sentient beings
+                        situated in the undetermined group. Monks, from the perspective of his own perfect wisdom, the Thus-Gone
                         One then understood the request made by Great Top-Knotted Brahmā and thus spoke to him with this
                         verse:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2053"/>
@@ -16450,14 +16450,14 @@
                         <l>With ears and with devotion,</l>
                         <l>Who constantly listen with attention and without doing harm.”</l>
                     </lg>
-                    <p tid="2581">Once Great Top-Knotted Brahmā understood that the Thus-gone One had acquiesced, he rejoiced with
+                    <p tid="2581">Once Great Top-Knotted Brahmā understood that the Thus-Gone One had acquiesced, he rejoiced with
                         satisfaction and glee. <ref cRef="F.192.a"/> Ecstatic and elated, he bowed with his head to the feet of
-                        the Thus-gone One and vanished right there. [401]</p>
+                        the Thus-Gone One and vanished right there. [401]</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2054"/>
                     <p tid="2582">Monks, on that occasion the earth gods then proclaimed and announced to the gods of the
                         atmosphere:</p>
-                    <p tid="2583">“Friends, today the venerable, perfectly and completely awakened Thus-gone One has acquiesced to
+                    <p tid="2583">“Friends, today the venerable, perfectly and completely awakened Thus-Gone One has acquiesced to
                         turn the wheel of Dharma. He will do this to benefit many beings, to bring happiness to many beings, to
                         compassionately care for the world, for the welfare, betterment, and happiness of gods, humans, and the
                         majority of beings. Listen, friends! The demigod realms will be reduced. The god realms will be filled.
@@ -16471,7 +16471,7 @@
                         those in the Heaven of Making Use of Others’ Emanations. Finally they announced and proclaimed this to the
                         gods of the Brahmā realms:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2056"/>
-                    <p tid="2585">“Today, O friends, the venerable, perfectly and completely awakened Thus-gone One has acquiesced
+                    <p tid="2585">“Today, O friends, the venerable, perfectly and completely awakened Thus-Gone One has acquiesced
                         to turn the wheel of Dharma. He will do this to benefit many beings, to bring happiness to many beings, to
                         compassionately care for the world, for the welfare, betterment, and happiness of gods, humans, and the
                         majority of beings. Listen, friends! The demigod realms will be reduced. The god realms will be filled.
@@ -16479,7 +16479,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-2057"/>
                     <p tid="2586">Monks, then simultaneously all of them, beginning with the earth gods all the way up to the gods
                         of the Brahma realm, announced in unison the same proclamation as before: “Today, O friends, the
-                        venerable, perfectly and completely awakened Thus-gone One has consented to turn the wheel of Dharma. He
+                        venerable, perfectly and completely awakened Thus-Gone One has consented to turn the wheel of Dharma. He
                         will do this to benefit many beings, to bring happiness to many beings, to care compassionately for the
                         world, for the welfare, betterment, and happiness of gods, humans, and the majority of beings. Listen,
                         friends! The demigod realms will be reduced. The god realms will be filled. And many sentient beings in
@@ -16488,9 +16488,9 @@
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2058"/>
                     <p tid="2587">Monks, then the four gods of the Bodhi tree named Dharmaruci, Dharmakāya, Dharmamati, and
-                        Dharmacārin [402] fell to the feet of the Thus-gone One and asked, “Where will the Blessed One turn the
+                        Dharmacārin [402] fell to the feet of the Thus-Gone One and asked, “Where will the Blessed One turn the
                         wheel of Dharma?”</p>
-                    <p tid="2588">Monks, to their question the Thus-gone One replied, “At the Deer Park by the Hill of the Fallen
+                    <p tid="2588">Monks, to their question the Thus-Gone One replied, “At the Deer Park by the Hill of the Fallen
                         Sages, outside of Vārāṇasī.”</p>
                     <p tid="2589">They said, “O Blessed One, the city of Vārāṇasī has merely a limited population, and the Deer
                         Park has only a limited amount of tree shade. There are other big cities, O Blessed One, that are wealthy,
@@ -16498,7 +16498,7 @@
                         adorned with gardens, forests, and mountains. May the Blessed One please turn the wheel of Dharma in one
                         of these other places!”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2059"/>
-                    <p tid="2590">But the Thus-gone One replied:</p>
+                    <p tid="2590">But the Thus-Gone One replied:</p>
                     <lg tid="2591">
                         <l>“Do not say such a thing, good sirs! And why?</l>
                     </lg>
@@ -16523,7 +16523,7 @@
                     <head type="chapter">Chapter 26</head>
                     <head type="chapterTitle">Turning the Wheel of Dharma</head>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2062"/>
-                    <p tid="2594">Monks, at that point the Thus-gone One had accomplished everything he had to do. <ref cRef="F.193.a"/> With nothing more to achieve, all his fetters had been cut. All negative emotions had
+                    <p tid="2594">Monks, at that point the Thus-Gone One had accomplished everything he had to do. <ref cRef="F.193.a"/> With nothing more to achieve, all his fetters had been cut. All negative emotions had
                         been cleared away, along with his mental stains. He had conquered Māra and all hostile forces, and [403]
                         now he joined the Dharma-way of all awakened ones. He had become omniscient and perceived everything. He
                         possessed the ten powers and had discovered the fourfold fearlessness. All the eighteen unique qualities
@@ -16535,14 +16535,14 @@
                         open-minded and suffers because of never having heard the Dharma? Such a person I should teach first of
                         all. One who understands my teaching will not turn against me.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2064"/>
-                    <p tid="2596">Then, monks, the Thus-gone One thought to himself, “Rudraka, the son of Rāma, is pure and
+                    <p tid="2596">Then, monks, the Thus-Gone One thought to himself, “Rudraka, the son of Rāma, is pure and
                         kindhearted. It is easy for him to make others understand and purify them. He has only little desire,
                         anger, or delusion. He is also open-minded, and now suffers because he has never heard the Dharma. He
                         instructs his students in the practice of disciplined conduct that leads to a state of mind that is
                         neither conscious nor unconscious. Now, where is he staying?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2065"/>
-                    <p tid="2597">At that moment the Thus-gone One realized that Rudraka had died just one week before. The gods,
-                        too, bowed their heads to the Thus-gone One’s feet and said, “Lord, that is how it is. Bliss-Gone One,
+                    <p tid="2597">At that moment the Thus-Gone One realized that Rudraka had died just one week before. The gods,
+                        too, bowed their heads to the Thus-Gone One’s feet and said, “Lord, that is how it is. Bliss-Gone One,
                         that is how it is. Rudraka, the son of Rāma, died just one week ago.”</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2066"/>
@@ -16552,28 +16552,28 @@
                         would not have turned against me.”</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2067"/>
-                    <p tid="2599">Monks, the Thus-gone One again thought, “Now, where could there be another being who is pure and
+                    <p tid="2599">Monks, the Thus-Gone One again thought, “Now, where could there be another being who is pure and
                         easy to train? Who would have all these qualities and not react against the teaching of Dharma?”</p>
-                    <p tid="2600">Monks, it then occurred to the Thus-gone One, “Ārāḍa Kālāma is pure and has all the other
-                        qualities. He would not react against the teaching of Dharma.” So the Thus-gone One wondered, “Where would
+                    <p tid="2600">Monks, it then occurred to the Thus-Gone One, “Ārāḍa Kālāma is pure and has all the other
+                        qualities. He would not react against the teaching of Dharma.” So the Thus-Gone One wondered, “Where would
                         he be now?” Wondering, he realized that Ārāḍa Kālāma had passed away just three days earlier. [404]</p>
-                    <p tid="2601">The gods from the Pure Realms further clarified that matter for the Thus-gone One, saying,
+                    <p tid="2601">The gods from the Pure Realms further clarified that matter for the Thus-Gone One, saying,
                         “Lord, that is how it is. Bliss-Gone One, that is how it is. Ārāḍa Kālāma died just three days ago.”</p>
-                    <p tid="2602">The Thus-gone One then thought, “Oh no, how sad that Ārāḍa Kālāma died before hearing this
+                    <p tid="2602">The Thus-Gone One then thought, “Oh no, how sad that Ārāḍa Kālāma died before hearing this
                         well-prepared teaching!”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2068"/>
-                    <p tid="2603">Monks, at that point the Thus-gone One once again reflected, “What other being is pure, has a
+                    <p tid="2603">Monks, at that point the Thus-Gone One once again reflected, “What other being is pure, has a
                         good heart and all the qualities, and would not react against my presentation of the Dharma?”</p>
-                    <p tid="2604">Monks, it then occurred to the Thus-gone One, “My five ascetic companions are pure and
+                    <p tid="2604">Monks, it then occurred to the Thus-Gone One, “My five ascetic companions are pure and
                         goodhearted. They will make good teachers who are able to purify others. They have but little desire,
                         anger, or delusion. They would be open-minded, and they are now suffering because of not having heard the
                         Dharma. When I was practicing under hardships, they helped me. They will understand the Dharma taught by
                         me, and they will not turn against me.”</p>
-                    <p tid="2605">Monks, at that point the Thus-gone One decided, “My five ascetic companions will be the ones to
+                    <p tid="2605">Monks, at that point the Thus-Gone One decided, “My five ascetic companions will be the ones to
                         whom I shall teach the Dharma for the first time!” <ref cRef="F.194.a"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2069"/>
-                    <p tid="2606">Monks, the Thus-gone One now further thought, “Where might these five companions be staying?”
+                    <p tid="2606">Monks, the Thus-Gone One now further thought, “Where might these five companions be staying?”
                         Scanning the entire world with his eye of an awakened one, he saw the five ascetics staying in the Deer
                         Park in Vārāṇasī by a hill known as the Hill of the Fallen Sages.</p>
                     <p tid="2607">After seeing this, he thought to himself, “If I teach these five excellent ascetics the Dharma
@@ -16583,13 +16583,13 @@
                         [405] </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2070"/>
-                    <p tid="2609">Now, monks, having reflected in this way, the Thus-gone One arose from the seat of awakening,
+                    <p tid="2609">Now, monks, having reflected in this way, the Thus-Gone One arose from the seat of awakening,
                         making the trichiliocosm tremble. In due course, passing through the country of Magadha, he set off on his
                         way to Kāśi. In Gaya, not far from the seat of awakening, an Ājīvika mendicant spotted him from afar.
-                        Seeing the Thus-gone One approaching, he came up to him and stood to one side.</p>
+                        Seeing the Thus-Gone One approaching, he came up to him and stood to one side.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2071"/>
                     <p tid="2610">As he stood to one side, monks, the Ājīvika first made a pleasing conversation about various
-                        things with the Thus-gone One, saying, “Venerable Gautama, your senses are calm, and your skin is bright,
+                        things with the Thus-Gone One, saying, “Venerable Gautama, your senses are calm, and your skin is bright,
                         pure, and of yellow hue. Just as the autumn season, which is white and bright, becomes of yellow hue, so
                         too your senses, Lord Gautama, are bright, and your round face is perfectly pure. Just as when the ripe
                         fruit of the tāla tree is nipped off its stem, the severed area immediately becomes yellow, bright, and
@@ -16600,7 +16600,7 @@
                         calmed senses, bright skin color, and your perfectly pure round face. Venerable Gautama, with whom did you
                         practice religion?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2072"/>
-                    <p tid="2611">Monks, the Thus-gone One replied to the Ājīvika with this verse:</p>
+                    <p tid="2611">Monks, the Thus-Gone One replied to the Ājīvika with this verse:</p>
                     <lg tid="2612">
                         <l>“I do not have any teacher;</l>
                         <l>There is no one like me.</l>
@@ -16610,7 +16610,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-2073"/>
                     <p tid="2613">The seeker then said, “Gautama, surely you are not telling me that you have become a worthy
                         one?” [406]</p>
-                    <p tid="2614">The Thus-gone One replied:</p>
+                    <p tid="2614">The Thus-Gone One replied:</p>
                     <lg tid="2615">
                         <l>“I am a worthy one of the world;</l>
                         <l>I am the unsurpassed teacher.</l>
@@ -16620,7 +16620,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-2074"/>
                     <p tid="2616">The seeker asked, “Gautama, surely you are not telling me that you have become a victorious
                         one?”</p>
-                    <p tid="2617">The Thus-gone One replied:</p>
+                    <p tid="2617">The Thus-Gone One replied:</p>
                     <lg tid="2618">
                         <l>“The victorious ones should be known to be like me,</l>
                         <l>Who has exhausted all faults.</l>
@@ -16629,7 +16629,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2075"/>
                     <p tid="2619">The mendicant asked again: “Venerable Gautama, where will you go now?”</p>
-                    <p tid="2620">The Thus-gone One replied:</p>
+                    <p tid="2620">The Thus-Gone One replied:</p>
                     <lg tid="2621">
                         <l>“I am on my way to Vārāṇasī.</l>
                         <l>When I arrive in the city of Kāśi,</l>
@@ -16652,19 +16652,19 @@
                         </l>
                     </lg>
                     <p tid="2624">“May this come to pass, Gautama!” replied the Ājīvika. “May this come to pass!” The mendicant
-                        then took off toward the south while the Thus-gone One went north.</p>
+                        then took off toward the south while the Thus-Gone One went north.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2078"/>
-                    <p tid="2625">Monks, at this point Sudarśana, the king of the nāgas, invited the Thus-gone One to stay with
-                        him in Gaya for some refreshments. The Thus-gone One then proceeded to Rohitavastu and on toward
+                    <p tid="2625">Monks, at this point Sudarśana, the king of the nāgas, invited the Thus-Gone One to stay with
+                        him in Gaya for some refreshments. The Thus-Gone One then proceeded to Rohitavastu and on toward
                         Uruvela-Kalpa, Anāla, and the town of Sārathi. Monks, in all those places the laypeople invited the
-                        Thus-gone One to stay and refresh himself.</p>
+                        Thus-Gone One to stay and refresh himself.</p>
                     <p tid="2626">In due course he arrived at the banks of the great river Ganges. [407] Monks, at that time the
-                        great river Ganges was swollen and flowed on the same level as its banks. Now, monks, since the Thus-gone
+                        great river Ganges was swollen and flowed on the same level as its banks. Now, monks, since the Thus-Gone
                         One wanted to cross the river, he approached a ferryman about this.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2079"/>
                     <p tid="2627">The ferryman told him, “Gautama, you must pay the crossing fee.”</p>
-                    <p tid="2628">The Thus-gone One replied, “Sir, I do not have any means to pay the crossing fee.” Then he flew
+                    <p tid="2628">The Thus-Gone One replied, “Sir, I do not have any means to pay the crossing fee.” Then he flew
                         through the air from one shore to the other.</p>
                     <p tid="2629">When the boatman saw this, he felt great regret, thinking, “Oh no, how sad! How could I refuse
                         to give a ferry ride to such a venerable man worthy of being served!” He then fainted and fell to the
@@ -16675,12 +16675,12 @@
                         crossing fee for monks from that day onward.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2080"/>
-                    <p tid="2631">Monks, in this way the Thus-gone One traveled through the land. Finally he arrived at the city
+                    <p tid="2631">Monks, in this way the Thus-Gone One traveled through the land. Finally he arrived at the city
                         of Vārāṇasī. At dawn he dressed, put on his mendicant robe, and took his alms bowl. Then he entered the
                         city of Vārāṇasī to seek alms. <ref cRef="F.195.b"/> Soon he had acquired enough offerings and sat down
                         for his meal.</p>
                     <p tid="2632">He then proceeded to the Hill of the Fallen Sages at the Deer Park to meet his five former
-                        companions. The five companions could see the Thus-gone One approaching from a distance, and they began to
+                        companions. The five companions could see the Thus-Gone One approaching from a distance, and they began to
                         scheme:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2081"/>
                     <p tid="2633">“Venerable ones, look, here comes that mendicant Gautama, that lazy, gluttonous one who has
@@ -16693,21 +16693,21 @@
                         sit.’ The venerable Ājñāta­kauṇḍinya did not agree with this, but he did not voice his opposition,
                         either.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2082"/>
-                    <p tid="2634">Monks, the closer the Thus-gone One came to his five former companions, the more uncomfortable
+                    <p tid="2634">Monks, the closer the Thus-Gone One came to his five former companions, the more uncomfortable
                         they felt in their seats and wanted to stand up. They felt like birds caught in a cage with a fire burning
                         below.</p>
                     <p tid="2635">Just as birds tormented by a fire wish nothing more than to take off quickly and fly away, the
-                        closer the Thus-gone One came to the five companions, the more uncomfortable they felt in their seats and
+                        closer the Thus-Gone One came to the five companions, the more uncomfortable they felt in their seats and
                         wanted to get up. The reason they felt this way is that no living being is able to remain seated when
-                        beholding the Thus-gone One. So the closer the Thus-gone One came to the five companions, <ref cRef="F.196.a"/> the more overwhelming his splendor and radiance became. They began to quiver in their
+                        beholding the Thus-Gone One. So the closer the Thus-Gone One came to the five companions, <ref cRef="F.196.a"/> the more overwhelming his splendor and radiance became. They began to quiver in their
                         seats, and then their prior plan fell apart completely and they all stood up from their seats.</p>
                     <p tid="2636">One went to greet him. One approached him and held his robe and alms bowl. One prepared a seat
                         for him. One made a footrest. One brought water to wash his feet and said, “Welcome, Venerable Gautama!
                         Welcome, Venerable Gautama! Please sit on this seat that we have laid out.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2083"/>
-                    <p tid="2637">Monks, the Thus-gone One indeed sat on the seat that had been arranged, and the five companions,
-                        who tried to make [409] diverse, happy, and pleasing conversation with the Thus-gone One, sat a little
-                        apart. They spoke to the Thus-gone One in the same way the Ājīvika had addressed him earlier:</p>
+                    <p tid="2637">Monks, the Thus-Gone One indeed sat on the seat that had been arranged, and the five companions,
+                        who tried to make [409] diverse, happy, and pleasing conversation with the Thus-Gone One, sat a little
+                        apart. They spoke to the Thus-Gone One in the same way the Ājīvika had addressed him earlier:</p>
                     <p tid="2638">“Venerable Gautama, your senses are calm, and your skin is bright, pure, and of yellow hue. Just
                         as the autumn season, which is white and bright, becomes of yellow hue, so too your senses, Lord Gautama,
                         are bright, and your round face is perfectly pure. Just as when the ripe fruit of the tāla tree is nipped
@@ -16718,7 +16718,7 @@
                         exceedingly bright, just so, Venerable Gautama, are your calmed senses, bright skin color, and your
                         perfectly pure round face. Venerable Gautama, with whom did you practice religion?”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2084"/>
-                    <p tid="2639">The Thus-gone One answered the five companions, “Monks, you should not address the Thus-gone One
+                    <p tid="2639">The Thus-Gone One answered the five companions, “Monks, you should not address the Thus-Gone One
                         ‘venerable,’ meaning ‘long-lived.’ May it not be long before you obtain your goals, welfare, and
                         happiness. Monks, I have actualized immortality and the path that leads to immortality. Monks, I am the
                         awakened one, the omniscient one, the all-seeing one. I have become tranquil and have exhausted all
@@ -16739,26 +16739,26 @@
                         nor a place to rest his legs. We can, however, set up some spare seats and say: “Venerable Gautama, these
                         are spare seats. If you like, you may sit.” ’ ”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2087"/>
-                    <p tid="2642">Monks, as soon as the Thus-gone One had uttered these words, every extremist symbol and banner
+                    <p tid="2642">Monks, as soon as the Thus-Gone One had uttered these words, every extremist symbol and banner
                         that the five companions were wearing disappeared in an instant. Instead they each now found themselves
                         dressed in the three robes of a mendicant with an alms bowl and their head shaven. Even their behavior was
                         as if they had already been ordained for a hundred years. This truly was their “going forth;” this very
                         ordination became the essence of monkhood.</p>
-                    <p tid="2643">Monks, right away the five monks bowed at the Thus-gone One’s feet and confessed their wrong
-                        behavior. In the Thus-gone One’s presence, [410] they developed their recognition of him as their teacher,
-                        as well as their love, devotion, and respect for him. Out of devotion they then gave the Thus-gone One a
+                    <p tid="2643">Monks, right away the five monks bowed at the Thus-Gone One’s feet and confessed their wrong
+                        behavior. In the Thus-Gone One’s presence, [410] they developed their recognition of him as their teacher,
+                        as well as their love, devotion, and respect for him. Out of devotion they then gave the Thus-Gone One a
                         refreshing and cleansing bath in a lotus pond with lotuses of many different colors.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2088"/>
-                    <p tid="2644">Monks, after the Thus-gone One had been refreshed by his bath, he thought to himself, “Where did
+                    <p tid="2644">Monks, after the Thus-Gone One had been refreshed by his bath, he thought to himself, “Where did
                         all the previous thus-gone ones, the worthy ones, the perfect buddhas, turn the wheel of Dharma?” </p>
                     <p tid="2645">Monks, at whichever place the previous thus-gone ones, the worthy ones, turned the wheel of
                         Dharma, at that place there appeared one thousand jewel thrones, made of seven kinds of jewels. Then the
-                        Thus-gone One, out of respect to the thus-gone ones of the past, circumambulated the first three thrones
+                        Thus-Gone One, out of respect to the thus-gone ones of the past, circumambulated the first three thrones
                         and then sat down crossed-legged on the fourth throne like a fearless lion. <ref cRef="F.197.a"/> The five
-                        monks prostrated to the Thus-gone One with their heads at his feet and then sat down before him.</p>
+                        monks prostrated to the Thus-Gone One with their heads at his feet and then sat down before him.</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2089"/>
-                    <p tid="2646">Monks, at that point the Thus-gone One’s body began to emit light rays that filled this
+                    <p tid="2646">Monks, at that point the Thus-Gone One’s body began to emit light rays that filled this
                         trichiliocosm with bright light. This light illuminated the inhabitants of the entire world who were
                         steeped in evil and darkness. The color and brilliance of this light even outshone that of the sun and the
                         moon, those magical planets that are otherwise so highly praised for their great power. The light shone so
@@ -16844,7 +16844,7 @@
                     <milestone unit="chunk" xml:id="UT22084-046-001-2100"/>
                     <lg tid="2657">
                         <l>“All these things have been found today:</l>
-                        <l>The Thus-gone One has appeared, and you have your freedom and faith.</l>
+                        <l>The Thus-Gone One has appeared, and you have your freedom and faith.</l>
                         <l>Hearing the Dharma is the most precious thing</l>
                         <l>For one who renounces all mad carelessness.</l>
                     </lg>
@@ -16867,23 +16867,23 @@
                         <l>Once the great divine voice had called the gods,</l>
                         <l>They at once abandoned their wealth</l>
                         <l>And all appeared</l>
-                        <l>By the side of the Thus-gone One. [413]</l>
+                        <l>By the side of the Thus-Gone One. [413]</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2104"/>
-                    <p tid="2661">Monks, in order for the Thus-gone One to turn the wheel of Dharma at the Deer Park by the Hill
-                        of the Fallen Sages in Vārāṇasī, the earth gods now formed a great circle around the Thus-gone One. The
+                    <p tid="2661">Monks, in order for the Thus-Gone One to turn the wheel of Dharma at the Deer Park by the Hill
+                        of the Fallen Sages in Vārāṇasī, the earth gods now formed a great circle around the Thus-Gone One. The
                         circle was wonderful and beautiful to the eye. It was enormous with a circumference of seven hundred
                         miles, and the gods adorned the sky above it with parasols, victory flags, banners, and canopies.</p>
-                    <p tid="2662">The gods from the desire and form realms then offered to the Thus-gone One eight million four
+                    <p tid="2662">The gods from the desire and form realms then offered to the Thus-Gone One eight million four
                         hundred thousand lion thrones, accompanied by this request: “Please consider us with love and take your
                         seat on this throne. We pray that the Blessed One will then turn the wheel of Dharma.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2105"/>
                     <p tid="2663">Monks, at that time from all directions—east, south, west, and north, above and below—many
                         millions of bodhisattvas who had made previous aspirations for this occasion came forth. They all bowed
-                        down at the feet of the Thus-gone One and requested him to turn the wheel of Dharma. All the powerful gods
+                        down at the feet of the Thus-Gone One and requested him to turn the wheel of Dharma. All the powerful gods
                         in this billionfold universe, such as Śakra, Brahmā, the world protectors, and the other ones with the
-                        title of ‘great lord,’ <ref cRef="F.198.b"/> bowed their heads to the Thus-gone One’s feet. They all
-                        requested the Thus-gone One to turn the wheel of Dharma with these words:</p>
+                        title of ‘great lord,’ <ref cRef="F.198.b"/> bowed their heads to the Thus-Gone One’s feet. They all
+                        requested the Thus-Gone One to turn the wheel of Dharma with these words:</p>
                     <p tid="2664">“May the Blessed One now turn the wheel of Dharma for the benefit and happiness of many beings,
                         for the love of the world, for the well-being and happiness of great numbers of beings, both gods and
                         humans. Bliss-Gone One, please make this offering of Dharma. Lord, please shower the rain of Dharma!
@@ -16898,7 +16898,7 @@
                         of disturbing emotions. Now all the intentions that you nurtured for a hundred eons have been fulfilled.
                         So now please look upon those beings who are without a protector and turn the supreme wheel.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2107"/>
-                    <p tid="2667">The light of the Thus-gone One illuminated hundreds of thousands of buddha realms, causing many
+                    <p tid="2667">The light of the Thus-Gone One illuminated hundreds of thousands of buddha realms, causing many
                         hundreds of sons of the buddhas to arrive miraculously. They offered the Bliss-Gone One manifold and vast
                         offerings and praised his qualities. Then they made this request to his compassionate being:</p>
                     <lg tid="2668">
@@ -16938,7 +16938,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2112"/>
                     <p tid="2673">Monks, at that point a bodhisattva, a great being, known as the One Who Turns the Wheel When the
-                        Intent Is Formed, offered a Dharma wheel to the Thus-gone One. It was an exquisite wheel adorned with all
+                        Intent Is Formed, offered a Dharma wheel to the Thus-Gone One. It was an exquisite wheel adorned with all
                         kinds of jewels, gems, and various other embellishments. It had a hub, a rim, and a thousand spokes. It
                         was adorned with flower garlands, lattices of gold, tassels with bells, and the motifs of an elephant in
                         rut, a filled vase, and a swastika. The wheel was adorned with various marks of auspiciousness,
@@ -16946,14 +16946,14 @@
                         heavens, adorned with fragrant garlands, and rubbed with perfumed ointments.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2113"/>
                     <p tid="2674">In this way it was a wheel as beautiful as can be. It came about through the power of previous
-                        aspirations made as the Bodhisattva had trained. It was truly a suitable offering to the Thus-gone One.
+                        aspirations made as the Bodhisattva had trained. It was truly a suitable offering to the Thus-Gone One.
                             <ref cRef="F.199.b"/> Since all the previous thus-gone ones in succession had accepted this wheel, it
                         possessed the unbroken blessings of all the buddhas. In fact this wheel had previously been turned by all
-                        former thus-gone ones, worthy ones, perfect buddhas, and therefore it was now offered to the Thus-gone One
+                        former thus-gone ones, worthy ones, perfect buddhas, and therefore it was now offered to the Thus-Gone One
                         to turn.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2114"/>
-                    <p tid="2675">Once he had made his offering to the Thus-gone One, the bodhisattva joined his palms and praised
-                        the Thus-gone One with these verses:</p>
+                    <p tid="2675">Once he had made his offering to the Thus-Gone One, the bodhisattva joined his palms and praised
+                        the Thus-Gone One with these verses:</p>
                     <lg tid="2676">
                         <l>“When Dipaṃkara made the prediction for the Pure One,</l>
                         <l>He said, ‘You will become a buddha, a lion among the lions of men.’</l>
@@ -16964,7 +16964,7 @@
                     <lg tid="2677">
                         <l>“Today the best of beings have come here from the ten directions,</l>
                         <l>So many in number that they cannot be counted.</l>
-                        <l>With joined palms they bow at the Thus-gone One’s feet</l>
+                        <l>With joined palms they bow at the Thus-Gone One’s feet</l>
                         <l>And request the joy of the Śākya clan to turn the wheel of Dharma.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2116"/>
@@ -16982,7 +16982,7 @@
                         <l>As everyone looks with a peaceful mind to the Victorious One.”</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2118"/>
-                    <p tid="2680">Monks, the Thus-gone One now spent the first part of the night in silence. During the middle
+                    <p tid="2680">Monks, the Thus-Gone One now spent the first part of the night in silence. During the middle
                         part of the night, he gave an eloquent talk. Finally, during the last part of the night, he summoned the
                         five excellent companions and said:</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2119"/>
@@ -17148,7 +17148,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2149"/>
                     <lg tid="2713">
-                        <l>“The Awakened One, the Thus-gone One, the Self-Arisen One</l>
+                        <l>“The Awakened One, the Thus-Gone One, the Self-Arisen One</l>
                         <l>Has severed this causation within himself.</l>
                         <l>
                             <distinct>Buddha</distinct> can only mean someone who knows all causality;</l>
@@ -17205,7 +17205,7 @@
                         <l>And were liberated from all unfavorable rebirths.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2157"/>
-                    <p tid="2721">Immediately the Thus-gone One’s unbounded voice went out into the ten directions. Its sweet and
+                    <p tid="2721">Immediately the Thus-Gone One’s unbounded voice went out into the ten directions. Its sweet and
                         beautiful sound could be heard throughout the heavens: “The Sage of the Śākyas, endowed with the ten
                         powers, went to the Hill of the Fallen Sages at Vārāṇasī, where he turned the supreme wheel of Dharma.
                         That is what happened.”</p>
@@ -17230,7 +17230,7 @@
                         bodhisattvas, the great beings, who reside in the ten directions of the world, would like to hear from you
                         in person in order to learn how you turn the wheel of Dharma. <ref cRef="F.202.b"/> Therefore, Lord,
                         please be kind enough to explain what kind of wheel is the wheel of Dharma, which has been turned by the
-                        Thus-gone One, the Worthy One, the Perfect Buddha.”</p>
+                        Thus-Gone One, the Worthy One, the Perfect Buddha.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2162"/>
                     <p tid="2726">The Blessed One replied, “Maitreya, the wheel of Dharma is profound because it cannot be grasped
                         by the intellect. This wheel is hard to see because it is beyond duality. This wheel is hard to comprehend
@@ -17259,7 +17259,7 @@
                         a wheel free from the two extreme views in the understanding of interdependence. It is a wheel without
                         disturbance within the realm of phenomena beyond center and edge.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2168"/>
-                    <p tid="2732">“It is a wheel of the effortless and ceaseless activity of the Thus-gone One. It is a wheel
+                    <p tid="2732">“It is a wheel of the effortless and ceaseless activity of the Thus-Gone One. It is a wheel
                         beyond activity and nonactivity. It is a wheel utterly ungraspable. It is a wheel beyond effort and
                         effortlessness, an inexpressible wheel. It is a wheel that is like the nature of phenomena. It is a wheel
                         of entering the sameness of all phenomena within a single sphere.</p>
@@ -17284,8 +17284,8 @@
                         all the buddhas. It is indivisible from all the thus-gone ones.” <ref cRef="B18" type="bampo"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2173"/>
-                    <p tid="2737">“Maitreya, <ref cRef="F.203.b"/> such is the wheel of Dharma that the Thus-gone One turns. It is
-                        when the Thus-gone One turns this wheel that he is called a thus-gone one. Then he is called a perfectly
+                    <p tid="2737">“Maitreya, <ref cRef="F.203.b"/> such is the wheel of Dharma that the Thus-Gone One turns. It is
+                        when the Thus-Gone One turns this wheel that he is called a thus-gone one. Then he is called a perfectly
                         awakened buddha, the one who naturally manifests, lord of Dharma, the guide, the perfect guide, the
                         complete guide, the captain, the one with mastery over all dharmas, and the lord of the Dharma.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2174"/>
@@ -17566,7 +17566,7 @@
                         entire commentarial literature, he has been able to restrain beings in their desire to argue and instead
                         has promoted his own Dharma-precepts in a tactful way. He has established others, such as well-intentioned
                         kings and ministers, on the path of Dharma, which has duly furthered the cause of virtue. In this way he
-                        has upheld the totality of the teaching of the Thus-gone One perfectly and inspired others to practice
+                        has upheld the totality of the teaching of the Thus-Gone One perfectly and inspired others to practice
                         every virtue. For this reason he is the One with Round Shoulders.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2224"/>
                     <p tid="2790">“For so long he has given up all possessions and addressed beggars by pleasant names, whichever
@@ -17604,7 +17604,7 @@
                         fathers, and children. Looking at beggars as if they were his only children, he has been filled with love
                         and compassion and has never disappointed them. With his senses still, he has looked at the memorials of
                         the thus-gone ones with unblinking eyes. He has made a firm resolve to inspire other beings to meet the
-                        Thus-gone One, and therefore he is the One with Deep Blue Eyes. <ref cRef="F.209.b"/>
+                        Thus-Gone One, and therefore he is the One with Deep Blue Eyes. <ref cRef="F.209.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2231"/>
                     <p tid="2797">“For so long he has given up unintelligent and lowly attitudes and instead has applied himself
@@ -17641,7 +17641,7 @@
                         Adversaries.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2236"/>
                     <p tid="2802">“Because he is endowed with the ten powers of the thus-gone ones, he is called the One with the
-                        Ten Powers of a Thus-gone One.<note place="end" index="9" xml:id="UT22084-046-001-3077">In the passsage
+                        Ten Powers of a Thus-Gone One.<note place="end" index="9" xml:id="UT22084-046-001-3077">In the passsage
                             that follows, the translation follows the structure of the Sanskrit rather than the Tibetan.</note>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2237"/>
@@ -17804,7 +17804,7 @@
                         the Dharma in a timely manner.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2276"/>
                     <p tid="2842">“Maitreya, this turning of the wheel of Dharma is merely a brief teaching that praises just a
-                        few of the qualities of the Thus-gone One. Maitreya, to list them in an elaborate manner, the Thus-gone
+                        few of the qualities of the Thus-Gone One. Maitreya, to list them in an elaborate manner, the Thus-Gone
                         One would need an eon or more. And still that would not be enough to list them all.”</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2277"/>
@@ -17968,7 +17968,7 @@
                     <lg tid="2866">
                         <l>“This brief explanation</l>
                         <l>Will set in motion the wheel of Dharma.</l>
-                        <l>This praise of the qualities of the Thus-gone One</l>
+                        <l>This praise of the qualities of the Thus-Gone One</l>
                         <l>Has listed just but a few.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2300"/>
@@ -17984,16 +17984,16 @@
                     <head type="chapter">Chapter 27</head>
                     <head type="chapterTitle">Epilogue</head>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2301"/>
-                    <p tid="2868">The gods, who had requested this Dharma teaching from the Thus-gone One, were now gathered for
+                    <p tid="2868">The gods, who had requested this Dharma teaching from the Thus-Gone One, were now gathered for
                         the turning of the wheel of Dharma. In total there were more than 18,000 divine beings from the Pure
                         Realms, led by such beings as Maheśvara, Nanda, Sunanda, Candana, Mahita, Śānta, Praśānta, and
-                        Vinīteśvara. At that point the Thus-gone One addressed the divine beings, headed by Maheśvara, who had
+                        Vinīteśvara. At that point the Thus-Gone One addressed the divine beings, headed by Maheśvara, who had
                         come from the Pure Realms, in the following way: <ref cRef="F.213.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2302"/>
                     <p tid="2869">“Friends, this sūtra known as<title xml:lang="en"> The Play in Full</title> is a very extensive
                         account of the Bodhisattva’s playful activity. It constitutes an introduction to the play that is the
-                        domain of the Buddha. The Thus-gone One has taught it to introduce himself. [439] So now you should absorb
+                        domain of the Buddha. The Thus-Gone One has taught it to introduce himself. [439] So now you should absorb
                         it, preserve it, and cause it to be retold. In this way, this Dharma-method of mine will spread.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2303"/>
                     <p tid="2870">“When the followers of the Bodhisattva Vehicle hear this teaching, they will develop an
@@ -18077,17 +18077,17 @@
                         misfortune. Other than the ripening of previous actions, my friends, these eight fears will no longer
                         occur.</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2312"/>
-                    <p tid="2879">“Friends, in short, even if the lifespan of the Thus-gone One were to last for an eon, and even
+                    <p tid="2879">“Friends, in short, even if the lifespan of the Thus-Gone One were to last for an eon, and even
                         if he were to praise this Dharma teaching uninterruptedly day and night, he would not be able to end his
                         praise of this Dharma teaching, and his inspired speech would still continue. [443]</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2313"/>
                     <p tid="2880">“Friends, the discipline, absorption, knowledge, liberation, and wisdom vision of liberation of
-                        the Thus-gone One is immeasurable and boundless. For this reason, my friends, if anyone develops the wish
+                        the Thus-Gone One is immeasurable and boundless. For this reason, my friends, if anyone develops the wish
                         that others receive this vast teaching, and subsequently memorizes this Dharma teaching, carries it,
                         propagates it, writes it down, <ref cRef="F.216.a"/> or commissions it to be written, comprehends it, and
                         teaches it elaborately to his congregation, then their merit shall also be boundless.”</p>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2314"/>
-                    <p tid="2881">Then the Thus-gone One announced to venerable Mahākāśyapa, venerable Ānanda, and the bodhisattva
+                    <p tid="2881">Then the Thus-Gone One announced to venerable Mahākāśyapa, venerable Ānanda, and the bodhisattva
                         great being Maitreya:</p>
                     <p tid="2882">“Friends, the unsurpassable and perfect awakening that I have accomplished through limitless
                         billions of eons, I now place in your hands. I entrust you with a supreme entrustment. Now you should keep
@@ -18149,7 +18149,7 @@
                         <l>“This is the king of all good advice</l>
                         <l>Given by all thus-gone ones.</l>
                         <l>Wherever this jewel of a sūtra is found,</l>
-                        <l>In that house the Thus-gone One always resides.</l>
+                        <l>In that house the Thus-Gone One always resides.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-046-001-2323"/>
                     <lg tid="2892">
@@ -18181,7 +18181,7 @@
                             <head type="section">Colophon to the Sanskrit Edition</head>
                             <milestone unit="chunk" xml:id="UT22084-046-001-2327"/>
                             <lg tid="2896">
-                                <l>The Thus-gone One explained the causes</l>
+                                <l>The Thus-Gone One explained the causes</l>
                                 <l>Of those dharmas that have a cause</l>
                                 <l>And also their cessation.</l>
                                 <l>This is the teaching of the Great Ascetic.</l>
@@ -18562,8 +18562,8 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-046-001-2379">
                             <term>Heaven of Great Fruition</term>
-                            <term xml:lang="Bo-Ltn">bras bu che </term>
-                            <term xml:lang="bo">བྲས་བུ་ཆེ།</term>
+                            <term xml:lang="Bo-Ltn">’bras bu che</term>
+                            <term xml:lang="bo">འབྲས་བུ་ཆེ།</term>
                             <term xml:lang="Sa-Ltn">Bṛhatphala</term>
                         </gloss>
                     </item>
@@ -18690,8 +18690,8 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-046-001-2395">
                             <term>Jambū</term>
-                            <term xml:lang="Bo-Ltn">dzam </term>
-                            <term xml:lang="bo">ཛམ།</term>
+                            <term xml:lang="Bo-Ltn">’dzam</term>
+                            <term xml:lang="bo">འཛམ།</term>
                             <term xml:lang="Sa-Ltn">Jambū</term>
                             <term xml:lang="Sa-Ltn">Jāmbū</term>
                         </gloss>
@@ -19608,8 +19608,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2507">
                             <term>Āyustejas</term>
-                            <term xml:lang="Bo-Ltn">brug sgra </term>
-                            <term xml:lang="bo">བྲུག་སྒྲ།</term>
+                            <term xml:lang="Bo-Ltn">’brug sgra</term>
+                            <term xml:lang="bo">འབྲུག་སྒྲ།</term>
                             <term xml:lang="Sa-Ltn">Āyustejas</term>
                         </gloss>
                     </item>
@@ -20460,8 +20460,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2612">
                             <term>Lokābhilāṣita</term>
-                            <term xml:lang="Bo-Ltn">jig rten mngon par smon </term>
-                            <term xml:lang="bo">ཇིག་རྟེན་མངོན་པར་སྨོན།</term>
+                            <term xml:lang="Bo-Ltn">’jig rten mngon par smon </term>
+                            <term xml:lang="bo">འཇིག་རྟེན་མངོན་པར་སྨོན།</term>
                             <term xml:lang="Sa-Ltn">Lokābhilāṣita</term>
                         </gloss>
                     </item>
@@ -20476,15 +20476,15 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2614">
                             <term>Lokasundara</term>
-                            <term xml:lang="Bo-Ltn">jig rten mdzes </term>
-                            <term xml:lang="bo">ཇིག་རྟེན་མཛེས།</term>
+                            <term xml:lang="Bo-Ltn">’jig rten mdzes </term>
+                            <term xml:lang="bo">འཇིག་རྟེན་མཛེས།</term>
                             <term xml:lang="Sa-Ltn">Lokasundara</term>
                         </gloss>
                     </item>
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2615">
                             <term>Lord of Death</term>
-                            <term xml:lang="Bo-Ltn"> gshin rje </term>
+                            <term xml:lang="Bo-Ltn">gshin rje </term>
                             <term xml:lang="bo">གཤིན་རྗེ།</term>
                             <term xml:lang="Sa-Ltn">Yāma</term>
                             <term type="definition">From Vedic times, the <term type="ignore">Lord of Death</term> who directs the departed into the next
@@ -20749,8 +20749,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2647">
                             <term>Meghasvara</term>
-                            <term xml:lang="Bo-Ltn">brug sgra </term>
-                            <term xml:lang="bo">བྲུག་སྒྲ།</term>
+                            <term xml:lang="Bo-Ltn">’brug sgra </term>
+                            <term xml:lang="bo">འབྲུག་སྒྲ།</term>
                             <term xml:lang="Sa-Ltn">Meghasvara</term>
                         </gloss>
                     </item>
@@ -22195,7 +22195,7 @@
                     </item>
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2827">
-                            <term>Thus-gone One</term>
+                            <term>Thus-Gone One</term>
                             <term xml:lang="Bo-Ltn"> de bzhin gshegs pa </term>
                             <term xml:lang="bo">དེ་བཞིན་གཤེགས་པ།</term>
                             <term xml:lang="Sa-Ltn">Tathāgata</term>
@@ -22237,8 +22237,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2832">
                             <term>Udāyin</term>
-                            <term xml:lang="Bo-Ltn">char ’gro </term>
-                            <term xml:lang="bo">ཆར་འགྲོ།</term>
+                            <term xml:lang="Bo-Ltn">’char ’gro </term>
+                            <term xml:lang="bo">འཆར་འགྲོ།</term>
                             <term xml:lang="Sa-Ltn">Udāyin</term>
                         </gloss>
                     </item>
@@ -22616,8 +22616,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-046-001-2880">
                             <term>Vṛddhi</term>
-                            <term xml:lang="Bo-Ltn">phel mo </term>
-                            <term xml:lang="bo">ཕེལ་མོ།</term>
+                            <term xml:lang="Bo-Ltn">’phel mo</term>
+                            <term xml:lang="bo">འཕེལ་མོ།</term>
                             <term xml:lang="Sa-Ltn">Vṛddhi</term>
                         </gloss>
                     </item>

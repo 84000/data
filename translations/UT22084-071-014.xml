@@ -17,7 +17,7 @@
                 <author role="translatorEng">Christian Bernert</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2011 - 2016</date>
+                <edition>v 2.1 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 12/03/2018 at 18:49:32 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:01:05 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

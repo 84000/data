@@ -18,7 +18,7 @@
                 <editor role="editorEng">Andreas Doctor</editor>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2013 - 2016</date>
+                <edition>v 2.1 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -53,7 +53,7 @@
                     <provenance>Buddhist Literary Heritage Project</provenance>-->
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 21/03/2018 at 16:46:49 by andre</note>
+                <note type="lastUpdated">Last updated at 12/04/2018 at 10:37:56 by andre</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1419,9 +1419,9 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-080-009-153">
                             <term>Gö Lhetsé</term>
-                            <term xml:lang="Bo-Ltn">gos lhas btsas </term>
-                            <term xml:lang="bo">གོས་ལྷས་བཙས།</term>
-                            <!--<term xml:lang="Sa-Ltn">-</term>-->
+                            <term xml:lang="Bo-Ltn">’gos lhas btsas </term>
+                            <term xml:lang="bo">འགོས་ལྷས་བཙས།</term>
+                            <term xml:lang="Sa-Ltn"/>
                             <term type="definition">11th century translator and teacher of <title xml:lang="Sa-Ltn">Guhya­samāja­tantra</title>.</term>
                         </gloss>
                     </item>

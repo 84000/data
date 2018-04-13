@@ -17,7 +17,7 @@
                 <author role="translatorEng">Ina Bieler</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2013 - 2016</date>
+                <edition>v 2.1 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/03/2018 at 16:00:08 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:00:14 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1520,8 +1520,8 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-062-018-174">
                             <term>Jambudvīpa</term>
-                            <term xml:lang="Bo-Ltn">dzam bu gling </term>
-                            <term xml:lang="bo">ཛམ་བུ་གླིང་།</term>
+                            <term xml:lang="Bo-Ltn">’dzam bu gling </term>
+                            <term xml:lang="bo">འཛམ་བུ་གླིང་།</term>
                             <term xml:lang="Sa-Ltn">Jambudvīpa</term>
                         </gloss>
                     </item>

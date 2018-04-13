@@ -21,7 +21,7 @@
                 <editor role="editorEng">Vivian Paganuzzi</editor>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2014 - 2016</date>
+                <edition>v 2.1 <date>2014 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/03/2018 at 17:20:56 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:00:27 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -1620,8 +1620,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-066-018-165">
                             <term>cakravartin</term>
-                            <term xml:lang="Bo-Ltn">khor los sgyur ba </term>
-                            <term xml:lang="bo">ཁོར་ལོས་སྒྱུར་བ།</term>
+                            <term xml:lang="Bo-Ltn">’khor los sgyur ba</term>
+                            <term xml:lang="bo">འཁོར་ལོས་སྒྱུར་བ།</term>
                             <term xml:lang="Sa-Ltn">cakravartin</term>
                             <term type="definition">Literally “wheel-wielder,” denotes a powerful being who has control over vast
                                 regions of the universe.</term>
@@ -2093,8 +2093,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-066-018-211">
                             <term>saṃsāra</term>
-                            <term xml:lang="Bo-Ltn">khor ba </term>
-                            <term xml:lang="bo">ཁོར་བ།</term>
+                            <term xml:lang="Bo-Ltn">’khor ba</term>
+                            <term xml:lang="bo">འཁོར་བ།</term>
                             <term xml:lang="Sa-Ltn">saṃsāra</term>
                             <term type="definition">The conditioned realm of cyclic existence in which beings are confined to
                                 perpetual suffering and unsatisfactoriness.</term>
@@ -2311,8 +2311,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-066-018-232">
                             <term>vinaya</term>
-                            <term xml:lang="Bo-Ltn">dul ba </term>
-                            <term xml:lang="bo">དུལ་བ།</term>
+                            <term xml:lang="Bo-Ltn">’dul ba</term>
+                            <term xml:lang="bo">འདུལ་བ།</term>
                             <term xml:lang="Sa-Ltn">vinaya</term>
                             <term type="definition">The collection of monastic rules and regulations.</term>
                         </gloss>

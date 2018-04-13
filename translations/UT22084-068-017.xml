@@ -17,7 +17,7 @@
                 <author role="translatorEng">Casey Kemp</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2013 - 2016</date>
+                <edition>v 2.1 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 21/03/2018 at 12:31:57 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:00:55 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

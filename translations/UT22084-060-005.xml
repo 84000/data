@@ -16,7 +16,7 @@
                 <author role="translatorEng">Robert A. F. Thurman</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.23 <date>2017</date>
+                <edition>v 1.3 <date>2017</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -43,7 +43,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 19/03/2018 at 12:19:29 by andre</note>
+                <note type="lastUpdated">Last updated at 23/03/2018 at 16:57:58 by konchog</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -692,7 +692,7 @@
                     <p tid="60">“Very good, Lord,” replied Ratnākara and the five hundred young Licchavis, and they set themselves
                         to listen.</p>
                     <milestone unit="chunk" xml:id="UT22084-060-005-72"/>
-                    <p tid="61">The Buddha said, “<term type="ignore">Noble</term> sons, a buddhafield of bodhisattvas is a field
+                    <p tid="61">The Buddha said, “<term type="ignore">Noble</term> son, a buddhafield of bodhisattvas is a field
                         of living beings. Why so? A bodhisattva embraces a buddhafield to the same extent that he causes the
                         development of living beings. He embraces a buddhafield to the same extent that living beings become
                         disciplined. He embraces a buddhafield to the same extent that, through entrance into a buddhafield,

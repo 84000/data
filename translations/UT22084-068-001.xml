@@ -17,7 +17,7 @@
                 <author role="translatorEng">Reverend Dr. Chodrung-ma Kunga Chodron</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.1 <date>2011 - 2016</date>
+                <edition>v 1.2 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 21/03/2018 at 07:17:16 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:00:37 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -284,19 +284,19 @@
                     <lg tid="21">
                         <l>Prostrations to the tathāgata Buddha Candraprabha;<note place="end" index="12" xml:id="UT22084-068-001-169">D <foreign xml:lang="Bo-Ltn">zla ’od</foreign>: J C <foreign xml:lang="Bo-Ltn">pad mo dpal gyi</foreign> (Glorious Lotus).</note>
                         </l>
-                        <l>Prostrations to the tathāgata Buddha “Greatly Handsome;”</l>
-                        <l>Prostrations to the tathāgata Buddha “King who is Lord of the World's Orb;”</l>
-                        <l>Prostrations to the tathāgata Buddha “Joyful Eyes;”</l>
+                        <l>Prostrations to the tathāgata Buddha “Greatly Handsome”;</l>
+                        <l>Prostrations to the tathāgata Buddha “King who is Lord of the World's Orb”;</l>
+                        <l>Prostrations to the tathāgata Buddha “Joyful Eyes”;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-26"/>
                         <l>Prostrations to the tathāgata Buddha Sāgaraśrī; <ref cRef="F.3.a"/>
                         </l>
-                        <l>Prostrations to the tathāgata Buddha “Golden Pillar;”</l>
-                        <l>Prostrations to the tathāgata Buddha, “Light of Infinite Good Qualities;”</l>
+                        <l>Prostrations to the tathāgata Buddha “Golden Pillar”;</l>
+                        <l>Prostrations to the tathāgata Buddha, “Light of Infinite Good Qualities”;</l>
                         <l>Prostrations to the tathāgata Buddha “King who is Extremely Exalted by the Precious Majesty Arising
-                            from All Aspirations;”</l>
+                            from All Aspirations”;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-27"/>
-                        <l>Prostrations to the tathāgata Buddha “King of Renowned Melodious Sounds;”</l>
-                        <l>Prostrations to the tathāgata Buddha “Lord of the Ocean that is the Wisdom Vajra;”</l>
+                        <l>Prostrations to the tathāgata Buddha “King of Renowned Melodious Sounds”;</l>
+                        <l>Prostrations to the tathāgata Buddha “Lord of the Ocean that is the Wisdom Vajra”;</l>
                         <l>Prostrations to the tathāgata Buddha Vipaśyin;</l>
                         <l>Prostrations to the tathāgata Buddha Śikhin;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-28"/>
@@ -362,16 +362,16 @@
                         <l>Prostrations to the bodhisattvas, mahāsattvas, illuminators;</l>
                         <l>Prostrations to the bodhisattva of the east, Samantaprabha;</l>
                         <l>Prostrations to the bodhisattva of the southern direction, Aśokadatta;</l>
-                        <l>Prostrations to the bodhisattva of the west, “Intelligence in Conduct;”</l>
+                        <l>Prostrations to the bodhisattva of the west, “Intelligence in Conduct”;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-36"/>
                         <l>Prostrations to the bodhisattva of the north, Jayadatta;</l>
                         <l>Prostrations to the bodhisattva of the northeast, Vijaya­vikrāmin;</l>
                         <l>Prostrations to the bodhisattva of the southeast, Padmapāṇi;</l>
                         <l>Prostrations to the bodhisattva of the southwest, Sūrya­prabha;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-37"/>
-                        <l>Prostrations to the bodhisattva of the northwest, “Exalted Jewel;”</l>
+                        <l>Prostrations to the bodhisattva of the northwest, “Exalted Jewel”;</l>
                         <l>Prostrations to the bodhisattva of the nadir, Padmottara;</l>
-                        <l>Prostrations to the bodhisattva of the zenith, “Given by Joy;”</l>
+                        <l>Prostrations to the bodhisattva of the zenith, “Given by Joy”;</l>
                         <l>Prostrations to the bodhisattva Lord Avalokiteśvara;</l>
                         <milestone unit="chunk" xml:id="UT22084-068-001-38"/>
                         <l>Prostrations to the bodhisattva Maitreya;</l>
@@ -1169,8 +1169,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-068-001-139">
                             <term>King who is Lord of the World's Orb</term>
-                            <term xml:lang="Bo-Ltn">jig rten gyi dkyil ’khor dbang po’i rgyal po </term>
-                            <term xml:lang="bo">ཇིག་རྟེན་གྱི་དཀྱིལ་འཁོར་དབང་པོའི་རྒྱལ་པོ།</term>
+                            <term xml:lang="Bo-Ltn">’jig rten gyi dkyil ’khor dbang po’i rgyal po </term>
+                            <term xml:lang="bo">འཇིག་རྟེན་གྱི་དཀྱིལ་འཁོར་དབང་པོའི་རྒྱལ་པོ།</term>
                             <term xml:lang="Sa-Ltn"/>
                             <term type="definition">A buddha.</term>
                         </gloss>

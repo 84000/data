@@ -17,7 +17,7 @@
                 <author role="translatorEng">Andreas Doctor</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.01 <date>2016</date>
+                <edition>v 1.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 18/03/2018 at 10:35:03 by andre</note>
+                <note type="lastUpdated">Last updated at 23/03/2018 at 15:54:13 by konchog</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -54,10 +54,10 @@
             <div type="summary">
                 <head type="summary">Summary</head>
                 <milestone unit="chunk" xml:id="UT22084-055-004-1"/>
-                <p tid="1">In this sūtra the Buddha Śākyamuni explains how to attain the absorption known as “the illusory
+                <p tid="1">In this sūtra Buddha Śākyamuni explains how to attain the absorption known as “the illusory
                     absorption,” a meditative state so powerful that it enables awakening to be attained very quickly. He also
                     teaches that this absorption has been mastered particularly well by two bodhisattvas, Avalokiteśvara and
-                    Mahā­sthāmprāpta, who live in Sukhāvatī, the distant realm of the Buddha Amitābha. The Buddha Śākyamuni
+                    Mahā­sthāmprāpta, who live in Sukhāvatī, the distant realm of Buddha Amitābha. Buddha Śākyamuni
                     summons these two bodhisattvas to this world and, when they arrive, recounts the story of how they first
                     engendered the mind of awakening. Finally the Buddha reveals the circumstances surrounding the future
                     awakening of Avalokiteśvara and Mahā­sthāmprāpta.</p>
@@ -96,7 +96,7 @@
                     <p tid="6">As is customary in sūtra literature, the Buddha delivers his Dharma talks at the request of someone
                         who poses a particular question and asks for clarification. In this particular sūtra, the role of the
                         questioner is played by a bodhisattva named Padmaśrīgarbha, who asks the Buddha how one can attain a
-                        particular type of absorption known as <distinct>the illusory absorption</distinct> and, after attaining
+                        particular type of absorption known as “the illusory absorption” and, after attaining
                         that absorption, quickly attain complete awakening. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-6"/>
                     <p tid="7">The Buddha is pleased with this request and praises Padmaśrīgarbha for asking such a meaningful
@@ -126,7 +126,7 @@
                         Amitābha about the origin of this light, he reveals that it is being emitted by Buddha Śākyamuni to
                         indicate that a Dharma teaching will shortly be delivered. Avalokiteśvara and Mahā­sthāmprāpta request
                         permission to attend the teaching, and Amitābha encourages them to go. The two bodhisattvas bring with
-                        them on the journey no less than 840 million other bodhisattvas, who each manifest a beautiful mansion as
+                        them on the journey no fewer than 840 million other bodhisattvas, who each manifest a beautiful mansion as
                         an offering to the Buddha Śākyamuni. Avalokiteśvara and Mahā­sthāmprāpta multiply this offering by
                         emanating 840 million exact copies within each mansion, thus producing a mind-boggling display of gifts. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-10"/>
@@ -183,7 +183,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-17"/>
                     <p tid="18">No Sanskrit version of the text is known to exist, but in addition to this Tibetan translation the
                         sūtra survives in two earlier Chinese translations. The Tibetan translation, by Surendrabodhi and Bandé
-                        Yeshé Dé, must have been completed in the early translation period, as it is listed in both early 9th
+                        Yeshé Dé, must have been completed in the early translation period, as it is listed in both early ninth
                         century inventories, the Denkarma (<title xml:lang="Bo-Ltn">ldan dkar ma</title>) and Phangthangma (<title xml:lang="Bo-Ltn">phang thang ma</title>). According to the catalogues of both the Degé and Narthang
                         Kangyurs, the sūtra has nine chapters or sections (<foreign xml:lang="Bo-Ltn" type="term">le’u</foreign>),
                         and the Narthang catalogue mentions that the existence of nine <foreign xml:lang="Bo-Ltn" type="term">le’u</foreign> is mentioned by the Great Fifth Dalai Lama in the list of texts of which he received
@@ -191,7 +191,7 @@
                         section breaks can be seen in the Tibetan text as preserved in the different Kangyurs, and it would be
                         unusual for a relatively short text such as this to be divided into formally distinct chapters. It may be
                         that in this and similar catalogue entries<note place="end" index="1" xml:id="UT22084-055-004-244">See,
-                            for example, Dharmachakra 2016, Introduction <ref target="http://read.84000.co/translation/UT22084-056-002.html#UT22084-056-002-9">I.7</ref>.</note>
+                            for example, Dharmachakra 2016, Introduction <ref target="http://read.84000.co/translation/UT22084-056-002.html#UT22084-056-002-9">i.7</ref>.</note>
                         the term <foreign type="term" xml:lang="Bo-Ltn">le’u</foreign> is being used to denote “episodes” or
                         “scenes,” rather than in its more usual sense of chapters; it would not be impossible to discern nine or
                         more parts to the narrative in this text.</p>
@@ -243,11 +243,11 @@
                         concerns. Padmaśrīgarbha, ask the Thus-Gone One, the worthy, completely perfect Buddha, whatever you wish,
                         and I will address your questions, so that you may feel at ease.<!--/modularPassage-->” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-22"/>
-                    <p tid="24">The bodhisattva great being Padmaśrīgarbha asked the Blessed One, “Blessed One, how is it that a
-                        bodhisattva great being renders irreversible his progress to unsurpassed and completely perfect awakening,
-                        comes to possess the five types of clairvoyance, and attains the illusory absorption? How is it that, as
-                        soon as he attains that absorption, he emanates whatever bodies in whatever way will perfect sentient
-                        beings’ roots of virtue, and teaches the Dharma according to sentient beings’ inclinations? How does he
+                    <p tid="24">The bodhisattva great being Padmaśrīgarbha asked the Blessed One, “Blessed One, how is it that
+                        bodhisattva great beings render irreversible theeir progress to unsurpassed and completely perfect awakening,
+                        come to possess the five types of clairvoyance, and attain the illusory absorption? How is it that, as
+                        soon as they attain that absorption, they emanate whatever bodies in whatever way will perfect sentient
+                        beings’ roots of virtue, and teach the Dharma according to sentient beings’ inclinations? How do they
                         quickly awaken to unsurpassed and completely perfect buddhahood?” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-23"/>
                     <p tid="25">The Blessed One said to the bodhisattva great being Padmaśrīgarbha, <ref cRef="F.211.b"/>
@@ -259,16 +259,16 @@
                         as the Blessed One had directed him. </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-24"/>
-                    <p tid="27">The Blessed One said, “Padmaśrīgarbha, there is one quality that, if a bodhisattva great being
-                        possesses it, renders irreversible his progress to unsurpassed and completely perfect awakening, and
-                        grants him the five types of clairvoyance and the illusory absorption. Moreover, as soon as he attains
-                        that absorption, he emanates whatever bodies in whatever way will perfect sentient beings’ roots of
-                        virtue, teaches the Dharma according to sentient beings’ inclinations, and quickly awakens to unsurpassed
+                    <p tid="27">The Blessed One said, “Padmaśrīgarbha, there is one quality that, if bodhisattva great beings
+                        possess it, renders irreversible their progress to unsurpassed and completely perfect awakening, and
+                        grants them the five types of clairvoyance and the illusory absorption. Moreover, as soon as they attain
+                        that absorption, they emanate whatever bodies in whatever way will perfect sentient beings’ roots of
+                        virtue, teach the Dharma according to sentient beings’ inclinations, and quickly awaken to unsurpassed
                         and completely perfect buddhahood. </p>
-                    <p tid="28">“What is that single quality? Padmaśrīgarbha, the bodhisattva must not abide anywhere in the three
-                        realms, neither abiding internally nor externally. As he does not abide, he will see reality. As he sees
-                        reality, he will unite with reality. As he unites with reality, nothing will impede his mind. As nothing
-                        impedes his mind, he will engage in authentic conduct. </p>
+                    <p tid="28">“What is that single quality? Padmaśrīgarbha, those bodhisattvas must not abide anywhere in the three
+                        realms, neither abiding internally nor externally. As they do not abide, they will see reality. As they see
+                        reality, they will unite with reality. As they unite with reality, nothing will impede their mind. As nothing
+                        impedes their mind, they will engage in authentic conduct. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-25"/>
                     <p tid="29">“What does it mean to engage in authentic conduct? It is as follows. <ref cRef="F.212.a"/> All
                         phenomena arise in dependence. There is no phenomenon that can remain constantly. All phenomena arise from
@@ -280,13 +280,13 @@
                         are also utterly empty. The realization that all phenomena are empty is the attainment of the illusory
                         absorption. </p>
                     <p tid="30">“As soon as one attains this absorption, one emanates whatever bodies in whatever way will perfect
-                        sentient beings’ roots of virtue, and teaches the Dharma according to sentient beings’ inclinations. In
+                        sentient beings’ roots of virtue, and one teaches the Dharma according to sentient beings’ inclinations. In
                         this way, one quickly awakens to unsurpassed and completely perfect buddhahood.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-26"/>
                     <p tid="31">The bodhisattva great being Padmaśrīgarbha asked the Blessed One, “Blessed One, is there any
                         bodhisattva great being here in this gathering who has attained this illusory absorption?” </p>
-                    <p tid="32">The Blessed One replied, “Padmaśrīgarbha, there are sixty holy beings here in this gathering who
+                    <p tid="32">“Padmaśrīgarbha,” replied the Blessed One, “there are sixty holy beings here in this gathering who
                         intentionally wear the armor and who have attained the illusory absorption. There are sixty holy beings,
                         including the bodhisattva great beings Maitreya and Mañjuśrī Kumārabhūta, who have attained this illusory
                         absorption.” </p>
@@ -306,17 +306,17 @@
                         many bodhisattva great beings who attained the illusory absorption in that buddha realm. Blessed One, the
                         reason is that the bodhisattva great beings who are born in that buddha realm can engage in Dharma
                         conversations with those two holy beings without any effort.” </p>
-                    <p tid="36">The Blessed One said, “Padmaśrīgarbha, it is exactly as you say. The bodhisattva great beings who
+                    <p tid="36">“Padmaśrīgarbha, it is exactly as you say,” said the Blessed One. “The bodhisattva great beings who
                         abide there within the illusory absorption are indeed limitless and countless.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-29"/>
-                    <p tid="37">The bodhisattva great being Padmaśrīgarbha said to the Blessed One, “Blessed One, <ref cRef="F.213.a"/> thus-gone, worthy, completely perfect Buddha, please use your miraculous powers to
+                    <p tid="37">The bodhisattva great being Padmaśrīgarbha implored the Blessed One, “Blessed One, <ref cRef="F.213.a"/> thus-gone, worthy, completely perfect Buddha, please use your miraculous powers to
                         show a mental sign by which the two holy beings will come to this Sahā world, and the whole Sukhāvatī
                         world together with the Thus-Gone, worthy, completely perfect Buddha Amitābha will also arrive here in
                         this world. The reason is, Blessed One, that if those two holy beings come to this buddha realm, the sons
                         and daughters of noble family who follow the vehicle of the bodhisattvas will perfect their roots of
                         virtue. They will hear the Dharma talks of those two holy beings, and they, too, will thereby attain the
                         illusory absorption. Here in this buddha realm they will be able to behold Sukhāvatī as well as the
-                        Thus-Gone, worthy, completely perfect buddha Amitābha. Witnessing that, the sons and daughters of noble
+                        Thus-Gone, worthy, completely perfect Buddha Amitābha. Witnessing that, the sons and daughters of noble
                         family will arouse the mind of unsurpassed and completely perfect awakening. They will make aspirations to
                         be born in that buddha realm and, as soon as they are born there, they will render irreversible their
                         progress to unsurpassed and completely perfect awakening.” </p>
@@ -348,7 +348,7 @@
                         without any strain, from this world and this buddha realm they saw the Thus-Gone, worthy, completely
                         perfect Buddha Amitābha, as well as the world of Sukhāvatī, which appeared in a great display of fine
                         features, filled with trillions of qualities. Witnessing it, they were filled with joy and great
-                        happiness, and said, “Homage to the Blessed One, the thus-gone, worthy, completely perfect Buddha
+                        happiness, and exclaimed, “Homage to the Blessed One, the thus-gone, worthy, completely perfect Buddha
                         Amitābha!” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-33"/>
                     <p tid="41">When that buddha realm was shown to them, 84,000 beings here in this buddha realm, who had not
@@ -371,14 +371,14 @@
                         their heads to the Blessed One’s feet, they respectfully stood to one side. Standing together, the two
                         holy beings said to the Blessed One, “The Blessed One, the thus-gone, worthy, completely perfect Buddha
                         Śākyamuni has attained very stable powers. Blessed One, it is amazing. Blissful One, it is amazing. Why?
-                        Blessed One, it is like this. When so much as the name of the Blessed One, thus-gone, worthy, completely
+                        Blessed One, it is like this. When so much as the name of the Blessed One, the thus-gone, worthy, completely
                         perfect Buddha Śākyamuni was pronounced, even this inanimate earth shook in six ways.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-35"/>
                     <p tid="45">The Thus-Gone Amitābha said to the two holy beings, “Sons of noble family, not only was the name
-                        of the Blessed One, thus-gone, worthy, completely perfect Buddha Śākyamuni pronounced in this buddha
+                        of the Blessed One, the thus-gone, worthy, completely perfect Buddha Śākyamuni pronounced in this buddha
                         realm, the name of that Blessed One was also pronounced in many other buddha realms. Those buddha realms,
                         too, all shook in six ways when touched by that light. In those buddha realms, limitless and countless
-                        beings heard the name of the Thus-Gone One Śākyamuni, <ref cRef="F.215.a"/> and thereby perfected their
+                        beings heard the name of the Thus-Gone Śākyamuni, <ref cRef="F.215.a"/> and thereby perfected their
                         roots of virtue and rendered irreversible their progress to unsurpassed and completely perfect awakening.
                         Then, from among the assembly of bodhisattvas, four hundred million bodhisattvas heard the name of the
                         Blessed One, the thus-gone Śākyamuni. When they heard it, they all gathered and, in a single voice,
@@ -396,8 +396,8 @@
                     <p tid="47">The Thus-Gone Amitābha said to the two holy beings, “Sons of noble family, what you say is true.
                         That Blessed One would not send forth such a wonderful and beautiful light without any causes and
                         conditions. And why? Because the Blessed One, the thus-gone, worthy, completely perfect Buddha Śākyamuni,
-                        is about to deliver a Dharma teaching on how to accomplish the precious absorption known as <distinct>the
-                            bodhisattvas’ application</distinct>. That is why <ref cRef="F.215.b"/> the Blessed One Śākyamuni
+                        is about to deliver a Dharma teaching on how to accomplish the precious absorption known as ‘the
+                        bodhisattvas’ application.’ That is why <ref cRef="F.215.b"/> the Blessed One Śākyamuni
                         emitted this wonderful and beautiful light as an omen of that Dharma teaching.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-38"/>
                     <p tid="48">Then the bodhisattva great being Avalokiteśvara and the bodhisattva great being Mahā­sthāmprāpta
@@ -420,7 +420,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-40"/>
                     <p tid="51">As soon as the two holy beings had spoken these words, all of the bodhisattva great beings in the
                         world of Sukhāvatī assembled and said in a single voice, “Blessed One, any being who even hears the name
-                        of the Blessed One, thus-gone Śākyamuni, reaches excellent attainments. That being so, what need is there
+                        of the Blessed One, the thus-gone Śākyamuni, reaches excellent attainments. That being so, what need is there
                         to mention those who actually see him with their physical eyes and engender faith? Blessed One, we shall
                         also travel to the Sahā world in order to behold, honor, venerate, and serve the Blessed One, the
                         thus-gone, worthy, completely perfect Buddha Śākyamuni, and also to hear his Dharma teaching.” </p>
@@ -439,14 +439,14 @@
                         gold, silver, beryl, crystal, and red pearl; some mansions were made of combinations of gold, silver,
                         beryl, crystal, red pearl, and coral; some mansions were made of combinations of gold, silver, beryl,
                         crystal, red pearl, coral, and emerald; some mansions were made of red sandalwood; some were made of
-                        uragasāra sandalwood; some were made of aloe wood and sandalwood; some were made of black aloe wood and
+                        uragasāra sandalwood; some were made of aloeswood and sandalwood; some were made of black aloeswood and
                         sandalwood; some mansions were made of all types of sandalwood; some mansions were made of blue lotuses,
                         pink lotuses, water lily, and white lotuses; some mansions were made of flowers of nutmeg, jasmine,
                         magnolia, pāṭalam, mountain ebony, aloe flower, and gotaraṇi; some mansions were made of danuskari
                         flowers; some mansions were made of māndārava and mahāmāndārava flowers; some mansions were made of
                         flowers of pāruṣaka, mahāpāruṣaka, mañjuṣaka, mahāmañjuṣaka, roca, mahāroca, cakra, mahācakra, sarvacakra,
                         atyartha­śobhati­cakra, candra, mahācandra, atyartha­śobhati­candra, paramacandra, sthāla, and mahāsthāla;
-                            <ref cRef="F.217.a"/> some mansions were made of all types of flowers; some were made of flowers of
+                            <ref cRef="F.217.a"/> some mansions were made of all types of flowers; and some were made of flowers of
                         various colors, multiple colors, hundreds of thousands of colors, beautiful, pure, and shining. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-42"/>
                     <p tid="54">In each mansion were emanated 84,000 goddesses. Some of the goddesses held conches, drums, clay
@@ -454,8 +454,8 @@
                         up reed pipes, one-stringed lutes, and three-stringed lutes. In this way they were playing instruments,
                         singing songs, and making music in abundance. Some goddesses were holding vessels of powdered red
                         sandalwood; some goddesses were holding vessels of powdered uragasāra sandalwood; some goddesses were
-                        holding vessels of powdered aloe wood and sandalwood; some goddesses were holding vessels of powdered
-                        black aloe wood and sandalwood; some goddesses were holding vessels of all types of powdered sandalwood;
+                        holding vessels of powdered aloeswood and sandalwood; some goddesses were holding vessels of powdered
+                        black aloeswood and sandalwood; some goddesses were holding vessels of all types of powdered sandalwood;
                         some goddesses were holding vessels of powdered blue lotuses, pink lotuses, water lilies, and white
                         lotuses; some goddesses were holding vessels of powdered flowers of māndārava, mahāmāndārava, pāruṣaka,
                         mahāpāruṣaka, mañjuṣaka, mahāmañjuṣaka, roca, mahāroca, cakra, mahācakra, sarvacakra,
@@ -494,7 +494,7 @@
                         This great display of qualities was absolutely resplendent. The light that shone from the mansions
                         pervaded this entire trichiliocosm. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-45"/>
-                    <p tid="58">Then the two bodhisattvas went before the Blessed One, the thus-gone, the worthy, completely
+                    <p tid="58">Then the two bodhisattvas went before the Blessed One, the thus-gone, worthy, completely
                         perfect Buddha Śākyamuni. They prostrated with their heads at the feet of the Blessed One, the thus-gone,
                         the worthy, completely perfect Buddha Śākyamuni, and circumambulated him three times before standing off
                         to one side. As they stood there, those two holy beings, <ref cRef="F.218.b"/> in a single tune and a
@@ -554,7 +554,7 @@
                     <lg tid="66">
                         <l>“In some other realms you manifest in the form of space;</l>
                         <l>Likewise, in other realms you blaze in the form of fire and flames.</l>
-                        <l>You manifest by filling other realms with water;</l>
+                        <l>You manifest by filling other realms with water—</l>
                         <l>These emanations are the domain of omniscient wisdom.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-54"/>
@@ -605,7 +605,7 @@
                         </l>
                         <l>Focused in supreme and precious all-pervasive concentration.</l>
                         <l>In order to defeat all the hordes of extremists,</l>
-                        <l>You, a pure being, went to the foot of the bodhi tree.</l>
+                        <l>You, a pure being, went to the foot of the Bodhi tree.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-61"/>
                     <lg tid="74">
@@ -623,7 +623,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-63"/>
                     <lg tid="76">
-                        <l>“Heroic Sage, to some you showed the taming of Māra and his armies.</l>
+                        <l>“Heroic Sage, to some you showed the taming of Māra and his armies,</l>
                         <l>And did what no one else out of all the extremist hosts has done:</l>
                         <l>You attained immaculate omniscience beyond nirvāṇa,</l>
                         <l>And turned the unsurpassable and unchanging wheel.</l>
@@ -632,7 +632,7 @@
                     <lg tid="77">
                         <l>“Over many billions of eons you discovered awakening;</l>
                         <l>On all paths you turned the wheel.</l>
-                        <l>Lord of men, like a moon reflected in water, you appear to all;</l>
+                        <l>Lord of Men, like a moon reflected in water, you appear to all;</l>
                         <l>Self-Originated Blissful One in infinite places, we prostrate to you.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-65"/>
@@ -645,7 +645,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-66"/>
                     <lg tid="79">
                         <l>“To some you say, ‘In no time at all, you will be separated from your loved ones,</l>
-                        <l>So it is no good for you to put your trust in this compounded world;’</l>
+                        <l>So it is no good for you to put your trust in this compounded world.’</l>
                         <l>And thus you show them how all beings are like a dream, an illusion, a mirage,</l>
                         <l>And impermanent, unstable, and momentary.</l>
                     </lg>
@@ -671,11 +671,10 @@
                         <l>The assemblies of sons of the victorious ones, hearers,</l>
                         <l>And <term>circumstantial victorious ones</term>
                             <note place="end" index="4" xml:id="UT22084-055-004-247">
-                                <foreign xml:lang="Bo-Ltn" type="term">rkyen gyi rgyal ba</foreign>, a term that from the context
-                                is very likely a synonym of <foreign xml:lang="Sa-Ltn" type="term">pratyeka­buddha</foreign>
+                                <foreign xml:lang="Bo-Ltn" type="term">rkyen gyi rgyal ba</foreign>, a term that from the context is very likely a synonym of <foreign xml:lang="Sa-Ltn" type="term">pratyeka­buddha</foreign>
                                     (<foreign xml:lang="Bo-Ltn" type="term">rang sangs rgyas</foreign>). The term is found only in
                                 one other canonical text, the <title xml:lang="Sa-Ltn">Sūrya­garbha­mahā­vaipulya­sūtra</title>
-                                (Toh 257). The Sanskrit equivalent would be <foreign xml:lang="Sa-Ltn" type="term">pratyaya­jina</foreign>, which is rare or unknown, but <foreign xml:lang="Sa-Ltn" type="term">pratyaya­buddha</foreign> is well attested. Norman (1997), p 87), has argued that <foreign xml:lang="Sa-Ltn" type="term">pratyaya­buddha</foreign>, or <foreign xml:lang="pi" type="term">pacceya­buddha</foreign> in Pali, may have been the original, more correct form of <foreign xml:lang="Sa-Ltn" type="term">pratyeka­buddha</foreign>.</note> cannot comprehend it.</l>
+                                (Toh 257). The Sanskrit equivalent would be <foreign xml:lang="Sa-Ltn" type="term">pratyaya­jina</foreign>, which is rare or unknown, but <foreign xml:lang="Sa-Ltn" type="term">pratyaya­buddha</foreign> is well attested. Norman (1997, p. 87) has argued that <foreign xml:lang="Sa-Ltn" type="term">pratyaya­buddha</foreign>, or <foreign xml:lang="pi" type="term">pacceya­buddha</foreign> in Pali, may have been the original, more correct form of <foreign xml:lang="Sa-Ltn" type="term">pratyeka­buddha</foreign>.</note> cannot comprehend it.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-70"/>
                     <lg tid="83">
@@ -693,8 +692,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-72"/>
                     <p tid="85">When the bodhisattva great being Avalokiteśvara and the bodhisattva great being Mahā­sthāmprāpta
-                        had praised the Blessed One with these fitting verses, they asked the Blessed One about his health, saying
-                        “The Blessed One, thus-gone, worthy, completely perfect Buddha Amitābha is asking if the Blessed One is in
+                        had praised the Blessed One with these fitting verses, they asked the Blessed One about his health, saying,
+                        “The Blessed One, the thus-gone, worthy, completely perfect Buddha Amitābha is asking if the Blessed One is in
                         good health. Are you free from any misfortune and agitation? Are you enjoying good health and well-being?” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-73"/>
                     <p tid="86">They also said, “Hearers of the Blessed One, behold how delightful the world has become.” </p>
@@ -716,7 +715,8 @@
                     <p tid="90">Padmaśrīgarbha exclaimed, “Because of their power, this Sahā world is now filled and adorned with
                         these many jewel mansions. The perfection of the aspirations and roots of virtue of these two holy beings
                         is inconceivable! Blessed One, it is amazing! Blissful One, it is truly amazing!” </p>
-                    <p tid="91">The Blessed One said, <ref cRef="F.221.a"/> “Padmaśrīgarbha, it is just as you say. For
+                    <p tid="91">
+                        <ref cRef="F.221.a"/> “Padmaśrīgarbha, it is just as you say,” said the Blessed One. “For
                         innumerable trillions of eons, these two holy beings have perfected the roots of virtue. Padmaśrīgarbha,
                         these two holy beings have attained the illusory absorption. As they abide within the illusory absorption,
                         they can demonstrate such miraculous emanations. Padmaśrīgarbha, when you look toward the east, what do
@@ -726,7 +726,7 @@
                         eye of a bodhisattva, he saw as many buddha realms as there are grains of sand in the river Ganges, with
                         as many blessed buddhas as there are grains of sand in the river Ganges. At the feet of all of those
                         blessed buddhas were the bodhisattva great being Avalokiteśvara and the bodhisattva great being
-                        Mahā­sthāmprāpta, prostrating and inquiring about their health, saying, “The Blessed One, thus-gone,
+                        Mahā­sthāmprāpta, prostrating and inquiring about their health, saying, “The Blessed One, the thus-gone,
                         worthy, completely perfect Buddha Amitābha is asking if the Blessed One is in good health. Are you free
                         from any misfortune and agitation? Are you enjoying good health and well-being?” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-77"/>
@@ -759,7 +759,7 @@
                         had advised. </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-80"/>
-                    <p tid="99">The Blessed One continued, “Padmaśrīgarbha, previously, in times past, an inconceivable number of
+                    <p tid="99">“Padmaśrīgarbha,” continued the Blessed One, “previously, in times past, an inconceivable number of
                         eons ago, an endless number of eons ago, at a time stretching further back than any number of eons, a
                         number of eons so great that the number of atoms found in 100,000 worlds—all the limitless and
                         inconceivable number of such atoms—would not equal the number of eons, there was a world called Boundless
@@ -768,11 +768,11 @@
                         the world, an unsurpassed charioteer who trained beings, and a teacher of gods and men. His name was
                         Blessed Buddha King of the Golden-Hued Lion’s Play. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-81"/>
-                    <p tid="100"> “Padmaśrīgarbha, in the buddha realm of the Blessed One, thus-gone, worthy, completely perfect
-                        Buddha, King of the Golden-Hued Lion’s Play, there was a display of precious qualities. I will only give
+                    <p tid="100"> “Padmaśrīgarbha, in the buddha realm of the Blessed One, the thus-gone, worthy, completely perfect
+                        Buddha King of the Golden-Hued Lion’s Play, there was a display of precious qualities. I will only give
                         you a mere illustration of this, just to mention a few of the qualities, so listen. Padmaśrīgarbha, tell
-                        me, are there many displays of precious qualities in the buddha realm of the Blessed One, thus-gone,
-                        worthy, completely perfect Buddha, Amitābha?” </p>
+                        me, are there many displays of precious qualities in the buddha realm of the Blessed One, the thus-gone,
+                        worthy, completely perfect Buddha Amitābha?” </p>
                     <p tid="101">Padmaśrīgarbha replied, “Blessed One, there are indeed—inconceivably many. They are limitless,
                         and it would not be easy to describe them in words.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-82"/>
@@ -783,21 +783,21 @@
                     <p tid="103">Padmaśrīgarbha replied, “Blessed One, the extracted water would be less. The amount remaining is
                         measureless.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-83"/>
-                    <p tid="104">The Blessed One said, “Padmaśrīgarbha, think about this and understand it. The amount of water
+                    <p tid="104">“Padmaśrīgarbha, think about this and understand it,” said the Blessed One. “The amount of water
                         extracted from the ocean in a single drop by that person using a hundredth of a hair tip represents the
-                        displays of precious qualities in the buddha realm of the Blessed One, thus-gone, worthy, completely
+                        displays of precious qualities in the buddha realm of the Blessed One, the thus-gone, worthy, completely
                         perfect Buddha Amitābha, while the body of water remaining in the ocean represents the displays of
                         precious qualities in Boundless Accumulation of Precious Qualities and Full Display of Happiness, the
-                        buddha realm of the Blessed One, thus-gone, worthy, completely perfect Buddha, King of the Golden-Hued
+                        buddha realm of the Blessed One, the thus-gone, worthy, completely perfect Buddha, King of the Golden-Hued
                         Lion’s Play. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-84"/>
                     <p tid="105">“His saṅgha of hearers was also endless. Right now the Thus-Gone Amitābha’s saṅgha of hearers is
-                        said to be boundless, but the saṅgha of hearers belonging to the Blessed One, thus-gone, worthy,
+                        said to be boundless, but the saṅgha of hearers belonging to the Blessed One, the thus-gone, worthy,
                         completely perfect Buddha, King of the Golden-Hued Lion’s Play, was a hundred thousand times larger than
                         that. His saṅgha of bodhisattvas was also of comparable size. That blessed, thus-gone one taught the
                         Dharma exclusively within the three vehicles. Padmaśrīgarbha, even if I had as many eons as there are
                         grains of sand in the Ganges River to describe the display of precious qualities in the buddha realm of
-                        the Blessed One, thus-gone, worthy, completely perfect Buddha, King of the Golden-Hued Lion’s Play, as
+                        the Blessed One, the thus-gone, worthy, completely perfect Buddha, King of the Golden-Hued Lion’s Play, as
                         well as the display of qualities of his hearers and the causes for their happiness, I would not run out of
                         things to say, and I would be unable to complete my description of the display of qualities in that buddha
                         realm. </p>
@@ -811,7 +811,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-86"/>
                     <p tid="107">Then the bodhisattva Padmaśrīgarbha asked the Blessed One, “Blessed One, were there no women in
                         that buddha realm?” </p>
-                    <p tid="108">The Blessed One answered, “No, Padmaśrīgarbha, there were not. In that buddha realm not even the
+                    <p tid="108">“No, Padmaśrīgarbha, there were not,” answered the Blessed One. “In that buddha realm not even the
                         word ‘woman’ was heard. All those young princes had been born out of chastity. They were all born in a
                         miraculous manner. All those beings sustained themselves on the joy of concentration and the joy of the
                         Dharma, and in that buddha realm there was no gross type of food. Padmaśrīgarbha, King Glorious Splendor
@@ -830,18 +830,18 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-88"/>
                     <p tid="110">“Padmaśrīgarbha, bodhisattvas will dedicate any root of virtue that has been created, even a
                         single instance of the thought of awakening, so that it becomes boundless. You may wonder how dedication
-                        can make it boundless. Well, at the time a bodhisattva dedicates that root of merit to all sentient
-                        beings, the non-birth of all those sentient beings is actualized, and it is through his passing into the
+                        can make it boundless. Well, at the time bodhisattvas dedicate that root of merit to all sentient
+                        beings, the non-birth of all those sentient beings is actualized, and it is through their passing into the
                         parinirvāṇa of a buddha that they will pass into parinirvāṇa. That, son of noble family, is called
                             <distinct>boundless dedication</distinct>. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-89"/>
                     <p tid="111">“Their emptiness is boundless. Their signlessness is boundless. Their wishlessness is boundless.
-                        Their lack of conditioned existence is boundless. In this way they are free from desire and liberated
+                        Their lack of conditioned existence is boundless. In this way they are free of desire and liberated
                         within the realm of phenomena, the limit of reality. They are unborn, serene, free, beyond suffering, and
                         boundless. Son of noble family, in short, all phenomena are boundless. Therefore all phenomena are said to
                         be unborn and unceasing. Whatever is unborn and unceasing is boundless. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-90"/>
-                    <p tid="112">“Padmaśrīgarbha, the Blessed One, thus-gone, worthy, completely perfect Buddha, King of the
+                    <p tid="112">“Padmaśrīgarbha, the Blessed One, the thus-gone, worthy, completely perfect Buddha, King of the
                         Golden-Hued Lion’s Play, taught King Glorious Splendor perfectly how to gain expertise in the mode of
                         Dharma known as <distinct>the boundless seal</distinct>, so that he, too, could reflect on the boundless
                         Dharma. Then, as King Glorious Splendor received the teaching on the boundless Dharma from that blessed
@@ -859,7 +859,7 @@
                     <lg tid="114">
                         <l>“ ‘The sun, the moon, and the light of fires,</l>
                         <l>The radiance of Śakra, Brahmā, jewels, and lightning,</l>
-                        <l>Are eclipsed by the splendor of the blissful one.</l>
+                        <l>Are eclipsed by the splendor of the Blissful One.</l>
                         <l>We prostrate to you, luminous leader of men.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-93"/>
@@ -967,8 +967,8 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-055-004-107"/>
                     <p tid="129">“Padmaśrīgarbha, on another occasion King Glorious Splendor was in his pleasure grove practicing
-                        concentration, when two beautiful and captivating lotus flowers made of <foreign xml:lang="Sa-Ltn" type="term">uragasāra</foreign> sandalwood sprang up on either side of him. From those two lotus
-                        flowers, two beings miraculously appeared; one bore the name Precious Mind, and the other was called
+                        concentration, when two beautiful and captivating lotus flowers made of uragasāra sandalwood sprang up on either side of him. From those two lotus
+                        flowers, two beings miraculously appeared: one bore the name Precious Mind, and the other was called
                         Perfect Wealth. They sat cross-legged in the flowers. </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-108"/>
                     <p tid="130">“Padmaśrīgarbha, when King Glorious Splendor arose from his absorption, he saw those two beings
@@ -1178,21 +1178,21 @@
                         amazing how these two holy beings, devoting themselves so much to the profound and without apprehending
                         their own names, have both been developing the mind of awakening for so long! How many other blessed
                         buddhas apart from that thus-gone one have these two holy beings served?” </p>
-                    <p tid="163">The Blessed One said, “Son of noble family, it may be possible to count the number of grains of
+                    <p tid="163">“Son of noble family,” said the Blessed One, “it may be possible to count the number of grains of
                         sand in the Ganges River. <ref cRef="F.226.b"/> But it is not possible to count the blessed buddhas who
                         were venerated by those two holy beings since the time of that thus-gone one. That is how long these two
                         have been developing the mind of awakening. Those two holy beings wear inconceivable armor and possess
                         boundless skills. In fact it is impossible to comprehend the scope of those two beings’ qualities.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-136"/>
-                    <p tid="164">Then the bodhisattva great being Padmaśrīgarbha said to the Blessed One, “From here, in which
+                    <p tid="164">Then the bodhisattva great being Padmaśrīgarbha asked the Blessed One, “From here, in which
                         direction is that world called Boundless Accumulation of Precious Qualities and Full Display of Happiness
                         where the Blessed One, the thus-gone King of the Golden-Hued Lion’s Play lived?” </p>
                     <p tid="165">The Blessed One said, “Son of noble family, at that time, at that point, the world of Sukhāvatī
                         in the west was that world called Boundless Accumulation of Precious Qualities and Full Display of
                         Happiness.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-137"/>
-                    <p tid="166">The bodhisattva great being Padmaśrīgarbha said to the Blessed One, “Please tell us what kind of
+                    <p tid="166">The bodhisattva great being Padmaśrīgarbha requested of the Blessed One, “Please tell us what kind of
                         display of precious qualities the Blessed One, the thus-gone, worthy, completely perfect Buddha manifested
                         in the buddha realm of those two holy beings in order to aid many beings, show love for the world, and
                         bring happiness and health to all, including gods and men. How were his perfect hearers? How long did they
@@ -1202,9 +1202,9 @@
                         aspirations of those two holy beings, <ref cRef="F.227.a"/> so that they, too, may perfect similar great
                         aspirations.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-138"/>
-                    <p tid="167">The Blessed One said, “Son of noble family, the extent of the thus-gone one Amitābha’s life is
+                    <p tid="167">The Blessed One said, “Son of noble family, the extent of the Thus-Gone One Amitābha’s life is
                         boundless. Even if you had a trillion eons to describe its limits, it would not be easy. Son of noble
-                        family, although the life of the thus-gone one Amitābha is boundless, all compounded phenomena are empty,
+                        family, although the life of the Thus-Gone One Amitābha is boundless, all compounded phenomena are empty,
                         unstable, without solidity, and fleeting. Therefore, son of noble family, in a distant future the Blessed
                         One, the thus-gone, worthy, perfect Buddha Amitābha will also pass into nirvāṇa. Though he will pass into
                         nirvāṇa, his sacred Dharma will remain for 84 trillion eons. Just as when he was alive, his passing into
@@ -1219,7 +1219,7 @@
                     <p tid="169">“Son of noble family, after the Thus-Gone One Amitābha has passed into nirvāṇa, there will come a
                         night when the sacred Dharma disappears. As soon as that happens, at the break of dawn on the very next
                         day, <ref cRef="F.227.b"/> the bodhisattva great being Avalokiteśvara will awaken to unsurpassed and
-                        perfect buddhahood at the foot of a bodhi tree made of various gems. As he perfectly and completely
+                        perfect buddhahood at the foot of a Bodhi tree made of various gems. As he perfectly and completely
                         awakens, he will be known as Samanta­raśmyabhyudgata­śrī­kūta­rāja. The precious qualities displayed in
                         the buddha realm of the Thus-Gone One Samanta­raśmyabhyudgata­śrī­kūta­rāja will be so extensive that even
                         a thus-gone one who is otherwise able to recount how many grains of sand there are in the river Ganges
@@ -1230,16 +1230,16 @@
                     <p tid="170">“The display of precious qualities in the buddha realm of the Blessed One, the thus-gone King of
                         the Golden-Hued Lion’s Play, which I described before, would not equal even one hundredth of this display
                         of qualities. Nor would it measure one thousandth, or ever one hundred thousandth of it. In fact no
-                        number, example, or illustration would suffice. In this buddha realm even the names of hearers and
+                        number, analogy, or illustration would suffice. In this buddha realm even the names of hearers and
                         solitary buddhas do not exist. This buddha realm is entirely filled with bodhisattvas. Son of noble
                         family, even if one were to gather all of the hearers, solitary buddhas, and bodhisattvas of the Blessed
                         Amitābha, they would not equal even one hundredth of the bodhisattva saṅgha of the Blessed One, the
-                        thus-gone one Samanta­raśmyabhyudgata­śrī­kūta­rāja. Nor would they measure one thousandth, or even one
+                        Thus-Gone One Samanta­raśmyabhyudgata­śrī­kūta­rāja. Nor would they measure one thousandth, or even one
                         hundred thousandth of that. In fact no number, analogy, or illustration would suffice. As for his
                         lifespan, it will be 96 trillion eons. The sacred Dharma that he teaches will remain for 630 million
                         eons.” </p>
                     <milestone unit="chunk" xml:id="UT22084-055-004-142"/>
-                    <p tid="171">The bodhisattva great being Padmaśrīgarbha said to the Blessed One, <ref cRef="F.228.a"/>
+                    <p tid="171">The bodhisattva great being Padmaśrīgarbha asked the Blessed One, <ref cRef="F.228.a"/>
                         “Blessed One, will the name of that world also be Sukhāvatī?” </p>
                     <p tid="172">The Blessed One said, “No, son of noble family, it will not. That world will be called Complete
                         Gathering of Wealth. Son of noble family, during the lifetime of Samanta­raśmyabhyudgata­śrī­kūta­rāja,
@@ -1259,7 +1259,7 @@
                     <milestone unit="chunk" xml:id="UT22084-055-004-144"/>
                     <p tid="174">“Any son or daughter of noble family who hears the names of the Blessed One, the thus-gone
                         Samanta­raśmyabhyudgata­śrī­kūta­rāja, or the Blessed One, the thus-gone
-                        Supra­tiṣṭhita­guṇa­maṇi­kūṭa­rāja, will render irreversible his progress to unsurpassed and perfect
+                        Supra­tiṣṭhita­guṇa­maṇi­kūṭa­rāja, will render irreversible their progress to unsurpassed and perfect
                         awakening. <ref cRef="F.228.b"/>
                     </p>
                     <p tid="175">“Padmaśrīgarbha, any woman who hears the account of how the Blessed One, the thus-gone King of
@@ -1332,18 +1332,18 @@
                         Dharma teaching, she will immediately be transformed from the state of a woman, unless there are the two
                         causative factors, jealousy and stinginess.” </p>
                     <p tid="191">Then Śakra, who is lord of the gods, Brahmā, who rules the Sahā world, the four great kings, and
-                        many hundreds of thousands of gods scattered divine <foreign xml:lang="Sa-Ltn" type="term">māndārava</foreign> flowers on the Blessed One and the bodhisattva great beings. While playing
+                        many hundreds of thousands of gods scattered divine māndārava flowers on the Blessed One and the bodhisattva great beings. While playing
                         billions of divine instruments, they called out, “Those sentient beings who hear this Dharma teaching,
                         grasp it, and teach it extensively to others will reap a great profit.” </p>
                     <p tid="192">The Blessed One said, “Sons of noble family, what you have said is true. Any sentient being who
-                        holds this Dharma teaching in his hands or hears it, and subsequently feels devotion for it, will give
+                        holds this Dharma teaching in their hands or hears it, and subsequently feels devotion for it, will give
                         rise to roots of virtue before ten thousand buddhas.” </p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-055-004-153"/>
                     <p tid="193">Then a young girl named Viraja rose from her seat in the congregation and, motivated by
                         altruistic thoughts, announced, “Blessed One, with an altruistic motivation I have decided to give up any
                         jealousy and stinginess, and instead develop the mind of unsurpassed and perfect awakening. Blessed
-                        Thus-Gone One, you speak the truth. Blessed One, if it is so that were I to become a Buddha, and other
+                        Thus-Gone One, you speak the truth. Blessed One, if it is so that were I to become a buddha, and other
                         women should happen to hear this Dharma teaching, they will also be freed from being a woman as soon as
                         they hear it, to that end, Blessed One, may all my woman’s organs now disappear from my body, and those of
                         a man appear!” <ref cRef="F.230.b"/>
@@ -1381,18 +1381,18 @@
                     <bibl xml:id="UT22084-055-004-156">
                         <title xml:lang="Bo-Ltn">’phags pa sgyu ma lta bu’i ting nge ’dzin ces bya ba theg pa chen po’i
                             mdo</title> (<title xml:lang="Sa-Ltn">Ārya­māyopama­samadhi­nāma­mahāyāna­sūtra</title>). Toh 130,
-                        Degé Kangyur, vol. 55 (mdo sde, da), folios 210b3–230b4. </bibl>
+                        Degé Kangyur vol. 55 (mdo sde, da), folios 210b3–230b4. </bibl>
                     <bibl xml:id="UT22084-055-004-157">
                         <title xml:lang="Bo-Ltn">’phags pa sgyu ma lta bu’i ting nge ’dzin ces bya ba theg pa chen po’i mdo. bka’
-                            ’gyur (dpe bsdur ma)</title> [Comparative Edition of the Kangyur], <title xml:lang="Bo-Ltn">krung go’i
+                            ’gyur</title> (dpe bsdur ma) [Comparative Edition of the Kangyur], <title xml:lang="Bo-Ltn">krung go’i
                             bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang</title> (The Tibetan Tripitaka Collation
                         Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe skrun
                         khang (China Tibetology Publishing House), 2006–9, vol. 55, pp. 552–600. </bibl>
                     <bibl xml:id="UT22084-055-004-158"> Dharmachakra Translation Committee (tr.). <title xml:lang="en">The
                             Absorption That Encapsulates All Merit</title> (Toh 134). 84000: Translating the Words of the Buddha,
                         2016.</bibl>
-                    <bibl xml:id="UT22084-055-004-159">Norman, K.R. <title xml:lang="en">A Philogical Approach to
-                        Buddhism</title>. London, 1997: School of Oriental and African Studies. </bibl>
+                    <bibl xml:id="UT22084-055-004-159">Norman, K.R. <title xml:lang="en">A Philological Approach to
+                        Buddhism</title>. London: School of Oriental and African Studies, 1997. </bibl>
                     <bibl xml:id="UT22084-055-004-160">Roberts, Peter, and Bower, Emily (trs.). <title xml:lang="en">The White
                             Lotus of Compassion</title>. 84000: Translating the Words of the Buddha (forthcoming). </bibl>
                 </div>

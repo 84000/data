@@ -15,7 +15,7 @@
                     supervision of 84000: Translating the Words of the Buddha </author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.03, <date>2018</date>
+                <edition>v 1.1 <date>2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -41,7 +41,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/03/2018 at 11:35:35 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:59:56 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -880,8 +880,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-062-010-146">
                             <term>formation</term>
-                            <term xml:lang="Bo-Ltn">du byed </term>
-                            <term xml:lang="bo">དུ་བྱེད།</term>
+                            <term xml:lang="Bo-Ltn">’du byed </term>
+                            <term xml:lang="bo">འདུ་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">saṁskāra</term>
                         </gloss>
                     </item>
@@ -1027,7 +1027,7 @@
                             <term xml:lang="bo">ཉེ་བར་ལེན་པའི་ཕུང་པོ།</term>
                             <term xml:lang="Sa-Ltn">upādānaskandha</term>
                             <term type="definition">Said of the aggregates individually, but more commonly in terms of all five as
-                                a collective, because they form the basis of “grasping” to existence (Edgerton).</term>
+                                a collective, because they are “the basis of clinging to existence”  (Edgerton).</term>
                         </gloss>
                     </item>
                     <item>

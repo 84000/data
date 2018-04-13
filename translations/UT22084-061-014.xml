@@ -17,7 +17,7 @@
                 <author role="translatorEng">James B. Apple</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.0 <date>2016</date>
+                <edition>v 1.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -44,7 +44,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 07/03/2018 at 11:14:06 by admin</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:59:43 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -325,7 +325,7 @@
                     <bibl xml:id="UT22084-061-014-27">Lamotte, Étienne. (1965). <title xml:lang="fr">La Concentration de la Marche
                             Héroïque, Śūraṃgama­samādhi­sūtra</title>. Bruxelles: Institut belge des hautes études
                         chinoises.</bibl>
-                    <bibl xml:id="UT22084-061-014-28">—————— (Sara Boin-Webb, tr.). (1998). <title xml:lang="en">Śūraṃgama­samādhi­sūtra: The Concentration of Heroic Progress: An Early Mahaȳan̄a Buddhist
+                    <bibl xml:id="UT22084-061-014-28">______ (Sara Boin-Webb, tr.). (1998). <title xml:lang="en">Śūraṃgama­samādhi­sūtra: The Concentration of Heroic Progress: An Early Mahaȳan̄a Buddhist
                             Scripture</title>. Surrey: Curzon Press.</bibl>
                     <bibl xml:id="UT22084-061-014-29">La Vallée Poussin, Louis de. (1962). <title xml:lang="en">Catalogue of the
                             Tibetan manuscripts from Tun-huang in the India Office Library</title>. London: Published for the
@@ -348,12 +348,12 @@
                         ’gyur.” In Eimer, Helmut (ed.), <title xml:lang="en">Transmission of the Tibetan Canon: Papers Presented
                             at a Panel of the 7th Seminar of the International Association for Tibetan Studies, Graz 1995</title>,
                         pp. 87-111. Vienna: Österreichische Akademie der Wissenschaften. </bibl>
-                    <bibl xml:id="UT22084-061-014-35">——————. (2009). “Translating the Buddha’s Words: Some Notes on the Kanjur
+                    <bibl xml:id="UT22084-061-014-35">______. (2009). “Translating the Buddha’s Words: Some Notes on the Kanjur
                         Translation Project.” Talk at Nonthaburi, March 11, 2009.</bibl>
-                    <bibl xml:id="UT22084-061-014-36">——————, and Saerji. (2013). “The Circulation of the Buddhāvataṃsaka in
+                    <bibl xml:id="UT22084-061-014-36">______, and Saerji. (2013). “The Circulation of the Buddhāvataṃsaka in
                         India.” In <title xml:lang="en">Annual Report of The International Research Institute for Advanced
                             Buddhology at Soka University for the Academic Year 2012</title>, vol. XVI, pp. 193-216. </bibl>
-                    <bibl xml:id="UT22084-061-014-37">Van der Kujip, Leonard. (2013). “Some Remarks on the Textual Transmission
+                    <bibl xml:id="UT22084-061-014-37">Van der Kuijp, Leonard. (2013). “Some Remarks on the Textual Transmission
                         and Text of Bu ston Rin chen grub’s <title xml:lang="Bo-Ltn">Chos ’byung</title>, a Chronicle of Buddhism
                         in India and Tibet.” In <title xml:lang="fr">Revue d’études tibétaines</title>, no. 25, Avril, pp.
                         115-193. </bibl>

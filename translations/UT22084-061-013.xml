@@ -19,7 +19,7 @@
                 <author role="translatorEng">Solvej Nielsen</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2011 - 2016</date>
+                <edition>v 2.1 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -51,7 +51,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/03/2018 at 06:39:23 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:59:34 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

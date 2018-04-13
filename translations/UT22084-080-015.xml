@@ -19,7 +19,7 @@
                 <editor role="editorEng">Andreas Doctor</editor>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2016</date>
+                <edition>v 2.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -2787,7 +2787,7 @@ Appendix: Sanskrit text-->
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-080-015-323"/>
                     <lg tid="377">
-                        <l>“The man is the buddha,</l>
+                        <l>“The man is the Buddha,</l>
                         <l>Because he has the nature of the four bodies.</l>
                         <l>The woman, present in all directions,</l>
                         <l>Is the <term>Perfection of Wisdom</term>‌. <!--[IX.5]-->
@@ -6579,7 +6579,7 @@ Appendix: Sanskrit text-->
                     <bibl xml:id="UT22084-080-015-863">Isaacson, Harunaga (2010). <title xml:lang="en">The
                             Caṇḍa­mahā­roṣaṇa­tantra</title>. Handout. Kathmandu: Rangjung Yeshe Institute, February 17,
                         2010.</bibl>
-                    <bibl xml:id="UT22084-080-015-864"> ——— (2006). <title xml:lang="en">Reflections on the
+                    <bibl xml:id="UT22084-080-015-864"> ______ (2006). <title xml:lang="en">Reflections on the
                             Caṇḍa­mahā­roṣaṇa­tantra</title>. Handout. Kathmandu: Nepal Research Centre, August 25, 2006. </bibl>
                     <bibl xml:id="UT22084-080-015-865">Snellgrove, David. <title xml:lang="en">Hevajra Tantra: A Critical
                             Study</title>. London: Oxford University Press, 1959.</bibl>

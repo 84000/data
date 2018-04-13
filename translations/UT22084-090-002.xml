@@ -18,7 +18,7 @@
                 <author role="translatorEng">Andreas Doctor</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.0 <date>2016</date>
+                <edition>v 1.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -47,7 +47,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 22/03/2018 at 08:15:24 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:02:47 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -3371,13 +3371,13 @@
                     <bibl xml:id="UT22084-090-002-436">Dharmachakra Translation Committee (tr.). <title xml:lang="en">Upholding
                             the Great Secret Mantra</title> (<title xml:lang="Sa-Ltn">Mahā­mantrānudhāraṇi</title>, Toh 563).
                         84000: Translating the Words of the Buddha, 2016. (<ref target="http://read.84000.co/translation/UT22084-090-007.html">read.84000.co</ref>)</bibl>
-                    <bibl xml:id="UT22084-090-002-437">———— (tr.). <title xml:lang="en">The Great Peahen, Queen of
+                    <bibl xml:id="UT22084-090-002-437">______ (tr.). <title xml:lang="en">The Great Peahen, Queen of
                             Incantations</title> (<title xml:lang="Sa-Ltn">Mahā­māyūrī­vidyā­rājñī</title>, Toh 559). 84000:
                         Translating the Words of the Buddha, (forthcoming).</bibl>
-                    <bibl xml:id="UT22084-090-002-438">———— (tr.). <title xml:lang="en">The Noble Great Amulet, Queen of
+                    <bibl xml:id="UT22084-090-002-438">______ (tr.). <title xml:lang="en">The Noble Great Amulet, Queen of
                             Incantations</title> (<title xml:lang="Sa-Ltn">Mahā­pratisāra­vidyā­rājñī</title>, Toh 561). 84000:
                         Translating the Words of the Buddha, (forthcoming).</bibl>
-                    <bibl xml:id="UT22084-090-002-439">———— (tr.). <title xml:lang="en">The Sūtra of Great Cool Grove</title>,
+                    <bibl xml:id="UT22084-090-002-439">______ (tr.). <title xml:lang="en">The Sūtra of Great Cool Grove</title>,
                             (<title xml:lang="en">Mahāśītavana</title>, Toh 562). 84000: Translating the Words of the Buddha,
                         (forthcoming).</bibl>
                     <bibl xml:id="UT22084-090-002-440">Gray, David B. <title xml:lang="en">The Cakrasamvara Tantra (The Discourse
@@ -3848,8 +3848,8 @@
                     <item>
                         <gloss type="term" xml:id="UT22084-090-002-500">
                             <term>small kettledrum</term>
-                            <term xml:lang="Bo-Ltn">khar ba’i rnga </term>
-                            <term xml:lang="bo">ཁར་བའི་རྔ།</term>
+                            <term xml:lang="Bo-Ltn">’khar ba’i rnga </term>
+                            <term xml:lang="bo">འཁར་བའི་རྔ།</term>
                             <term xml:lang="Sa-Ltn">paṇava</term>
                         </gloss>
                     </item>
@@ -4195,8 +4195,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-539">
                             <term>Āḍavaka</term>
-                            <term xml:lang="Bo-Ltn">brog gnas </term>
-                            <term xml:lang="bo">བྲོག་གནས།</term>
+                            <term xml:lang="Bo-Ltn">’brog gnas</term>
+                            <term xml:lang="bo">འབྲོག་གནས།</term>
                             <term xml:lang="Sa-Ltn">Āḍavaka</term>
                         </gloss>
                     </item>
@@ -5264,8 +5264,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-090-002-670">
                             <term>Suparṇī</term>
-                            <term xml:lang="Bo-Ltn">dab bzangs </term>
-                            <term xml:lang="bo">དབ་བཟངས།</term>
+                            <term xml:lang="Bo-Ltn">’dab bzangs </term>
+                            <term xml:lang="bo">འདབ་བཟངས།</term>
                             <term xml:lang="Sa-Ltn">Suparṇī</term>
                         </gloss>
                     </item>

@@ -19,7 +19,7 @@
                 <author role="translatorEng">Solvej Nielsen</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2011 - 2016</date>
+                <edition>v 2.1 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -39,14 +39,19 @@
                 <date>2011</date>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
+                <bibl key="toh739">
                     <ref>Toh 739</ref>
-                    <biblScope>Degé Kangyur, vol. 94 (rgyud ’bum, tsha), folios 230.b–234.a</biblScope>
+                    <biblScope>Degé Kangyur, vol. 94 (rgyud ’bum, tsha), folios 230.a–234.b</biblScope>
+                    <author role="translatorTib">Unknown</author>
+                </bibl>
+                <bibl key="toh193">
+                    <ref>Toh 193</ref>
+                    <biblScope>Degé Kangyur, vol. 61 (mdo sde, tsa), folios 246.a–250.b</biblScope>
                     <author role="translatorTib">Unknown</author>
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 13/03/2018 at 16:38:22 by celso</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:03:06 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -90,7 +95,7 @@
                         names and formulae or mantras. It can thus be said to be related to the <foreign type="term" xml:lang="Sa-Ltn">bhakti</foreign> or devotional movement in the religious life of the Indian
                         subcontinent, a form of religious expression found in all major religions of the world. Faith (<foreign type="term" xml:lang="Sa-Ltn">śraddhā</foreign>; <foreign type="term" xml:lang="Bo-Ltn">dad
                             pa</foreign>) is an essential factor of the path to awakening. It is listed among the five spiritual
-                        faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>; <foreign type="term" xml:lang="Bo-Ltn">dbang po</foreign>) and the eleven wholesome mental states.<note place="end" index="1" xml:id="UT22084-094-016-258">The <title xml:lang="Sa-Ltn">Abhi­dharma­kośa</title> gives
+                        faculties (<foreign type="term" xml:lang="Sa-Ltn">indriya</foreign>; <foreign type="term" xml:lang="Bo-Ltn">dbang po</foreign>) and the eleven wholesome mental states.<note place="end" index="1" xml:id="UT22084-061-013-1">The <title xml:lang="Sa-Ltn">Abhi­dharma­kośa</title> gives
                             eleven wholesome mental factors and lists faith as the first among them.</note>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-4"/>
@@ -104,20 +109,19 @@
                         Mahādevī’s names.</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-5"/>
                     <p tid="6">Most Kangyurs include two copies of the text, one (Toh 193) in the general sūtra (<foreign type="term" xml:lang="Bo-Ltn">mdo sde</foreign>) section and one (Toh 739) among the collected tantras
-                            (<foreign type="term" xml:lang="Bo-Ltn">rgyud ’bum</foreign>), classified under kriyātantra.<note place="end" index="2" xml:id="UT22084-094-016-259">The Tibetan copy in the tantra section of the
-                            Kangyur (Toh 739) is followed by two short related texts, both also set in in Sukhāvatī and structured
-                            as expositions by Buddha Śākyamuni to Avalokiteśvara: <title xml:lang="Bo-Ltn">’phags pa dpal chen
-                                mo’i mdo</title>, “The Sūtra of the Glorious Great [Goddess]” (Toh 740)—the goddess concerned
-                            being identified as Lakṣmī in the Sanskrit title of the Degé version but not in all versions—and
-                                <title xml:lang="Bo-Ltn">dpal gyi lha mo’i mtshan bcu gnyis pa</title> “The Twelve Names of the
-                            Glorious Goddess” (Toh 741). In both, the knowing, reciting, reading, and writing of the goddess’s
-                            twelve names (almost but not exactly the same in both cases) and of short dhāraṇīs (different) are
-                            recommended as effective means of dispelling obstacles and achieving goals. The colophons of both
-                            short texts state that they were translated by Jinamitra and Yeshé Dé.</note> As neither copy of the
-                        Tibetan version has a colophon, there is no information regarding the translators. However, it must have
-                        been translated in the early period, since it is listed in the early 9th century Denkarma (<foreign type="term" xml:lang="Bo-Ltn">ldan dkar ma</foreign>) catalogue of texts translated into Tibetan from
-                        Sanskrit. Versions of this sūtra in Sanskrit and Chinese are still extant today. The present translation
-                        appears to be the first into a Western language. </p>
+                            (<foreign type="term" xml:lang="Bo-Ltn">rgyud ’bum</foreign>), classified under kriyātantra.<note place="end" index="2" xml:id="UT22084-061-013-2">The Tibetan copy in the tantra section of the Kangyur
+                            (Toh 739) is followed by two short related texts, both also set in in Sukhāvatī and structured as
+                            expositions by Buddha Śākyamuni to Avalokiteśvara: <title xml:lang="Bo-Ltn">’phags pa dpal chen mo’i
+                                mdo</title>, “The Sūtra of the Gorious Great [Goddess]” (Toh 740)—the goddess concerned being
+                            identified as Lakṣmī in the Sanskrit title of the Degé version but not in all versions—and <title xml:lang="Bo-Ltn">dpal gyi lha mo’i mtshan bcu gnyis pa</title> “The Twelve Names of the Glorious
+                            Goddess” (Toh 741). In both, the knowing, reciting, reading, and writing of the goddess’s twelve names
+                            (almost but not exactly the same in both cases) and of short dhāraṇīs (different) are recommended as
+                            effective means of dispelling obstacles and achieving goals. The colophons of both short texts state
+                            that they were translated by Jinamitra and Yeshé Dé.</note> As neither copy of the Tibetan version has
+                        a colophon, there is no information regarding the translators. However, it must have been translated in
+                        the early period, since it is listed in the early 9th century Denkarma (<foreign type="term" xml:lang="Bo-Ltn">ldan dkar ma</foreign>) catalogue of texts translated into Tibetan from Sanskrit.
+                        Versions of this sūtra in Sanskrit and Chinese are still extant today. The present translation appears to
+                        be the first into a Western language. </p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-6"/>
                     <p tid="7">The Degé edition of this sūtra was compared with various editions of the Tibetan canon, namely, the
                         Narthang, Beijing and Lhasa editions, as well as with the Sanskrit of the Gilgit manuscript as edited by
@@ -125,10 +129,6 @@
                         as indicated in the notes. The great many proper names contained in the sūtra are here given in Sanskrit,
                         but translations have been added in parentheses in the case of the “one hundred and eight names”—which
                         are, rather, epithets describing Mahādevī.</p>
-                    <lb/>
-                    <p tid="8">Please note that the folio number references embedded in the translation are those of the copy in
-                        the General Sūtra section, vol. 61 (Toh 193), not of the copy in the Action Tantra section, vol. 94 (Toh
-                        739). The Tibetan text of both copies is identical.</p>
                 </div>
             </div>
         </front>
@@ -140,27 +140,31 @@
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-094-016-7"/>
                     <p tid="9">
-                        <ref cRef="F.246.a"/>
+                        <ref cRef="F.246.a" key="toh193"/>
+                        <ref cRef="F.230.a" key="toh739"/>
                         <!--<modularPassage type="homage">--> Homage to all buddhas and bodhisattvas.<!--</modularPassage>-->
-                        <ref cRef="F.246.b"/>
                     </p>
                     <lb/>
-                    <p tid="10">Thus did I hear at one time. The Bhagavān was dwelling in Sukhāvatī together with the great saṅgha
-                        of bodhisattvas, amongst them the following bodhisattva mahāsattvas of the excellent eon:<note place="end" index="3" xml:id="UT22084-094-016-260">“Of the excellent eon” (<foreign type="term" xml:lang="Bo-Ltn">bskal pa bzang po’i</foreign> = <foreign type="term" xml:lang="Sa-Ltn">bhadra­kalpika</foreign>)
-                            missing in Skt.</note> Bodhisattva Mahāsattva Ārya Avalokiteśvara, Bodhisattva Mahāsattva
-                        Mahā­sthāma­prāpta, Bodhisattva Mahāsattva Sarva­nīvaraṇa­viṣkaṃbhin, Bodhisattva Mahāsattva Kṣitigarbha,
-                        Bodhisattva Mahāsattva Samantabhadra, Bodhisattva Mahāsattva Ākāśagarbha, Bodhisattva Mahāsattva Vajrapāṇi
-                        and Bodhisattva Sarvabhayahara, and similarly Bodhisattva Mahāsattva Sarva­maṅgala­dhārin, Bodhisattva
-                        Mahāsattva Sarva­puṇya­lakṣaṇa­dhārin, Bodhisattva Mahāsattva Candra­sūrya­trailokya­dhārin, Bodhisattva
-                        Mahāsattva Sarva­tīrtha­maṅgala­dhārin, and Bodhisattva Mahāsattva Mañjuśrī Kumārabhūta.</p>
+                    <p tid="10">
+                        <ref cRef="F.246.b" key="toh193"/>
+                        <ref cRef="F.230.b" key="toh739"/>Thus did I hear at one time. The Bhagavān was dwelling in Sukhāvatī
+                        together with the great saṅgha of bodhisattvas, amongst them the following bodhisattva mahāsattvas of the
+                        excellent eon:<note place="end" index="3" xml:id="UT22084-061-013-3">“Of the excellent eon” (<foreign type="term" xml:lang="Bo-Ltn">bskal pa bzang po’i</foreign> = <foreign type="term" xml:lang="Sa-Ltn">bhadra­kalpika</foreign>) missing in Skt.</note> Bodhisattva Mahāsattva Ārya
+                        Avalokiteśvara, Bodhisattva Mahāsattva Mahā­sthāma­prāpta, Bodhisattva Mahāsattva
+                        Sarva­nīvaraṇa­viṣkaṃbhin, Bodhisattva Mahāsattva Kṣitigarbha, Bodhisattva Mahāsattva Samantabhadra,
+                        Bodhisattva Mahāsattva Ākāśagarbha, Bodhisattva Mahāsattva Vajrapāṇi and Bodhisattva Sarvabhayahara, and
+                        similarly Bodhisattva Mahāsattva Sarva­maṅgala­dhārin, Bodhisattva Mahāsattva Sarva­puṇya­lakṣaṇa­dhārin,
+                        Bodhisattva Mahāsattva Candra­sūrya­trailokya­dhārin, Bodhisattva Mahāsattva Sarva­tīrtha­maṅgala­dhārin,
+                        and Bodhisattva Mahāsattva Mañjuśrī Kumārabhūta.</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-8"/>
                     <p tid="11">Then Bodhisattva Mahāsattva Avalokiteśvara went to the place where the Bhagavān was, paid homage
                         at the Bhagavān’s feet, and remained at one side. Śrī Mahādevī also went toward the Bhagavān, paid homage
                         at his feet, and circumambulated him three times. Then she also paid homage to all the bodhisattva
-                        mahāsattvas who were dwelling in Sukhāvati and remained at one side.<note place="end" index="4" xml:id="UT22084-094-016-261">Skt. “Śrī Mahādevī also went toward the Bhagavān. Having circumambulated
+                        mahāsattvas who were dwelling in Sukhāvati and remained at one side.<note place="end" index="4" xml:id="UT22084-061-013-4">Skt. “Śrī Mahādevī also went toward the Bhagavān. Having circumambulated
                             one hundred thousand times at the Bhagavān’s feet she also paid homage to all the bodhisattva
                             mahāsattvas...”</note>
-                        <ref cRef="F.247.a"/>
+                        <ref cRef="F.247.a" key="toh193"/>
+                        <ref cRef="F.231.a" key="toh739"/>
                     </p>
                     <p tid="12">The Bhagavān was adorned with many hundreds of thousands of merits and surrounded by as many as
                         ten million tathāgatas. As Indra, Brahmā and the guardians of the world all offered their praises and
@@ -168,9 +172,9 @@
                         follows in his Great Brahmā voice:</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-9"/>
                     <p tid="13">“Avalokiteśvara, if any one of the kings, ministers, bhikṣus, bhikṣunīs, upāsakas, upāsikās,
-                        brāhmaṇas, kṣatriyas, vaiśyas or śūdras retains this praise “The One Hundred and Eight Names<note place="end" index="5" xml:id="UT22084-094-016-262">“Names” omitted in Skt.</note> of Śrī Mahādevī
-                        which are Renowned as Stainless,” then the kṣatriya king’s kingdom, the fears of those beings there, as
-                        well as the epidemics and harmful influences will all be pacified,<note place="end" index="6" xml:id="UT22084-094-016-263">Translated on the basis of the Tibetan. Skt. has <foreign type="quote" xml:lang="Sa-Ltn">tasya rājñaḥ kṣatriyasya viṣaye teṣāṃ sattvānāṃ sarva­bhayety upadravā
+                        brāhmaṇas, kṣatriyas, vaiśyas or śūdras retains this praise “The One Hundred and Eight Names<note place="end" index="5" xml:id="UT22084-061-013-5">“Names” omitted in Skt.</note> of Śrī Mahādevī which
+                        are Renowned as Stainless,” then the kṣatriya king’s kingdom, the fears of those beings there, as well as
+                        the epidemics and harmful influences will all be pacified,<note place="end" index="6" xml:id="UT22084-061-013-6">Translated on the basis of the Tibetan. Skt. has <foreign type="quote" xml:lang="Sa-Ltn">tasya rājñaḥ kṣatriyasya viṣaye teṣāṃ sattvānāṃ sarva­bhayety upadravā
                                 pra­śamiṣyanti</foreign>. “In the country of the kṣatriya king, these beings’ misfortunes, i.e.
                             ‘all fears,’ will be pacified.”</note> and no one at all will fear robbers, rogues, humans or
                         nonhumans. Wealth, grains, treasuries and stores will all increase, and the Glorious Mahādevī will no
@@ -178,25 +182,26 @@
                     <milestone unit="chunk" xml:id="UT22084-094-016-10"/>
                     <p tid="14">Then those bodhisattva mahāsattvas said, “Bhagavāṇ, these words are well said. Excellent!
                         Excellent! Those people who will retain the names of Śrī Mahādevī and who will put them into practice once
-                        they have heard them<note place="end" index="7" xml:id="UT22084-094-016-264">Skt. does not have “and who
-                            put them into practice once they have heard them.”</note> will have those aforementioned qualities and
+                        they have heard them<note place="end" index="7" xml:id="UT22084-061-013-7">Skt. does not have “and who put
+                            them into practice once they have heard them.”</note> will have those aforementioned qualities and
                         benefits.”</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-11"/>
                     <p tid="15">Then Bodhisattva Mahāsattva Ārya Avalokiteśvara asked the Bhagavān, “Bhagavān, where did Śrī
                         Mahādevī generate her roots of virtue?”</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-12"/>
-                    <p tid="16">The Bhagavān replied, “Śrī Mahādevī <ref cRef="F.247.b"/> generated roots of virtue in the
-                        presence of tathāgatas as numerous as the grains of sand of the River Ganges. O Avalokiteśvara,
-                        previously, in the past in a world system called Ratna­saṃbhavā, the tathāgata called
+                    <p tid="16">The Bhagavān replied, “Śrī Mahādevī <ref cRef="F.247.b" key="toh193"/>
+                        <ref cRef="F.231.b" key="toh739"/> generated roots of virtue in the presence of tathāgatas as numerous as the
+                        grains of sand of the River Ganges. O Avalokiteśvara, previously, in the past in a world system called
+                        Ratna­saṃbhavā, the tathāgata called
                         Ratna­kusuma­guṇa­sāgara­vaiḍūrya­kanaka­giri­suvarṇa­kāṃcana­prabhāsa­śrī came forth into the world. Śrī
                         Mahādevī generated roots of virtue in his presence and in the presence of many other tathāgatas, too. Now,
                         the names of the tathāgatas make Śrī Mahādevī’s roots of virtue flourish and come to fulfillment. They
                         stay with her always, these names which here in this world Śrī Mahādevī recites precisely and which dispel
-                        all sins, eliminate all offenses, make all effects<note place="end" index="8" xml:id="UT22084-094-016-265">Skt. <foreign type="term" xml:lang="Sa-Ltn">sarvakārya</foreign> “all effects,” Tib. <foreign type="term" xml:lang="Bo-Ltn">lus thams cad</foreign> “all bodies.”</note> stainless, gather and
+                        all sins, eliminate all offenses, make all effects<note place="end" index="8" xml:id="UT22084-061-013-8">Skt. <foreign type="term" xml:lang="Sa-Ltn">sarvakārya</foreign> “all effects,” Tib. <foreign type="term" xml:lang="Bo-Ltn">lus thams cad</foreign> “all bodies.”</note> stainless, gather and
                         increase wealth and grains, eradicate poverty, attract and catch the attention of all gods, nāgas, yakṣas,
-                        gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas, pacifying all epidemics, natural misfortunes,<note place="end" index="9" xml:id="UT22084-094-016-266">Skt. <foreign type="term" xml:lang="Sa-Ltn">upasarga</foreign> “natural misfortune,” Tib. <foreign type="term" xml:lang="Bo-Ltn">gnod
+                        gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas, pacifying all epidemics, natural misfortunes,<note place="end" index="9" xml:id="UT22084-061-013-9">Skt. <foreign type="term" xml:lang="Sa-Ltn">upasarga</foreign> “natural misfortune,” Tib. <foreign type="term" xml:lang="Bo-Ltn">gnod
                                 pa</foreign> “harms.”</note> disputes, conflicts, dissensions, and arguments, and which will bring
-                        the six perfections to fulfilment. They are as follows:<note place="end" index="10" xml:id="UT22084-094-016-267">The Skt. list has been followed. The Tibetan (F.248.a-b) has some minor
+                        the six perfections to fulfilment. They are as follows:<note place="end" index="10" xml:id="UT22084-061-013-10">The Skt. list has been followed. The Tibetan (F.248.a-b) has some minor
                             differences from the Sanskrit.</note>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-13"/>
@@ -207,7 +212,8 @@
                         <l>Homage to Tathāgata Candana­kusuma­tejo­nakṣatra­prabhāsa­śrī.</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-14"/>
                         <l>Homage to Tathāgata Samantāvabhāsa­vijita­saṃgrāma­śrī.</l>
-                        <l>Homage to Tathāgata Guṇa­samudrāvabhāsa­maṇḍala­śrī. <ref cRef="F.248.a"/>
+                        <l>Homage to Tathāgata Guṇa­samudrāvabhāsa­maṇḍala­śrī. <ref cRef="F.248.a" key="toh193"/>
+                            <ref cRef="F.232.a" key="toh739"/>
                         </l>
                         <l>Homage to Tathāgata Dhārma­vikurvaṇa­dhvaja­vega­śrī.</l>
                         <l>Homage to Tathāgata Jyotiḥsaumya­gandhāvabhāsa­śrī.</l>
@@ -232,7 +238,8 @@
                         <l>Homage to Tathāgata Gandha­pradīpa­śrī.</l>
                         <l>Homage to Tathāgata Sāgara­garbha­saṃbhava­śrī.</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-19"/>
-                        <l>Homage to Tathāgata Nirmita­megha­garjanayaśaḥ­śrī. <ref cRef="F.248.b"/>
+                        <l>Homage to Tathāgata Nirmita­megha­garjanayaśaḥ­śrī. <ref cRef="F.248.b" key="toh193"/>
+                            <ref cRef="F.232.b" key="toh739"/>
                         </l>
                         <l>Homage to Tathāgata Sarva­dharma­prabhāsa­vyūha­śrī.</l>
                         <l>Homage to Tathāgata Druma­rāja­vivardhita­śrī.</l>
@@ -258,14 +265,15 @@
                         be adorned with various sorts of divine jewels. This very tathāgata will spread light in that world
                         system, and those bodhisattvas dwelling there in that world will spontaneously become radiant and have
                         immeasurable life spans. The word <foreign type="term" xml:lang="Sa-Ltn">buddha­dharma­saṅgha</foreign>
-                        <ref cRef="F.249.a"/> will also come down from the sky, and the bodhisattvas who will be born in that
-                        buddha field will all be born from the centers of lotuses.’</p>
+                        <ref cRef="F.249.a" key="toh193"/> will also come down from the sky, and the bodhisattvas who will be born in
+                        that buddha field will all be born from the centers of lotuses.’ <ref cRef="F.233.a" key="toh739"/>
+                    </p>
                     <p tid="20">“What is the twelve-line praise with one hundred and eight names that is renowned as being
-                            stainless?<note place="end" index="11" xml:id="UT22084-094-016-268">Skt. <foreign type="term" xml:lang="Sa-Ltn">dvādaśa­daṇdakaṃ</foreign> ... <foreign type="term" xml:lang="Sa-Ltn">stotram</foreign>, but Tib. has the puzzling <foreign xml:lang="Bo-Ltn">stod pa brgyad cu gnyis
+                            stainless?<note place="end" index="11" xml:id="UT22084-061-013-11">Skt. <foreign type="term" xml:lang="Sa-Ltn">dvādaśa­daṇdakaṃ</foreign> ... <foreign type="term" xml:lang="Sa-Ltn">stotram</foreign>, but Tib. has the puzzling <foreign xml:lang="Bo-Ltn">stod pa brgyad cu gnyis
                                 pa</foreign> “eighty two praises.”</note>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-24"/>
-                    <p tid="21">“O fearless Avalokiteśvara, please hearken to the names of Śrī Mahādevī. They are as follows:<note place="end" index="12" xml:id="UT22084-094-016-269">The Tibetan and Sanskrit lists of names differ
+                    <p tid="21">“O fearless Avalokiteśvara, please hearken to the names of Śrī Mahādevī. They are as follows:<note place="end" index="12" xml:id="UT22084-061-013-12">The Tibetan and Sanskrit lists of names differ
                             somewhat. We have followed the Sanskrit and indicated differences from the Tibetan in notes.</note>
                     </p>
                     <lg tid="22">
@@ -279,11 +287,11 @@
                         <l> Sarvārya­śrāvaka­pratyeka­buddha­śrī (Glory of All Āryaśrāvakas and Pratyekabuddhas),</l>
                         <l> Brahma­viṣṇu­maheśvara­śrī (Glory of Brahmā, Viṣṇu and Maheśvara),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-26"/>
-                        <l> Mahā­sthāna­gata­śrī (Glory Present in Great Places),<note place="end" index="13" xml:id="UT22084-094-016-270">Tib. <foreign type="term" xml:lang="Bo-Ltn">lha la sogs pa thams cad
+                        <l> Mahā­sthāna­gata­śrī (Glory Present in Great Places),<note place="end" index="13" xml:id="UT22084-061-013-13">Tib. <foreign type="term" xml:lang="Bo-Ltn">lha la sogs pa thams cad
                                     kyi dpal</foreign> “Glory of All Gods, etc.”</note>
                         </l>
-                        <l> Sarva­devatābhimukha­śrī (Glory in the Presence of all Gods),<note place="end" index="14" xml:id="UT22084-094-016-271">Tib. <foreign type="term" xml:lang="Bo-Ltn">gnas thams cad na yod
-                                    pa’i dpal</foreign> “Glory Present in All Places.”</note>
+                        <l> Sarva­devatābhimukha­śrī (Glory in the Presence of all Gods),<note place="end" index="14" xml:id="UT22084-061-013-14">Tib. <foreign type="term" xml:lang="Bo-Ltn">gnas thams cad na yod pa’i
+                                    dpal</foreign> “Glory Present in All Places.”</note>
                         </l>
                         <l> Sarva­deva­nāga­yakṣa­gandharvāsura­garuḍa­kiṃnara­mahoraga­śrī (Glory of All the Gods, Nāgas, Yakṣas,
                             Gandharvas, Asuras, Garuḍas, Kiṃnaras and Mahoragas),</l>
@@ -291,13 +299,13 @@
                             Vajradharas),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-27"/>
                         <l> Catuḥpañca­lokapāla­śrī (Glory of the Four and the Five Guardians of the World),</l>
-                        <l> Aṣṭa­grahāṣṭāviṃśati­nakṣatra­śrī (Glory of the Eight Planets<note place="end" index="15" xml:id="UT22084-094-016-272">The eight planets: (1) Sun, (2) Earth’s moon, (3) Mars, (4) Mercury,
+                        <l> Aṣṭa­grahāṣṭāviṃśati­nakṣatra­śrī (Glory of the Eight Planets<note place="end" index="15" xml:id="UT22084-061-013-15">The eight planets: (1) Sun, (2) Earth’s moon, (3) Mars, (4) Mercury,
                                 (5) Jupiter, (6) Venus, (7) Saturn and (8) Eclipse-maker (Rāhula).</note> and Twenty-Eight
-                                Constellations<note place="end" index="16" xml:id="UT22084-094-016-273">According to the ancient
+                                Constellations<note place="end" index="16" xml:id="UT22084-061-013-16">According to the ancient
                                 Indian traditions, twenty-eight constellations lie on the path of the moon during its complete
                                 circuit through the plane of the ecliptic. For a list of the twenty-eight, see Monier
                                 Monier-Williams, Sanskrit-English Dictionary, s.v. <foreign type="term" xml:lang="Sa-Ltn">nakṣatra</foreign>.</note>),</l>
-                        <l> Oṃ Sāvitrī (Daughter of Savitra<note place="end" index="17" xml:id="UT22084-094-016-274">Savitra is a
+                        <l> Oṃ Sāvitrī (Daughter of Savitra<note place="end" index="17" xml:id="UT22084-061-013-17">Savitra is a
                                 Vedic solar deity, an Āditya or descendant of the mother of the gods, Aditi.</note>),</l>
                         <l> Dhātrī (Nurse),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-28"/>
@@ -311,7 +319,7 @@
                         <l> Gaṅgā (She who is the Ganges),</l>
                         <l> Sarvatīrthā (She of All Holy Places),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-30"/>
-                        <l>Sarvamaṅgalyā (She who Confers All Auspiciousness),<note place="end" index="18" xml:id="UT22084-094-016-275">The Tibetan (see glossary under “Sarvatīrthā”) treats these two
+                        <l>Sarvamaṅgalyā (She who Confers All Auspiciousness),<note place="end" index="18" xml:id="UT22084-061-013-18">The Tibetan (see glossary under “Sarvatīrthā”) treats these two
                                 epithets as one, i.e. “She who Confers the Happiness of All the Holy Places.”</note>
                         </l>
                         <l> Vimala­nirmala­kara­śrī (Glory that Makes One Stainless and Pure),</l>
@@ -324,7 +332,7 @@
                         <l> Siṃhavāhinī (She who Rides upon a Lion),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-32"/>
                         <l> Śata­sahasra­koṭipadma­vivara­saṃcchannā (She who is Enveloped by a Display of One Hundred Thousand
-                            Crore Lotuses),<note place="end" index="19" xml:id="UT22084-094-016-276">The Tibetan (see glossary
+                            Crore Lotuses),<note place="end" index="19" xml:id="UT22084-061-013-19">The Tibetan (see glossary
                                 entry) has “She who is Enveloped by a Hundred Thousand Supreme Lotuses.” </note>
                         </l>
                         <l> Padmā (She who has Lotuses),</l>
@@ -339,12 +347,13 @@
                         <l> Śvetā (Fair One),</l>
                         <l> Mahāśvetā (Great Fair One),</l>
                         <l> Śvetabhujā (She who has Fair Arms),</l>
-                        <l> Sarva­maṅgala­dhāriṇī (She who Possesses All Auspiciousness),<ref cRef="F.249.b"/>
+                        <l> Sarva­maṅgala­dhāriṇī (She who Possesses All Auspiciousness),<ref cRef="F.249.b" key="toh193"/>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-35"/>
                         <l> Sarva­puṇyopacitāṅgī (She whose Body Consists of All Collections of Merit), </l>
-                        <l> Dākṣāyaṇī (Daughter of Dakṣa<note place="end" index="20" xml:id="UT22084-094-016-277">A Hindu creator
-                                god. His daughter is the consort of Śiva.</note>), </l>
+                        <l> Dākṣāyaṇī (Daughter of Dakṣa<note place="end" index="20" xml:id="UT22084-061-013-20">A Hindu creator
+                                god. His daughter is the consort of Śiva.</note>), <ref cRef="F.233.b" key="toh739"/>
+                        </l>
                         <l> Śata­sahasra­bhujā (She who has One Hundred Thousand Arms),</l>
                         <l> Śata­sahasra­nayanā (She who has One Hundred Thousand Eyes),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-36"/>
@@ -360,7 +369,7 @@
                         <milestone unit="chunk" xml:id="UT22084-094-016-38"/>
                         <l> Pavitrakeśā (She whose Hair is Purity),</l>
                         <l> Candrakāntā (She who is Lovely like the Moon),</l>
-                        <l> Sūryakāntā (She who is Lovely like the Sun),<note place="end" index="21" xml:id="UT22084-094-016-278">The terms <foreign type="term" xml:lang="Sa-Ltn">candra­kānta</foreign> and <foreign type="term" xml:lang="Sa-Ltn">sūrya­kānta</foreign> also regularly refer to gems, i.e. moonstone and
+                        <l> Sūryakāntā (She who is Lovely like the Sun),<note place="end" index="21" xml:id="UT22084-061-013-21">The terms <foreign type="term" xml:lang="Sa-Ltn">candra­kānta</foreign> and <foreign type="term" xml:lang="Sa-Ltn">sūrya­kānta</foreign> also regularly refer to gems, i.e. moonstone and
                                 sunstone respectively.</note>
                         </l>
                         <l> Śubhā (Virtuous One),</l>
@@ -370,10 +379,10 @@
                         <l> Āryā (Noble One),</l>
                         <l> Kusumaśrī (Glory of the Flowers), </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-40"/>
-                        <l> Kusumeśvarā (She who is the Sovereign of the Flowers),<note place="end" index="22" xml:id="UT22084-094-016-279">Tib. “She Who Abides in Flowers.”</note>
+                        <l> Kusumeśvarā (She who is the Sovereign of the Flowers),<note place="end" index="22" xml:id="UT22084-061-013-22">Tib. “She Who Abides in Flowers.”</note>
                         </l>
                         <l> Sarva­sumeru­parvata­rāja­śrī (Glory of the Entire King of Mountains, Mt. Sumeru),</l>
-                        <l> Sarva­nadī­saricchrī (Glory of All Rivers and Streams),<note place="end" index="23" xml:id="UT22084-094-016-280">Tib. “Glory of All Rivers and Lakes.”</note>
+                        <l> Sarva­nadī­saricchrī (Glory of All Rivers and Streams),<note place="end" index="23" xml:id="UT22084-061-013-23">Tib. “Glory of All Rivers and Lakes.”</note>
                         </l>
                         <l> Sarva­toya­samudra­śrī (Glory of the Ocean of All Waters),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-41"/>
@@ -381,7 +390,7 @@
                         <l> Sarvauṣadhi­tṛṇa­vanaspati­dhana­dhānya­śrī (Glory of All Medicinal Herbs, Grasses, Trees, Wealth and
                             Grains),</l>
                         <l> Hiraṇyadā (She who Gives Gold),</l>
-                        <l> Annapānadā (She who Gives Food and Drink),<note place="end" index="24" xml:id="UT22084-094-016-281">Tib. “She who Gives Food and Clothing.”</note>
+                        <l> Annapānadā (She who Gives Food and Drink),<note place="end" index="24" xml:id="UT22084-061-013-24">Tib. “She who Gives Food and Clothing.”</note>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-42"/>
                         <l> Prabhāsvarā (She of the Clear Light),</l>
@@ -390,7 +399,7 @@
                         <l> Sarva­tathāgata­vaśavartinī (She who has Power over All Tathāgatas),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-43"/>
                         <l> Sarva­deva­gaṇa­mukha­śrī (Glory when in the Presence of the Entire Assembly of the Gods),</l>
-                        <l> Yama­varuṇa­kubera­vāsava­śrī (Glory of Yama, Varuṇa, Kubera and Vāsava),<note place="end" index="25" xml:id="UT22084-094-016-282">Skt. reads °<foreign type="term" xml:lang="Sa-Ltn">varuṇā</foreign>°.
+                        <l> Yama­varuṇa­kubera­vāsava­śrī (Glory of Yama, Varuṇa, Kubera and Vāsava),<note place="end" index="25" xml:id="UT22084-061-013-25">Skt. reads °<foreign type="term" xml:lang="Sa-Ltn">varuṇā</foreign>°.
                                 Yama is the lord of death, Varuṇa is the Vedic god presiding over night, Kubera is the god of
                                 riches, and Vāsava is Indra.</note>
                         </l>
@@ -400,7 +409,7 @@
                         <l> Tejā (She who is Brilliance),</l>
                         <l> Tejovatī (Bright One),</l>
                         <l> Vibhūtī (Abundance),</l>
-                        <l> Samṛddhi (Great Prosperity),<note place="end" index="26" xml:id="UT22084-094-016-283">Omitted in
+                        <l> Samṛddhi (Great Prosperity),<note place="end" index="26" xml:id="UT22084-061-013-26">Omitted in
                                 Tib.</note>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-45"/>
@@ -410,53 +419,54 @@
                         <l> Dharmaśrī (Glory of the Dharma),</l>
                         <l> Mādhavāśrayā (She who Relies on Viṣṇu),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-46"/>
-                        <l> Kusumanilayā (She whose Abode is the Flowers),<note place="end" index="28" xml:id="UT22084-094-016-285">Tib. “She who abides in the Kumuda Flower.” Kumuda is a white flower
-                                that grows in or near water and blossoms at night. It is usually thought to be the datura plant, a
-                                member of the lily family with a very large white trumpet-like flower that opens at night,
-                                especially in the moonlight.</note>
+                        <l> Kusumanilayā (She whose Abode is the Flowers),<note place="end" index="28" xml:id="UT22084-061-013-28">Tib. “She who abides in the Kumuda Flower.” Kumuda is a white flower that grows in or near water
+                                and blossoms at night. It is usually thought to be the datura plant, a member of the lily family
+                                with a very large white trumpet-like flower that opens at night, especially in the
+                                moonlight.</note>
                         </l>
-                        <l> Anasūyā (She who is not Spiteful),<note place="end" index="29" xml:id="UT22084-094-016-286">Tib. “She
+                        <l> Anasūyā (She who is not Spiteful),<note place="end" index="29" xml:id="UT22084-061-013-29">Tib. “She
                                 who is Patient.”</note>
                         </l>
-                        <l> Puruṣa­kārā­śrayā (She who Relies on Virile Action),<note place="end" index="30" xml:id="UT22084-094-016-287">Omitted in Tib.</note>
+                        <l> Puruṣa­kārā­śrayā (She who Relies on Virile Action),<note place="end" index="30" xml:id="UT22084-061-013-30">Omitted in Tib.</note>
                         </l>
-                        <l>Sarvapavitragātrā (She whose Body is Entirely Pure),<note place="end" index="31" xml:id="UT22084-094-016-288">Tib. <foreign xml:lang="Bo-Ltn">mthu rtsal gyi gnas</foreign>, “She
+                        <l>Sarvapavitragātrā (She whose Body is Entirely Pure),<note place="end" index="31" xml:id="UT22084-061-013-31">Tib. <foreign xml:lang="Bo-Ltn">mthu rtsal gyi gnas</foreign>, “She
                                 who is the Source of Power.”</note>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-47"/>
-                        <l>Maṅgalahastā (She whose Hands are Auspicious),<note place="end" index="32" xml:id="UT22084-094-016-289">Tib. <foreign xml:lang="Bo-Ltn">dag byed dang bkra shis thams cad kyi lag pa dang ldan
+                        <l>Maṅgalahastā (She whose Hands are Auspicious),<note place="end" index="32" xml:id="UT22084-061-013-32">Tib. <foreign xml:lang="Bo-Ltn">dag byed dang bkra shis thams cad kyi lag pa dang ldan
                                     ma</foreign>, “She who has Hands that Purify and [Bring] All Auspiciousness.”</note>
                         </l>
                         <l> Sarvālakṣmī­nāśayitrī (She who Destroys All Inauspiciousness),</l>
                         <l> Sarva­puṇyākarṣaṇa­śrī (Glory that Collects All Merits),</l>
                         <l> Sarva­pṛthivī­śrī (Glory of the Entire Earth),</l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-48"/>
-                        <l>Sarvarājaśrī (Glory of All Kings),<note place="end" index="33" xml:id="UT22084-094-016-290">The Tibetan
+                        <l>Sarvarājaśrī (Glory of All Kings),<note place="end" index="33" xml:id="UT22084-061-013-33">The Tibetan
                                 (see glossary entry for “Sarvapṛthivīśrī”) takes these two as one, “Glory of the Entire Earth and
                                 All Kings.”</note>
                         </l>
                         <l> Sarva­vidyā­dhara­rāja­śrī (Glory of the King of All Vidyādharas),</l>
                         <l> Sarva­bhūta­yakṣa­rākṣasa­preta­piśāca­kuṃbhāṇḍa­mahoraga­śrī (Glory of All Bhūtas, Yakṣas, Rākṣasas,
                             Pretas, Piśācas, Kumbhāṇḍas and Mahoragas),</l>
-                        <l> Dyuti (Splendour),<note place="end" index="34" xml:id="UT22084-094-016-291">Omitted in the Tibetan,
+                        <l> Dyuti (Splendour),<note place="end" index="34" xml:id="UT22084-061-013-34">Omitted in the Tibetan,
                                 which here has <foreign xml:lang="Bo-Ltn">lha’i gnas dang lha thams cad kyi dpal / bzlas brjod
                                     dang / bzlas brjod du bya ba / sbyin sreg dang / sbyin sreg tu bya ba dang / bkra shis thams
                                     cad kyi dpal</foreign>, “Glory of All Abodes of the Gods and All Gods, Glory of All
                                 Incantations and What is Incanted, All Fire Offerings and What is Offered and All
                                 Auspiciousness.”</note>
-                            <ref cRef="F.250.a"/>
+                            <ref cRef="F.250.a" key="toh193"/>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-49"/>
                         <l> Pramoda­bhāgya­lolā (She who Longs for Delight and Happiness),</l>
                         <l> Sarva­rṣi­pavitra­śrī (Glory that is the Purity of All Seers),</l>
                         <l> Sarvaśrī (Glory of All),</l>
-                        <l>Bhavajyeṣṭhottamaśrī (Glory that is the First and the Foremost in Existence),<note place="end" index="35" xml:id="UT22084-094-016-292">The Tibetan here is <foreign type="term" xml:lang="Bo-Ltn">bud med kyi gnas thams cad kyi gtso ma dang dpal gyi mchog</foreign>, “Supreme Glory and
+                        <l>Bhavajyeṣṭhottamaśrī (Glory that is the First and the Foremost in Existence),<note place="end" index="35" xml:id="UT22084-061-013-35">The Tibetan here is <foreign type="term" xml:lang="Bo-Ltn">bud med kyi gnas thams cad kyi gtso ma dang dpal gyi mchog</foreign>, “Supreme Glory and
                                 Foremost of All that is Feminine.”</note>
                         </l>
                         <milestone unit="chunk" xml:id="UT22084-094-016-50"/>
-                        <l> Sarva­kiṃnara­sarvāsuryottama­śrī (Glory that is the First of All Kiṃnaras and of All Asuras),<note place="end" index="36" xml:id="UT22084-094-016-293">The Skt. edition has <foreign type="term" xml:lang="Sa-Ltn">sarva­kiṃnara­sarva­sūryottama­śrī</foreign>, “Glory that is the First of
-                                All kiṃnaras and All the Sun,” but in the Tib. (see glossary entry) <foreign type="term" xml:lang="Bo-Ltn">lha ma yin mo</foreign> suggests that the spelling <foreign type="term" xml:lang="Sa-Ltn">°sarvāsurya°</foreign> here is more likely to be correct in the
+                        <l> Sarva­kiṃnara­sarvāsuryottama­śrī (Glory that is the First of All Kiṃnaras and of All Asuras),<note place="end" index="36" xml:id="UT22084-061-013-36">The Skt. edition has <foreign type="term" xml:lang="Sa-Ltn">sarva­kiṃnara­sarva­sūryottama­śrī</foreign>, “Glory that is the First of
+                                All Kiṃnaras and All the Sun,” but in the Tib. (see glossary entry) <foreign type="term" xml:lang="Bo-Ltn">lha ma yin mo</foreign> suggests that the spelling <foreign type="term" xml:lang="Sa-Ltn">°sarvāsurya°</foreign> here is more likely to be correct in the
                                 context.</note>
+                            <ref cRef="F.234.a" key="toh739"/>
                         </l>
                         <l> Nir­avadya­sthāna­vāsinī (She who Stays Irreproachable),</l>
                         <l> Rūpavatī (Beautiful One),</l>
@@ -468,13 +478,13 @@
                     <milestone unit="chunk" xml:id="UT22084-094-016-52"/>
                     <ab type="mantra" tid="27">
                         <foreign type="mantra" xml:lang="Sa-Ltn">“Oṃ!</foreign> Look at us, save us, and emancipate us from all
-                        sufferings. Make us turn in the direction of all collections of merits, <foreign type="mantra" xml:lang="Sa-Ltn">svāhā</foreign>.<note place="end" index="37" xml:id="UT22084-094-016-294">In the
+                        sufferings. Make us turn in the direction of all collections of merits, <foreign type="mantra" xml:lang="Sa-Ltn">svāhā</foreign>.<note place="end" index="37" xml:id="UT22084-061-013-37">In the
                             Tibetan text, this first section of the dhāraṇī is in Tibetan. The Skt. of the second sentence should
                             be corrected from <foreign type="mantra" xml:lang="Sa-Ltn">sarva­puṇya­sambhārānā­mukhī­kuru
                                 svāhā</foreign> to <foreign type="mantra" xml:lang="Sa-Ltn">sarva­puṇya­sambhārānām abhi­mukhī
                                 kuru svāhā</foreign>.</note>
                         <foreign type="mantra" xml:lang="Sa-Ltn">Oṃ gaṅgādi­sarva­tīrthānām abhimukhī kuru</foreign>
-                        <note place="end" index="38" xml:id="UT22084-094-016-295">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">gaṅgādi­sarva­tīrthānyāmuikhī­kuru</foreign> should be corrected to <foreign type="mantra" xml:lang="Sa-Ltn">gaṅgādi­sarva­tīrthānām abhimukhī kuru</foreign>.</note>
+                        <note place="end" index="38" xml:id="UT22084-061-013-38">Skt. <foreign type="mantra" xml:lang="Sa-Ltn">gaṅgādi­sarva­tīrthānyāmuikhī­kuru</foreign> should be corrected to <foreign type="mantra" xml:lang="Sa-Ltn">gaṅgādi­sarva­tīrthānām abhimukhī kuru</foreign>.</note>
                         <foreign type="mantra" xml:lang="Sa-Ltn"> svāhā | oṃ sāvitryai svāhā | sarva­maṅgala­dhāriṇyai svāhā |
                             catur­veda­nakṣatra­graha­gaṇādimūrtyai svāhā | brahmaṇe svāhā | viṣṇave svāhā | rudrāya svāhā |
                             viśva­mukhāya svāhā | oṃ nigrigrini sarva­kāryasādhani sini sini āvāhayāmi devi śrī­vaiśravaṇāya svāhā
@@ -482,28 +492,27 @@
                             sarva­pāpanāśanyai svāhā | sarvā­lakṣmī­praśamanyai svāhā | sarva­tathāgatābhiṣiktāyai svāhā |
                             sarva­devatābhimukhaśriye svāhā | āyur­bala­varṇa­karāyai svāhā | sarva­pavitra­maṅgala­hastāyai svāhā
                             | siṃha­vāhinyai svāhā | padma­saṃbhūtāyai svāhā | sarva­kṛtya­kākhordavināśanyai svāhā.</foreign>
-                        <note place="end" index="39" xml:id="UT22084-094-016-296">The Sanskrit of the dhāraṇi as transcribed in
-                            the Tibetan text appears unreliable; the dhāraṇi as presented here is transliterated from the Sanskrit
+                        <note place="end" index="39" xml:id="UT22084-061-013-39">The Sanskrit of the dhāraṇi as transcribed in the
+                            Tibetan text appears unreliable; the dhāraṇi as presented here is transliterated from the Sanskrit
                             edition.</note>
                     </ab>
                     <milestone unit="chunk" xml:id="UT22084-094-016-53"/>
                     <p tid="24">“Fearless Avalokiteśvara, anyone who is going to retain and recite these names of Śrī
-                        Mahādevī—which eliminate all offenses, overcome all sins, accumulate all merits, eliminate<note place="end" index="40" xml:id="UT22084-094-016-297">Tib. <foreign type="term" xml:lang="Bo-Ltn">med
-                                par byed pa</foreign>, “make non-existent,” “eliminate;” Skt. <foreign type="term" xml:lang="Bo-Ltn">praśamanakarāṇi</foreign>, “make calm,” “pacify.”</note> all inauspiciousness,
-                        and accumulate all glories, happiness and good fortunes—and who is going to retain and recite<note place="end" index="41" xml:id="UT22084-094-016-298">Skt. omits “and recite.”</note> these names of the
-                        tathāgatas, should rise in the morning, clean up, and, having offered flowers and incense to all the
-                        buddhas, also offer sandalwood incense to Śrī Mahādevī. <ref cRef="F.250.b"/>Then, when he recites these
-                        names, all glory, all happiness and joys will be obtained. The gods will all guard, protect and
-                            preserve<note place="end" index="42" xml:id="UT22084-094-016-299">Skt. <foreign type="term" xml:lang="Sa-Ltn">guptiṃ kariṣyanti</foreign>, while Tib. has <foreign type="term" xml:lang="Bo-Ltn">sbed par byed pa</foreign>, “conceal.”</note> him, and all of his purposes will
-                        be fulfilled.”</p>
+                        Mahādevī—which eliminate all offenses, overcome all sins, accumulate all merits, eliminate<note place="end" index="40" xml:id="UT22084-061-013-40">Tib. <foreign type="term" xml:lang="Bo-Ltn">med par
+                                byed pa</foreign>, “make non-existent,” “eliminate;” Skt. <foreign type="term" xml:lang="Bo-Ltn">praśamanakarāṇi</foreign>, “make calm,” “pacify.”</note> all inauspiciousness, and accumulate all
+                        glories, happiness and good fortunes—and who is going to retain and recite<note place="end" index="41" xml:id="UT22084-061-013-41">Skt. omits “and recite.”</note> these names of the tathāgatas, should rise
+                        in the morning, clean up, and, having offered flowers and incense to all the buddhas, also offer
+                        sandalwood incense to Śrī Mahādevī. <ref cRef="F.250.b" key="toh193"/>Then, when he recites these names, all
+                        glory, all happiness and joys will be obtained. The gods will all guard, protect and preserve<note place="end" index="42" xml:id="UT22084-061-013-42">Skt. <foreign type="term" xml:lang="Sa-Ltn">guptiṃ
+                                kariṣyanti</foreign>, while Tib. has <foreign type="term" xml:lang="Bo-Ltn">sbed par byed
+                                pa</foreign>, “conceal.”</note> him, and all of his purposes will be fulfilled.”</p>
                     <milestone unit="chunk" xml:id="UT22084-094-016-54"/>
-                    <p tid="25">When the Bhagavān had thus spoken, the fearless bodhisattva Avalokiteśvara, Śrī Mahādevī<note place="end" index="43" xml:id="UT22084-094-016-300">Tib. has <foreign xml:lang="Bo-Ltn">lha mo chen mo
-                                dpal de</foreign>, “that Śrī Mahādevī,” while Skt. has <foreign type="term" xml:lang="Sa-Ltn">sā</foreign>, “she.” </note>, the entire retinue, and the world, including gods, humans, asuras,
-                        and gandharvas, rejoiced and [678] praised the words of the Bhagavān.</p>
+                    <p tid="25">When the Bhagavān had thus spoken, the fearless bodhisattva Avalokiteśvara, <ref cRef="F.234.b" key="toh739"/> Śrī Mahādevī<note place="end" index="43" xml:id="UT22084-061-013-43">Tib. has <foreign xml:lang="Bo-Ltn">lha mo chen mo dpal de</foreign>, “that Śrī Mahādevī,” while Skt. has <foreign type="term" xml:lang="Sa-Ltn">sā</foreign>, “she.” </note>, the entire retinue, and the world,
+                        including gods, humans, asuras, and gandharvas, rejoiced and [678] praised the words of the Bhagavān.</p>
                 </div>
                 <div type="colophon">
-                    <p tid="26">This completes <title xml:lang="en">The Noble Prophecy of Śrī Mahādevī</title>.<note place="end" index="44" xml:id="UT22084-094-016-301">The usual mention of the translators in the Tibetan colophon
-                            is missing in all versions.</note>
+                    <p tid="26">This completes <title xml:lang="en">The Noble Prophecy of Śrī Mahādevī</title>.<note place="end" index="44" xml:id="UT22084-061-013-44">The usual mention of the translators in the Tibetan colophon is
+                            missing in all versions.</note>
                     </p>
                 </div>
             </div>
@@ -516,7 +525,7 @@
                 <head type="listBibl">Bibliography</head>
                 <div type="section">
                     <bibl xml:id="UT22084-094-016-55">
-                        <title xml:lang="Sa-Ltn">Ārya­śrī­mahā­devī­vyākaraṇam</title>. Sanskrit in Dutta, Nalinaksa, ed. <title xml:lang="en">Gilgit Manuscripts</title>. (pp. 91–100) Delhi: Sri Satguru Publications, 1984. <ref target="http://www.dsbcproject.org/canon-text/book/11">www.dsbcproject.org</ref>.</bibl>
+                        <title xml:lang="Sa-Ltn">Ārya­śrī­mahā­devī­vyākaraṇam</title>. Sanskrit in Dutta, Nalinaksa, ed. <title xml:lang="en">Gilgit Manuscripts</title>. (pp. 91–100) Delhi: Sri Satguru Publications, 1984. <ref target="http://www.dsbcproject.org/­āryaśrīmahādevīvyākaraṇam/­āryaśrīmahādevīvyākaraṇam">www.dsbcproject.org</ref>.</bibl>
                     <bibl xml:id="UT22084-094-016-56">
                         <title xml:lang="Bo-Ltn">’phags pa lha mo chen mo dpal lung bstan pa</title> (<title xml:lang="Sa-Ltn">Ārya­śrī­mahā­devī­vyākaraṇa</title>). Toh 193, Degé Kangyur, vol. 61 (mdo sde, tsa), folios
                         246.a–250.b.</bibl>
@@ -643,7 +652,8 @@
                             <term xml:lang="Bo-Ltn">klu </term>
                             <term xml:lang="bo">ཀླུ།</term>
                             <term xml:lang="Sa-Ltn">nāga</term>
-                            <term type="definition">Nāgas are serpent-like animals who live (invisibly) in the human realm and
+                            <term type="definition">
+                                <term type="ignore">Nāgas</term> are serpent-like animals who live (invisibly) in the human realm and
                                 have an ambivalent status, on occasion positive but also frequently harmful.</term>
                         </gloss>
                     </item>
@@ -653,7 +663,8 @@
                             <term xml:lang="Bo-Ltn">gnod sbyin </term>
                             <term xml:lang="bo">གནོད་སྦྱིན།</term>
                             <term xml:lang="Sa-Ltn">yakṣa</term>
-                            <term type="definition">Yakṣas are a class of beings who assail and cause harm to humans. One of the
+                            <term type="definition">
+                                <term type="ignore">Yakṣas</term> are a class of beings who assail and cause harm to humans. One of the
                                 eight classes of spirits.</term>
                         </gloss>
                     </item>
@@ -712,7 +723,7 @@
                             <term xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
                             <term xml:lang="Sa-Ltn">pāramitā</term>
                             <term type="definition">Also translated as “transcendences.” The term is used to define the actions of
-                                a bodhisattva. The six perfections are: generosity, discipline, patience, diligence, concentration
+                                a bodhisattva. The six <term type="ignore">perfections</term> are: generosity, discipline, patience, diligence, concentration
                                 and wisdom.</term>
                         </gloss>
                     </item>
@@ -740,8 +751,9 @@
                             <term xml:lang="Bo-Ltn">nyan thos </term>
                             <term xml:lang="bo">ཉན་ཐོས།</term>
                             <term xml:lang="Sa-Ltn">śrāvaka</term>
+                            <term xml:lang="Sa-Ltn">āryaśrāvaka</term>
                             <term type="definition">The disciples of the Buddha who followed the Lesser Vehicle (Hīnayāna). A
-                                śrāvaka is explained as someone who hears the teachings and then proclaims them to others.</term>
+                                <term type="ignore">śrāvaka</term> is explained as someone who hears the teachings and then proclaims them to others.</term>
                             <term type="alternative">Āryaśrāvaka</term>
                         </gloss>
                     </item>
@@ -752,7 +764,7 @@
                             <term xml:lang="bo">རང་སངས་རྒྱས།</term>
                             <term xml:lang="Sa-Ltn">pratyekabuddha</term>
                             <term type="definition">The disciples of the Buddha who followed the Lesser Vehicle (Hīnayāna). The
-                                term “pratyekabuddha” means that they “on their own” became “buddhas.”</term>
+                                term “<term type="ignore">pratyekabuddha</term>” means that they “on their own” became “buddhas.”</term>
                         </gloss>
                     </item>
                     <item>
@@ -950,13 +962,13 @@
                         </gloss>
                     </item>
                     <!--<item>
-                        <gloss xml:id="UT22084-094-016-105" type="person">
+                        <gloss priority="1" xml:id="UT22084-094-016-105" type="person">
                             <term>Nārāyaṇa</term>
                             <term xml:lang="Bo-Ltn">sred med kyi bu </term>
                             <term xml:lang="bo">སྲེད་མེད་ཀྱི་བུ།</term>
                             <term xml:lang="Sa-Ltn">Nārāyaṇa</term>
                         </gloss>
-                    </item>་NOT IN TEXT-->
+                    </item> NOT IN TEXT -->
                     <item>
                         <gloss xml:id="UT22084-094-016-106" type="person">
                             <term>Indra</term>
@@ -1540,8 +1552,10 @@
                     <item>
                         <gloss xml:id="UT22084-094-016-177" type="person">
                             <term>Vimala­nirmala­kara­śrī</term>
-                            <term xml:lang="Bo-Ltn">dri ma med pa __,__ dri ma med par byed pa’i dpal </term>
-                            <term xml:lang="bo">དྲི་མ་མེད་པ་ , དྲི་མ་མེད་པར་བྱེད་པའི་དཔལ།</term>
+                            <term xml:lang="Bo-Ltn">dri ma med pa</term>
+                            <term xml:lang="bo">དྲི་མ་མེད་པ།</term>
+                            <term xml:lang="Bo-Ltn">dri ma med par byed pa’i dpal </term>
+                            <term xml:lang="bo">དྲི་མ་མེད་པར་བྱེད་པའི་དཔལ།</term>
                             <term xml:lang="Sa-Ltn">Vimala­nirmala­kara­śrī</term>
                         </gloss>
                     </item>
@@ -2081,7 +2095,8 @@
                             <term>Sarva­pṛthivī­śrī</term>
                             <term xml:lang="Bo-Ltn">sa thams cad dang rgyal po thams cad kyi dpal </term>
                             <term xml:lang="bo">ས་ཐམས་ཅད་དང་རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</term>
-                            <term xml:lang="Sa-Ltn">Sarva­pṛthivī­śrī, Sarva­rāja­śrī</term>
+                            <term xml:lang="Sa-Ltn">Sarva­pṛthivī­śrī </term>
+                            <term xml:lang="Sa-Ltn">Sarva­rāja­śrī </term>
                         </gloss>
                     </item>
                     <item>

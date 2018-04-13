@@ -18,7 +18,7 @@
                 <author role="translatorEng">Ulrich Pagel</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.2 <date>2017</date>
+                <edition>v 1.3 <date>2017</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -48,7 +48,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 15/03/2018 at 10:11:19 by andre</note>
+                <note type="lastUpdated">Last updated at 31/03/2018 at 01:45:03 by konchog</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -86,8 +86,8 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-3"/>
                     <p tid="4">
                         <title xml:lang="en">The Questions of Bhadrapāla the Merchant</title> (<title xml:lang="Sa-Ltn">Bhadra­pāla­śreṣṭhi­paripṛcchā</title>) is the thirty-ninth of the forty-nine sūtras that comprise
-                        the <title xml:lang="Sa-Ltn">Ratnakūṭa</title> collection. Like most of the sūtras in the <title xml:lang="Sa-Ltn">Ratnakūṭa</title>, it was translated into Tibetan from a Sanskrit original that is
-                        now lost, but that may have dated back as far as the 1st or 2nd centuries CE, i.e. several centuries
+                        the Ratnakūṭa collection. Like most of the sūtras in the Ratnakūṭa, it was translated into Tibetan from a Sanskrit original that is
+                        now lost, but that may have dated back as far as the first or second centuries CE, i.e., several centuries
                         before the collection itself was compiled. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-4"/>
                     <p tid="5"> The Tibetan Kangyur translation of the sūtra is attributed in its colophon to the Indian scholars
@@ -119,8 +119,8 @@
                     <p tid="9"> Doctrinally, the sūtra’s explanations of the relationship between consciousness and the body’s
                         various constituents are not fully consistent with classic Abhidharma or Yogācāra theory. Chang, in a note
                         to his translation of the text from Chinese, points to its unusual treatment of consciousness as an
-                        individual unity,<note place="end" index="2" xml:id="UT22084-044-003-216"> Chang (1991), p 237 n 1.</note>
-                        and Lindtner, referring to the Chinese translations of the sūtra, sees in it “pre-canonical” <term type="ignore">elements</term> that may go back to ideas in the Upaniṣads.<note place="end" index="3" xml:id="UT22084-044-003-217"> See Lindtner (1997, p 113 <foreign xml:lang="la">et seq.</foreign>);
+                        individual unity,<note place="end" index="2" xml:id="UT22084-044-003-216"> Chang (1991), p. 237 n 1.</note>
+                        and Lindtner, referring to the Chinese translations of the sūtra, sees in it “pre-canonical” <term type="ignore">elements</term> that may go back to ideas in the Upaniṣads.<note place="end" index="3" xml:id="UT22084-044-003-217"> See Lindtner (1997, p. 113 <foreign xml:lang="la">et seq.</foreign>);
                             Lindtner seems to be unaware of the Tibetan translation of this text.</note> Nevertheless, it is very
                         common in both the Kangyur and Tengyur that consciousness (as a unitary item) is listed as sixth in
                         enumerations of the elements, and it is to that context that the term “the element of consciousness,” so
@@ -128,9 +128,9 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-9"/>
                     <p tid="10"> In a statement that could be read as foreshadowing the Cittamātra conception of an immaculate
                         substratum consciousness, and the <foreign xml:lang="Sa-Ltn">tathāgatagarbha</foreign> or Buddha-essence
-                        doctrine, the Buddha says: “the element of consciousness is completely purified; it encompasses all
+                        doctrine, the Buddha says that “the element of consciousness is completely purified; it encompasses all
                         things, but it is not tainted by anything.” Consciousness acquires merit and non-merit in a similar way to
-                        a jewel taking on the color of whatever light to which it is exposed. </p>
+                        a jewel taking on the color of whatever light it is exposed to. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-10"/>
                     <p tid="11"> The sūtra nonetheless underscores the benefits of meritorious action: the marvelous wealth and
                         comforts enjoyed by Bhadrapāla, described in sumptuous detail, are the result of his virtuous conduct in
@@ -193,7 +193,7 @@
                         head merchant Candrabhūti, neither the lord of the gods Indra, nor the most noble ones of this world,
                         possess the requisites for happiness, pleasure, and sensual enjoyments that Bhadrapāla commands.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-18"/>
-                    <p tid="23">The Venerable Ānanda asked, “Blessed One, what are the riches of Bhadrapāla?”</p>
+                    <p tid="23">“Blessed One, what are the riches of Bhadrapāla?” asked the Venerable Ānanda. </p>
                     <p tid="24">The Blessed One replied, “Since you ask, Ānanda, please hear what I have to say about the riches
                         and vast resources of this merchant who has created the roots of virtue. Ānanda, he is attended by sixty
                         thousand merchants holding an abundance of wealth and gold. Their beds are beautified with combinations of
@@ -207,8 +207,8 @@
                         delight that they create with their alluring, charming, and pleasant conversation. Through honoring their
                         husbands, they praise their bodies. They have given up thoughts of desire for other men. They bow
                         gracefully and wear fine shawls. They do not quarrel out of jealousy, scowl with hostility, or vie with
-                        each other. Their limbs, fingers, and toes are very soft; the joints of their limbs do not protrude; their
-                        limbs are fleshy; their hair is of even length and styled, wound to the right, and beautiful. They are
+                        each other. Their limbs, fingers, and toes are very soft; the joints of their limbs do not protrude; and their
+                        limbs are fleshy. Their hair is of even length and styled, wound to the right, and beautiful. They are
                         full of attachment and affection. Coming as they do from esteemed lineages and families, they bring fame
                         and fortune. <ref cRef="F.72.b"/>
                     </p>
@@ -217,13 +217,13 @@
                         fit for entertainment. Their sixty thousand bronze cauldrons are filled with fine cooked rice and
                         vegetables, each with its own uniquely delicious aroma, as well as different types of fragrant and
                         delightful food and drink, such as fine-pulped rice or water with the eight good qualities. Because they
-                        hold merit and are free from defilements, they do not smell badly, are not unclean, nor do they have
+                        hold merit and are free of defilements, they do not smell badly, are not unclean, nor do they have
                         physical flaws. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-21"/>
-                    <p tid="27">“Their tall houses are made fair and beautiful in distinctive ways; they are embellished with
+                    <p tid="27">“Their tall houses are made fair and beautiful in distinctive ways: they are embellished with
                         gems, pearls, beryl, and jewels, with clean fabrics that swirl in the breeze, and are strewn with
                         scattered flowers. They are cooled by the pleasant sprinkling of water cool to the touch and graced by the
-                        sweet murmur sounding from gongs, single and multiple-stringed lutes, flutes, kettle drums, as well as the
+                        sweet murmur sounding from gongs, single- and multiple-stringed lutes, flutes, kettle drums, as well as the
                         delightful and attractive cooing of pigeons. Bees buzz pleasantly on the coiling tips of flowering vines.
                         They live as if nestled between the abode of the gods and the slopes of Mount Meru, with the splendor of
                         shining lamps screened from the wind, and medicinal torches, in villages graced with sixty thousand
@@ -241,17 +241,17 @@
                     <p tid="30">“Ānanda, the wealth of the young head merchant Candrabhūti is as follows. He is surrounded by an
                         entourage that includes cooks equipped with a hundred thousand cauldrons. Ānanda, he also has five
                         thousand women serving him. Ānanda, even the requisites for the happiness of Indra, the lord of the gods,
-                        do not compare in the slightest with those of Candrabhūti. Ānanda, the fine <term type="ignore">form</term> and rich complexion, the power and requisites for happiness of Bhadrapāla do not compare
+                        do not compare in the slightest with those of Candrabhūti. Ānanda, the fine <term type="ignore">form</term> and rich complexion, and the power and requisites for happiness of Bhadrapāla, do not compare
                         to a hundredth part of those of Candrabhūti. Nevertheless, Ānanda, Bhadrapāla possesses heavenly chariots
                         adorned with as many celestial gems and brilliant jewels as the sky is adorned with stars, gilded with
-                        celestial, glittering, gold, and beautified with diamonds, precious stones and various kinds of crystal.
+                        celestial, glittering gold, and beautified with diamonds, precious stones, and various kinds of crystal.
                         These chariots are as fast as the wind and fly like an eagle in the sky. Once mounted, they take him to
                         jewel-islands, and after he has amused himself in those happy places, the ravishingly beautiful chariots
                         take him back home.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-25"/>
                     <p tid="31">At this, Ānanda prostrated himself before the Blessed One and asked, “Blessed One, how did this
                         young head merchant, Bhadrapāla, amass his roots of virtue?”</p>
-                    <p tid="32">The Blessed One replied, “Ānanda, his roots of virtue here will come to maturation in buddhahood.
+                    <p tid="32">“Ānanda,” replied the Blessed One, “his roots of virtue here will come to maturation in buddhahood.
                         Ānanda, long ago the Tathāgata, the arhat, the completely and perfectly enlightened Buddha Sukhābha lived
                         in this world. Ānanda, Bhadrapāla was a disciple of his called Cūḍabhadra. He had not transgressed his
                         basic precepts, and resolutely maintained ethical behavior. <ref cRef="F.73.b"/> He was a proponent of
@@ -279,12 +279,12 @@
                         questions had come. Joining his palms together, he prostrated before the Blessed One, and asked, “If the
                         Blessed One, who is beneficent and compassionate toward all beings, would allow me, <ref cRef="F.74.a"/>
                         may I please ask some questions on a few subjects?”</p>
-                    <p tid="37">The Blessed One replied, “Bhadrapāla, now is the time for you to put your questions, so ask
+                    <p tid="37">“Bhadrapāla,” replied the Blessed One, “now is the time for you to put your questions, so ask
                         whatever you wish; I shall answer you.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-29"/>
-                    <p tid="38">Bhadrapāla said, “Blessed One, sentient beings in this world do not know about their
+                    <p tid="38">So Bhadrapāla asked, “Blessed One, sentient beings in this world do not know about their
                         consciousness. If not understanding consciousness is akin to not knowing of a jewel hidden in a box, what
-                        then, Blessed One, is consciousness? Why is it called consciousness? Blessed One, a dying person’s limbs
+                        then, Blessed One, is consciousness? Why is it called ‘consciousness’? Blessed One, a dying person’s limbs
                         and eyes fail; when, at the moment of death, his faculties cease and he loses his constituent elements,
                         how does this consciousness undergo transfer from the body, and what type of form does it have? What is
                         its nature? How does it separate from the body? How does consciousness, after abandoning one body,
@@ -300,7 +300,7 @@
                             <ref cRef="F.74.b"/> ceases.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-31"/>
                     <p tid="40">“As an analogy, Bhadrapāla, even though the wind element is formless, it manifests in the <term type="ignore">form</term> of things that are both demonstrable and tangible. It is demonstrable in the
-                        shaking and waving of trees, in the howling sound wind makes, in the sensations of warmth and cold that it
+                        shaking and waving of trees, in the howling sound wind makes, and in the sensations of warmth and cold that it
                         creates, even though it has no perceptible limbs, eyes, or face, nor is it seen to have any color, such as
                         blue or white. Bhadrapāla, it is in just the same way that the element of consciousness is not observed as
                         form, and does not manifest as form, and thus you have to understand the element of consciousness through
@@ -331,7 +331,7 @@
                     <p tid="44">“That is to say, the eyes are the condition for seeing forms, but the consciousness that depends
                         on the eyes has no form. The ears are the condition for sounds, but the auditory consciousness has no
                         form. The nose is the condition for smell, but the olfactory consciousness has no form. The tongue is the
-                        condition for taste, but the gustatory consciousness has no form. The body is the conditioning factor for
+                        condition for taste, but the gustatory consciousness has no form. The body is the condition for
                         touch, but the tactile consciousness has no form. Neither the sphere of mental objects, nor knowledge,
                         have form. Hence, the objects of cognition must also be considered to have no form. In the same way, too,
                         the element of consciousness should be regarded as formless.</p>
@@ -345,7 +345,7 @@
                         these votive offerings,’ as a physical feeling, a mental feeling, and both types of feeling conjoined. At
                         the time of death, it has physical feelings; once death has taken place, it has mental feelings.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-37"/>
-                    <p tid="46"><!--<canonicalGlossPassage term=rnam shes>-->“Furthermore, what does <emph>consciousness</emph>
+                    <p tid="46"><!--<canonicalGlossPassage term=rnam shes>-->“Furthermore, what does ‘consciousness’
                         mean? <ref cRef="F.75.b"/> Since it acts as the seed that makes the sprout of a body manifest, and through
                         volition acquires awareness and recollection, the seed and the awareness are referred to as consciousness.
                         Furthermore, it is because it comprehends awareness through feelings of pleasure and pain that it is
@@ -381,15 +381,15 @@
                         all these things to be consciousness’s to command. To illustrate this, consider how a wooden puppet
                         connected to a rod can be made to do anything. How, Bhadrapāla, do you think it runs, jumps, dances, or
                         does any other number of things? What animates the puppet?”</p>
-                    <p tid="51">Bhadrapāla replied, “Blessed One, I do not grasp the reason for your question.”</p>
+                    <p tid="51">“Blessed One, I do not grasp the reason for your question,” Bhadrapāla replied.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-42"/>
-                    <p tid="52">The Blessed One said, “Bhadrapāla, the puppet is animated by action, and yet while action is
+                    <p tid="52">“Bhadrapāla,” the Blessed One continued, “the puppet is animated by action, and yet while action is
                         something without form, consciousness makes it manifest. In the same way, this body puppet of ours arises
                         through the influence of consciousness, and the element of consciousness animates different bodies. The
                         element of consciousness, because it generates a body, is also its creator. The element of consciousness,
                         because it adheres to the bodily elements, is also inexhaustible. The element of consciousness, because it
                         recollects its previous bodily state, is also perfectly intelligent. Consider the element of consciousness
-                        to be like the rays of the sun. The sun’s rays fall on foul-smelling things, dirty things, and corpses;
+                        to be like the rays of the sun. The sun’s rays fall on foul-smelling things, dirty things, and corpses,
                         yet they do not become tainted by the odor. Neither does the sun reject those foul smells and go away. In
                         the same way, the element of consciousness may take rebirth among dogs or pigs that eat dirt and refuse,
                             <ref cRef="F.76.b"/> but the element of consciousness is not tainted by the offensive way they
@@ -397,7 +397,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-43"/>
                     <p tid="53">“Furthermore, Bhadrapāla, once the element of consciousness abandons the body, it follows after
                         virtue and non-virtue. How so? Once the formless element of consciousness has abandoned this body, it
-                        retains its merit and demerit. As an analogy, the element of wind, emerging from a rocky ravine,
+                        retains its merit and non-merit. As an analogy, the element of wind, emerging from a rocky ravine,
                         encounters a campaka tree, and carries away its fragrant scent as it passes; it also carries the odor of
                         the foul-smelling filth and corpses it passes. Bhadrapāla, it assumes whatever scent is predominant. Just
                         as the wind element carries both kinds of smell as it passes, even though that wind element itself, as
@@ -405,7 +405,7 @@
                         from the body, carrying virtue and non-virtue with it as it is transferred. This is how you should
                         conceive of the transfer it undergoes.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-44"/>
-                    <p tid="54">“As an analogy, although a person in a dream may be aware of all sorts of things, he is not aware
+                    <p tid="54">“As another analogy, although a person in a dream may be aware of all sorts of things, he is not aware
                         that his body is lying in bed. Similarly, sentient beings who have encountered merit undergo transfer and
                         migration as if they were dreaming a dream, but the element of consciousness does not emerge from their
                         throat, or from any other opening, for it does not seek out holes or egresses.”</p>
@@ -414,8 +414,8 @@
                         transfer, and migrate from inside unpecked chicken or duck eggs, when the shell has not been pierced? How
                         does their consciousness undergo transfer, without any piercing?”</p>
                     <p tid="56">The Blessed One answered, “As an analogy, the sesame oil you get from infusing sesame seeds with
-                        campaka flowers before pounding and pressing them well is called <foreign xml:lang="en">campaka sesame
-                            oil</foreign>. In that process a pleasant scent infuses—that is, passes through and goes into—the
+                        campaka flowers before pounding and pressing them well is called ‘campaka sesame
+                        oil.’ In that process a pleasant scent infuses—that is, passes through and goes into—the
                         sesame seeds even though the scent neither ruptures the seed nor affects the flavor of the oil. <ref cRef="F.77.a"/> The encounter of the seed with the flower acts as a condition for the mingling of the
                         scent and the sesame oil. However, it is not the case that the flower’s scent enters into the body of the
                         sesame seed. It is rather that those conditions cause the scent to be transferred and migrate. In just the
@@ -439,7 +439,7 @@
                         and likewise all other elements of form, be they of attention, feeling, or dharmas, follow after it.” <ref cRef="F.77.b"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-48"/>
-                    <p tid="59">Bhadrapāla asked, “Blessed One, how is it that the element of consciousness possesses form?”</p>
+                    <p tid="59">“Blessed One, how is it that the element of consciousness possesses form?” Bhadrapāla asked.</p>
                     <p tid="60">The Blessed One replied, “Bhadrapāla, in that regard, there is an inner form and an outer form.
                         What is inner form? The eye that perceives is outer form, while visual consciousness is inner form. The
                         ear is outer form, while auditory consciousness is inner form. The nose is outer form, while olfactory
@@ -457,7 +457,7 @@
                     <p tid="62">Bhadrapāla replied, “Blessed One, please tell me.” <ref cRef="F.78.a"/>
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-50"/>
-                    <p tid="63">The Blessed One said, “Although a blind man sees forms in his dreams, it is not with his physical
+                    <p tid="63">“Although a blind man sees forms in his dreams,” continued the Blessed One, “it is not with his physical
                         eyes but because he has inner visual consciousness. Just as a man upon waking fleetingly remembers his
                         dream, the memory of the dead arises in a similar way. That is how you should regard inner form, too.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-51"/>
@@ -473,9 +473,9 @@
                         with the colors of any place to which it is transferred. In a similar way, consciousness assumes virtue
                         and non-virtue, before undergoing transfer and migrating.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-53"/>
-                    <p tid="67">Then, again Bhadrapāla asked, “Blessed One, how should we understand the presence of consciousness
+                    <p tid="67">Then, Bhadrapāla asked further, “Blessed One, how should we understand the presence of consciousness
                         in the body?” </p>
-                    <p tid="68">The Blessed One replied, “Bhadrapāla, do not imagine consciousness to have been accumulated or
+                    <p tid="68">“Bhadrapāla,” replied the Blessed One, “do not imagine consciousness to have been accumulated or
                         heaped up. Why? Because the element of consciousness arises and ceases. As an analogy, Bhadrapāla, a
                         sprout emerges from a seed; but no sprout will emerge from a seed that is rotten, or from a seed that is
                         damaged. And when a sprout is produced, Bhadrapāla, what do you think? Where is the seed of that sprout
@@ -495,7 +495,7 @@
                         accompanied by its support of non-virtue, carried by the air element, and saturated with awareness; and,
                         aligned to conditions, consciousness arises when the parents come together.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-56"/>
-                    <p tid="71">“As an analogy, a face is reflected on the surface of a very clean mirror; but if there is no
+                    <p tid="71">“As another analogy, a face is reflected on the surface of a very clean mirror; but if there is no
                         face, no reflection occurs, and if there is no mirror, no reflection occurs, either. A reflection emerges
                         from the encounter between face and mirror; that reflection has no form, no feeling, and no awareness.
                         However the body shifts, the reflection in a mirror moves, and however the face speaks, shouts, moves,
@@ -515,19 +515,19 @@
                         corresponds to the parents coming together.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-59"/>
                     <p tid="74">“Just as the body disappears, its reflection will disappear. Yet suppose that its state of being
-                        reflected in the mirror’s surface is left behind; it can still cause its reflection to appear in water.
+                        reflected in the mirror’s surface is left behind: it can still cause its reflection to appear in water.
                         Likewise, when the element of consciousness abandons the body and its corporeal state is cast off, it will
                         acquire the aggregates of another body. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-60"/>
                     <p tid="75">“As an analogy, the element of a seed, tiny though it may be, produces the great bulk of a tree
-                        such as a banyan or <foreign type="term" xml:lang="Sa-Ltn">uḍumbara</foreign> before leaving it behind.
+                        such as a banyan or uḍumbara before leaving it behind.
                         When the seed element is given off to develop into another tree, as the seasons change the elemental sap
                         of the first tree vanishes. Because its elemental sap vanishes, the tree becomes old and withered. It is
                         likewise that the element of consciousness, subtle and invisible though it is, generates bodies and then
                         abandons them again before producing other bodies. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-61"/>
-                    <p tid="76">“As an analogy, where there is a little grain of barley, sesame seed, wheat grain, soya bean, or
-                        mung bean, what is present is very little, like that volition. Just so, the element of consciousness
+                    <p tid="76">“As another analogy, where there is a little grain of barley, sesame seed, wheat grain, soya bean, or
+                        mung bean, what is present is very little, like that of volition. Just so, the element of consciousness
                         carries that volition to one or another kind of sentient being to which it is undergoing transfer, and,
                         keeping with it a little feeling <ref cRef="F.79.b"/> along with merit and non-merit, undergoes transfer
                         from this world to the next.</p>
@@ -565,7 +565,7 @@
                     <p tid="81">“It is like a precious wish-fulfilling jewel with which, wherever it goes, all of its abundance is
                         transferred and migrates there, too. Or like the sun and its rays: wherever the sun may go, the rays of
                         sunlight follow and go to that very same place. So also, wherever the element of consciousness is
-                        transferred to, feeling, perception and the element of dharmas are all transferred and migrate to that
+                        transferred to, feeling, perception, and the element of dharmas are all transferred and migrate to that
                         very same place, too.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-67"/>
                     <p tid="82">“Furthermore, the element of consciousness, after it has left the body behind, retains contact
@@ -581,9 +581,9 @@
                     <p tid="83">“Furthermore, the element of consciousness, after it has left the body behind, is conscious of
                         that, thinking, ‘I have left this body of mine behind.’ That is why it is called <emph>the element of
                             consciousness</emph>. It is also conscious of both its virtuous and non-virtuous actions, thinking,
-                        ‘These actions follow me just as I follow them.’ That is why it is called <emph>consciousness</emph>.
+                        ‘These actions follow me just as I follow them.’ That is why it is called ‘consciousness.’
                         Moreover, it is conscious of all the activities of the body. That is why it is called
-                            <emph>consciousness</emph>.</p>
+                        ‘consciousness.’</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-69"/>
                     <p tid="84">“As an analogy, the element of air can be cold and can be hot; it can carry pleasant smells and
                         can carry bad smells. Although all of these functions occur due to the conditional cause of the air
@@ -592,15 +592,15 @@
                         appropriated. Likewise, the element of consciousness, despite possessing no form, experiences feeling
                         through the conditions of appropriating form, desire, and view, as well as through the condition of
                         appropriating rules and observances to be paramount. Because it generates and completes a body as well as
-                        its appearance through the condition of feeling, it is called <emph>consciousness</emph>.”</p>
+                        its appearance through the condition of feeling, it is called ‘consciousness.’ ”</p>
                     <lb/>
                     <milestone unit="chunk" xml:id="UT22084-044-003-70"/>
-                    <p tid="85">Now Candrabhūti rose from his seat. Pressing his palms together, he said, “Blessed One, how should
+                    <p tid="85">Now Candrabhūti rose from his seat. Pressing his palms together, he asked, “Blessed One, how should
                         one view form? How is it appropriated? How should one view the appropriation of action? How is the view
                         appropriated? How should one view the appropriation of the opinion that rules and observances are
                         paramount?” </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-71"/>
-                    <p tid="86">The Blessed One replied, “Excellent, Candrabhūti! <ref cRef="F.81.a"/> The wise person knows this
+                    <p tid="86">“Excellent, Candrabhūti!” replied the Blessed One. <ref cRef="F.81.a"/> “The wise person knows this
                         to be a sign of wisdom. Regardless of whether one’s appearance is good or bad, it is still based on many
                         unpleasant and dirty things: pieces of flesh, veins, sinews, a head, a brain, bones, legs, guts, a colon,
                         kidneys, a heart, a belly, lungs, excrement, urine, a bladder, a stomach, entrails, fat, lymph, pus,
@@ -669,12 +669,12 @@
                         consciousness that transfers from the body?” <ref cRef="F.82.b"/>
                     </p>
                     <p tid="95">The Blessed One replied, “Mahauṣadhi, that you ask me such a question now is quite right.
-                        Excellent, excellent; this is an extremely profound question. It is a question for the Tathāgata to
+                        Excellent, excellent. This is an extremely profound question. It is a question for the Tathāgata to
                         explain. Other than the Tathāgata, there is no one who can explain consciousness.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-80"/>
-                    <p tid="96">Bhadrapāla said, “Blessed One, young prince Mahauṣadhi is good at asking such profound questions.
-                        He has a subtle mind and is well-versed in learning.”</p>
-                    <p tid="97">The Blessed One replied, “Quite right, Bhadrapāla. Young prince Mahauṣadhi generated the roots of
+                    <p tid="96">“Blessed One, young prince Mahauṣadhi is good at asking such profound questions.
+                        He has a subtle mind and is well-versed in learning,” said Bhadrapāla.</p>
+                    <p tid="97">“Quite right, Bhadrapāla,” replied the Blessed One. “Young prince Mahauṣadhi generated the roots of
                         virtue in the presence of the Blessed Vipaśyin. Bhadrapāla, after Mahauṣadhi had belonged to heterodox
                         sects for five hundred lifetimes, he formulated the thought, ‘What is the element of consciousness? Whose
                         is the element of consciousness? What is the nature of the element of consciousness?’ Even so, Bhadrapāla,
@@ -694,7 +694,7 @@
                         one who has transcended suffering until the end of time. These sentient beings less elevated than you,
                         however, while not wanting the maturation of virtuous and non-virtuous actions, will make themselves
                         wander through cyclic existence.”</p>
-                    <p tid="100">The Blessed One replied, “Mahauṣadhi, for the sake of even half a verse of Dharma I have thrown
+                    <p tid="100">“Mahauṣadhi,” replied the Blessed One, “for the sake of even half a verse of Dharma I have thrown
                         my body from rocky peaks, and have endured countless hardships. Mahauṣadhi, ask whatever questions you
                         wish, and I shall answer them.”</p>
                     <lb/>
@@ -704,7 +704,7 @@
                         illusionist, the indistinct nature of the hazy shadow of a person that appears on water, the nature of the
                         eye and the sky, and the nature of craving.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-84"/>
-                    <p tid="103">Mahauṣadhi asked, “Blessed One, how is the nature of craving?”</p>
+                    <p tid="103">“Blessed One, how is the nature of craving?” asked Mahauṣadhi.</p>
                     <p tid="104">The Blessed One replied, “The eye faculty, when it sees attractive people, moves toward them. And
                         just as a person sees his own face reflected in a mirror, and does not see his face reflected when the
                         mirror is drawn aside, in the same way, when the element of consciousness has undergone transfer, that
@@ -724,7 +724,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-86"/>
                     <p tid="106">Bhadrapāla now bowed at the feet of the Blessed One and asked him, “Blessed One, what is it to
                         experience merit and non-merit?”</p>
-                    <p tid="107">The Blessed One replied, “Bhadrapāla, listen to what I say about this. Unless one has seen truth,
+                    <p tid="107">“Bhadrapāla,” replied the Blessed One, “listen to what I say about this. Unless one has seen truth,
                         one cannot see consciousness. It is not like seeing an amla fruit held in one’s hand. Consciousness is not
                         located in the eyes, nor is it visible as springing from the eyes. Bhadrapāla, I, like all the tathāgatas
                         as numerous as the sands of the river Ganges, see the element of consciousness as it truly is, and realize
@@ -747,7 +747,7 @@
                         as well. That is how the element of consciousness experiences merit.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-89"/>
                     <p tid="111">“As an analogy, Bhadrapāla, suppose a repulsive, putrefying spirit of invisible form were to
-                        possess a person’s body, desiring dirty, putrid, defiled things; things thrown into gutters and
+                        possess a person’s body, desiring dirty, putrid, defiled things—things thrown into gutters and
                         strewn-offerings. It would take delight in those offerings. That person, too, under the control of the
                         spirit, would desire feculent food from foul-smelling, dirty things, and take delight in it. In the same
                         way, the element of consciousness, through actions that lean toward non-merit, produces bad rebirths. It
@@ -758,7 +758,7 @@
                         to divine bodies.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-91"/>
                     <p tid="113">“And like putrefying spirits possessing human beings and making them eat excrement and filth, the
-                        element of consciousness, through actions that lean toward demerit, is born into bad rebirths. That is how
+                        element of consciousness, through actions that lean toward non-merit, is born into bad rebirths. That is how
                         the element of consciousness that leans toward non-merit should be considered. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-92"/>
                     <p tid="114">“So, Bhadrapāla, you should view those spirits, because they are formless, as resembling the
@@ -781,12 +781,12 @@
                         consciousness, after leaving the body behind, establishes virtue and non-virtue; <ref cRef="F.85.a"/>
                         establishes feelings, perceptions, and mental processes; and then passes on to the next life. As an
                         analogy, when a man’s and a woman’s sexual organs meet, they are moistened by pleasure; the man embraces
-                        the woman tightly, and then emits his passion. After<note place="end" index="7" xml:id="UT22084-044-003-221"> We follow the reading <foreign xml:lang="Sa-Ltn">nas</foreign> in Q, N
+                        the woman tightly, and then emits his passion. After<note place="end" index="7" xml:id="UT22084-044-003-221"> We follow the reading <foreign xml:lang="Sa-Ltn">nas</foreign> in Q, N,
                             and H rather than D <foreign xml:lang="Sa-Ltn">na</foreign>.</note> the pair’s passion has passed,
                         they uncouple. The bliss of desire arises in them both, but when their passion is spent, desire vanishes
                         and they no longer desire each other. In the same way, the element of consciousness feels joy and its
                         desire is inflamed when it achieves contact with the body. Just as the conditional cause of a body gives
-                        rise to the man’s desire when he sees the woman’s form, then withdraws it when they part company, so, too,
+                        rise to the man’s desire when he sees the woman’s form, then withdraws it when they part company, so too
                         when the body is appropriated and then discarded by the element of consciousness, it transforms into
                         something else and is no more. </p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-96"/>
@@ -796,21 +796,21 @@
                         appropriation; therefore, it is called <distinct>appropriating desire</distinct>. It is also called
                             <distinct>appropriating desire</distinct> because one appropriates the desire for form.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-97"/>
-                    <p tid="120">“Furthermore, Mahauṣadhi, what is the appropriation of holding rules and observances to be
-                        paramount? In this context, rules means the renunciation of killing, stealing, sexual misconduct, telling
+                    <p tid="120">“Furthermore, Mahauṣadhi, what is <distinct>the appropriation of holding rules and observances to be
+                        paramount</distinct>? In this context, ‘rules’ means the renunciation of killing, stealing, sexual misconduct, telling
                         lies, and intoxication with beer or liquor, which are the source of heedlessness. It is held to be
-                        paramount as its result is stream-entry, and its result is once-returning. Appropriating it causes
+                        ‘paramount’ as its result is stream-entry, and its result is once-returning. Appropriating it causes
                         becoming; it generates rebirth among gods and men and adherence to such birth; and it leads to the
                         maturation of virtue, pure and impure. It also moistens the seed of the aggregates, <ref cRef="F.85.b"/>
-                        collects virtuous and non-virtuous actions, and connects to<note place="end" index="8" xml:id="UT22084-044-003-222"> We follow the reading <foreign xml:lang="Bo-Ltn">sbyor</foreign> in N, S
+                        collects virtuous and non-virtuous actions, and connects to<note place="end" index="8" xml:id="UT22084-044-003-222"> We follow the reading <foreign xml:lang="Bo-Ltn">sbyor</foreign> in N, S,
                             and H, rather than <foreign xml:lang="Bo-Ltn">sbyong</foreign> in D.</note> consciousness. It also
                         burns up<note place="end" index="9" xml:id="UT22084-044-003-223"> The reading in C is <foreign xml:lang="Bo-Ltn">sred par byed</foreign>, which would mean “creates attachment to.”</note>
-                        impurities that one has acquired. Therefore, it is called the appropriation of holding rules and
-                        observances to be paramount.”</p>
+                        impurities that one has acquired. Therefore, it is called <distinct>the appropriation of holding rules and
+                            observances to be paramount</distinct>.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-98"/>
                     <p tid="121">Mahauṣadhi then asked the Blessed One, “Blessed One, how does consciousness assume a body among
                         the gods? How does it appropriate one among the hell-dwellers?”</p>
-                    <p tid="122">The Blessed One replied, “Mahauṣadhi, listen to what I have to say. Here, after the element of
+                    <p tid="122">“Mahauṣadhi,” replied the Blessed One, “listen to what I have to say. Here, after the element of
                         consciousness has assumed the element of dharmas, it develops divine vision, but that vision is not based
                         on the physical eyes. Sight through this vision is called <emph>appropriation</emph>; it is therefore
                         called <emph>visual appropriation</emph>. That divine vision, accompanied by the apprehension of merit,
@@ -822,23 +822,23 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-99"/>
                     <p tid="123">Mahauṣadhi then asked the Blessed One, “Blessed One, if the consciousness is attached to that
                         corpse, why does it not stay there? Why does it not base itself in that very corpse?”</p>
-                    <p tid="124">The Blessed One replied, “Suppose, Mahauṣadhi, that someone were to cut his hair and beard, and
+                    <p tid="124">The Blessed One answered in return, “Suppose, Mahauṣadhi, that someone were to cut his hair and beard, and
                         were then to look at that hair and think, ‘These hairs are fragrant and black, so I shall make them grow
                         on my head again.’ <ref cRef="F.86.a"/> What do you think, Mahauṣadhi—would those hairs grow again?”</p>
                     <p tid="125">“No, Blessed One.”</p>
-                    <p tid="126">The Blessed One said, “Similarly, Mahauṣadhi, the element of consciousness, once it has cast off
+                    <p tid="126">“Similarly, Mahauṣadhi,” said the Blessed One, “the element of consciousness, once it has cast off
                         the corpse, has no opportunity to occupy that same corpse again.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-100"/>
-                    <p tid="127">Mahauṣadhi asked again, “How does subtle and intangible consciousness produce the great bulky
+                    <p tid="127">Mahauṣadhi asked further, “How does subtle and intangible consciousness produce the great bulky
                         body of an elephant? How does it pierce a body that is as hard as a diamond? How does it hold onto a
                         person who possesses the strength of nine thousand elephants, or the king of elephants?” </p>
                     <p tid="128">The Blessed One replied, “Mahauṣadhi, let us compare consciousness to the formless and invisible
                         wind element. The wind element stays on mountain tops, but when it rises from the mountain tops it smashes
                         and splinters mountain peaks similar to, and as big as, Mount Meru. Mahauṣadhi, what do you think is the
                         nature of the wind element? What is the nature of the mountain?”</p>
-                    <p tid="129">Mahauṣadhi replied, “The wind element is considered flimsy and incorporeal.”</p>
+                    <p tid="129">“The wind element is considered flimsy and incorporeal,” answered Mahauṣadhi.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-101"/>
-                    <p tid="130">The Blessed One said, “Yes, that is so, Mahauṣadhi. Just as the wind element is flimsy and
+                    <p tid="130">“Yes, that is so, Mahauṣadhi,” continued the Blessed One. “Just as the wind element is flimsy and
                         incorporeal, so consciousness, even though it is weak and incorporeal, engenders bodies great and small.
                         The consciousness of a fly is just that. So is the consciousness of an elephant. As an analogy, just as
                         even a small lamp flame is able to dispel great darkness inside an enclosure or a house, in the same way
@@ -849,7 +849,7 @@
                             reading. </note> produces large and small forms.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-102"/>
                     <p tid="131">Mahauṣadhi then asked, “Blessed One, why is that? Are those actions<note place="end" index="11" xml:id="UT22084-044-003-225"> Here, N specifies the subject, “action” (<foreign xml:lang="Bo-Ltn">las</foreign>), by supplying <foreign xml:lang="Bo-Ltn">las de’i </foreign>where the other
-                            versions have just “it/that” (<foreign xml:lang="Bo-Ltn">de</foreign>).</note> things that possess
+                            versions have just “it / that” (<foreign xml:lang="Bo-Ltn">de</foreign>).</note> things that possess
                         form? Or are they without form? What is their nature? <ref cRef="F.86.b"/> In what circumstances can
                         actions be seen?”</p>
                     <p tid="132">The Blessed One replied, “Mahauṣadhi, actions come into play when one obtains the pleasures,
@@ -865,7 +865,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-103"/>
                     <p tid="133">“To illustrate this: when a seed is sown in the soil, it will eventually show itself in a
                         tree-top. But that seed is not transferred from the tree-trunk to the tree-top, nor is the seed observable
-                        inside the tree. There is no one who takes the seed in his hands and places it into the tree-top, nor can
+                        inside the tree. There is no one who takes the seed in their hands and places it into the tree-top, nor can
                         the seed be perceived being transferred from the roots. Similarly, although virtue and non-virtue reside
                         in the body, neither is visible in the body.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-104"/>
@@ -874,12 +874,12 @@
                         into two things. Similarly, although action occurs because of the body, and the body occurs because of
                         action, action does not show itself within the body, nor does the body show itself within action.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-105"/>
-                    <p tid="135">“As an analogy, at the point when a flower matures, its fruit becomes visible. Similarly, when a
+                    <p tid="135">“As another analogy, at the point when a flower matures, its fruit becomes visible. Similarly, when a
                         body matures, its actions become visible. In the same way that <ref cRef="F.87.a"/> a flower appears
                         wherever a seed rests, so too, wherever a body happens to be born, that is where its virtuous and
                         non-virtuous actions appear. However, action possesses no form, and its maturation is formless, too.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-106"/>
-                    <p tid="136">“As an analogy, a person’s body casts a shadow that is indistinct and formless, and follows that
+                    <p tid="136">“As another analogy, a person’s body casts a shadow that is indistinct and formless, and follows that
                         person. Although the shadow is not connected to the person’s body, the shadow does not occur when there is
                         no body. In a similar way, virtue and non-virtue stay connected with a body—wherever the body moves, that
                         is where its actions go. It is not because of the body that actions are pursued. Yet without the body,
@@ -904,9 +904,9 @@
                         action. This, Mahauṣadhi, is how you should view actions. Thus, actions follow in the wake of
                         consciousness.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-109"/>
-                    <p tid="139">Mahauṣadhi asked, “Blessed One, how does consciousness cast off the sense faculties? And how does
-                        it come to assume a large body?”</p>
-                    <p tid="140">The Blessed One replied, “Mahauṣadhi, it is as follows. Suppose a hunter went into a dense forest
+                    <p tid="139">“Blessed One, how does consciousness cast off the sense faculties? And how does
+                        it come to assume a large body?” asked Mahauṣadhi.</p>
+                    <p tid="140">“Mahauṣadhi,” replied the Blessed One, “it is as follows. Suppose a hunter went into a dense forest
                         and drew his bow in order to strike with his poisoned arrow a big, fully grown elephant in musth. As soon
                         as the poison reaches the blood, it is transmitted through the limbs and the rest of the body. It cancels
                         out the entire sphere of operation of the sense-faculties and, piercing to the quick, it alters the color
@@ -914,8 +914,8 @@
                         extracted from the body, Mahauṣadhi, how do you think the poison would compare to the body of the elephant
                         in size?”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-110"/>
-                    <p tid="141">Mahauṣadhi replied, “The two are like Mount Meru and a mustard seed.”</p>
-                    <p tid="142">The Blessed One said, “In the same way that the poison is transferred, so, too, the element of
+                    <p tid="141">“The two are like Mount Meru and a mustard seed,” answered Mahauṣadhi.</p>
+                    <p tid="142">The Blessed One continued, “In the same way that the poison is transferred, so, too, the element of
                         consciousness gives up the body, leaves the sense faculties behind, and abandons the elements. Thus,
                         consciousness leaves the sense faculties.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-111"/>
@@ -927,14 +927,14 @@
                         the oceans unfit to drink, <ref cRef="F.88.a"/> and even made Mount Meru quake. Just as this pair spread
                         great poison far and wide, so too did Vāsuki and Takṣaka. Mahauṣadhi, do not think that their
                         consciousness and the consciousness of an insect are any different. Mahauṣadhi, this is how that very
-                        consciousness belongs both to an insect and to them. As an analogy, were the nāga kings Nanda, Upānanda,
-                        and so on, to drink but a tiny drop of poisonous aconite or hālāhala, even they would die. What do you
+                        consciousness belongs both to an insect and to them. As another analogy, were the nāga kings Nanda, Upānanda,
+                        and so on to drink but a tiny drop of poisonous aconite or hālāhala, even they would die. What do you
                         think, Mahauṣadhi—which is greater, the poison that Nanda, Upānanda, and so on have at their disposal, or
                         a drop of aconite or hālāhala?”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-112"/>
-                    <p tid="144">Mahauṣadhi replied, “Blessed One, the poison of Nanda and Upānanda is viewed as greater than the
-                        poison of aconite or hālāhala.”</p>
-                    <p tid="145">The Blessed One said, “Similarly, Mahauṣadhi, even the element of consciousness of large bodies
+                    <p tid="144">“Blessed One, the poison of Nanda and Upānanda is viewed as greater than the
+                        poison of aconite or hālāhala,” answered Mahauṣadhi.</p>
+                    <p tid="145">“Similarly, Mahauṣadhi,” continued the Blessed One, “even the element of consciousness of large bodies
                         that possess the strength of nine thousand elephants should be viewed as small, indistinct, and
                         formless.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-113"/>
@@ -942,15 +942,15 @@
                         action. As an analogy, the small seed of a banyan tree produces the tall and enormous king of trees, with
                         an expanse of thousands of branches and twigs. Mahauṣadhi, how do the size of the seed and the size of the
                         tree compare?”</p>
-                    <p tid="147">Mahauṣadhi replied, “Blessed One, they differ as much as the hollow inside a mustard seed and the
-                        expanse of space.”</p>
+                    <p tid="147">“Blessed One, they differ as much as the hollow inside a mustard seed and the
+                        expanse of space,” answered Mahauṣadhi.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-114"/>
-                    <p tid="148">The Blessed One replied, “Similarly, Mahauṣadhi, the tree does not show itself inside the seed,
+                    <p tid="148">“Similarly, Mahauṣadhi,” the Blessed One continued, “the tree does not show itself inside the seed,
                         but without a seed no tree growth will be observed. Just as a large tree grows from a minute seed, so
                         consciousness produces a large form from minute parts. <ref cRef="F.88.b"/> Even though consciousness is
                         not visible within the body, without consciousness the growth of the body is not visible.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-115"/>
-                    <p tid="149">Mahauṣadhi again asked him, “Blessed One, how does consciousness, with its diamond-like essence,
+                    <p tid="149">Mahauṣadhi further inquired, “Blessed One, how does consciousness, with its diamond-like essence,
                         produce lowly bodies?”</p>
                     <p tid="150">The Blessed One replied, “Mahauṣadhi, suppose some poor person were to find a precious,
                         wish-fulfilling jewel. He would pick up the precious, wish-fulfilling jewel and then conjure up celestial
@@ -962,17 +962,18 @@
                         perishable by nature, so the nature of the element of consciousness is diamond-like in essence, but
                         whatever body it possesses is without essence.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-116"/>
-                    <p tid="151">Mahauṣadhi asked, “Blessed One, how does the feeble element of consciousness split hard and solid
-                        forms into pieces and then undergo transfer from them to die?”</p>
+                    <p tid="151">“Blessed One, how does the feeble element of consciousness split hard and solid
+                        forms into pieces and then undergo transfer from them to die?” asked Mahauṣadhi.</p>
                     <p tid="152">The Blessed One replied, “As an analogy, Mahauṣadhi, a gentle flow of water among rocks pierces
                         the very mountain and springs forth from it. What do you think, Mahauṣadhi? How hard is its interior?”</p>
-                    <p tid="153">Mahauṣadhi replied, “Blessed One, a mountain is naturally solid, firm, and hard as a diamond,
-                        while water is naturally soft and pleasant to touch.”</p>
+                    <p tid="153">“Blessed One, a mountain is naturally solid, firm, and hard as a diamond,
+                        while water is naturally soft and pleasant to touch,” Mahauṣadhi answered.</p>
                     <p tid="154">The Blessed One said, “In a similar way, consciousness that is feeble by nature splits large
                         bodies into pieces and leaves them behind.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-117"/>
-                    <p tid="155">Mahauṣadhi asked, <ref cRef="F.89.a"/> “Blessed One, how do some types of beings undergo transfer
-                        and take rebirth among the gods, while others take rebirth among the denizens of the hell realms?”</p>
+                    <p tid="155">
+                        <ref cRef="F.89.a"/> “Blessed One, how do some types of beings undergo transfer
+                        and take rebirth among the gods, while others take rebirth among the denizens of the hell realms?” asked Mahauṣadhi.</p>
                     <p tid="156">The Blessed One replied, “Listen, Mahauṣadhi, to what I say. After a sentient being has undergone
                         transfer, when its consciousness is taken over by formative predispositions that orientate it toward a
                         meritorious rebirth, it abandons the body. It then gives up human vision and attains the vision of the
@@ -1092,7 +1093,7 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-133"/>
                     <p tid="175">Mahauṣadhi then asked, “Blessed One, how does consciousness take rebirth among the
                         hell-beings?”</p>
-                    <p tid="176">The Blessed One replied, “Mahauṣadhi, listen. I shall tell you how beings that are not bound for
+                    <p tid="176">“Mahauṣadhi, listen,” replied the Blessed One. “I shall tell you how beings that are not bound for
                         a meritorious rebirth are reborn in the hell realms. Mahauṣadhi, suppose that in this case, from among the
                         different kinds of beings, a person in the grip of non-virtuous actions dies and undergoes transfer. The
                         deceased person thinks and remembers, ‘That person is me. A hell-being has died and undergone transfer
@@ -1118,7 +1119,7 @@
                         eat food, do not derive any pleasure from it at all.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-135"/>
                     <p tid="179">Mahauṣadhi then asked, “Blessed One, what food do those beings seek?”</p>
-                    <p tid="180">The Blessed One replied, “Mahauṣadhi, as beings roam about in hell, red-hot cauldrons of copper
+                    <p tid="180">“Mahauṣadhi,” replied the Blessed One, “as beings roam about in hell, red-hot cauldrons of copper
                         and brass appear in the far distance. When they see the cauldrons, the beings call out, ‘Food!’ and they
                         yell, ‘Anyone who wants food, come over here!’ They gather from all directions, with their cupped hands
                         held out, and approach the boiling cauldrons. They approach with their hands held out, and because they
@@ -1157,18 +1158,18 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-139"/>
                     <p tid="185">Bhadrapāla, in awe, joined his hands, bowed, and took refuge in the Blessed One. The young prince
                         Mahauṣadhi in turn uttered the following prayer: “Through listening to this excellent Dharma, while I
-                        circle in<note place="end" index="15" xml:id="UT22084-044-003-229"> We follow the reading in N, H, and S,
+                        circle in<note place="end" index="15" xml:id="UT22084-044-003-229"> We follow the reading in N, H, and S:
                                 <foreign xml:lang="Bo-Ltn">’khor ba na</foreign>.</note> saṃsāra, may I not acquire attributes
                         that bring about descent into the lower destinies. May I not be born among the beings of the realms of
                         hell!”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-140"/>
-                    <p tid="186">Then Bhadrapāla asked the Blessed One, “May I please ask the Blessed One some more
+                    <p tid="186">Then Bhadrapāla beseeched the Blessed One, “May I please ask the Blessed One some more
                         questions?”</p>
-                    <p tid="187">The Blessed One replied, “Bhadrapāla, ask whatever questions you wish.”</p>
+                    <p tid="187">“Bhadrapāla, ask whatever questions you wish,” replied the Blessed One.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-141"/>
-                    <p tid="188">Bhadrapāla asked, “Blessed One, what is an accumulation? What is a heap? What are the aggregates?
+                    <p tid="188">Bhadrapāla then asked, “Blessed One, what is an accumulation? What is a heap? What are the aggregates?
                         What is transference?”</p>
-                    <p tid="189">The Blessed One replied, “Bhadrapāla, the four elements produce the body through their contact;
+                    <p tid="189">“Bhadrapāla,” replied the Blessed One, “the four elements produce the body through their contact;
                         the accumulations include wisdom, view, intellect, ignorance, elements, objects, and consciousness.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-142"/>
                     <p tid="190">“The heaps include the six elements themselves, the six objects of the senses, the three natures
@@ -1212,7 +1213,7 @@
                         reverence. Whoever remembers this Dharma discourse or carries it with them, who reads it, masters it, or
                         disseminates it among other people, does not fear weapons, poison, fire, demons, water, or thieves.</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-147"/>
-                    <p tid="200">“Monks, from now on, you should not expound this discourse to those who lack faith, nor to those
+                    <p tid="200">“Monks, from now on you should not expound this discourse to those who lack faith, nor to those
                         who cause disputes. You should not teach it to naked ascetics, nor to the disciples of naked ascetics. You
                         should not expound it to those who subscribe to other doctrines. Moreover, you should not explain it
                         unless it is requested. The reason for this is that were you to do so and someone were to become confused,
@@ -1221,15 +1222,15 @@
                     <milestone unit="chunk" xml:id="UT22084-044-003-148"/>
                     <p tid="201">“Whoever understands this, from among the monks or laymen, becomes worthy of reverence. You
                         should think, ‘I shall develop respect for him just as I should respect the Tathāgata, because this person
-                        holds a treasure.”</p>
+                        holds a treasure.’ ”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-149"/>
-                    <p tid="202">Then, the Blessed One said to the Venerable Ānanda, “Ānanda, remember this Dharma discourse and
+                    <p tid="202">Then the Blessed One said to the Venerable Ānanda, “Ānanda, remember this Dharma discourse and
                         keep it in mind, retrieve it from memory, explain it, and teach it at length to others.”</p>
                     <milestone unit="chunk" xml:id="UT22084-044-003-150"/>
-                    <p tid="203">Ānanda asked, “Blessed One, what is the name of this Dharma discourse, should we wish to bring it
-                        to mind? How should we remember it?”</p>
+                    <p tid="203">“Blessed One, what is the name of this Dharma discourse, should we wish to bring it
+                        to mind? How should we remember it?” asked Ānanda.</p>
                     <p tid="204">The Blessed One replied, “Ānanda, you should remember this Dharma discourse as ‘The Transfer of
-                        consciousness.’ You should also remember it as ‘The Questions of Bhadrapāla.’ You should apply it and
+                        Consciousness.’ You should also remember it as ‘The Questions of Bhadrapāla.’ You should apply it and
                         circulate it. Enter into the Buddha’s teachings. Like an elephant in a house of reeds, crush the armies of
                         Yama! Whoever applies themselves conscientiously to this Dharma Vinaya abandons the cycle of birth and
                         puts an end to suffering.”</p>
@@ -1241,9 +1242,9 @@
                 <div type="colophon">
                     <milestone unit="chunk" xml:id="UT22084-044-003-152"/>
                     <p tid="206">This concludes the section of “The Questions of the Merchant Bhadrapāla,” the thirty-ninth
-                        section of the Noble Dharma Discourse, <title xml:lang="en">The Great Heap of Jewels</title>, in one
+                        section of <title xml:lang="en">The Noble Dharma Discourse, the Great Heap of Jewels</title>, in one
                         hundred thousand sections.</p>
-                    <p tid="207">This text was translated, edited and finalized by the Indian scholars Jinamitra and
+                    <p tid="207">This text was translated, edited, and finalized by the Indian scholars Jinamitra and
                         Surendrabodhi, together with the chief editor and translator, the monk Yeshé Dé.</p>
                 </div>
             </div>
@@ -1298,7 +1299,7 @@
                             </title>(<title xml:lang="Sa-Ltn">Ārya­bhadra­pāla­śreṣṭhi­paripṛcchā­nāma­mahā­yāna­sūtra</title>).
                         Stok 11.39, Stok Palace (<foreign xml:lang="Bo-Ltn">stog pho brang bris ma</foreign>) Kangyur, vol. 40
                         (dkon brtsegs, cha), folios 133a–167b.</bibl>
-                    <bibl xml:id="UT22084-044-003-162">Chang, Garma C.C. et al., <title xml:lang="en">A Treasury of Mahāyāna
+                    <bibl xml:id="UT22084-044-003-162">Chang, Garma C.C. et al. <title xml:lang="en">A Treasury of Mahāyāna
                             Sūtras: Selections from the Mahāratnakūṭa Sūtra</title>. Delhi: Motilal Banarsidass Publishers, 1991,
                         pp. 223–240.</bibl>
                     <bibl xml:id="UT22084-044-003-163">Lindtner, Charles. “The Problem of Precanonical Buddhism.” In <title xml:lang="en">Buddhist Studies Review</title>, pp 109-140. Chateauponsac: Institut de recherche

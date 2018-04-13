@@ -17,7 +17,7 @@
                 <editor role="editorEng">Andreas Doctor</editor>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2011 - 2016</date>
+                <edition>v 2.1 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 21/03/2018 at 16:23:53 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:01:51 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -109,7 +109,7 @@
                 <div type="section">
                     <milestone unit="chunk" xml:id="UT22084-079-011-3"/>
                     <p tid="5">This translation is based on seven Tibetan-language textual witnesses of a translation from
-                        Sanskrit into Tibetan ostensibly executed by the 11th century translation team of the Indian <foreign type="term" xml:lang="Sa-Ltn">paṇḍita</foreign> Gayādhara and the Tibetan translator Drokmi Śākya
+                        Sanskrit into Tibetan ostensibly executed by the eleventh century translation team of the Indian <foreign type="term" xml:lang="Sa-Ltn">paṇḍita</foreign> Gayādhara and the Tibetan translator Drokmi Śākya
                         Yeshé. The Sanskrit manuscript(s) upon which tradition claims Gayādhara and Drokmi based their translation
                         has since vanished from the purview of Buddhists and Buddhist scholars.<note place="end" index="1" xml:id="UT22084-079-011-334">It should be noted that despite traditional claims there is considerable
                             text internal evidence that this and many other works attributed to the pair of Gayādhara and Drokmi
@@ -127,11 +127,11 @@
                     </p>
                     <milestone unit="chunk" xml:id="UT22084-079-011-4"/>
                     <p tid="6">Judging from its bibliographic location within the relevant Kangyur collections, as well as from
-                        the distinctive themes it advances, this tantra belongs to the Yoginī class of tantras. Post-10th century
+                        the distinctive themes it advances, this tantra belongs to the Yoginī class of tantras. Post-tenth century
                         Tibetan classification schemes<note place="end" index="4" xml:id="UT22084-079-011-337">For more on the
-                            Tibetan classification schemes for Indian tantric literature translated between the 10th through the
-                            12th centuries see Gibson (1997), Snellgrove (1988), and, more recently, Dalton (2005).</note> that
-                        were formalized by the 14th century in the structure of the Tibetan Kangyurs typically catalogue the
+                            Tibetan classification schemes for Indian tantric literature translated between the tenth through the
+                            twelfth centuries see Gibson (1997), Snellgrove (1988), and, more recently, Dalton (2005).</note> that
+                        were formalized by the fourteenth century in the structure of the Tibetan Kangyurs typically catalogue the
                         translated texts of the Yoginītantra class, which Tibetans called “Mother tantras,” alongside what they
                         called “Father tantras”<note place="end" index="5" xml:id="UT22084-079-011-338">New translation schools
                             usually cite the <title xml:lang="Sa-Ltn">Guhya­samāja­tantra</title> as the paradigmatic example of
@@ -758,7 +758,7 @@
                     <milestone unit="chunk" xml:id="UT22084-079-011-60"/>
                     <p tid="66">The Blessed One said:</p>
                     <lg tid="67">
-                        <l>The thirty-seven, the pristine cause,</l>
+                        <l>The <distinct>thirty-seven</distinct>, the pristine cause,</l>
                         <l>Gives rise to non-dual gnosis, the effect.</l>
                         <l>Therefore, the cause, which precedes the effect,</l>
                         <l>Is to become the principal deity.</l>
@@ -786,14 +786,15 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-63"/>
                     <lg tid="70">
-                        <l>“Development” is said to be done</l>
+                        <l>
+                            <distinct>Development</distinct> is said to be done</l>
                         <l>By one who adheres to deity practice.</l>
                         <l>Multiple aspects, external and internal,</l>
-                        <l>Are explained as its stages.</l>
+                        <l>Are explained as its <distinct>stages</distinct>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-64"/>
                     <lg tid="71">
-                        <l>The particular supportive maṇḍala,</l>
+                        <l>The particular <distinct>supportive maṇḍala</distinct>,</l>
                         <l>Is said to be of three types—</l>
                         <l>Without courtyard, without canopy, and with canopy—</l>
                         <l>According to inclination.</l>
@@ -801,7 +802,7 @@
                     <milestone unit="chunk" xml:id="UT22084-079-011-65"/>
                     <lg tid="72">
                         <l>Due to the divisions of the four chakras,</l>
-                        <l>Daily sessions are taught as four.<note place="end" index="22" xml:id="UT22084-079-011-355">CKSY
+                        <l>Daily <distinct>sessions</distinct> are taught as four.<note place="end" index="22" xml:id="UT22084-079-011-355">CKSY
                                     <foreign type="quote" xml:lang="Bo-Ltn">/’khor lo bzhi yi dbye ba yis/ /nyin thun bzhi ru
                                     gsungs pa yin/</foreign> (“Due to the divisions of the four chakras/ Daily sessions are taught
                                 as four”). DJU <foreign type="quote" xml:lang="Bo-Ltn">/’khor lo bzhi yi dbye ba yis/ /nyin thun
@@ -810,7 +811,8 @@
                                 day”). We have made this selection out of consideration for the four line stanza structure that
                                 predominates in this text.</note>
                         </l>
-                        <l>Breaks should also be understood to be four.</l>
+                        <l>
+                            <distinct>Breaks</distinct> should also be understood to be four.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-66"/>
                     <lg tid="73">
@@ -828,8 +830,9 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-68"/>
                     <lg tid="75">
-                        <l>“View” refers to equipoise;</l>
-                        <l> Subsequent attainment is explained as conduct.</l>
+                        <l>
+                            <distinct>View</distinct> refers to equipoise;</l>
+                        <l> Subsequent attainment is explained as <distinct>conduct</distinct>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-69"/>
                     <lg tid="76">
@@ -881,7 +884,8 @@
                     <milestone unit="chunk" xml:id="UT22084-079-011-75"/>
                     <p tid="83">The Blessed One said:</p>
                     <lg tid="84">
-                        <l>Ambrosia is taught as three-fold.</l>
+                        <l>
+                            <distinct>Ambrosia</distinct> is taught as three-fold.</l>
                         <l>Firstly, one enjoys the outer ambrosia.</l>
                         <l>Arrange the five hooks</l>
                         <l>In the five ambrosias and the five meats. </l>
@@ -949,7 +953,7 @@
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-83"/>
                     <lg tid="92">
-                        <l>The practice of conduct is two-fold: </l>
+                        <l>The practice of <distinct>conduct</distinct> is two-fold: </l>
                         <l>For superior and beginner persons.</l>
                         <l>The ambrosia of the outer sixth is bestowed </l>
                         <l>In order for them to adhere well to the development stage </l>
@@ -1009,7 +1013,7 @@
                         <l>From the four of right, left, above and below, </l>
                         <l>Emerges space, the fifth.</l>
                         <l>The fifth’s absence of nature</l>
-                        <l>Is taught to be “the sixth.”</l>
+                        <l>Is taught to be <distinct>the sixth</distinct>.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-91"/>
                     <lg tid="102">
@@ -1064,12 +1068,13 @@
                     <lg tid="108">
                         <l>One who engages in the great seal,</l>
                         <l>Adhering to a gnosis seal,</l>
-                        <l>Is a superior person.</l>
+                        <l>Is a <distinct>superior person</distinct>.</l>
                         <l>It is explained that he has seized the sixth.</l>
                     </lg>
                     <milestone unit="chunk" xml:id="UT22084-079-011-98"/>
                     <lg tid="109">
-                        <l>“Desire” is cyclic existence,</l>
+                        <l>
+                            <distinct>Desire</distinct> is cyclic existence;</l>
                         <l>Its purification is taught to be nirvana.</l>
                     </lg>
                 </div>

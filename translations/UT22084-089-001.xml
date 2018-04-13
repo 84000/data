@@ -17,7 +17,7 @@
                 <editor role="editorEng">Andreas Doctor</editor>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.0 <date>2016</date>
+                <edition>v 1.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 22/03/2018 at 07:52:24 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:02:38 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

@@ -18,7 +18,7 @@
                 <author role="translatorEng">Casey Kemp</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.01 <date>2016</date>
+                <edition>v 1.1 <date>2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -49,7 +49,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 20/03/2018 at 15:50:14 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:00:04 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -289,7 +289,7 @@
                         <bibl xml:id="UT22084-062-012-24">Mejor, Mareck. “On the Formulation of <title xml:lang="Sa-Ltn">Pratītya­samutpāda</title>: Some Observations from Vasubhandu’s <title xml:lang="Sa-Ltn">Pratītya­samutpāda­vyākhyā</title>.” In Agata Bareja-Starzyńska and Mareck Mejor (eds.). <title xml:lang="en">Aspects of Buddhism</title>: Proceedings of the International Seminar on Buddhist
                             Studies (June, 1994). Warsaw: Instytut Orientalistyczny, Uniwersytet Warszawski (1997a), pp
                             125-138.</bibl>
-                        <bibl xml:id="UT22084-062-012-25">————. “On Vasubhandu’s <title xml:lang="Sa-Ltn">Pratītya­samutpāda­vyākhyā</title>.” In Agata Bareja-Starzyńska and Mareck Mejor (eds.). <title xml:lang="en">Aspects of Buddhism</title>: Proceedings of the International Seminar on Buddhist
+                        <bibl xml:id="UT22084-062-012-25">______. “On Vasubhandu’s <title xml:lang="Sa-Ltn">Pratītya­samutpāda­vyākhyā</title>.” In Agata Bareja-Starzyńska and Mareck Mejor (eds.). <title xml:lang="en">Aspects of Buddhism</title>: Proceedings of the International Seminar on Buddhist
                             Studies (June, 1994). Warsaw: Instytut Orientalistyczny, Uniwersytet Warszawski (1997b), pp
                             139-148.</bibl>
                         <bibl xml:id="UT22084-062-012-26">Miller, Robert. <title xml:lang="en">The Chapter on Joining the

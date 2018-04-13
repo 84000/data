@@ -18,7 +18,7 @@
                 <author role="translatorEng">Peter Alan Roberts</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.02 <date>2018</date>
+                <edition>v 1.1 <date>2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 17/03/2018 at 15:36:35 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:57:58 by admin</note>
             </notesStmt>
             <!--<notesStmt>
                 <note type="lastUpdated">Last updated at 06/01/2018 at 14:00:24 by celso</note>
@@ -24693,8 +24693,8 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-055-001-4837">
                             <term>Vindhya</term>
-                            <term xml:lang="Bo-Ltn">bigs byed </term>
-                            <term xml:lang="bo">བིགས་བྱེད།</term>
+                            <term xml:lang="Bo-Ltn">’bigs byed </term>
+                            <term xml:lang="bo">འབིགས་བྱེད།</term>
                             <term xml:lang="Sa-Ltn">Vindhya</term>
                             <term type="definition">A mountain range, actually a series of mountain ranges, which extends across
                                 central India.</term>
@@ -24703,8 +24703,8 @@
                     <item>
                         <gloss type="place" xml:id="UT22084-055-001-4838">
                             <term>Yāma</term>
-                            <term xml:lang="Bo-Ltn">thab bral </term>
-                            <term xml:lang="bo">ཐབ་བྲལ།</term>
+                            <term xml:lang="Bo-Ltn">’thab bral </term>
+                            <term xml:lang="bo">འཐབ་བྲལ།</term>
                             <term xml:lang="Sa-Ltn">Yāma</term>
                             <term type="definition">Third (counting from the lowest) of the six paradises in the desire
                                 realm.</term>
@@ -27670,8 +27670,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-055-001-5145">
                             <term>Virūḍhaka</term>
-                            <term xml:lang="Bo-Ltn">phags skyes po </term>
-                            <term xml:lang="bo">ཕགས་སྐྱེས་པོ།</term>
+                            <term xml:lang="Bo-Ltn">’phags skyes po </term>
+                            <term xml:lang="bo">འཕགས་སྐྱེས་པོ།</term>
                             <term xml:lang="Sa-Ltn">Virūḍhaka</term>
                             <term xml:lang="Sa-Ltn">Viruḍhaka</term>
                             <term type="definition">One of the four mahārājas. He is the guardian of the southern direction and
@@ -28613,6 +28613,15 @@
                             <term xml:lang="Sa-Ltn">lakṣaṇa</term>
                             <term type="definition">The thirty-two primary physical characteristics of a “great being,” a
                                 mahāpuruṣa, which every buddha possesses.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-055-001-5353">
+                            <term>perfect in wisdom and conduct</term>
+                            <term xml:lang="Bo-Ltn">rig pa dang zhabs su ldan pa </term>
+                            <term xml:lang="bo">རིག་པ་དང་ཞབས་སུ་ལྡན་པ།</term>
+                            <term xml:lang="Sa-Ltn">vidyācaraṇasaṃpanna</term>
+                            <term type="definition">A common description of buddhas. According to some explanations, “wisdom” refers to awakening, and “conduct” to the three trainings (<foreign xml:lang="Bo-Ltn">bslab pa gsum</foreign>) by means of which a buddha attains that awakening; according to others, “wisdom” refers to right view, and “conduct” to the other seven elements of the eightfold path.</term>
                         </gloss>
                     </item>
                     <item>

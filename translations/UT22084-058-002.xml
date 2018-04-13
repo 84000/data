@@ -18,7 +18,7 @@
                 <author role="translatorEng">Reverend Dr. Chodrung Kunga Chodron</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2011 - 2016</date>
+                <edition>v 2.1 <date>2011 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 18/03/2018 at 11:32:13 by andre</note>
+                <note type="lastUpdated">Last updated at 23/03/2018 at 16:25:36 by konchog</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -142,7 +142,7 @@
                         </lg>
                     </q>
                     <milestone unit="chunk" xml:id="UT22084-058-002-9"/>
-                    <p tid="10">The same four aphorisms are listed and described in the 17th chapter of Asaṅga’s <title xml:lang="Sa-Ltn">Bodhi­sattva­bhūmi</title>.<note place="end" index="5" xml:id="UT22084-058-002-57">Sanskrit in Dutt 1978 and Wogihara 1978. For a recent English translation, see Engle 2016, pp
+                    <p tid="10">The same four aphorisms are listed and described in chapter 17 of Asaṅga’s <title xml:lang="Sa-Ltn">Bodhi­sattva­bhūmi</title>.<note place="end" index="5" xml:id="UT22084-058-002-57">Sanskrit in Dutt 1978 and Wogihara 1978. For a recent English translation, see Engle 2016, pp
                             454-463.</note> The only minor difference in these formulations of them, compared to the four
                         aphorisms as set out in the present sūtra, is that here the second aphorism does not speak of “all
                         contaminated phenomena,” but simply “all compounded phenomena.”<note place="end" index="6" xml:id="UT22084-058-002-58">Note that the Pāli Dhammapada includes the first three concepts in verses

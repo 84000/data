@@ -20,7 +20,7 @@
                 <author role="translatorEng">Tsewang Gyaltsen</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 2.0 <date>2012 - 2016</date>
+                <edition>v 2.1 <date>2012 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -48,7 +48,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 16/03/2018 at 12:59:55 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:55:12 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -93,15 +93,15 @@
                     <p tid="6">
                         <title xml:lang="en">The Display of the Pure Land of Sukhāvatī</title> is the shortest of three sūtras
                         that expound the Land of Delight, the pure realm of Amitābha, called Sukhāvatī. The Kangyur includes
-                        Tibetan translations of two of these texts: this one, often called the “shorter” <title xml:lang="Sa-Ltn">Sukhāvatī</title>, and the “longer” sūtra, with the formal title <title xml:lang="en">The Array of Amitābha</title> (Toh 49 in the Heap of Jewels section).<note place="end" index="1" xml:id="UT22084-051-003-169">Toh 49, (<foreign xml:lang="Bo-Ltn">’od dpag med kyi bkod pa’i mdo</foreign>, <foreign xml:lang="Sa-Ltn">Amitābha­vyūha­sūtra</foreign>) also known in Tibetan as <title xml:lang="Bo-Ltn">bde ba can gyi zhing  bkod pa’i bstan pa</title> (<title xml:lang="en">The Teaching on the Display of the Pure Land  of Sukhāvatī</title>) or, informally, the “longer” <title xml:lang="Sa-Ltn">Sukhāvatī</title>.</note> The third, <title xml:lang="en">The Amitāyus Meditation Sūtra</title>,<note place="end" xml:id="UT22084-051-003-145" index="2">The latter sūtra’s
+                        Tibetan translations of two of these texts: this one, often called the “shorter” <title xml:lang="Sa-Ltn">Sukhāvatī</title>, and the “longer” sūtra, with the formal title <title xml:lang="en">The Array of Amitābha</title> (Toh 49 in the Heap of Jewels section).<note place="end" index="1" xml:id="UT22084-051-003-169">Toh 49 (<foreign xml:lang="Bo-Ltn">’od dpag med kyi bkod pa’i mdo</foreign>, <foreign xml:lang="Sa-Ltn">Amitābha­vyūha­sūtra</foreign>), also known in Tibetan as <title xml:lang="Bo-Ltn">bde ba can gyi zhing  bkod pa’i bstan pa</title> (<title xml:lang="en">The Teaching on the Display of the Pure Land  of Sukhāvatī</title>) or, informally, the “longer” <title xml:lang="Sa-Ltn">Sukhāvatī</title>.</note> The third, <title xml:lang="en">The Amitāyus Meditation Sūtra</title>,<note place="end" xml:id="UT22084-051-003-145" index="2">The latter sūtra’s
                             Sanskrit title <title xml:lang="Sa-Ltn">Amitāyur­dhyāna­sūtra</title> is now believed to have been
                             fabricated at a later date. Most scholars even consider the <title xml:lang="Zh-Ltn">Guan wu liang
                                 shou jing</title> to be a Chinese or Central Asian compilation. See Fujita (1990), especially p.
-                            155 and n. 48 on the question of the title. On p. 155 Fujita says: “It cannot be determined
+                            155 and n. 48, on the question of the title. On p. 155 Fujita says: “It cannot be determined
                             categorically what the Sanskrit title of the <title xml:lang="en">Kuan Wu-liang-shou ching</title>
                             might have been.”</note> is only extant in Chinese. </p>
                     <p tid="7">The shorter sūtra, according to the Sanskrit scholar Luis Gomez, first appeared in its written form
-                        during the first century C.E., possibly in what was then Northwest India and is now Pakistan.<note place="end" xml:id="UT22084-051-003-146" index="3">Gomez (1996), xii.</note>
+                        during the first century CE, possibly in what was then Northwest India and is now Pakistan.<note place="end" xml:id="UT22084-051-003-146" index="3">Gomez (1996), xii.</note>
                     </p>
                 </div>
                 <div type="section">
@@ -110,14 +110,14 @@
                     <p tid="8">A Sanskrit version of the smaller <title xml:lang="en">Display of the Pure Land of
                             Sukhāvatī</title> is extant today, as well as Tibetan and Chinese translations. All the translations
                         show some variation from the Sanskrit source in content and style, which can be attributed in part to
-                        cultural and geographic conditions in Tibet and China.<note place="end" xml:id="UT22084-051-003-147" index="4">Nakamura (1987), 204.</note>. The translations have become more
+                        cultural and geographic conditions in Tibet and China.<note place="end" xml:id="UT22084-051-003-147" index="4">Nakamura (1987), p. 204.</note>. The translations have become more
                         influential than the original itself, for which we presently lack any contextual information.</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-5"/>
-                    <p tid="9">There are several Chinese translations of this sūtra, dating from between 240 and 400 C.E., but
+                    <p tid="9">There are several Chinese translations of this sūtra, dating from between 240 and 400 CE, but
                         only one Tibetan version, translated in the eighth or ninth century. The Chinese versions of the sūtra
                         spread through China, Korea, Japan, and Vietnam and played an important role in the formation of the Pure
                         Land schools in these countries. These versions appear to embellish the description of the wonders of the
-                        realm of Sukhāvatī,<note place="end" xml:id="UT22084-051-003-148" index="5">Nakamura (1987), 206.</note>
+                        realm of Sukhāvatī,<note place="end" xml:id="UT22084-051-003-148" index="5">Nakamura (1987), p. 206.</note>
                         whereas the Tibetan version is more subdued and shows its main variations from the Sanskrit original in
                         the names and the number of buddhas presiding over the different buddha realms. The various editions in
                         the Tibetan canon, i.e., the Degé, Narthang, Peking, and Lhasa editions, show no major differences that
@@ -145,7 +145,7 @@
                         Buddha Amitābha.<note place="end" xml:id="UT22084-051-003-149" index="6">But see also Roberts and Bower
                             (forthcoming), Introduction, on the conflation of these two buddhas.</note>
                     </p>
-                    <p tid="13">The term <foreign type="term" xml:lang="Sa-Ltn">vyūha</foreign> (Tib. <foreign type="term" xml:lang="Bo-Ltn">bkod pa</foreign>) means display, indicating that the sūtra is to a large extent a
+                    <p tid="13">The term <foreign type="term" xml:lang="Sa-Ltn">vyūha</foreign> (Tib. <foreign type="term" xml:lang="Bo-Ltn">bkod pa</foreign>) means “display,” indicating that the sūtra is to a large extent a
                         description of this buddha realm and its characteristics. It is a land with lakes and forests full of
                         jewels, with magical birds, and with little bells producing lovely sounds. Its ideal environment enhances
                         the spiritual practice of Sukhāvatī’s inhabitants.</p>
@@ -172,7 +172,7 @@
                     <head type="section">The Significance of Buddha Realms</head>
                     <milestone unit="chunk" xml:id="UT22084-051-003-11"/>
                     <p tid="17">The notion of innumerable buddha realms coexisting with our reality became popular with the
-                        emergence of Mahāyāna Buddhism around the first century C.E. They have been interchangeably translated as
+                        emergence of Mahāyāna Buddhism around the first century CE. They have been interchangeably translated as
                         buddhafields, buddha realms, or pure lands.</p>
                     <p tid="18">In <title xml:lang="en">The Display of the Pure Land of Sukhāvatī</title>, the Land of Delight is
                         described as a realm beyond space and time. The two larger sūtras elaborate on the history of its
@@ -180,7 +180,7 @@
                         Amitābha, who out of great compassion created a safe environment for fortunate beings to progress toward
                         spiritual maturity. The smaller sūtra, however, refers only to the existence of such a realm and its
                         characteristics.</p>
-                    <p tid="19">In the sūtra, Śākyamuni Buddha explains the manner in which beings take birth in this realm:
+                    <p tid="19">In the sūtra, Buddha Śākyamuni explains the manner in which beings take birth in this realm:
                         fortunate sons and daughters are told to accumulate a significant amount of merit and direct their faith
                         single-mindedly toward Buddha Amitābha.</p>
                     <p tid="20">Śākyamuni’s discourse mentions an alternative title for this sūtra. He explains that there are
@@ -191,7 +191,7 @@
                     <head type="section">References to the Sūtra in the Tibetan Canon</head>
                     <milestone unit="chunk" xml:id="UT22084-051-003-12"/>
                     <p tid="21">The various sūtras of the Pure Land of Sukhāvatī have inspired Tibetan masters to write prayers
-                        and practice rituals that allow adepts to enter Amitābha’s realm. There are numerous Sukhāvatī related
+                        and practice rituals that allow adepts to enter Amitābha’s realm. There are numerous Sukhāvatī-related
                         compositions available in the Tengyur and in different collected works (<title xml:lang="Bo-Ltn">gsung
                             ’bum</title>).</p>
                     <p tid="22">The “Collection of Prayers for Sukhāvatī” (<title xml:lang="Bo-Ltn">bde smon phyogs
@@ -204,7 +204,7 @@
                             bde chen zhing gi smon lam</title>), among others.</p>
                     <p tid="24">Furthermore, the well-known <title xml:lang="en">Noble King of Prayers for Good Conduct</title>
                             (<title xml:lang="Bo-Ltn">’phags pa bzang po spyod pa’i smon lam gyi rgyal po</title>), recited by
-                        adepts of all Tibetan schools, concludes with the aspiration for rebirth in the pure realm of Sukhāvatī.
+                        adherents of all Tibetan schools, concludes with the aspiration for rebirth in the pure realm of Sukhāvatī.
                         Praying to be born in the pure realm of Amitābha has become a major practice in Mahāyāna Buddhism.</p>
                 </div>
                 <div type="section">
@@ -237,7 +237,7 @@
                     <p tid="29">
                         <!--<modularPassage type="thusDid">-->Thus did I hear at one time<!--</modularPassage>-->. The Bhagavān
                         was dwelling in Anāthapiṇḍaḍa’s park in the Jeta Grove in Śrāvastī, along with a large monastic saṅgha of
-                        1,250 bhikṣus,<note place="end" xml:id="UT22084-051-003-150" index="7">The Sanskrit has “...<foreign type="term" xml:lang="Sa-Ltn">abhijñānābhijñātaiḥ</foreign>”, i.e. “... bhikṣus all of them
+                        1,250 bhikṣus,<note place="end" xml:id="UT22084-051-003-150" index="7">The Sanskrit has “...<foreign type="term" xml:lang="Sa-Ltn">abhijñānābhijñātaiḥ</foreign>”, i.e., “... bhikṣus, all of them
                             proficient in the [five kinds of] superknowledge.” This is omitted in the Tibetan. </note> all of them
                         great elders, śrāvakas, and arhats, such as the Elder Śāriputra, Mahā­maudgalyāyana, Mahākāśyapa,
                             Mahā­kātyayāna,<note place="end" xml:id="UT22084-051-003-151" index="8">In the Sanskrit version the
@@ -249,12 +249,12 @@
                         with many other bodhisattva mahāsattvas. He was also accompanied by Indra, the lord of gods, and Brahmā,
                         the ruler of the Sahā world, along with many myriads<note place="end" xml:id="UT22084-051-003-152" index="9">Literally, the text has: 10 million (<foreign type="term" xml:lang="Bo-Ltn">bye ba</foreign>) x 10 billion (<foreign type="term" xml:lang="Bo-Ltn">khrag
                                 khrig</foreign>) x 100 thousand (<foreign type="term" xml:lang="Bo-Ltn">’bum phrag</foreign>). In
-                            the Sanskrit, it says, according to Max Müller, a hundred thousand <foreign type="term" xml:lang="Sa-Ltn">nayuta</foreign>s.</note> of gods.</p>
+                            the Sanskrit it says, according to Max Müller, a hundred thousand <foreign type="term" xml:lang="Sa-Ltn">nayuta</foreign>s.</note> of gods.</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-15"/>
                     <p tid="30">On that occasion, the Bhagavān said to the venerable Śāriputra, “Śāriputra, if you go from this
                         buddha realm past 100,000 myriad buddha realms toward the western direction, there is a world known as
-                        Sukhāvatī (The Delightful). In that place the Tathāgata Arhat, the perfectly and fully enlightened Buddha
-                        known as Amitāyus (Immeasurable Life), dwells, lives and abides, teaching the Dharma.</p>
+                        Sukhāvatī (The Delightful). In that place the Tathāgata, the arhat, the perfectly and fully enlightened buddha
+                        known as Amitāyus (Immeasurable Life), dwells, lives, and abides, teaching the Dharma.</p>
                     <p tid="31">“Now what do you think, Śāriputra, why is that world called ‘Sukhāvatī’?</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-16"/>
                     <p tid="32">“Śāriputra, in the Sukhāvatī world, sentient beings experience neither physical pain nor mental
@@ -266,8 +266,8 @@
                         ponds adorned with seven kinds of jewels. The ponds are full of water possessing the eight qualities. They
                         are covered by jeweled lotuses, are filled to the top to enable crows to drink, and are lined with golden
                         sand. All around, on the four sides of the ponds are four radiantly elegant staircases, each made of one
-                        of the four precious substances, gold, silver, beryl, and crystal. By the banks of the ponds grow jeweled
-                        trees of the seven radiantly beautiful jewels, gold, silver, beryl, crystal, rosy pearls, emerald, and
+                        of the four precious substances: gold, silver, beryl, and crystal. By the banks of the ponds grow jeweled
+                        trees of the seven radiantly beautiful jewels: gold, silver, beryl, crystal, rosy pearls, emerald, and
                         coral. From all those ponds grow lotuses that bloom as large as chariot wheels. </p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-17"/>
                     <p tid="33">“The golden lotuses have a golden hue, a golden sheen, and manifest as gold. The blue ones have a
@@ -287,7 +287,7 @@
                         Śāriputra, this buddha realm is beautifully adorned by such displays of the excellences of buddha
                         realms.</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-19"/>
-                    <p tid="35">“Furthermore, Śāriputra, in the Sukhāvatī world, there are swans, cranes, and peacocks that
+                    <p tid="35">“Furthermore, Śāriputra, in the Sukhāvatī world there are swans, cranes, and peacocks that
                         assemble three times during the day and three times at night and perform a concert, each singing its own
                         melody. When they sing, the sounds of the powers, strengths, and branches of enlightenment emerge. Upon
                         hearing those sounds, the sentient beings born there are moved to contemplate the Buddha, to contemplate
@@ -334,7 +334,7 @@
                         reach that buddha realm.</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-25"/>
                     <p tid="41">“O Śāriputra, I, the Tathāgata, at present praise [this Sukhāvatī].<note place="end" xml:id="UT22084-051-003-154" index="11">The Skt. has <foreign type="quote" xml:lang="Sa-Ltn">tāṃ
-                                pari­kīrtayāmi</foreign> “I praise this;” the feminine <foreign type="term" xml:lang="Sa-Ltn">tāṃ</foreign> (missing, of course, in the Tibetan) shows that what is being praised is indeed
+                                pari­kīrtayāmi</foreign>, “I praise this”; the feminine <foreign type="term" xml:lang="Sa-Ltn">tāṃ</foreign> (missing, of course, in the Tibetan) shows that what is being praised is indeed
                             Sukhāvatī.</note> So, likewise, Śāriputra, in the east, the Tathāgata Akṣobhya, the Tathāgata
                         Merudhvaja, the Tathāgata Meru,<note place="end" xml:id="UT22084-051-003-155" index="12">This name is not
                             mentioned in the Sanskrit text.</note> the Tathāgata Mahāmeru, the Tathāgata Mahā­meru­prabhāsa,<note place="end" xml:id="UT22084-051-003-156" index="13">In the Sanskrit version this name is rendered as
@@ -348,13 +348,13 @@
                         called “Complete Embrace by all Buddhas,”<note place="end" xml:id="UT22084-051-003-159" index="16">The
                             Sanskrit text has ... <foreign type="quote" xml:lang="Sa-Ltn">sarva­buddha­pari­grahaṃ nāma
                                 dharma­paryāyam</foreign>. This translates as “You should place your trust in this Dharma
-                            discourse called ‘The Grace [lit. the complete embrace] of All Buddhas.’ The word <foreign type="term" xml:lang="Sa-Ltn">nāma</foreign> (“called”) is missing in the Tibetan version, but has been added
+                            discourse called ‘The Grace [lit. the complete embrace] of All Buddhas.’ ” The word <foreign type="term" xml:lang="Sa-Ltn">nāma</foreign> (“called”) is missing in the Tibetan version, but has been added
                             to clarify the meaning of this passage.</note> which praises inconceivable qualities.’</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-26"/>
                     <p tid="42">“Likewise, in the south, the bhagavān buddhas of the south, such as the Tathāgata
                         Candra­sūrya­pradīpa, the Tathāgata Renown,<note place="end" xml:id="UT22084-051-003-160" index="17">There
                             is no equivalent in the Sanskrit version.</note> the Tathāgata Yaśaḥprabha, the Tathāgata
-                        Mahārciskandha, <ref cRef="F.198.b"/> the Tathāgata Merupradīpa, the Tathāgata Anaṃtavīrya and others, who
+                        Mahārciskandha, <ref cRef="F.198.b"/> the Tathāgata Merupradīpa, the Tathāgata Anaṃtavīrya, and others, who
                         are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their
                         speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all
                         Buddhas,” which praises inconceivable qualities.’</p>
@@ -364,7 +364,7 @@
                         Light Rays,<note place="end" xml:id="UT22084-051-003-161" index="18">
                             <foreign xml:lang="Bo-Ltn">’od zer snang ba</foreign>. There is no equivalent in the Sanskrit
                             version.</note> the Tathāgata Ratnaketu,<note place="end" xml:id="UT22084-051-003-162" index="19">The
-                            Sanskrit version reads Mahāratnaketu.</note> the Tathāgata Śuddha­raśmi­prabha and others, who are as
+                            Sanskrit version reads Mahāratnaketu.</note> the Tathāgata Śuddha­raśmi­prabha, and others, who are as
                         numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech
                         and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all
                         Buddhas,” which praises inconceivable qualities.’</p>
@@ -394,8 +394,8 @@
                         place your trust <ref cRef="F.199.b"/> in this Dharma discourse called “Complete Embrace by all Buddhas,”
                         which praises Sukhāvatī’s inconceivable qualities.’</p>
                     <milestone unit="chunk" xml:id="UT22084-051-003-31"/>
-                    <p tid="47">“What do you think about this, Śāriputra, why is this Dharma discourse called “Complete Embrace by
-                        All Buddhas”? Śāriputra, those sons and daughters of good family who have heard, now hear, or will hear
+                    <p tid="47">“What do you think about this, Śāriputra, why is this Dharma discourse called ‘Complete Embrace by
+                        All Buddhas’? Śāriputra, those sons and daughters of good family who have heard, now hear, or will hear
                         this Dharma discourse and the names of those bhagavān buddhas will all be embraced completely by the
                         bhagavān buddhas.<note place="end" xml:id="UT22084-051-003-166" index="23">The Sanskrit and Tibetan differ
                             significantly here and in what immediately follows. We have translated on the basis of the
@@ -439,13 +439,13 @@
                     <head type="section">Tibetan Texts</head>
                     <bibl xml:id="UT22084-051-003-36">
                         <title xml:lang="Bo-Ltn">’phags pa bde ba can gyi bkod pa zhes bya ba theg pa chen po’i mdo</title>. Toh
-                        115, Degé Kangyur, vol. 51 (mdo sde, ja), folios 195b–200b. </bibl>
+                        115, Degé Kangyur vol. 51 (mdo sde, ja), folios 195b–200b. </bibl>
                     <bibl xml:id="UT22084-051-003-37">
                         <title xml:lang="Bo-Ltn">’phags pa bde ba can gyi bkod pa zhes bya ba theg pa chen po’i mdo</title>. bka’
                         ’gyur (dpe bsdur ma) [Comparative Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi
                         bka’ bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China Tibetology Research
                         Center). 108 volumes. Beijing: krung go’i bod rig pa dpe skrun khang (China Tibetology Publishing House),
-                        2006-2009, vol. 51, pp 532-542. </bibl>
+                        2006–2009, vol. 51, pp. 532–542. </bibl>
                     <bibl xml:id="UT22084-051-003-38">Ha’o wun zhon and To’u tshun chi, eds. <title xml:lang="Bo-Ltn">bod rgya
                             shan sbyar gyi shes bya’i rnam grangs kun btus tshig mdzod</title>. Beijing: mi rigs dpe skrun khang
                         (Minorities Publishing House), 1987. </bibl>
@@ -459,7 +459,7 @@
                         khang (Sichuan Minorities Publishing House), 2007.</bibl>
                     <bibl xml:id="UT22084-051-003-41">
                         <title xml:lang="Bo-Ltn">’phags pa bzang po spyod pa’i smon lam gyi rgyal po</title> [<title xml:lang="Bo-Ltn">Noble King of Prayers for Good Conduct</title>], Toh 1095, Degé Kangyur, vol. 101
-                        (gzungs ’dus, waM), folios 262a-266b.</bibl>
+                        (gzungs ’dus, waM), folios 262a–266b.</bibl>
                 </div>
                 <div type="section">
                     <head type="section">Sanskrit Texts</head>
@@ -471,12 +471,12 @@
                     <bibl xml:id="UT22084-051-003-43">Epstein, Ronald, trans. <title xml:lang="en">The Amitābha Sūtra</title>.
                         Hsüan Hua, A General Explanation of the Buddha Speaks of Amitābha Sūtra. San Francisco: Buddhist Text
                         Translation Society, 1974. <ref target="http://online.sfsu.edu/~rone/Buddhism/amitabha.htm">online.sfsu.ed</ref>.</bibl>
+                    <bibl xml:id="UT22084-051-003-45">Fujita, Kōtatsu. “Textual Origins of the <title xml:lang="Zh-Ltn">Kuan
+                        Wu-liang-shou ching</title>,” in Robert E. Buswell, Jr., ed., <title xml:lang="en">Chinese Buddhist
+                            Apocrypha</title>. Honolulu: University of Hawai'i Press, 1990, pp. 149–173.</bibl>
                     <bibl xml:id="UT22084-051-003-44">Gomez, Luis O. <title xml:lang="en">Land of Bliss: The Paradise of the
                             Buddha of Measureless Light; Sanskrit and Chinese Versions of the Sukhāvatīvyūha Sūtras.</title>
-                        Honolulu: University of Hawai’i Press, 1996.</bibl>
-                    <bibl xml:id="UT22084-051-003-45">Fujita, Kōtatsu. “Textual Origins of the <title xml:lang="Zh-Ltn">Kuan
-                            Wu-liang-shou ching</title>,” in Robert E. Buswell, Jr., ed., <title xml:lang="en">Chinese Buddhist
-                            Apocrypha</title>. Honolulu: University of Hawai'i Press, 1990, pp. 149–173.</bibl>
+                        Honolulu: University of Hawai’i Press, 1996.</bibl>                    
                     <bibl xml:id="UT22084-051-003-46">Hapatsch, Hischam A., trans. and ed. <title xml:lang="de">Die Heiligen
                             Schriften des Amitābha-Buddhismus: Das große Sukhāvatī-vyūha-Sūtra, Das kleine Sukhāvatī-vyūha-Sūtra,
                             Das Meditationssūtra</title>. Berlin, 2007. <ref target="http://www.littera.de/buecher/sukha.html">www.littera.de</ref>.</bibl>
@@ -484,7 +484,7 @@
                         1883.</bibl>
                     <bibl xml:id="UT22084-051-003-48">Nakamura, Hajime. <title xml:lang="en">Indian Buddhism: A Survey with
                             Bibliographical Notes</title>. Delhi: Motilal Banarsidass Publications, 1987.</bibl>
-                    <bibl xml:id="UT22084-051-003-49">Roberts, P. and Bower, E. trans. <title xml:lang="en">The Aparimitāyurjñāna
+                    <bibl xml:id="UT22084-051-003-49">Roberts, P. and Bower, E., trans. <title xml:lang="en">The Aparimitāyurjñāna
                             Sūtra</title>. 84000 (forthcoming). </bibl>
                     <bibl xml:id="UT22084-051-003-50">Utsuki, Nishu. <title xml:lang="en">The Smaller Sukhāvatīvyūha Sūtra or The
                             Sūtra on the Buddha Amitāyus: Translated from the Chinese Version of Kumārajīva</title>. Kyoto:
@@ -853,8 +853,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-051-003-87">
                             <term>Kalodayin</term>
-                            <term xml:lang="Bo-Ltn">char byed nag po </term>
-                            <term xml:lang="bo">ཆར་བྱེད་ནག་པོ།</term>
+                            <term xml:lang="Bo-Ltn">’char byed nag po </term>
+                            <term xml:lang="bo">འཆར་བྱེད་ནག་པོ།</term>
                             <term xml:lang="Sa-Ltn">Kalodayin</term>
                             <term type="definition">Śrāvaka arhat.</term>
                         </gloss>
@@ -1383,6 +1383,15 @@
                             <term type="definition">This universe of ours, presided over by Brahmā. The term is variously
                                 interpreted as meaning the world of suffering, of endurance, of fearlessness, or of concomitance
                                 (of karmic cause and effect).</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-051-003-170">
+                            <term>Sukhāvatī</term>
+                            <term xml:lang="Bo-Ltn">bde ba can </term>
+                            <term xml:lang="bo">བདེ་བ་ཅན།</term>
+                            <term xml:lang="Sa-Ltn">Sukhāvatī</term>
+                            <term type="definition">Meaning “the delightful” or “the land of delight,” the name of the buddhafield of Amitābha / Amitāyus, in the western direction from our world.</term>
                         </gloss>
                     </item>
                 </list>

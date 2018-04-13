@@ -18,7 +18,7 @@
                 <author role="translatorEng">James B. Apple</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 1.1 <date>2014 - 2016</date>
+                <edition>v 1.2 <date>2014 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -45,7 +45,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 18/03/2018 at 11:24:47 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 08:58:33 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>

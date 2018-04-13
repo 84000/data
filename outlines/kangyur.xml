@@ -10283,16 +10283,17 @@
                 <outline:title encoding="native" lang="english">The Sūtra of the
                     Moon</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">candrasūtra</outline:title>
+                <outline:title encoding="native" lang="english" type="bibliographicalTitle">[Note: similar to Toh 42 (translated from Pali) but not the same.]</outline:title>
                 <outline:location page="520" side="216r" type="page" vol="72" work="W22084"/>
                 <outline:location page="521" side="217r" type="page" vol="72" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol.72,
                     ff.259v-260r(pp.518-519)</outline:description>
                 <outline:description encoding="extendedWylie" lang="tibetan" type="colophon">zla
                     ba'i mdo rdzogs so</outline:description>
-                <outline:description type="toh">331 /42</outline:description>
+                <outline:description type="toh">331</outline:description>
                 <outline:description type="stog number">63 / 306</outline:description>
                 <outline:description type="location">snar thang 316</outline:description>
-                <outline:description type="sde dge number">42 / 331</outline:description>
+                <outline:description type="sde dge number">331</outline:description>
             </outline:node>
             <outline:node RID="O1JC114941JC12011" type="text" webAccess="abstractOnly">
                 <outline:title>khang brtsegs mdo/</outline:title>
@@ -11234,6 +11235,7 @@
                 <outline:title encoding="native" lang="english">The Sūtra of the
                     Moon</outline:title>
                 <outline:title encoding="native" lang="sanskrit" type="titlePageTitle">candrasūtra</outline:title>
+                <outline:title encoding="native" lang="english" type="bibliographicalTitle">[Note: similar to Toh 331 (probably translated from Sanskrit) but not the same.]</outline:title>
                 <outline:location page="566" side="4" type="page" vol="34" work="W22084"/>
                 <outline:location page="567" type="page" vol="34" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol:34,
@@ -11242,7 +11244,6 @@
                     ba'i mdo rdzogs s+ho</outline:description>
                 <outline:description type="authorship"/>
                 <outline:description type="stog number"/>
-                <outline:description type="location">snar thang </outline:description>
                 <outline:description type="toh">42</outline:description>
                 <outline:description type="contents">A Pāli Sūtra</outline:description>
             </outline:node>
@@ -13374,8 +13375,8 @@
                         <outline:description type="completionDate">2016-05-30</outline:description>
                         <outline:description type="text">UT22084-080-015</outline:description>
                         <outline:description type="summary">Written around the tenth or the eleventh
-                            century C.E., in the late Mantrayāṇa period, &lt;i&gt;The Tantra of
-                            Caṇḍamahāroṣaṇa&lt;/i&gt; represents the flowering of the Yoginī tantra
+                            century C.E., in the late Mantrayāṇa period, The Tantra of
+                            Caṇḍamahāroṣaṇa represents the flowering of the Yoginī tantra
                             genre. The tantra offers instructions on how to attain the wisdom state
                             of Buddha Caṇḍamahāroṣaṇa through the practice of the four joys. The
                             tantra covers a range of practices and philosophical perspectives of
@@ -15102,8 +15103,8 @@
                         <outline:description type="summary">In the Kangyur and Tengyur collections
                             there are more than forty titles centered on the form of Vajrapāṇi known
                             as the “Blue-Clad One,” a measure of this figure’s great popularity in
-                            both India and Tibet. This text, &lt;italic&gt;The Tantra of the
-                            Blue-Clad Blessed Vajrapāṇi&lt;/italic&gt;, is a scripture that belongs
+                            both India and Tibet. This text, The Tantra of the
+                            Blue-Clad Blessed Vajrapāṇi, is a scripture that belongs
                             to the Conduct tantra (Caryātantra) class, the third of the four
                             categories used by the Tibetans to organize their tantric canon. It
                             introduces the practice of Blue-Clad Vajrapāṇi, while also providing the
@@ -15934,6 +15935,14 @@
                     <outline:description type="sde dge number">523</outline:description>
                     <outline:description type="toh">527 / 114</outline:description>
                     <outline:description type="location">snar thang</outline:description>
+                    <outline:node RID="" type="translation">
+                        <outline:title encoding="extendedWylie" lang="tibetan">chos thams cad kyi yon
+                            tan bkod pa'i rgyal po/</outline:title>
+                        <outline:title encoding="native" lang="english" type="bibliographicalTitle">The
+                            Sūtra to Vyūharāja on the Qualities of All Dharmas</outline:title>
+                        <outline:title encoding="native" lang="sanskrit" type="bibliographicalTitle">sarvadharmaguṇavyūharāja</outline:title>
+                        <outline:description type="status">inProcess</outline:description>
+                        </outline:node>
                 </outline:node>
                 <outline:node RID="O1JC114941JC12251" type="text" webAccess="abstractOnly">
                     <outline:title>sgron ma mchog gi gzungs/</outline:title>
@@ -16655,12 +16664,12 @@
                         <outline:description type="icon">mogol/11_icon.jpg</outline:description>
                         <outline:description type="completionDate">2016-05-30</outline:description>
                         <outline:description type="text">UT22084-090-002</outline:description>
-                        <outline:description type="summary">&lt;i&gt;Destroyer of the Great
-                            Trichiliocosm&lt;/i&gt; is one of five texts that together constitute
+                        <outline:description type="summary">Destroyer of the Great
+                            Trichiliocosm is one of five texts that together constitute
                             the Pañcarakṣā scriptural collection, popular for centuries as an
                             important facet of Mahāyāna-Vajrayāna Buddhism’s traditional approach to
-                            personal and communal misfortunes of all kinds. &lt;i&gt;Destroyer of
-                            the Great Trichiliocosm&lt;/i&gt; primarily addresses illnesses caused
+                            personal and communal misfortunes of all kinds. Destroyer of
+                            the Great Trichiliocosm primarily addresses illnesses caused
                             by spirit entities thought to devour the vitality of humans and animals.
                             The text describes them as belonging to four different subspecies,
                             presided over by the four great kings, guardians of the world, who hold
@@ -16818,8 +16827,8 @@
                         <outline:description type="icon">mogol/11_icon.jpg</outline:description>
                         <outline:description type="completionDate">2016-05-30</outline:description>
                         <outline:description type="text">UT22084-090-007</outline:description>
-                        <outline:description type="summary">&lt;i&gt;Upholding the Great Secret
-                            Mantra&lt;/i&gt; is one of five texts that together constitute the
+                        <outline:description type="summary">Upholding the Great Secret
+                            Mantra is one of five texts that together constitute the
                             Pañcarakṣā scriptural collection, popular for centuries as an important
                             facet of Mahāyāna-Vajrayāna Buddhism’s traditional approach to personal
                             and communal misfortunes of all kinds. It addresses a range of human

@@ -18,7 +18,7 @@
                 <author role="translatorEng">Andreas Doctor</author>
             </titleStmt>
             <editionStmt>
-                <edition>v 3.0 <date>2013 - 2016</date>
+                <edition>v 3.1 <date>2013 - 2016</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -50,7 +50,7 @@
                 </bibl>
             </sourceDesc>
             <notesStmt>
-                <note type="lastUpdated">Last updated at 22/03/2018 at 07:09:06 by andre</note>
+                <note type="lastUpdated">Last updated at 13/04/2018 at 09:02:27 by admin</note>
             </notesStmt>
         </fileDesc>
     </teiHeader>
@@ -2126,8 +2126,8 @@
                     <item>
                         <gloss type="person" xml:id="UT22084-087-003-260">
                             <term>Phakpa Sherab </term>
-                            <term xml:lang="Bo-Ltn">phags pa shes rab </term>
-                            <term xml:lang="bo">ཕགས་པ་ཤེས་རབ།</term>
+                            <term xml:lang="Bo-Ltn">’phags pa shes rab </term>
+                            <term xml:lang="bo">འཕགས་པ་ཤེས་རབ།</term>
                         </gloss>
                     </item>
                     <item>
