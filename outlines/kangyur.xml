@@ -86,6 +86,10 @@
         &lt;p&gt;Outlying, local Kangyurs have come to light in recent decades (e.g. the Phuktrak,
         Newark Batang, and Tapho manuscripts) whose contents may reflect earlier stages of the
         independent circulation of collections of translated texts.&lt;/p&gt; </outline:description>
+    
+    
+    
+    
     <outline:node RID="O1JC114941JC11495" type="section" webAccess="abstractOnly">
         <outline:name encoding="native" lang="english">Discipline</outline:name>
         <outline:name encoding="extendedWylie" lang="tibetan">'dul ba/</outline:name>
@@ -893,6 +897,14 @@
                 <outline:description type="stog number">16</outline:description>
                 <outline:description type="location">snar thang 14</outline:description>
                 <outline:description type="toh">13</outline:description>
+                <outline:node RID="" type="translation">
+                    <outline:title encoding="extendedWylie" lang="tibetan">'phags pa shes rab kyi pha rol tu phyin pa sdud
+                        pa tshigs su bcad pa/</outline:title>
+                    <outline:title encoding="native" lang="english" type="bibliographicalTitle">The Verses that Summarize the
+                        Perfection of Wisdom</outline:title>
+                    <outline:title encoding="native" lang="sanskrit">ratnaguṇasaṃcayagāthā </outline:title>
+                    <outline:description type="status">inProcess</outline:description>
+                  </outline:node>
             </outline:node>
             <outline:node RID="O1JC114941JC11530" type="text" webAccess="abstractOnly">
                 <outline:title>rab kyi rtsal gyis rnam par gnon pas zhus pa shes rab kyi pha rol
@@ -1430,6 +1442,8 @@
                 Highlands, N.J.: Humanities Press (1981), pp.
                 140-143.&lt;/p&gt;</outline:description>
             <outline:description type="icon">images/lobby_icons/mogol/08_icon.jpg</outline:description>
+            
+            
             <outline:location work="W22084"/>
             <outline:node RID="O1JC114941JC11565" type="text">
                 <outline:title>phal po che'i mdo/ \(phal chen/\)</outline:title>
@@ -1560,7 +1574,7 @@
                     Tezu, A.P., India: Tibetan Nyingma Monastery (1974), ff. 47a-48b. Translation in
                     Chimpa, L. et al. (trans.), &lt;i&gt;Tāranātha's History of Buddhism in
                     India&lt;/i&gt;, Atlantic Highlands, N.J.: Humanities Press (1981), pp.
-                    140-143.&lt;/p&gt;</outline:description>
+                    140-143.&lt;/p&gt;</outline:description>        
                 <outline:location page="4" type="page" vol="35" work="W22084"/>
                 <outline:location page="787" side="367r" type="page" vol="35" work="W22084"/>
                 <outline:description encoding="native" lang="english" type="location">vol:35,
@@ -1572,6 +1586,7 @@
                 <outline:description type="stog number">10</outline:description>
                 <outline:description type="location">snar thang 81</outline:description>
                 <outline:description type="toh">44</outline:description>
+                
                 <outline:node RID="O1JC114941JC14669" type="chapter">
                     <outline:title>'jig rten gyi dbang po thams cad kyi rgyan gyi tshul
                         le'u/</outline:title>
@@ -28872,6 +28887,8 @@
             order.&lt;/p&gt; &lt;p&gt;The fifth and final chapter explains the needs that are met by
             the publication of the canonical texts, and concludes with a long dedication in
             verse.&lt;/p&gt;</outline:description>
+        
+        
         <outline:location work="W22084"/>
         <outline:node RID="O1JC114941JC12882" type="text">
             <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">sde
@@ -28899,6 +28916,8 @@
                 <outline:description encoding="native" lang="english" type="contents">1st (yal 'dab
                     dang po)</outline:description>
             </outline:node>
+            
+            
             <outline:node RID="O1JC114941JC12884" type="chapter" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">gnyis pa/ bstan pa de dzam+bu'i gling du ji ltar bskyangs pa'i tshul rags pa
                     tsam zhig bshad pa'i yal 'dab/</outline:title>
@@ -28911,6 +28930,8 @@
                 <outline:description encoding="native" lang="english" type="contents">2nd (yal 'dab
                     gnyis pa)</outline:description>
             </outline:node>
+            
+            
             <outline:node RID="O1JC114941JC12885" type="chapter" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">gsum pa/ rgyal ba'i gsung rab gangs ri'i khrod du deng sang ji tsam snang ba
                     par du bsgrubs pa'i byung ba dngos legs par bshad pa'i yal 'dab/</outline:title>
@@ -28923,6 +28944,8 @@
                 <outline:description encoding="native" lang="english" type="contents">3rd (yal 'dab
                     gsum pa)</outline:description>
             </outline:node>
+            
+            
             <outline:node RID="O1JC114941JC12886" type="chapter" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">bzhi pa/ bzhugs byang dkar chag dngos legs par bshad pa'i yal
                     'dab/</outline:title>
@@ -28935,6 +28958,8 @@
                 <outline:description encoding="native" lang="english" type="contents">4th (yal 'dab
                     bzhi pa)</outline:description>
             </outline:node>
+            
+            
             <outline:node RID="O1JC114941JC12887" type="chapter" webAccess="abstractOnly">
                 <outline:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">lnga pa/ de ltar bzhengs pa'i dgos ched phan yon bsngo smon dang bcas pa legs
                     par bshad pa'i yal 'dab/</outline:title>

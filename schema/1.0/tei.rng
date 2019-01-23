@@ -171,6 +171,15 @@
                         </rng:element>
                         <!-- availability -->
                         <rng:element name="availability">
+                            <!-- Tantric Warning -->
+                            <rng:zeroOrMore>
+                                <rng:element name="p">
+                                    <rng:ref name="paragraph"/>
+                                    <rng:attribute name="type">
+                                        <rng:value>tantricRestriction</rng:value>
+                                    </rng:attribute>
+                                </rng:element>
+                            </rng:zeroOrMore>
                             <!-- licence -->
                             <rng:element name="licence">
                                 <rng:element name="graphic">
@@ -180,6 +189,7 @@
                                     <rng:ref name="paragraph"/>
                                 </rng:element>
                             </rng:element>
+                            
                         </rng:element>
                         <!-- idno -->
                         <rng:element name="idno">
@@ -1100,17 +1110,17 @@
                 </rng:zeroOrMore>
                 <rng:zeroOrMore>
                     <rng:element name="emph">
+                        <rng:optional>
+                            <rng:attribute name="rend">
+                                <rng:value>bold</rng:value>
+                            </rng:attribute>
+                        </rng:optional>
                         <rng:data type="string"/>
                     </rng:element>
                 </rng:zeroOrMore>
                 <rng:zeroOrMore>
                     <rng:element name="distinct">
                         <rng:ref name="distinct"/>
-                    </rng:element>
-                </rng:zeroOrMore>
-                <rng:zeroOrMore>
-                    <rng:element name="q">
-                        <rng:ref name="q"/>
                     </rng:element>
                 </rng:zeroOrMore>
                 <rng:zeroOrMore>
