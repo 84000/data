@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lucene-tests>
+    <case xml:lang="Sa-Ltn">
+        <search>maitreyapraṇid</search>
+        <hit>maitreyapraṇid</hit>
+        <hit>Maitreyapraṇid</hit>
+        <hit>MaitreyaPraṇid</hit>
+        <hit>Maitreyapraṇidhana</hit>
+        <hit>Maitreya­praṇidhana</hit>
+        <hit>Maitreya­praṇidhana­rāja</hit>
+        <hit>maitreyapra[mukhas]ṇidhana</hit>
+        <miss>Maitreyapraṇidhanarāja</miss>
+    </case>
+</lucene-tests>

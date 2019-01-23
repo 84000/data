@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text-statuses xmlns="http://read.84000.co/ns/1.0">
+    <status status-id="1" group="published">Translations completed and published</status>
+    <status status-id="2.a" group="translated">Marked up, in Reading Room, awaiting final proofing before release</status>
+    <status status-id="2.b" group="translated">Awaiting markup and / or publication</status>
+    <status status-id="2.c" group="translated">Copyedited and awaiting post-copyedit checking</status>
+    <status status-id="2.d" group="translated">Being copyedited</status>
+    <status status-id="2.e" group="in-translation">Reviewed but awaiting final revision and /or approval before copyediting</status>
+    <status status-id="2.f" group="in-translation">In review</status>
+    <status status-id="2.g" group="in-translation">Approaching or awaiting review</status>
+    <status status-id="3" group="in-translation">Current translation projects</status>
+</text-statuses>

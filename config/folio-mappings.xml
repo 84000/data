@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<folio-mappings xmlns="http://read.84000.co/ns/1.0">
+    <mapping source="ekangyur" volume-add="126" page-multiplier="2" page-offset="-1">
+        <range volume="31" start="1.b" end="91.a" page-offset="411"/>
+        <range volume="31" start="92.b" end="397.a" page-offset="410"/>
+    <!--<range volume="88" start="41.a" end="42.a" page-offset="33"/>
+        <range volume="88" start="54.b" end="68.a" page-offset="33"/> commented out as a test by John 15/12/2018-->
+        <range volume="90" start="63.a" end="63.a" page-offset="-2"/>
+        <range volume="90" start="63.b" end="87.b" page-offset="-3"/>
+        <range volume="90" start="150.b" end="156.a" page-offset="-3"/>
+    </mapping>
+</folio-mappings>
