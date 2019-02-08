@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<redirects xmlns="http://read.84000.co/ns/1.0">
+    <!-- Add records to redirect resources in the reading room -->
+    <!-- Make sure resource/@ids are lower case -->
+    <!-- Index pages -> lobby -->
+    <redirect target="section/lobby.html">
+        <resource xml:id="index.html"/>
+        <resource xml:id="index.htm"/>
+        <resource xml:id="section"/>
+    </redirect>
+    <!-- Pages -> subdomains -->
+    <redirect target="http://resources.84000.local">
+        <resource xml:id="resources"/>
+        <resource xml:id="resources.html"/>
+    </redirect>
+    <redirect target="http://operations.84000.local">
+        <resource xml:id="operations.html"/>
+    </redirect>
+    <redirect target="http://utilities.84000.local">
+        <resource xml:id="utilities.html"/>
+    </redirect>
+    <redirect target="http://translation-memory.84000.local">
+        <resource xml:id="translation-memory.html"/>
+    </redirect>
+    <redirect target="http://translator-tools.84000.local">
+        <resource xml:id="translator-tools.html"/>
+    </redirect>
+    <!-- Other anomalies -->
+    <redirect target="toh1-1.html">
+        <resource xml:id="toh1.html"/>
+    </redirect>
+    <!-- Deprecated duplicate UTs -> tohs -->
+    <!-- UT22084-094-016 -> 739 -->
+    <redirect target="toh739.html">
+        <resource xml:id="ut22084-094-016.html"/>
+    </redirect>
+    <redirect target="toh739.pdf">
+        <resource xml:id="ut22084-094-016.pdf"/>
+    </redirect>
+    <redirect target="toh739.epub">
+        <resource xml:id="ut22084-094-016.epub"/>
+    </redirect>
+    <redirect target="toh739.azw3">
+        <resource xml:id="ut22084-094-016.azw3"/>
+    </redirect>
+    <!-- UT22084-088-014 -> 520 -->
+    <redirect target="toh520.html">
+        <resource xml:id="ut22084-088-014.html"/>
+    </redirect>
+    <redirect target="toh520.pdf">
+        <resource xml:id="ut22084-088-014.pdf"/>
+    </redirect>
+    <redirect target="toh520.epub">
+        <resource xml:id="ut22084-088-014.epub"/>
+    </redirect>
+    <redirect target="toh520.azw3">
+        <resource xml:id="ut22084-088-014.azw3"/>
+    </redirect>
+    <!-- UT22084-101-035 -> 980 -->
+    <redirect target="toh980.html">
+        <resource xml:id="ut22084-101-035.html"/>
+    </redirect>
+    <redirect target="toh980.pdf">
+        <resource xml:id="ut22084-101-035.pdf"/>
+    </redirect>
+    <redirect target="toh980.epub">
+        <resource xml:id="ut22084-101-035.epub"/>
+    </redirect>
+    <redirect target="toh980.azw3">
+        <resource xml:id="ut22084-101-035.azw3"/>
+    </redirect>
+    <!-- Old UT pdfs -> toh pdfs -->
+    <redirect target="toh384.pdf">
+        <resource xml:id="ut22084-079-011.pdf"/>
+    </redirect>
+    <redirect target="toh212.pdf">
+        <resource xml:id="ut22084-062-012.pdf"/>
+    </redirect>
+    <redirect target="toh95.pdf">
+        <resource xml:id="ut22084-046-001.pdf"/>
+    </redirect>
+    <redirect target="toh1-1.pdf">
+        <resource xml:id="ut22084-001-001.pdf"/>
+    </redirect>
+    <redirect target="toh114.pdf">
+        <resource xml:id="ut22084-051-002.pdf"/>
+    </redirect>
+    <redirect target="toh86.pdf">
+        <resource xml:id="ut22084-044-006.pdf"/>
+    </redirect>
+    <redirect target="toh179.pdf">
+        <resource xml:id="ut22084-060-008.pdf"/>
+    </redirect>
+    <redirect target="toh437.pdf">
+        <resource xml:id="ut22084-081-006.pdf"/>
+    </redirect>
+    <redirect target="toh122.pdf">
+        <resource xml:id="ut22084-054-003.pdf"/>
+    </redirect>
+    <redirect target="toh176.pdf">
+        <resource xml:id="ut22084-060-005.pdf"/>
+    </redirect>
+    <redirect target="toh267.pdf">
+        <resource xml:id="ut22084-068-001.pdf"/>
+    </redirect>
+    <redirect target="toh130.pdf">
+        <resource xml:id="ut22084-055-004.pdf"/>
+    </redirect>
+    <redirect target="toh544.pdf">
+        <resource xml:id="ut22084-089-001.pdf"/>
+    </redirect>
+    <redirect target="toh282.pdf">
+        <resource xml:id="ut22084-068-016.pdf"/>
+    </redirect>
+    <redirect target="toh127.pdf">
+        <resource xml:id="ut22084-055-001.pdf"/>
+    </redirect>
+    <redirect target="toh150.pdf">
+        <resource xml:id="ut22084-057-009.pdf"/>
+    </redirect>
+    <redirect target="toh337.pdf">
+        <resource xml:id="ut22084-072-037.pdf"/>
+    </redirect>
+    <redirect target="toh425.pdf">
+        <resource xml:id="ut22084-080-009.pdf"/>
+    </redirect>
+    <redirect target="toh52.pdf">
+        <resource xml:id="ut22084-040-003.pdf"/>
+    </redirect>
+    <redirect target="toh186.pdf">
+        <resource xml:id="ut22084-061-006.pdf"/>
+    </redirect>
+    <redirect target="toh431.pdf">
+        <resource xml:id="ut22084-080-015.pdf"/>
+    </redirect>
+    <redirect target="toh563.pdf">
+        <resource xml:id="ut22084-090-007.pdf"/>
+    </redirect>
+    <redirect target="toh309.pdf">
+        <resource xml:id="ut22084-072-009.pdf"/>
+    </redirect>
+    <redirect target="toh100.pdf">
+        <resource xml:id="ut22084-047-002.pdf"/>
+    </redirect>
+    <redirect target="toh558.pdf">
+        <resource xml:id="ut22084-090-002.pdf"/>
+    </redirect>
+    <redirect target="toh498.pdf">
+        <resource xml:id="ut22084-087-003.pdf"/>
+    </redirect>
+    <redirect target="toh113.pdf">
+        <resource xml:id="ut22084-051-001.pdf"/>
+    </redirect>
+    <redirect target="toh260.pdf">
+        <resource xml:id="ut22084-066-018.pdf"/>
+    </redirect>
+    <redirect target="toh85.pdf">
+        <resource xml:id="ut22084-044-005.pdf"/>
+    </redirect>
+    <redirect target="toh210.pdf">
+        <resource xml:id="ut22084-062-010.pdf"/>
+    </redirect>
+    <redirect target="toh116.pdf">
+        <resource xml:id="ut22084-051-004.pdf"/>
+    </redirect>
+    <redirect target="toh115.pdf">
+        <resource xml:id="ut22084-051-003.pdf"/>
+    </redirect>
+    <redirect target="toh11.pdf">
+        <resource xml:id="ut22084-031-002.pdf"/>
+    </redirect>
+    <redirect target="toh283.pdf">
+        <resource xml:id="ut22084-068-017.pdf"/>
+    </redirect>
+    <redirect target="toh300.pdf">
+        <resource xml:id="ut22084-071-014.pdf"/>
+    </redirect>
+    <redirect target="toh134.pdf">
+        <resource xml:id="ut22084-056-002.pdf"/>
+    </redirect>
+    <redirect target="toh194.pdf">
+        <resource xml:id="ut22084-061-014.pdf"/>
+    </redirect>
+    <redirect target="toh193.pdf">
+        <resource xml:id="ut22084-061-013.pdf"/>
+    </redirect>
+    <redirect target="toh218.pdf">
+        <resource xml:id="ut22084-062-018.pdf"/>
+    </redirect>
+    <redirect target="toh171.pdf">
+        <resource xml:id="ut22084-059-014.pdf"/>
+    </redirect>
+    <redirect target="toh155.pdf">
+        <resource xml:id="ut22084-058-002.pdf"/>
+    </redirect>
+    <redirect target="toh83.pdf">
+        <resource xml:id="ut22084-044-003.pdf"/>
+    </redirect>
+</redirects>

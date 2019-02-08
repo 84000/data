@@ -23,6 +23,11 @@
             </p>
         </div>
     </item>
+    <item key="source.backlink-label">
+        <span xmlns="http://www.w3.org/1999/xhtml">
+            The English translation of this folio by <span class="title">84000 - Translating the words of the Buddha</span> can be found at:
+        </span>
+    </item>
     <item key="translation.print-version">
         <p xmlns="http://www.w3.org/1999/xhtml">
             This print version was generated at #CurrentDateTime from the online version of the text available on that date. If some time has elapsed since then, this version may have been superseded, as most of 84000’s published translations undergo significant updates from time to time. For the latest online version, with bilingual display, interactive glossary entries and notes, and a variety of further download options, please see <a href="#LinkToPage" class="printable">#LinkToPage</a>.
