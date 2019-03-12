@@ -9,20 +9,20 @@
         <resource xml:id="section"/>
     </redirect>
     <!-- Pages -> subdomains -->
-    <redirect target="http://resources.84000.local">
+    <redirect target="http://resources.84000-translate.org">
         <resource xml:id="resources"/>
         <resource xml:id="resources.html"/>
     </redirect>
-    <redirect target="http://operations.84000.local">
+    <redirect target="http://operations.84000-translate.org">
         <resource xml:id="operations.html"/>
     </redirect>
-    <redirect target="http://utilities.84000.local">
+    <redirect target="http://utilities.84000-translate.org">
         <resource xml:id="utilities.html"/>
     </redirect>
-    <redirect target="http://translation-memory.84000.local">
+    <redirect target="http://translation-memory.84000-translate.org">
         <resource xml:id="translation-memory.html"/>
     </redirect>
-    <redirect target="http://translator-tools.84000.local">
+    <redirect target="http://translator-tools.84000-translate.org">
         <resource xml:id="translator-tools.html"/>
     </redirect>
     <!-- Other anomalies -->
